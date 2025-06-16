@@ -98,9 +98,18 @@ The OSPO Advisory Board drew from a broader range of campus and community stakeh
 
 Including these governance structures in the initial proposal demonstrated institutional buy-in and strategic support from the project's inception. This undoubtedly contributed both to the success of the OSPO proposal and our OSPO's subsequent effectiveness, as the office launched with built-in capacity through these established advisory relationships.
 
+## Additional learning from George Washington University
+
+The GW OSPO created a Stakeholder Group and we consciously refrained from calling the group an advisory board as we did not want to denote any heirarchy or obligations in the relationship.  We are very happy with the way our Stakeholder Group is functioning.  We meet bi-monthly for 1-2 hours (hybrid meetings) and we update the group and also facillitate discussions to ask for help.
+
+We have approximately 40 members which include faculty, staff, and students.  We strive to have a diverse set of members from many schools and departments to help us connect across many academic silos and boundaries.  We are planning to invite specific alumni who are strong open source advocates to diversify our membership even more.
+
+Thus far our Stakeholder Group has been an enormous success.  The members are critical for marketing our new OSPO initiatives and for strengthening our open source community.  All of our successes including our student award program, our lunch & learn series, and our GW OSCON were only possible due to significant contributions from our stakeholders.
+
 # Known Instances
 
-[UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
 # References
 
@@ -108,3 +117,4 @@ Including these governance structures in the initial proposal demonstrated insti
 
 - Allison Kittinger https://orcid.org/0000-0002-3104-5995
 - Ciara Flanagan https://orcid.org/0009-0005-3153-7673
+- David Lippert [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)
