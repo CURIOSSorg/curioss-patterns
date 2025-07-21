@@ -55,6 +55,7 @@ The presence of a program officer or director from a funding agency is an import
 # Known Instances
 * Carnegie Mellon University OSPO, CMU Libraries, Carnegie Mellon University
 * Johns Hopkins University OSPO, Sheridan Libraries, Johns Hopkins University
+* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
 # References
 Johns Hopkins University OSPO’s [FOSSPROF Summative Event 2024](https://ospo.library.jhu.edu/services/free-and-open-source-software-project-fund-fossprof/fossprof-summative-event/)
