@@ -182,6 +182,7 @@ A sample of [TODO Group’s OSPO News](https://email.linuxfoundation.org/osponew
 
 * [OSPO Website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
 * [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
+* [OSPO Mailling List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
 
 # Contributors & Acknowledgement
 
