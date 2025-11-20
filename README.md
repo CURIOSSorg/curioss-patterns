@@ -30,6 +30,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
+* [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
 
 **Community Building**
 * [Co-hosting Student Events](cohosting-student-events.md)
