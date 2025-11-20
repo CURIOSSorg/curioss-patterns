@@ -83,6 +83,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [OSS Tutorials Using Authoring Tools](oss-tutorials-using-authoring-tools.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
+* [Student Outreach Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Summer Internship Program](summer-internship-program.md)
 
