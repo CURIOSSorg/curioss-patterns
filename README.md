@@ -16,6 +16,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
 * [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
+* [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 * [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
