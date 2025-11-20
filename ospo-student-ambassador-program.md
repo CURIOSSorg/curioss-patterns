@@ -70,6 +70,7 @@ Early results have demonstrated increased event attendance, successful launches 
 ## Related Patterns
 * [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
+* [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
 
 # Contributors & Acknowledgements
 
