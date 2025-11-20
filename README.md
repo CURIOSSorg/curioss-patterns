@@ -62,6 +62,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [OSPO Advisory Board](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
 * [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
+* [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
 * [Source Industry Mentors for the I-Corps program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/source-industry-mentors-for-the-icorps-program.md)
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
