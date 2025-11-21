@@ -44,6 +44,25 @@ Activities to consider may include:
 * Leading or contributing to open source technical projects that advance university OSPO goals.
 * Gathering student feedback and communicating emerging needs to OSPO leadership.
 
+
+Positions were advertised in the OSPO monthly newsletter and stakeholders were invited to forward or share positions with students. No other advertising was necessary, as students actively monitor the GW Student Employment portal. The pool of applicants was large and the quality of the candidates was very high.
+
+
+There are many steps involved in the hiring process, including posting the jobs, reviewing applications, conducting interviews, and hiring the ambassadors. It is important to note that the GW OSPO received a lot of help in this process from GW Library staff already familiar with student hiring and management.  
+
+
+We were able to hire technical as well as communication & marketing team members that work very well together as an open source student outreach team. The GW OSPO is happy to share details along with our specific job postings. 
+
+
+After hiring is complete, OSPOs must consider onboarding for their ambassadors. The University of Vermont’s ORCA program provides a great starting point for outlining onboarding materials and ambassador expectations.
+
+# Resources
+
+* [Graduate Technical Projects Student OSPO Ambassador job description](Grad%20tech%20position.pdf)
+* [Graduate Communications and Marketing Student OSPO Ambassador job description](Grad%20Comms%20position.pdf)
+* [Undergraduate Student OSPO Ambassador job description](Undergrad%20Ambassador%20position.pdf)
+
+
 # Resulting Context
 
 Student Ambassador Programs create visible, authentic, student-led initiatives for the OSPO based on peer-to-peer engagement rather than top-down institutional messaging.
@@ -74,4 +93,7 @@ Early results have demonstrated increased event attendance, successful launches 
 # Contributors & Acknowledgements
 
 Mia Diewald, George Washington University, https://orcid.org/0009-0005-8123-1832
+
+Rosemary Pauley, George Washington University, https://orcid.org/0009-0008-9354-4301 
+
 Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
