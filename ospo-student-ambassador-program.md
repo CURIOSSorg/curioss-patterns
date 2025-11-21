@@ -56,6 +56,10 @@ We were able to hire technical as well as communication & marketing team members
 
 After hiring is complete, OSPOs must consider onboarding for their ambassadors. The University of Vermont’s ORCA program provides a great starting point for outlining onboarding materials and ambassador expectations.
 
+# Resouces
+
+* [Graduate Technical Projects Student OSPO Ambassador job description](Grad%20tech%20position.pdf)
+
 
 # Resulting Context
 
