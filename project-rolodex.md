@@ -2,7 +2,7 @@
 
 # Pattern Summary
 
-Create an outreach script and contact sheet for conducting initial outreach with potential stakeholders during the initial stages of establishing and promoting an academic OSPO. 
+Create an outreach script and contact sheet for conducting outreach with potential stakeholders during the initial stages of establishing and promoting an academic OSPO. 
 
 # Problem / Challenge
 
@@ -12,8 +12,8 @@ Without a structured approach to outreach, early conversations risk becoming:
 
 * Overwhelming for a small team trying to reach many different stakeholder groups.
 * Inconsistent in communicating an OSPO’s mission and relevant services.
-* Unfocused, leading to missed opportunities for follow-up or collaboration.
-* Poorly documented, making it difficult to track who was contacted and what was discussed.
+* Unfocused - leading to missed opportunities for follow-up or collaboration.
+* Poorly documented - making it difficult to track who was contacted and what was discussed.
 
 # Pattern Category
 
@@ -32,7 +32,7 @@ There is limited or no awareness of the new OSPO or how it benefits the institut
 
 # Forces
 
-The OSPO needs to identify champions, early adopters, and potential resistance.
+The OSPO needs to identify champions, early adopters and potential resistance.
 
 Resources are limited, requiring efficient and repeatable outreach processes.
 
@@ -44,7 +44,7 @@ Create a structured approach to stakeholder outreach with a script for introduct
 
 A script for initial conversations about the OSPO may include the following
 
-### An introduction to the OSPO and its work
+### Introduction to the OSPO and its work
 
 A broad explainer of OSPOs and academic OSPOs. More general information about the specific OSPO in the context of its institution may also be helpful.
 
@@ -56,7 +56,7 @@ The OSPO may also choose to emphasise different aspects of its work that relate 
 * **Legal/Technology Transfer:** Centralized expertise on open source licenses, IP management, contributor agreements.
 * **Students:** Career development, project showcasing, mentorship connections.
 
-### Discovery Questions
+### Discovery questions
 
 These questions may explore:
 
@@ -90,7 +90,7 @@ There are a number of benefits to using this structured approach:
 
 **Consistency:** All stakeholders receive consistent information about the OSPO's purpose and value.
 **Efficiency:** The template and script enables quick preparation and follow-up for multiple conversations.
-**Knowledge capture and insight:** Systematic documentation builds institutional knowledge about open source landscape and reveals common themes relating to challenges and opportunities within the institution.
+**Knowledge capture and insight:** Systematic documentation builds institutional knowledge about the open source landscape and reveals common themes relating to challenges and opportunities within the institution.
 **Metrics:** Offers documented progress and insight to leadership on engagement with the OSPO.
 **Greater reach:** Each conversation should generate referrals to new stakeholders.
 
@@ -105,11 +105,11 @@ We also developed a full set of questions that we included in the contact sheet.
 The questions we used were:
 * Tell me a little about your work 
 * What are the biggest challenges you face when using OSS in research? Teaching? 
-* What kind of support would you find most helpful from an OSPO 
+* What kind of support would you find most helpful from an OSPO? 
 * What kind of training or workshops would you be interested in attending?  
 * What kind of training or workshops might be useful for your students? 
 * What kind of resources would you like to see the OSPO provide, such as docs, tools, best practices? 
-* How would you like the OSPO to engage w/the broader open source community? City of Baltimore? 
+* How would you like the OSPO to engage with the broader open source community? City of Baltimore? 
 * Would you like the OSPO to help facilitate engagement with the broader open source community? 
 * Do you need assistance with license selection? Workshop or training on same?
 * Do you need assistance with tech transfer – choosing whether to open source, whether to monetize? 
