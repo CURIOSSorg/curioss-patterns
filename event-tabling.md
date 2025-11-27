@@ -60,12 +60,14 @@ The [open source art repository](https://github.com/gw-ospo/open-source-workshop
 This event was a fantastic opportunity to meet so many members of our community, answer questions about open source and share information about our upcoming programming.
 
 # Known Instances
-* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+
+[The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
 # References
 
 ## Related Patterns
-[OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
+* [OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
+* [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
 
 # Contributors & Acknowledgements
 
