@@ -72,7 +72,7 @@ Our survey is still in progress and specifically targets developers and contribu
 
 ## Related Patterns
 
-* [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
+[Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
 
 # Contributor(s) & Acknowledgment
 
