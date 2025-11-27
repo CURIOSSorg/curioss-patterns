@@ -129,7 +129,8 @@ However, there is a possibility for convening an alternative community of practi
 
 ## Related Patterns
 
-[Open Source Catalog](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-catalog.md)
+* [Open Source Catalog](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-catalog.md)
+* [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
 
 # Contributors & Acknowledgement
 
