@@ -136,6 +136,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
+* [Project Rolodex](project-rolodex.md)
 
 **Open Source Sustainability**
 * [Open Research Community Accelerator](open-research-community-accelerator.md)
