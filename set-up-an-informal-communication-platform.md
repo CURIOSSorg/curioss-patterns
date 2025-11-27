@@ -1,4 +1,4 @@
-# Set up an informal Communications Platform
+# Set up an informal Communication Platform
 
 # Pattern Summary
 
