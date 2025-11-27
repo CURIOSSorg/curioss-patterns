@@ -92,7 +92,7 @@ Each campus is using different platforms, including Google Groups and Mailchimp.
 
 
 # Known Instances
-* [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior Universit
+* [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [University of California OSPO Network](https://ucospo.net/)
 * [UC Santa Barbara Open Source Program](https://ucospo.net/santa-barbara/), University of California, Santa Barbara, [University of California OSPO Network](https://ucospo.net/)
 
@@ -102,9 +102,10 @@ Each campus is using different platforms, including Google Groups and Mailchimp.
 
 ## Related Patterns
 
+* [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
 * [OSPO website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
 * [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
-* [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
+* [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
 
 # Contributors & Acknowledgement
 
