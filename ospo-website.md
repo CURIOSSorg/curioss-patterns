@@ -98,8 +98,8 @@ The OSPO itself benefits from:
 * [MSU Open Source Program Management](https://www.otm.msstate.edu/ospo), Office of Technology Management, Mississippi State University
 * [OSU Open Source Lab](https://osuosl.org/), Oregon State University
 * [Open@RIT](https://openr.it/), Rochester Institute of Technology
-* [Open Source with SLU](https://openr.it/), Saint Louis University
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
+* [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
 * [TCD Open Source Program Office](https://www.tcd.ie/innovation/for-trinity-innovators/open-source-programme-office/), Trinity Innovation, Trinity College Dublin
 * [UGA Open Source Program Office ](https://scienceouverte.univ-grenoble-alpes.fr/en/about/codes-data-grenoble-alpes-office/), Université Grenoble Alpes
@@ -118,6 +118,7 @@ The OSPO itself benefits from:
 * [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
 * [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
 * [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
+* [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
 * [Set up an OSPO Giving Page](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-ospo-giving-page.md)
 
 # Contributors & Acknowledgement
