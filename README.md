@@ -56,6 +56,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
 * [OSPO Website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Project Rolodex](project-rolodex.md)
 * [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
 * [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
 * [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
