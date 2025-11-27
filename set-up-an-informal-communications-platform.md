@@ -2,7 +2,7 @@
 
 # Pattern Summary
 
-Set up a a dedicated communication platform to provide students with an accessible, informal space to engage with the OSPO and with open source communities on campus.
+Set up a a dedicated communication platform to provide students with a dedicated informal space to engage with the OSPO and with open source communities on campus.
 
 # Problem / Challenge
 
@@ -14,8 +14,6 @@ OSPOs need an accessible entry point for students, researchers, open source proj
 
 # Pattern Category
 
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
 - Awareness
 - Community Building
    
@@ -23,7 +21,7 @@ Below is a list of common categories of academic OSPO activities \- please choos
 
 A university or research institution creating large volumes of research outputs across every discipline.
 
-Existing open source activities that are spread across different departments, programs and campuses.
+Existing open source activities are spread across different departments, programs and campuses.
 
 An OSPO has been established.
 
@@ -57,7 +55,7 @@ The OSPO can identify emerging themes or needs from discussions.
 
 We recently set up a Slack workspace for the network as a whole, and some campuses have set up channels on that workspace for campus-specific chat. The workspace has channels for the following:
 - Funding
-- General (read-only for non-admins, so notifications aren’t just noise. I wanted to make this “announcements” instead and keep general more general but Slack only lets you do read-only on general now :face_with_rolling_eyes:)
+- General (read-only for non-admins, so notifications aren’t just noise)
 - Intros
 - Maintainers
 - Off-topic
@@ -73,13 +71,15 @@ OpenSource@Stanford has its own Slack workspace where we invite community member
 # Known Instances
 
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
-* [Open Source with SLU](https://openr.it/), Saint Louis University
+* [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [University of California OSPO Network](https://ucospo.net/)
 
 # References
 
-* Scroll down to [Getting Started Contributing Code](https://oss-slu.github.io/connect_with/community) for the join button for Open Source with SLU's slack workspace
-* The join button for the UC OSPO's slack workspace is at the top of [this page](https://ucospo.net/about/)
+* [Example Code of Conduct for Online Discussion Forums](https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/diy-guides/example-code-of-conduct-online-discussion-forums/example-code-of-conduct-for-online-discussion-forums.pdf), Centre for Innovation in Education, University of Liverpool
+* [Contributor Covenant](https://www.contributor-covenant.org/), A Code of Conduct for Digital Communities
+* Scroll down to [Getting Started Contributing Code](https://oss-slu.github.io/connect_with/community) for the join button for Open Source with SLU's slack workspace.
+* The join button for the UC OSPO's slack workspace is at the top of [this page](https://ucospo.net/about/).
 
 ## Related Patterns
 
@@ -95,5 +95,3 @@ In alphabetical order
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 * Francesca Vera, Stanford University, https://orcid.org/0000-0001-8791-3854
 * Laura Langdon, University of California, Davis
-
-Recognize individuals or organizations that contributed to this pattern.
