@@ -26,7 +26,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Lunch and Learn](lunch-and-learn.md)
 * [OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
-* [Open Source Survey](open-source-survey.md)
+* [Open Source Strategy](open-source-survey.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
