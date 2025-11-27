@@ -47,7 +47,7 @@ The communications platform can become a hub for spontaneous knowledge sharing a
 
 Students gain exposure to professional communication practices used in open source communities.
 
-The platform also serves as a channel for promoting the OSPO, signposting supports for open source projects and the academic community; and also attracting new contributors/participants to open source projects.
+The platform also serves as a channel for promoting the OSPO; signposting supports for open source projects and the academic community; and also attracting new contributors/participants to open source projects.
 
 The OSPO can identify emerging themes or needs from discussions.
 
