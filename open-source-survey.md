@@ -70,6 +70,10 @@ Our survey is still in progress and specifically targets developers and contribu
 * [Reproducing the Survey](https://uw-madison-dsi.github.io/open_source_survey_results/reproduction.html) \- The UW-Madison OSPO has open-sourced the survey and provides information on how to reproduce it.  
 * [GW Open Source Survey](https://ospo.gwu.edu/gw-open-source-survey) \- Information about the George Washington University’s Open Source Survey.
 
+## Related Patterns
+
+[Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
+
 # Contributor(s) & Acknowledgment
 
 In alphabetical order: 

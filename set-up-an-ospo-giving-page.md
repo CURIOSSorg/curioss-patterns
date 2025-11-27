@@ -88,7 +88,9 @@ Our [OSPO giving page](https://ucsc-ospo.github.io/bankinfo/) links to our [UCSC
 
 ## Related Patterns
 * [Create a Donor/Sponsorship Prospectus](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-a-donor-or-sponsorship-prospectus.md)
+* [OSPO Website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
 * [Secure sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/b17321be288388d6cc4b85c0603d16813f92035f/secure-sponsorship-for-an-open-source-conference.md)
+
 
 # Contributors & Acknowledgement
 In alphabetical order
