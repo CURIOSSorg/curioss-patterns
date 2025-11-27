@@ -35,7 +35,7 @@ OSPO staff members have the resources/capacity to maintain and moderate any comm
 
 Set up a dedicated communications platform as an accessible, informal space where students and researchers can ask questions, share information and learn about open source activities taking place across campus. 
 
-Choose from a range of platforms e.g. [Slack](https://slack.com/), [Discord](https://discord.com/), [Matrix](https://matrix.org/), [Zulip}(https://zulip.com/).
+Choose from a range of platforms e.g. [Slack](https://slack.com/), [Discord](https://discord.com/), [Matrix](https://matrix.org/), [Zulip](https://zulip.com/).
 
 Develop a code of conduct and agree on a process for staff moderation of discussions.
 
