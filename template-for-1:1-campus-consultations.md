@@ -76,6 +76,9 @@ The second template is a more traditional google doc for individuals who prefer 
 * [The OSPO Project Consultation Canvas](https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit?usp=sharing) by Carnegie Mellon University OSPO
 * [The OSPO Project Consultation Worksheet](https://docs.google.com/document/d/11r6_S6bf6bMIKB7OW7B4IQFIjzIoYwnJzEvOb3fmd40/edit?tab=t.0#heading=h.1logflb8o65z) by Carnegie Mellon University OSPO
 
+## Related Patterns
+[Individual Consultations/Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
+
 # Contributors & Acknowledgement
 
 (in alphabetical order)
