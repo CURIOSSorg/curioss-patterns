@@ -94,6 +94,9 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 * [Consultations and other services](https://verso.w3.uvm.edu/services/) offered by VERSO OSPO.
 * [Consultation template for projects](https://www.google.com/url?q=https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit?usp%3Dsharing&sa=D&source=docs&ust=1746004597188190&usg=AOvVaw1juIFcUqNZPBiGZcWgF3eL) used by Carnegie Mellon University OSPO.
 
+## Related Patterns
+[Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
+
 # Contributors & Acknowledgement
 
 * David Lippert (The George Washington University), https://orcid.org/0009-0003-6444-9595
