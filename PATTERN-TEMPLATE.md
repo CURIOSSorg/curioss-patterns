@@ -1,18 +1,18 @@
 # Pattern Name
 
-# Pattern Summary
+## Pattern Summary
 
 *A concise, one-sentence summary of the pattern.*
 
 Example: "An internship program to build open source skills with students."
 
-# Problem / Challenge
+## Problem / Challenge
 
 *What is the academic OSPO challenge or issue this pattern addresses?*
 
 Explain the problem clearly, providing enough detail for the reader to understand why the pattern is needed.
 
-# Pattern Category
+## Pattern Category
 
 Below is a list of common categories of academic OSPO activities \- please choose which apply:
 
@@ -30,40 +30,40 @@ Below is a list of common categories of academic OSPO activities \- please choos
 - Tools & Infrastructure
 - Working with Tech Transfer / External Partners  
    
-# Context
+## Context
 
 *When and where does this pattern apply?*
 
 Describe the situation, prerequisites, and the context in which the problem arises. For example, is it applicable for all universities? 
 
-# Forces
+## Forces
 
 *What are the competing forces or constraints?*
 
 List and describe the conflicting considerations that make the problem difficult to solve, e.g., time, resources, stakeholder interests.
 
-# Solution
+## Solution
 
 *How does this pattern resolve the problem?*  
 Provide a detailed description of the solution. Include actionable steps or guidance for implementing the solution.
 
-# Resulting Context
+## Resulting Context
 
 *What are the outcomes of applying this pattern?*
 
 Describe both the intended positive results and any potential side effects or consequences.
 
-# Known Instances
+## Known Instances
 
 *Provide real-world instances of this pattern in action.*
 
 * Example 1: Description of a known use case.  
 * Example 2: Description of another instance.
 
-# References
+## References
 
 List resources or related patterns for further reading.
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 Recognize individuals or organizations that contributed to this pattern.

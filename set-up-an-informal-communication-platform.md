@@ -1,10 +1,10 @@
 # Set up an informal Communication Platform
 
-# Pattern Summary
+## Pattern Summary
 
 Set up a a dedicated communication platform to provide students with a dedicated informal space to engage with the OSPO and with open source communities on campus.
 
-# Problem / Challenge
+## Problem / Challenge
 
 Students and researchers interested in open source sometimes face barriers to participation. There may not be clear pathways to connect with experienced contributors. Potential contributors may struggle to find appropriate projects matching their skill levels. Those who are new to open source, may lack the confidence to interact publicly with open source communities. 
 
@@ -12,12 +12,12 @@ Standard communication channels (e.g. email or learning management systems) don'
 
 OSPOs need an accessible entry point for students, researchers, open source projects and potential contributors to engage with each other.
 
-# Pattern Category
+## Pattern Category
 
 - Awareness
 - Community Building
    
-# Context
+## Context
 
 A university or research institution creating large volumes of research outputs across every discipline.
 
@@ -25,13 +25,13 @@ Existing open source activities are spread across different departments, program
 
 An OSPO has been established.
 
-# Forces
+## Forces
 
 The OSPO has a website.
 
 OSPO staff members have the resources/capacity to maintain and moderate any communications.
 
-# Solution
+## Solution
 
 Set up a dedicated communications platform as an accessible, informal space where students and researchers can ask questions, share information and learn about open source activities taking place across campus. 
 
@@ -41,7 +41,7 @@ Develop a code of conduct and agree on a process for staff moderation of discuss
 
 Promote the platform using a join button on the OSPO website and on any other communications (e.g newsletters or mailing lists).
 
-# Resulting Context
+## Resulting Context
 
 The communications platform can become a hub for spontaneous knowledge sharing amongst open source practitioners across campus.
 
@@ -51,7 +51,7 @@ The platform also serves as a channel for promoting the OSPO; signposting suppor
 
 The OSPO can identify emerging themes or needs from discussions.
 
-## Additional Learning from the University of California OSPO Network
+### Additional Learning from the University of California OSPO Network
 
 We recently set up a Slack workspace for the network as a whole, and some campuses have set up channels on that workspace for campus-specific chat. The workspace has channels for the following:
 - Funding
@@ -64,31 +64,31 @@ We recently set up a Slack workspace for the network as a whole, and some campus
 - Project-matching (to match aspiring contributors to projects seeking contributions and vice versa)
 - Temporary event chat channels during hackathons or conferences
 
-## Additional Learning from OpenSource@Stanford
+### Additional Learning from OpenSource@Stanford
 
 OpenSource@Stanford has its own Slack workspace where we invite community members to join public channels (using our general channel mainly for community-wide announcements and updates). We also have private channels for specific groups e.g. a channel for [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-and-contributors-roundtable.md) members.
 
-# Known Instances
+## Known Instances
 
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [University of California OSPO Network](https://ucospo.net/)
 
-# References
+## References
 
 * [Example Code of Conduct for Online Discussion Forums](https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/diy-guides/example-code-of-conduct-online-discussion-forums/example-code-of-conduct-for-online-discussion-forums.pdf), Centre for Innovation in Education, University of Liverpool
 * [Contributor Covenant](https://www.contributor-covenant.org/), A Code of Conduct for Digital Communities
 * Scroll down to [Getting Started Contributing Code](https://oss-slu.github.io/connect_with/community) for the join button for Open Source with SLU's slack workspace.
 * The join button for the UC OSPO's slack workspace is at the top of [this page](https://ucospo.net/about/).
 
-## Related Patterns
+### Related Patterns
 
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-and-contributors-roundtable.md)
 * [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
 * [OSPO Website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
 * [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 In alphabetical order
 

@@ -1,33 +1,33 @@
 # Framework for Managing University OSS
 
-# Pattern Theme / Category
+## Pattern Theme / Category
 
 - Awareness  
 - Promoting Best Practices  
 - Policy and Governance
 
-# OSPO Problem / Challenge
+## OSPO Problem / Challenge
 
 Often universities do not have an open source policy. How can we help them create useful policies, charters or guidelines for better and consistent OSS practices? 
 
-# Context
+## Context
 
 Open Source Software (OSS) and tools form a critical part of Open Research practices. However, often there is no consistent approach or advice offered by universities about how best to use, contribute to or produce OSS. Researchers in Ireland have varying degrees of knowledge about OSS principles, practices, processes and tools. 
 
-# Forces
+## Forces
 
 It can often be difficult for open source advocates to know how to approach getting institutional direction on open source work. It is even more difficult to ensure approaches are consistent across multiple universities who may have to collaborate together on projects. 
 
 Even the very idea of creating a new policy may be too challenging for some. 
 
-# Solution
+## Solution
 
 * Create a framework to help universities more consistently support open source in their institutions.
 * Provide multiple options, in case there may be difficulty orchestrating policy change.
 * Include information about why open source is important, and specifically important in a university setting to help convince stakeholders this is necessary.
 * Do not assume prior knowledge of open source, or its importance.  
 
-# Resulting Context
+## Resulting Context
 
 The resulting framework provides guidance about how to approach creating an open source framework. It includes the following sections:  
 * Introduction  
@@ -42,13 +42,13 @@ The resulting framework provides guidance about how to approach creating an open
   * Open Source roles in a university context  
 * Implementing an Open Source Framework
 
-# Known Instance
+## Known Instance
 
 Lero \- Science Foundation Ireland’s Research Centre for Software. Spans 12 Irish universities.
 
 [https://doi.org/10.5281/zenodo.14392732](https://doi.org/10.5281/zenodo.14392732)
 
-# Contributor(s) & Acknowledgment
+## Contributor(s) & Acknowledgment
 
 Clare Dillon, Lero
 

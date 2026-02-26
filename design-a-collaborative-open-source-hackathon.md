@@ -1,16 +1,16 @@
 # Design a Collaborative Open Source Hackathon
 
-# Pattern Summary
+## Pattern Summary
 Design university hackathons as collaborative learning experiences rather than as competitive events. 
 
-# Problem / Challenge
+## Problem / Challenge
 Traditional competitive hackathons at universities may create barriers to entry and participation. The competitive format typically values finished products, technical complexity and speed. 
 
 The competitive atmosphere may deter women; underrepresented minorities in tech; and students who are new to programming and open source from participating in the events.
 
 The focus on winning can also discourage experimentation and limit knowledge sharing. Winning teams often produce impressive prototypes that are abandoned after the event.
 
-# Pattern Category
+## Pattern Category
 - Community Building
 - Diversity, Equity, Inclusion
 - Education & Skills
@@ -18,45 +18,45 @@ The focus on winning can also discourage experimentation and limit knowledge sha
 - Tools & Infrastructure
 - Working with Tech Transfer / External Partners  
    
-# Context
+## Context
 A research institution or a university. 
 
 An OSPO has been established.
 
 The OSPO is organizing an open source hackathon. 
 
-# Forces
+## Forces
 There is flexibility to negotiate on prizes or competitive elements with partners or external sponsors. 
 
-# Solution
+## Solution
 Build in some or all of the actions below to reframe a hackathon as a collaborative experience rather than a competition.
 
-## Remove competitive elements
+### Remove competitive elements
 Cash prizes create a more competitive atmosphere. Where possible, offer universal participation prizes for all in the form of gift cards. 
 
 Prize categories should emphasise good practice and skills development rather than outputs (e.g. best use of open source, best research advancement).
 
-## Value good open source practices
+### Value good open source practices
 Provide recognition for meaningful open source work including design, documentation, testing, community building and accessibility improvements - not just code. 
 
 Make this explicit in the hackathon’s code of conduct and in decisions around rewards and celebrating contributions. 
 
-## Create an intentional welcoming environment
+### Create an intentional welcoming environment
 Establish a clear code of conduct that promotes collaboration and support amongst and between teams. 
 
 Brief mentors on expectations in relation to supporting students; and celebrating learning, skills development and collaboration over outputs.
 
-## Work with existing open source projects (where possible)
+### Work with existing open source projects (where possible)
 Use the hackathon theme to source research and open source projects on campus that would benefit from a hackathon’s input. 
 
-## Provide scaffolding for all skill levels
+### Provide scaffolding for all skill levels
 Offer introductory workshops to students who are new to open source.
 
 Provide a range of contribution opportunities from beginner-friendly issues (documentation, simple bug fixes) to advanced challenges. 
 
 Ensure that project maintainers label issues appropriately in advance and where possible, that they are present to provide support.
 
-# Resulting Context
+## Resulting Context
 Students who may be intimidated by competitive hackathons feel welcome to participate and experiment. 
 
 Hackathon participation becomes more diverse as the collaborative model appeals to students who value learning, community and meaningful impact over competition. 
@@ -67,19 +67,19 @@ Students develop not just technical skills but also collaboration, communication
 
 Researchers and open source projects gain access to a pipeline of potential new contributors/maintainers. 
 
-## Additional Learning from the UC OSPO Network
+### Additional Learning from the UC OSPO Network
 There are different models for non-competitive hackathons.
 
 One example is setting the same challenge for everyone and regrouping the following day to either combine solutions or work collaboratively on a ‘whole group’ solution.
 
 We offered an alternative to a cash prize where the sponsor provided mentorship for a winning team. 
 
-## Additional Learning from Carnegie Mellon University OSPO
+### Additional Learning from Carnegie Mellon University OSPO
 Cash prizes do change the dynamics of hackathons. Sponsorship doesn’t have to focus on prizes. Sometimes, we partner with sponsors to provide specific technologies during the hackathon. In this case, students get the opportunity to experiment new tools or platforms at no expense.
 
 We also tried hackathon models where multiple groups tackle a common problem and we explore the solution generated rather than focus on a final judgement and award.
 
-## Additional learning from the University of Texas OSPO
+### Additional learning from the University of Texas OSPO
 We encourage participants with multiple skill levels. We deliver pre-training workshops on GitHub, Jupyter Notebook and Python for students who are new or less familiar with open source. This gives them a chance to upskill in advance of the hackathon.
 
 Every team has a mentor and we provide mentor training beforehand.
@@ -88,15 +88,15 @@ We also host ‘pop-in’ presentations three times a day to keep people on trac
 
 We’ve found that collaborative open source hackathons tend to attract more women than competitive hackathons.
 
-# Known Instances
+## Known Instances
 - [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 - [University of California OSPO Network](https://ucospo.net/)
 - [UCSC OSPO](https://ucsc-ospo.github.io/). University of California, Santa Cruz
 - [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
 
-# References
+## References
 
-## Related Patterns
+### Related Patterns
 - [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
 - [Enable Student-led Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/enable-student-led-hackathons.md)
 - [Embed wellbeing into Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embed-wellbeing-into-student-hackathons.md)
@@ -104,7 +104,7 @@ We’ve found that collaborative open source hackathons tend to attract more wom
 - [Collaborate with External Partners on Open Source Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/collaborate-with-external-partners-on-open-source-hackathons.md)
 - [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin
 - Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 - David Lippert, George Washington University, https://orcid.org/0009-0003-6444-9595

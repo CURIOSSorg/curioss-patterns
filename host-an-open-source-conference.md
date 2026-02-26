@@ -1,10 +1,10 @@
 # Host an Open Source Conference
 
-# Pattern Summary
+## Pattern Summary
 
 Host a conference or high profile event on the theme of open source to increase the visibility of the academic OSPO and to demonstrate its value.
 
-# Problem / Challenge
+## Problem / Challenge
 
 A lack of awareness and visibility of an academic OSPO may create a number of challenges for the OSPO including: 
 
@@ -13,7 +13,7 @@ A lack of awareness and visibility of an academic OSPO may create a number of ch
 * The impact of academic contributions from the OSPO’s institution are not recognized.
 * The OSPO experiences difficulties in connecting with internal and/or external partners.
 
-# Pattern Category
+## Pattern Category
 - Building University OSS Community
 - Demonstrating value as an OSPO
 - Funding & Financial Support
@@ -23,13 +23,13 @@ A lack of awareness and visibility of an academic OSPO may create a number of ch
 - OSS Education & Skills  
 - Working with Tech Transfer / External Partners  
 
-# Context
+## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.
 
 An OSPO has been established.
 
-# Forces
+## Forces
 
 Students, researchers and faculty do not know how or where to access information and support from the OSPO that they need.
 
@@ -37,58 +37,58 @@ An OSPO with the capacity to organize/co-organize events.
 
 Resources are available to finance or part-fund the event.
 
-# Solution
+## Solution
 
 Host a conference or large scale event to boost visibility of the OSPO and to foster networks with strategic partners. 
 
 The following tasks cover the broad areas of work that will need to be undertaken:
 
-## Assemble a planning team and program committee
+### Assemble a planning team and program committee
 * Include representatives from faculty, students, administration and the OSPO.
 * Designate leads for logistics, communications, programming, registration and sponsorships.
 
-## Define the purpose of the conference and the target audience
+### Define the purpose of the conference and the target audience
 * Clarify the event’s goal: awareness e.g., collaboration, training, research alignment, etc.
 * Identify primary audiences e.g., students, faculty, external partners, open source maintainers and/or members of the wider open source ecosystem.
 
-## Choose the Format and Scope
+### Choose the Format and Scope
 * Decide on a format e.g., a single-day symposium, a multi-day conference, hackathon, an unconference, etc.
 * Determine whether the event will be in-person, hybrid, or virtual.
 
-## Secure Institutional Support
+### Secure Institutional Support
 * Get buy-in from university departments, IT, facilities and legal if necessary.
 * Consider co-branding with departments, research groups or external sponsors.
 
-## Set a Budget and Seek Funding
+### Set a Budget and Seek Funding
 * Estimate costs e.g., venue, catering, A/V, travel costs.
 * Apply for internal university funds, external sponsorships and/or community grants e.g., [OSI](https://opensource.org/), [GitHub](https://github.com/sponsors), [Google Open Source](https://opensource.google/)
 
-## Create a program that reflects OSPO goals
+### Create a program that reflects OSPO goals
 * Use mailing lists, posters, social media, department announcements and partner networks to advertise the Call for Papers.
 * Invite keynote speakers and other key strategic partners who can discuss open source in research, education and industry.
 * Include hands-on sessions (workshops, sprints) to promote learning and engagement.
 * Spotlight student and faculty open source projects.
 
-## Publicize the event
+### Publicize the event
 * Use mailing lists, posters, social media, department announcements and partner networks to advertise the event itself.
 * Highlight opportunities to present, mentor or sponsor.
 
-## Ensure Inclusivity and Accessibility
+### Ensure Inclusivity and Accessibility
 * Provide hybrid/remote options, captioning and accessibility accommodations.
 * Follow a code of conduct and make it visible.
 
-## Document and Archive the Event
+### Document and Archive the Event
 * Record sessions, collect slides and publish post-event write-ups.
 * Archive on OSPO web pages or repositories for future reference.
 
-## Follow Up and Sustain Engagement
+### Follow Up and Sustain Engagement
 * Gather feedback.
 * Send thanks to participants and sponsors.
 * Share outcomes publicly (blogs, newsletters, reports).
 * Build on the momentum for future events, projects or community activities.
 
 
-# Resulting Context
+## Resulting Context
 
 There are a wide range of potential benefits to hosting a conference or event for an academic OSPO:
 
@@ -106,15 +106,15 @@ There are a wide range of potential benefits to hosting a conference or event fo
 
 **Documentation and Legacy:** Conferences often result in articles, videos, and other artifacts that serve as resources and inspiration long after the event ends.
 
-## Additional Learning from the Georgia Tech Open Source Program Office
+### Additional Learning from the Georgia Tech Open Source Program Office
 We also provide information about funding opportunities such as the [Pathways to Enable Open-Source Ecosystems (POSE)](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) at our conferences. This is a great way to connect projects to funding programs that they may not be aware of.
 
-## Additional Learning from the GW Open Source Program Office
+### Additional Learning from the GW Open Source Program Office
 We used [Drupal](https://new.drupal.org/home) to host our conference pages and to manage our registration and CFP forms.  
 
 We also used [VolunteerSignup](https://volunteersignup.org/) which is free for non-commercial use (but may not be open source). 
 
-# Known Instances
+## Known Instances
 * [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
 * [GW OSPO](https://ospo.gwu.edu/), George Washington University
 * [Johns Hopkins University OSPO](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
@@ -125,9 +125,9 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison 
 
 
-# References
+## References
 
-## Links to conferences and high profile events hosted by Academic OSPOs
+### Links to conferences and high profile events hosted by Academic OSPOs
 * [GW OSCON](https://ospo.gwu.edu/oscon-2025)
 * [How Open Source is Fostering Innovation in AI event](https://ospo.wisc.edu/blog/2024/AI/)
 * [Libre Office Conference 2024](https://conference.libreoffice.org/2024/)
@@ -137,13 +137,13 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 * [Johns Hopkins University, Free and Open Source Project Fund Summative Event](https://ospo.library.jhu.edu/services/free-and-open-source-software-project-fund-fossprof/fossprof-summative-event/)
 * [University of Vermont Open Science Summit](https://verso.w3.uvm.edu/data-open-science-summit/)
 
-## Academic Conference Planning Resources
+### Academic Conference Planning Resources
 * Ex Ordo’s [No-Panic Guide to Organising Successful Scholarly Events](https://www.exordo.com/blog/guide-to-academic-conferences) A practical guide aimed at simplifying the conference planning process. It includes tips on abstract management, scheduling, and leveraging technology to streamline event organization. 
 * Fourwaves’ [13 Steps to Plan a Great Research Conference](https://fourwaves.com/blog/how-to-plan-your-scientific-conference/) A step-by-step approach to organizing scientific conferences, covering everything from defining objectives and assembling a planning committee to budgeting and selecting keynote speakers. 
 * [Community Tool Box – Organizing a Conference](https://ctb.ku.edu/en/table-of-contents/structure/training-and-technical-assistance/conferences/main) Developed by the University of Kansas, this resource provides insights into the purpose of conferences, planning logistics, and strategies for effective execution, making it suitable for academic and community-focused events. 
 * [Wharton School’s Conference Planning Guide](https://mbastudentlife.wharton.upenn.edu/wp-content/uploads/2024/06/Conference-Planning-Guide.pdf) Targeted at student-led initiatives, this guide from the University of Pennsylvania offers practical advice on marketing, administrative tasks, and vendor coordination, making it a valuable resource for academic institutions. 
 
-## Related Patterns
+### Related Patterns
 * [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
@@ -153,7 +153,7 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 * [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 In alphabetical order:
 
 * Allison Kittinger, University of Wisconsin-Madison, https://orcid.org/0000-0002-3104-5995

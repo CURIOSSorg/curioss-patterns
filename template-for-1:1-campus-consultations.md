@@ -1,10 +1,10 @@
 # Template for 1:1 Campus Consultations
 
-# Pattern Summary
+## Pattern Summary
 
 Use a standard template for individual consultations to understand an open source project’s status, its challenges, how it’s resourced and critical next steps. 
 
-# Problem / Challenge
+## Problem / Challenge
 
 Academic OSPOs may be constrained by the number of individual consultations/office hours they can offer. OSPO staff need a structure to mitigate against:
 
@@ -14,7 +14,7 @@ Academic OSPOs may be constrained by the number of individual consultations/offi
 * Lack of clarity about next steps and the roles responsible for those steps
 * An inconsistent approach to consultations.
 
-# Pattern Category
+## Pattern Category
 
 Below is a list of common categories of academic OSPO activities \- please choose which apply:
 
@@ -24,7 +24,7 @@ Below is a list of common categories of academic OSPO activities \- please choos
 - Supporting OSS development  
 - Funding & Financial Support
 
-# Context
+## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.
 
@@ -34,11 +34,11 @@ There is inconsistent awareness of OSS license management and compliance with in
 
 An OSPO with the resources/capacity to offer one-to-one consultations and any required follow-up work.
 
-# Forces
+## Forces
 
 OSPO staff have the capacity/availability to meet for consultations and to provide follow-up support.
 
-# Solution
+## Solution
 
 Develop a template that guides the OSPO to explore some or all of the following areas within the meeting timeframe:
 
@@ -50,7 +50,7 @@ Develop a template that guides the OSPO to explore some or all of the following 
 - Next steps for the project.
 - Follow-up support to be offered by the OSPO.
 
-# Resulting Context
+## Resulting Context
 
 Academic OSPOs have a consultation template that serves as a:
 - Diagnostic tool for open source projects.
@@ -58,7 +58,7 @@ Academic OSPOs have a consultation template that serves as a:
 - A structured knowledge base that enables OSPO staff to provide meaningful and consistent support.
 - A consistent and comparable record of consultations.
 
-## Additional Learning from Carnegie Mellon University OSPO
+### Additional Learning from Carnegie Mellon University OSPO
 
 We use two templates to guide conversation with projects and to assess their needs. The intention is to offer formats that could be used individually or combined to adapt to the learning and interaction styles of any group.
 
@@ -66,20 +66,20 @@ The first template is in the form of a slide deck that allows for a collaborativ
 
 The second template is a more traditional google doc for individuals who prefer a longer form, written style. 
 
-# Known Instances
+## Known Instances
 
 - [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 - [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
-# References
+## References
 
 * [The OSPO Project Consultation Canvas](https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit?usp=sharing) by Carnegie Mellon University OSPO
 * [The OSPO Project Consultation Worksheet](https://docs.google.com/document/d/11r6_S6bf6bMIKB7OW7B4IQFIjzIoYwnJzEvOb3fmd40/edit?tab=t.0#heading=h.1logflb8o65z) by Carnegie Mellon University OSPO
 
-## Related Patterns
+### Related Patterns
 [Individual Consultations/Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 (in alphabetical order)
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673

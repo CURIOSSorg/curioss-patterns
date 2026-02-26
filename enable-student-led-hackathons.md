@@ -1,9 +1,9 @@
 # Enable Student-led Hackathons
 
-# Pattern Summary
+## Pattern Summary
 Support student hackathon organizers by acting as institutional advocates and managing bureaucratic processes that fall outside their reach.
 
-# Problem / Challenge
+## Problem / Challenge
 Student groups are often highly capable at organizing hackathons. However, organizers may face barriers when engaging with the broader university or external partners in the following areas: 
 
 * Applying for funding. 
@@ -15,24 +15,24 @@ Student groups are often highly capable at organizing hackathons. However, organ
 
 Without proper support, student hackathons may fail to launch, produce limited learning outcomes or inadvertently create problems around intellectual property, code licensing, or project sustainability.
 
-# Pattern Category
+## Pattern Category
 - Community Building
 - Education & Skills
 - Funding & Financial Support
 - Promoting Best Practices
 - Working with Tech Transfer/External Partners  
    
-# Context
+## Context
 An institution or a university.
 An OSPO has been established and has contacts with student groups involved in hackathons.
 Student organizers have experience of running hackathons.
 
-# Forces
+## Forces
 Funding has become available for a hackathon (possibly through external sponsorship). 
 OSPO staff have the time and resources to support student organisers.
 The student organizers have some level of experience in leading or participating in hackathons.
 
-# Solution
+## Solution
 OSPOs should identify organizers' support needs in the following areas:
 
 * Support with financial and legal processes (e.g. providing a bank account to host funding, support with contracts, guarantees, Memoranda of Understanding).
@@ -42,12 +42,12 @@ OSPOs should identify organizers' support needs in the following areas:
 * Advocating on behalf of organizers with the university.
 * Attending hackathons and supporting organizers throughout the event. 
 
-# Resulting Context
+## Resulting Context
 * Student groups retain full ownership and pride in their events while gaining access to resources and partnerships they couldn't reach alone.
 * The OSPO builds genuine, sustained relationships with student communities and gains visibility and credibility across disciplines.
 * External partners (industry, community open source groups) are assured that the institution has a trusted representative with the experience to support student organizers to fulfill their commitments.
 
-## Additional Learning from the George Washington University OSPO
+### Additional Learning from the George Washington University OSPO
 [GeorgeHacks](https://www.georgehacks.org/#about) is a student group that runs an annual hackathon. It’s a two day event with approximately 150 participants. They have industry partners and collaborate with them to devise problem statements. This is a very experienced group and we have a really good relationship with the group. (Their lead is on our [OSPO Stakeholder Group](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md).)
 
 In 2025, we partnered as sponsors and the theme for the hackathon was based on our suggestion of the [UN Sustainable Development Goals](https://sdgs.un.org/goals). We ran a workshop introducing the UN SDGs. 
@@ -55,20 +55,20 @@ We facilitated an introductory open source workshop and sponsored an open source
 
 We also participated as mentors.
 
-## Additional Learning from Carnegie Mellon University OSPO
+### Additional Learning from Carnegie Mellon University OSPO
 We have different students from a variety of disciplines in leadership roles so every student-led hackathon is different. We connect organizers to other student groups to enable information sharing. We’ve also facilitated peer-to-peer leadership training, which has been really valuable.
 
 With external partners, it can be challenging for students to engage with sponsors because of university bureaucracy. We can step in and act as the connection point and we can also look after contracts, guarantees and any MoU. 
 
 We’ve found that the big thing that student organizers need is an advocate. 
 
-# Known Instances
+## Known Instances
 - [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 - [GW OSPO](https://ospo.gwu.edu/), George Washington University
 - [University of California OSPO Network](https://ucospo.net/)
 - [UCSC OSPO](https://ucsc-ospo.github.io/). University of California, Santa Cruz
 
-# References
+## References
 * [George Hacks 2025](https://ospo.gwu.edu/george-hacks-2025)
 * [OpenHatch: Open Source Comes to Campus](https://github.com/openhatch/open-source-comes-to-campus)
 * [UCSC GraceHacks 2023 repository](https://github.com/emmet0r/gracehacks)
@@ -76,7 +76,7 @@ We’ve found that the big thing that student organizers need is an advocate.
 * [UCSC Hacktoberfest 2024 repository](https://github.com/emmet0r/hacktoberfest-2024)
 * [UCSC’s 2024 Ideathon (included OSPO-sponsored prize track)](https://lu.ma/d8afz220)
 
-  ## Related Patterns
+### Related Patterns
 - [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md) 
 - [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
 - [Design a Collaborative Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/design-a-collaborative-open-source-hackathon.md)
@@ -85,7 +85,7 @@ We’ve found that the big thing that student organizers need is an advocate.
 - [Collaborate with External Partners on Open Source Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/collaborate-with-external-partners-on-open-source-hackathons.md)
 - [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin
 - Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 - David Lippert, George Washington University, https://orcid.org/0009-0003-6444-9595

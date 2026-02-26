@@ -1,10 +1,10 @@
 # Open Source AI Pilot
 
-# Pattern Summary
+## Pattern Summary
 
 Develop a pilot program to investigate the capabilities and use of locally run “open source” LLM for university applications.
 
-# Problem / Challenge
+## Problem / Challenge
 
 Large Language Models (LLMs) have grown extremely quickly in the past couple of years. Universities (both faculty and administration) are keen to make use of these new tools. 
 
@@ -14,18 +14,18 @@ However, there are a number of challenges:
 * **Cost:** Where platforms protect confidential data (e.g. Co-Pilot), licenses may be too expensive for the entire university or for individual faculty to use in their research programs.
 * **Reproducibility:** LLMs are stochastic by nature. This issue is exacerbated in enterprise models, which undergo frequent, undocumented updates. As a result,  their use as research tools raises concerns about reproducibility and result consistency.
 
-# Pattern Category
+## Pattern Category
 
 * Demonstrating value as an Academic OSPO
 * OSS Education & Skills  
 * Supporting OSS development
 * Tools & Infrastructure
 
-# Context
+## Context
 
 A university or research institution with an interest in making use of AI.
 
-# Forces
+## Forces
 
 * Graphic Processing Units (GPUs) and large amounts of memory are required to run these models locally.
 
@@ -33,7 +33,7 @@ A university or research institution with an interest in making use of AI.
 
 * Resources are in place to fund students to work on development.
 
-# Solution
+## Solution
 
 Develop a pilot program to explore how to use AI tools in an open-source, academic environment. 
 
@@ -46,7 +46,7 @@ Overall, the pilot should be:
 * Able to run on local hardware.
 * Designed for students to work and collaborate on.
 
-## Tools and Infrastructure
+### Tools and Infrastructure
 
 A number of tools are available to support development.
 
@@ -56,7 +56,7 @@ Many open-source AI tools are available on [Hugging Face](https://huggingface.co
 
 Using retrieval-augmentation generation (RAG) will improve LLM accuracy.
 
-# Resulting Context
+## Resulting Context
 
 Intended outcomes are: 
 
@@ -66,7 +66,7 @@ Intended outcomes are:
   
 * Developing AI solutions that address problems identified on campus fosters stronger relationships with faculty, researchers and students.
 
-## Additional Learning from Syracuse University
+### Additional Learning from Syracuse University
 
 We’ve hired two Masters of Science students to work on two pilot projects. 
 
@@ -84,13 +84,13 @@ If the projects are successful, we will build similar tools that will be useful 
 
 In taking on this project, we also discovered that the GPU hardware on campus is becoming outdated. We are currently working with other faculty that are interested in AI to submit a funding proposal.
 
-# Known Instances
+## Known Instances
 
 [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/), Syracuse University
 
-# References
+## References
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 * Will Gearty, (Syracuse University), https://orcid.org/0000-0003-0076-3262
 * Ramya Patchala, (Syracuse University), https://orcid.org/0009-0009-3018-6030

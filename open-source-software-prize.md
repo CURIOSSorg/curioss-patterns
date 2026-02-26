@@ -1,6 +1,6 @@
 # Open Source Software Prize
 
-## Pattern Theme / Category
+### Pattern Theme / Category
 
 * Community Building
 * DEI
@@ -8,13 +8,13 @@
 * OSS Discovery  
 * Reward & Recognition  
 
-# OSPO Problems / Challenges
+## OSPO Problems / Challenges
 
 * A lack of up to date information on how much open source software is being produced in a university.  
 * A gap in awareness and/or motivation amongst development teams on best practices in open source and open science.  
 * A need to uphold diversity and inclusion commitments.
 
-# Context
+## Context
 
 A research university creates large volumes of research outputs across every discipline.
 
@@ -22,7 +22,7 @@ University policy allows research teams to release their software as open source
 
 A project registry has been set up by the university to track and increase the visibility of open source projects of note in the university.
 
-# Forces
+## Forces
 
 Many labs and projects are expert practitioners in open source and open science. However, they may not be known or receive due recognition outside of siloed networks within their university.
 
@@ -32,7 +32,7 @@ There is no clear incentive for open source projects to add their work to the un
 
 Without an ‘institutional gatekeeper’ or established framework in relation to open source and open science projects within the university, there is no mechanism for surfacing good practices, or for labs and projects to learn from each other.
 
-# Solution
+## Solution
 
 Develop a university-wide ‘Open Source Software Prize’ with the objectives of:
 
@@ -81,7 +81,7 @@ Complete applications will be evaluated and must meet a minimum threshold to be 
 
 Please take care to understand that project maintainers can be extremely busy, so to be a good open source contributor, follow the codes of conduct and contribution guidelines and focus on tackling existing issues that align with your abilities.  
 
-# Resulting Context
+## Resulting Context
 
 Entrants can be added to the existing project registry of open source projects within the university.
 
@@ -89,19 +89,19 @@ Entrants also adopt open science tools that provide permanent recognition of ope
 
 The open source best practices criterion of the scoring rubric can be used as a didactic tool for helping teams improve how they share their code.
 
-# Known Instances
+## Known Instances
 
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [GW OSPO Student Awards](https://ospo.gwu.edu/student-awards), George Washington University OSPO Student Award Program - Modeled after Stanford's program, with some modifications.
 
-# References
+## References
 
 * [https://opensource.stanford.edu/prize](https://opensource.stanford.edu/prize)  
 * [https://datascience.stanford.edu/cores/cores-annual-symposium-2024](https://datascience.stanford.edu/cores/cores-annual-symposium-2024)   
 * [https://opensource.stanford.edu/projects-registry](https://opensource.stanford.edu/projects-registry)  
 * [Pattern: Open Source Project Catalog](https://docs.google.com/document/d/1FSkp38gLwZoKAc2oLBMD56EJsijCsNKdCNaoaadRtTc/edit?usp=sharing) 
 
-# Contributor(s) & Acknowledgment
+## Contributor(s) & Acknowledgment
 
 * Zach Chandler [https://orcid.org/0000-0003-2402-9839](https://orcid.org/0000-0003-2402-9839)
 * Clare Dillon [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
