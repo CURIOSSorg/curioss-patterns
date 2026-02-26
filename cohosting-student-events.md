@@ -1,34 +1,34 @@
 # Co-hosting Student Events
 
-# Pattern Summary
+## Pattern Summary
 
 Collaborate with student clubs to co-host one-off, open source-focused campus events.
 
-# Problem / Challenge
+## Problem / Challenge
 
 There is a growing interest in open source amongst student cohorts outside of academic courses. 
 
 However, OSPO staff time and resources are limited. 
 
 
-# Pattern Category
+## Pattern Category
 
 * Community building   
 * Developing and sharing best practices  
 * OSS education & skills  
 
-# Context
+## Context
 
 A university wishes to broaden open source engagement with students, particularly in terms of skills development and growing a culture of contribution.
  
 
-# Forces
+## Forces
 
 There is a growing or established interest and demand for open source workshops/activities beyond what’s currently on offer in academic courses.
 
 Interested students have a number of competing commitments.
 
-# Solution
+## Solution
 
 Collaborate with student clubs and organizations to co-host one-off, open source-focused campus events.
 
@@ -38,14 +38,14 @@ Organizing the events in partnership with student organizations gets student buy
 
 Division of tasks may typically be:
 
-## OSPO Staff
+### OSPO Staff
 
 * Designing the event (based on consultation with student co-hosts).
 * Liaison with potential sponsors (if sponsorship or swag is required).
 * Organizing venue and refreshments.
 * Promoting the event through OSPO channels.
 
-## Students
+### Students
 
 * Advertising and drumming up excitement amongst networks and informal communication channels (e.g. unofficial Discord servers).
 * Offering the student perspective on planning, logistics, the topic choice and what would make the event valuable.
@@ -53,7 +53,7 @@ Division of tasks may typically be:
 * Amplifying the impact of the event through social media/mailing lists.
 
 
-# Resulting Context
+## Resulting Context
 
 OSPO staff gain valuable insights into the open source-related resources that students want on campus. 
 
@@ -69,7 +69,7 @@ One-off events can be used as starting points for further collaboration. Example
 * Encouraging students to apply to mentorship/internship opportunities. 
 * Recruiting students as contributors to campus open source projects.
 
-## Additional Learning from University of California Santa Cruz
+### Additional Learning from University of California Santa Cruz
 
 Students have a lot of priorities competing for their time and attention. When co-organizing an event, it’s helpful to ensure regular check-ins and/or set deadlines for reserving rooms, advertising, etc. 
 
@@ -77,7 +77,7 @@ Student co-hosts who don’t have explicit open source experience may benefit fr
 
 Industry partners may be able to donate swag or small pots of money. This strengthens relationships with industry partners as there is a quick feedback loop on the impact of their funds.
 
-## Additional Learning from George Washington University
+### Additional Learning from George Washington University
 
 When OSPOs are able to provide space, food, spot prizes, or volunteering time, these contributions can go a long way to helping an event succeed and will strengthen connections with student organizations. 
 
@@ -87,12 +87,12 @@ We worked with the student run group George Hacks and became a sponsor of their 
 
 We also hosted a one-day bootcamp for a GW open source data science project called LAiSER for about 20 students. The OSPO provided a large library conference space and gave a 30 minute open source overview presentation. The LAiSER project organized the event, paid for food and coffee and had plenty of volunteers for setup and clean-up.
 
-# Known Instances
+## Known Instances
 
 * [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)
 * [GW OSPO](https://ospo.gwu.edu/), George Washington University
 
-# References
+## References
 
 * [UCSC GraceHacks 2023 repository](https://github.com/emmet0r/gracehacks)
 * [UCSC Hacktoberfest 2024 event page](https://ucsc-ospo.github.io/event/20241010/)
@@ -101,7 +101,7 @@ We also hosted a one-day bootcamp for a GW open source data science project call
 * [OpenHatch: Open Source Comes to Campus](https://github.com/openhatch/open-source-comes-to-campus)
 * [GWU George Hacks - 2025 Innovation Hackathon](https://georgehacks.org)
 
-## Related Patterns
+### Related Patterns
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
@@ -110,7 +110,7 @@ We also hosted a one-day bootcamp for a GW open source data science project call
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 * Emily Lovell, University of California Santa Cruz, https://orcid.org/0000-0001-5531-5956
 * Stephanie Lieggi, University of California Santa Cruz, https://orcid.org/0009-0000-5647-6540

@@ -1,10 +1,10 @@
 # Maintainers & Contributors Roundtable
 
-# Pattern Summary
+## Pattern Summary
 
 Convene a community of practice consisting of students and staff who are actively maintaining or contributing to university open source software projects in the research enterprise. 
 
-# Problem / Challenge
+## Problem / Challenge
 
 Active open source software maintainers and contributors are often scattered across laboratories and departments on university campuses. 
 
@@ -12,19 +12,19 @@ In many cases, maintainers find themselves in isolated roles without a way of le
 
 A certain proportion of maintainers are experts in their research field but not in open source software development and lack the awareness of where and how to find the information they need. 
 
-# Pattern Category
+## Pattern Category
 - Community Building
 - Education & Skills
 - Open Source Discovery
 - Promoting Best Practices
    
-# Context
+## Context
 
 A research university creating large volumes of research outputs across every discipline.
 
 A Research Software Engineer (RSE) or equivalent group does not currently exist (or lacks visibility) on campus.
 
-# Forces
+## Forces
 
 There is a growing or established interest in creating a community space for active maintainers or contributors to open source software. 
 
@@ -34,11 +34,11 @@ The OSPO or Community Lead has the  capacity to plan, promote and facilitate mon
 
 The OSPO wants to learn about the project activity and technical pain points directly from maintainers and contributors.
 
-# Solution
+## Solution
 
 Convene a regular community of practice to facilitate the sharing of project activity, best practices, pain points, and promote engagement of technical team members with the OSPO.
 
-## Promotion and Outreach
+### Promotion and Outreach
 
 The community of practice or ‘roundtable’ may be promoted in a number of ways, including:
 
@@ -50,29 +50,29 @@ The community of practice or ‘roundtable’ may be promoted in a number of way
 
 * Requesting membership to provide referrals.
 
-## Meeting Preparation
+### Meeting Preparation
 
 * Typical meeting preparation involves room booking and food orders (if budgets are available). 
 * Plan for a relevant topic/theme for each meeting that will engage the community members.
 * Where possible, contact community members whose expertise and interests match the topic.
 
-## Facilitating meetings
+### Facilitating meetings
 * Host on-site meetings once a month with a hybrid option for remote members.
 * Organize each meeting around one core topic/theme or specific project and advertise the topic in advance.
 * Typically, a member of the OSPO should take on the role of facilitator.
 * In order to encourage a safe and enjoyable learning space, the tone of the meeting can be casual and conversational.
 * The meetings should also have a code of conduct or established norms such as [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) that encourage participants to share their thoughts freely.
 
-# Resulting Context
+## Resulting Context
 
-## Benefits for participants
+### Benefits for participants
 Creating a dedicated on-campus space for open source software maintainers and contributors fosters an essential sense of community and **alleviates the isolation many have previously experienced in their roles**. 
 
 Encouraging developers, coding leads, research scientists, and similar stakeholders to build relationships also instills a **supportive network that generates collective problem-solving**.
 
 This newfound connection encourages **knowledge and skills sharing**. 
 
-## Benefits for the OSPO
+### Benefits for the OSPO
 Hosting a community of practice yields a number of positive outcomes for the OSPO: 
 * Stronger relationships with open source maintainers and contributors on campus. 
 * Greater engagement from community of practice members in other OSPO initiatives (e.g. workshops, consultations, mentorship).
@@ -80,7 +80,7 @@ Hosting a community of practice yields a number of positive outcomes for the OSP
 * Increased opportunity to discover new open source projects on campus.
 * Potential to amplify the impact of open source projects through the facilitation of knowledge sharing and collaboration.  
 
-## Additional Learning from OpenSource@Stanford
+### Additional Learning from OpenSource@Stanford
 Open source is both a technical and social system so we leverage that by creating spaces for people to learn from each other.
 
 Based on Lave & Wenger's "Situated Learning," we interpret a community of practice as a vibrant learning community where members collectively work towards gaining knowledge and competencies connected to their shared interests.
@@ -114,12 +114,12 @@ In line with our aim to create a safe space for members, we do not invite facult
 However, there is a possibility for convening an alternative community of practice that allows faculty members in the case where the faculty member *is* the maintainer of the project and would benefit from a similar community of other project maintainers.
 
 
-# Known Instances
+## Known Instances
 
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [UC OSPO Network](https://ucospo.net/about/), University of California
 
-# References
+## References
 
 * [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://opensource.stanford.edu/programs/maintainers-contributors-roundtable)
 * [Highlights from the first UC Open Source Contributors & Maintainers Virtual Meetup](https://bids.berkeley.edu/news/building-bridges-highlights-inaugural-uc-open-source-meetup)
@@ -127,12 +127,12 @@ However, there is a possibility for convening an alternative community of practi
 * Lave, Jean, and Étienne Wenger-Trayner. *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press, 2020.
 * Brown, John Seely, et al. *The Social Life of Information*. Harvard Business Review Press, 2017. 
 
-## Related Patterns
+### Related Patterns
 
 * [Open Source Catalog](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-catalog.md)
 * [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 * Francesca Vera, Stanford University, https://orcid.org/0000-0001-8791-3854
 * Zach Chandler, Stanford University,  https://orcid.org/0000-0003-2402-9839

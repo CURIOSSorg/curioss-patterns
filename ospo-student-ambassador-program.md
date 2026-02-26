@@ -1,7 +1,7 @@
 
 # OSPO Student Ambassador Program 
 
-# Pattern Summary 
+## Pattern Summary 
 
 Create a paid Student Ambassador program that empowers undergraduate and graduate students to promote open source engagement, events and projects across the university. 
 
@@ -12,26 +12,26 @@ Academic OSPO staff have competing priorities and do not have the necessary time
 
 Without proactive outreach, awareness of open source opportunities remains low and student participation in OSPO initiatives will be limited. 
 
-# Pattern Category
+## Pattern Category
 
 * Awareness
 * Community Building
 * Education & Skills
 
-# Context
+## Context
 
 A research university creating large volumes of research outputs across every discipline.
 
 The academic OSPO may lack full-time staff dedicated to outreach.
 
-# Forces
+## Forces
 
 * OSPO staff are time-poor and lack the capacity to maintain regular contact with students.
 * There is administrative support for paid student positions.
 * Prospective Student Ambassadors will have technical expertise and social engagement skills.
 * Student involvement must be balanced with academic workloads and turnover.
 
-# Solution
+## Solution
 
 Create a Student Ambassador program within the OSPO consisting of a small team of paid undergraduate and graduate students (working approximately 10 - 20 hours a week). 
 
@@ -44,7 +44,7 @@ Activities to consider may include:
 * Leading or contributing to open source technical projects that advance university OSPO goals.
 * Gathering student feedback and communicating emerging needs to OSPO leadership.
 
-# Resulting Context
+## Resulting Context
 
 Student Ambassador Programs create visible, authentic, student-led initiatives for the OSPO based on peer-to-peer engagement rather than top-down institutional messaging.
 
@@ -56,7 +56,7 @@ A combination of graduate and undergraduate ambassadors creates a sustainable pi
 
 In order to sustain funding for paid positions, measurable program outputs and outcomes should be developed to justify continued university support. The program should also align with both educational and open source values. 
 
-## Additional Learning from the GW Open Source Program Office 
+### Additional Learning from the GW Open Source Program Office 
 
 Two graduates (working 20 hours per week) and two undergraduate students (working 10 hours per week) work alongside OSPO staff to promote open source awareness, organize events and contribute to open source infrastructure at GW.
 
@@ -70,22 +70,22 @@ We were able to hire technical as well as communication and marketing team membe
 
 After hiring is complete, OSPOs must consider onboarding for their ambassadors. The University of Vermont’s [ORCA program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md) provides a great starting point for outlining onboarding materials and ambassador expectations.
 
-# Known Instances
+## Known Instances
 * [GW OSPO](https://ospo.gwu.edu/), George Washington University
 
-# References
+## References
 
 * [GeorgeHacks Makerspace 2025](https://ospo.gwu.edu/georgehacks-makerspace-2025) article on the GW OSPO Student Ambassadors' table at a Makerspace event.
 * [Graduate Technical Projects Student OSPO Ambassador job description](Grad%20tech%20position.pdf)
 * [Graduate Communications and Marketing Student OSPO Ambassador job description](Grad%20Comms%20position.pdf)
 * [Undergraduate Student OSPO Ambassador job description](Undergrad%20Ambassador%20position.pdf)
 
-## Related Patterns
+### Related Patterns
 * [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
 * [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
 * [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
 
-# Contributors & Acknowledgements
+## Contributors & Acknowledgements
 
 Mia Diewald, George Washington University, https://orcid.org/0009-0005-8123-1832
 

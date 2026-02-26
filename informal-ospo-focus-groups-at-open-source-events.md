@@ -1,9 +1,9 @@
 # Informal OSPO focus group sessions at Open Source Events
 
-# Pattern Summary
+## Pattern Summary
 Dedicate a conference session to gather feedback from academic community members about their awareness, needs and satisfaction with the OSPO’s services and initiatives.
 
-# Problem / Challenge
+## Problem / Challenge
 Academic OSPOs may have a limited understanding of their community's actual needs for a range of reasons:
 
 * Traditional surveys and formal feedback mechanisms often have low response rates and may not capture nuanced perspectives.
@@ -11,28 +11,28 @@ Academic OSPOs may have a limited understanding of their community's actual need
 * Faculty, researchers and students may be hesitant to provide honest feedback through formal channels.
 * One-on-one conversations don't scale well for gathering broad community insights.
 
-# Pattern Category
+## Pattern Category
 
 - Building University OSS Community
 - Demonstrating value as an OSPO
 - Supporting OSS development  
 
-# Context
+## Context
 A university with diverse departments of varying levels of OSS expertise and needs.
 
 An OSPO has been established.
 
-# Forces
+## Forces
 Students, researchers and faculty do not know how or where to access information and support from the OSPO that they need.
 
 An event or conference has been organized by the OSPO.
 
 Colleagues or volunteers are available to facilitate and take notes at a session about the OSPO.
 
-# Solution
+## Solution
 Dedicate a session specifically designed as an informal focus group. Some suggested actions include:
 
-## Session Design and Facilitation
+### Session Design and Facilitation
 Frame the session as a community ‘conversation’ or ‘forum’  to emphasise the informal and open nature of the session. 
 
 Use neutral facilitators (i.e., not direct OSPO staff) where possible to encourage honest feedback.
@@ -44,13 +44,13 @@ Depending on numbers, different approaches can be used:
 * Encouraging storytelling and examples rather than abstract feedback.
 * Mix individual reflection time with group discussion.
 
-## Data Collection
+### Data Collection
 * One potential challenge may be the self-selection bias of attendees. Collect simple demographic data (faculty/staff/student status, school affiliation, experience level) to contextualize feedback and identify themes from different cohorts.
 * Use visual methods like sticky notes, idea boards, or digital collaboration tools.
 * Capture themes and patterns rather than individual attributions.
 * Have note-takers focus on recurring themes and surprising insights.
 
-## Key questions for the focus group:
+### Key questions for the focus group:
 Consider important, relevant information that your OSPO needs from the community. This may relate to the state of open source in the institution or the OSPO itself. Sample questions are below: 
 
 * What open source challenges are you currently facing?
@@ -59,31 +59,31 @@ Consider important, relevant information that your OSPO needs from the community
 * What do you know about the Open Source Program Office?
 * How did you hear about the Open Source Program Office?
 
-## Other Considerations
+### Other Considerations
 * If possible, plan for 90-120 minutes to allow for meaningful discussion.
 * Consider scheduling during prime conference time to maximize attendance.
 * Follow up with participants through surveys or individual conversations.
 * Share aggregated insights with the community to demonstrate impact.
 
-# Resulting Context
+## Resulting Context
 The informal focus group enables authentic exchange between the OSPO and the wider academy community.
 
 Community members have a valuable space to share honest feedback about open source within the institution and OSPO services while the OSPO gains nuanced insights from the community that will inform future planning and activities. 
 
 Feedback may also demonstrate the positive impact that the OSPO is having with different cohorts on campus.
 
-## Additional learning from the University of California OSPO Network
+### Additional learning from the University of California OSPO Network
 Instead of a ‘Closing Remarks’ session at the end of our conference, we facilitated a ‘Closing Directed Discussion' where we prompted conversations about what the OSPO could do for the university. 
 
 Attendees had had two days of listening to us talking about things so they had lots of ‘percolation time’. We found that we’re either planning or in the process of setting up about 80% of the supports that people said they wanted. The other 20% are new ideas that will inform what we do next. 
 
-# Known Instances
+## Known Instances
 * [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [University of California OSPO Network](https://ucospo.net/)
 
-# References
+## References
 [UC Open 2025](https://ucospo.net/events/uc-open-4-2025/) - scroll down the agenda for ‘How can we help? Academic OSPOs making an impact at UC’'
 
-## Related patterns
+### Related patterns
 * [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
 * [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
 * [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
@@ -92,7 +92,7 @@ Attendees had had two days of listening to us talking about things so they had l
 * [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
 * [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 In alphabetical order
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 * Emily Lovell, University of California Santa Cruz, https://orcid.org/0000-0001-5531-5956

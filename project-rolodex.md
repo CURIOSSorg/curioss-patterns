@@ -1,10 +1,10 @@
 # Project Rolodex
 
-# Pattern Summary
+## Pattern Summary
 
 Create an outreach script and contact sheet for conducting outreach with potential stakeholders during the initial stages of establishing and promoting an academic OSPO. 
 
-# Problem / Challenge
+## Problem / Challenge
 
 Academic OSPOs, in their formation stage, face a "cold start" problem: they need to build awareness, identify stakeholders and establish credibility before they have a track record of accomplishments. 
 
@@ -15,14 +15,14 @@ Without a structured approach to outreach, early conversations risk becoming:
 * Unfocused - leading to missed opportunities for follow-up or collaboration.
 * Poorly documented - making it difficult to track who was contacted and what was discussed.
 
-# Pattern Category
+## Pattern Category
 
 - Awareness
 - Community Building
 - Demonstrating value as an OSPO
 - Open Source Discovery
    
-# Context
+## Context
 
 A university or research institution with existing open source activities that are scattered or informal.
 
@@ -30,21 +30,21 @@ An academic OSPO at a very early stage (pre-launch or within the first six month
 
 There is limited or no awareness of the new OSPO or how it benefits the institution.
 
-# Forces
+## Forces
 
 The OSPO needs to identify champions, early adopters and potential resistance.
 
 Resources are limited, requiring efficient and repeatable outreach processes.
 
-# Solution
+## Solution
 
 Create a structured approach to stakeholder outreach with a script for introductory conversations and a contact sheet for documenting the call. 
 
-## Conversation Script
+### Conversation Script
 
 A script for initial conversations about the OSPO may include the following
 
-### Introduction to the OSPO and its work
+#### Introduction to the OSPO and its work
 
 A broad explainer of OSPOs and academic OSPOs. More general information about the specific OSPO in the context of its institution may also be helpful.
 
@@ -56,7 +56,7 @@ The OSPO may also choose to emphasise different aspects of its work that relate 
 * **Legal/Technology Transfer:** Centralized expertise on open source licenses, IP management, contributor agreements.
 * **Students:** Career development, project showcasing, mentorship connections.
 
-### Discovery questions
+#### Discovery questions
 
 These questions may explore:
 
@@ -65,11 +65,11 @@ These questions may explore:
 * Their specific needs around open source.
 * Other potential stakeholders to contact.
   
-### Follow up actions
+#### Follow up actions
 
 The conversation should identify any follow up actions that will be of benefit to the stakeholder and/or the OSPO.
 
-## The Contact Sheet
+### The Contact Sheet
 
 The contact sheet template should capture important information about the stakeholder, their needs, common themes emerging from conversations and details of any follow up actions.
 
@@ -84,7 +84,7 @@ The following fields may be worth considering as categories for a contact sheet:
 * **Contact log:** Date of contact, contact method (email, phone call, meeting), status (e.g. not contacted, awaiting response, responded, meeting scheduled, completed).
 * **Call notes:** Pain points or challenges, resource needs, potential collaboration opportunities, other contacts suggested, follow up actions.
 
-# Resulting Context
+## Resulting Context
 
 There are a number of benefits to using this structured approach:
 
@@ -94,7 +94,7 @@ There are a number of benefits to using this structured approach:
 **Metrics:** Offers documented progress and insight to leadership on engagement with the OSPO.
 **Greater reach:** Each conversation should generate referrals to new stakeholders.
 
-## Additional learning from JHU Open Source Program Office
+### Additional learning from JHU Open Source Program Office
 
 We created a contact sheet for everyone - staff, faculty and any other stakeholders that we called in the initial stages of setting up and promoting the OSPO. 
 
@@ -115,15 +115,15 @@ The questions we used were:
 * Do you need assistance with tech transfer – choosing whether to open source, whether to monetize? 
 * Do you want the OSPO to be an advocate for OSS? At what level – students, faculty, research, admin?
 
-### Tell me “Two More People”
+#### Tell me “Two More People”
 
 We asked everyone to suggest two more people that we should talk to. This was very useful for identifying new user groups and potential stakeholders.
 
-# Known Instances
+## Known Instances
 
 * [Johns Hopkins University OSPO](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 In alphabetical order
 

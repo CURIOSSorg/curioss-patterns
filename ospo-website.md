@@ -1,10 +1,10 @@
 # OSPO Website
 
-# Pattern Summary
+## Pattern Summary
 
 Establish a website for an Academic Open Source Program Office (OSPO) to communicate its mission, activities, and opportunities. The website serves as the central public interface for stakeholders within the institution and beyond.
 
-# Problem / Challenge
+## Problem / Challenge
 
 Open source work in academia is usually dispersed across departments, labs, and projects - making it difficult for academic OSPOs to directly communicate with and reach all stakeholders.
 
@@ -15,27 +15,27 @@ Without a transparent, discoverable web presence:
 
 As a result, the OSPO risks invisibility and its potential impact is limited.
 
-# Pattern Category
+## Pattern Category
 
 - Awareness
 - Community Building
 - Demonstrating value as an OSPO
    
-# Context
+## Context
 
 A research institution or a university creating large volumes of research outputs across every discipline.
 
 An OSPO has been established.
 
-# Forces
+## Forces
 
 OSPO staff members have the resources/capacity to create a website and update content on a regular basis.
 
-# Solution
+## Solution
 
 Develop and maintain a dedicated OSPO website as the public-facing hub for all OSPO-related information and engagement.
 
-## Planning and Design
+### Planning and Design
 
 The list below covers broad areas of tasks to be considered during the planning and design phase:
 
@@ -47,7 +47,7 @@ The list below covers broad areas of tasks to be considered during the planning 
 
 * **Plan for sustainability** - assign content ownership and agree on a standard process for content updates, technical maintenance, and community feedback loops.
 
-## Website Content
+### Website Content
 
 Based on the website’s goals, content may cover the following themes:
 
@@ -67,11 +67,11 @@ Based on the website’s goals, content may cover the following themes:
 
 * **Resources:** A collection of relevant policies, toolkits and best practices for stakeholders.
 
-## Other areas for consideration:
+### Other areas for consideration:
 
 One question to consider may be whether to make the site itself open source.
 
-# Resulting Context
+## Resulting Context
 
 The OSPO website becomes a central point of discovery and engagement for stakeholders within and outside of its institution. 
 
@@ -85,7 +85,7 @@ The OSPO itself benefits from:
 * A public archive of its projects, policies, and impact.
 * A platform for further open source discovery through an open source registry, open source survey, a newsletter and slack channels.
 
-# Known Instances and References
+## Known Instances and References
 
 * [Advanced Research Computing Centre](https://github-pages.ucl.ac.uk/open-source/) (ARC), University College London
 * [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
@@ -112,7 +112,7 @@ The OSPO itself benefits from:
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 * [Vermont Research Open Source Program Office](https://verso.w3.uvm.edu/), (VERSO), University of Vermont
 
-## Related Patterns
+### Related Patterns
 
 * [Open Source Catalog](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-catalog.md)
 * [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
@@ -121,6 +121,6 @@ The OSPO itself benefits from:
 * [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
 * [Set up an OSPO Giving Page](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-ospo-giving-page.md)
 
-# Contributors & Acknowledgement
+## Contributors & Acknowledgement
 
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673

@@ -1,11 +1,11 @@
 # Open Source Catalog 
 
-# Pattern Theme / Category
+## Pattern Theme / Category
 
 * Community Building
 * OSS Discovery
 
-# OSPO Problem / Challenge
+## OSPO Problem / Challenge
 
 * A lack of up to date information on how much open source software is being produced in a university.  
     
@@ -13,7 +13,7 @@
     
 * The lack of visibility makes it difficult to build community, foster collaboration, and contribute to the overall sustainability of open source efforts on campus.
 
-# Context
+## Context
 
 A large and decentralized university. 
 
@@ -21,7 +21,7 @@ There is no central policy or mandate governing the creation or use of open sour
 
 Open source software is being created by affiliates of all types (e.g. students, faculty, researchers, staff), in many different contexts, for example: in classes, in labs, for personal use and/or to fulfill grant requirements.
 
-# Forces
+## Forces
 
 Researchers and development teams on open science/open source projects are overburdened.
 
@@ -31,7 +31,7 @@ There are a number of platform constraints. OSS projects are hosted on a variety
 
 There is limited time and personnel to identify, track, and catalog OS projects
 
-# Solution
+## Solution
 
 Create a tool to collect and promote university OSS projects. The tool provides a public, centralized resource for creating awareness of university OSS projects.
 
@@ -43,9 +43,9 @@ Create a tool to collect and promote university OSS projects. The tool provides 
 
 * Publish the catalog on the institution’s OSPO website or on another relevant site.
 
-# Resulting Context
+## Resulting Context
 
-## Additional learning from the Johns Hopkins University OSPO
+### Additional learning from the Johns Hopkins University OSPO
 
 In our case, we created a submission form using Gravity Forms and used [Gravity Kit](https://www.gravitykit.com/products/gravityview/?ref=853&gad_source=1) (formerly Gravity View) for the catalog. 
 
@@ -55,18 +55,18 @@ The catalog is only one of many initiatives aimed at discovering OSS projects on
 
 Next steps are to publicize, encourage use and incentivize entries. Badging and gamification are under consideration. 
 
-## Additional learning from OpenSource@Stanford
+### Additional learning from OpenSource@Stanford
 
 One of the objectives of the university-wide ‘[Open Source Software Prize](https://opensource.stanford.edu/prize)’ was to incentivize open source/open science projects to submit information to the new university project registry.
 
-# Known Instances
+## Known Instances
 
 * [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University   
 * [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology  
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [GW OSPO Project Registry](https://ospo.gwu.edu/project-registry), George Washington University
 
-# References
+## References
 
 * [Georgia Tech OSPO OSS Project Explorer](https://gt-ospo.github.io/oss-project-explorer/) \- See submission form at bottom of page.  
 * [JHU Open Source Project Catalog](https://ospo.library.jhu.edu/services/open-source-project-catalog/)  
@@ -74,11 +74,11 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 * [OpenSource@Stanford Project Registry](https://opensource.stanford.edu/projects-registry)  
 * [Pattern: Open Source Software Prize](https://docs.google.com/document/d/1b5Bwuj8ZKbGSchBkpDgyK_3e1MAklxK7rYQ9Fdl-nfE/edit?usp=sharing)
 
-## Related Patterns
+### Related Patterns
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
 * [OSPO Website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
 
-# Author(s) & Acknowledgement
+## Author(s) & Acknowledgement
 
 * Bill Branan [https://orcid.org/0000-0002-4735-6624](https://orcid.org/0000-0002-4735-6624)  
 * Zach Chandler [https://orcid.org/0000-0003-2402-9839](https://orcid.org/0000-0003-2402-9839)

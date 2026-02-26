@@ -1,15 +1,15 @@
 # OSS Tutorials using Authoring Tools
 
-# Pattern Theme / Category
+## Pattern Theme / Category
 
 * Education and Skills
 * Tools and Infrastructure
 
-# OSPO Problem / Challenge
+## OSPO Problem / Challenge
 
 There is limited knowledge across a university of how to create and use open source software (OSS) effectively; and how to follow best practices / standards.
 
-# Context
+## Context
 
 A university creates substantial research outputs spanning various disciplines.
 
@@ -21,7 +21,7 @@ The technology and departmental requirements for curriculum creation and dissemi
 
 Education/training content is frequently updated across the university.
 
-# Forces
+## Forces
 
 Funding bodies are mandating public access to funded research outputs and research software.
 
@@ -29,7 +29,7 @@ Training materials are needed to support academic cohorts to comply with these p
 
 Due to the diverse range of technologies and teaching approaches, training resources must be accessible and easily adapted.
 
-# Solution
+## Solution
 
 Create open educational resources ([OER](https://ospo.gwu.edu/open-educational-resources-oer)) in the form of self-directed tutorials based on tools tailored for OSS education.
 
@@ -40,7 +40,7 @@ Create open educational resources ([OER](https://ospo.gwu.edu/open-educational-r
 * Tools such as [binder](https://mybinder.org/) and [Google Colab](https://colab.google/) can be used to allow users to interact with content in real time.  
 * Jupyter Books can offer additional formats such as PDFs for offline access.
 
-# Resulting Context
+## Resulting Context
 
 Other tools / platforms such as [Jupyter Book 2](https://blog.jupyterbook.org/posts/2024-11-15-jupyter-book-2-alpha) with [MyST Markdown](https://jupyterbook.org/en/stable/content/myst.html) and [Quarto](https://quarto.org/) may be incorporated to extend capabilities.  
 
@@ -48,7 +48,7 @@ Workflows can be developed for both tutorials *and* workshops that share content
 
 The methodology for designing OSS tutorials can serve as an example for promoting the use of OER across departments. 
 
-## Additional Learning from the GW OSPO
+### Additional Learning from the GW OSPO
 
 An exciting benefit of these interactive and publicly available educational tutorial templates is that they are more dynamic. They enable a new type of continuous open science that more closely matches agile development. Because these resources are designed to enable reproducibility and accessibility, they:
 
@@ -56,12 +56,12 @@ An exciting benefit of these interactive and publicly available educational tuto
 * Increase scientific quality.   
 * Accelerate the pace of discovery and innovation.
 
-# Known Instances
+## Known Instances
 
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University  
 * [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
 
-# References
+## References
 
 * The GW Open Source Program Office: [sample template repository](https://github.com/gw-ospo/jupyter-book-template)   
 * [OSS Licensing for Researchers and Educators](https://gw-ospo.github.io/oss-licensing/intro.html) \- example of an open tutorial on OSS best practices  
@@ -72,7 +72,7 @@ An exciting benefit of these interactive and publicly available educational tuto
 * [Set Your Money on FIRE tutorials](https://david-lippert.github.io/fire/intro.html)   
 * [2024 URSSI Summer School resources](https://github.com/si2-urssi/summerschool-June2024)  
 
-# Contributor(s) & Acknowledgment
+## Contributor(s) & Acknowledgment
 
 Lorena Barba \- OSS Licensing Tutorial and Jupyter Book template support  
 Clare Dillon \- added markdown to pattern repo  
@@ -80,7 +80,7 @@ Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-00
 David Lippert \- Design pattern and FIRE tutorial  
 Michael Rossetti \- Jupyter Book Template
 
-# Additional Notes / Related Inspiration
+## Additional Notes / Related Inspiration
 
 
 **Excerpt from the poem Love is an Emergent Process by Adrien Marie Brown**

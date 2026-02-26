@@ -1,17 +1,17 @@
 # Open Source Survey
 
-# Pattern Category
+## Pattern Category
 
 * Community building
 * OSS Discovery
 
-# OSPO Problems / Challenges
+## OSPO Problems / Challenges
 
 * A lack of up-to-date information on how much open source software is being produced in a university.
 * A lack of a coherent campus open source community.
 * Uncertainty about what types of support might be most desired by the campus community.
 
-# Context
+## Context
 
 A research university creating large volumes of research outputs across every discipline.
 
@@ -19,13 +19,13 @@ University policy allows research teams to release their software as open source
 
 The lack of visibility makes it difficult for the OSPO to build community, foster collaboration, and contribute to the overall sustainability of open source efforts on campus.
 
-# Forces
+## Forces
 
 Many labs and projects are expert practitioners in open source and open science. However, they may not be known or receiving due recognition outside of siloed networks within their university.
 
 Researchers and development teams on open science/open source projects are overburdened and their needs have not been explored.
 
-# Solution
+## Solution
 
 Develop and disseminate a campus-wide ‘Open Source Survey’ with the objectives of:
 
@@ -37,7 +37,7 @@ Develop and disseminate a campus-wide ‘Open Source Survey’ with the objectiv
 
 The survey captures a diverse range of respondents’ GitHub profiles, links to projects or other relevant OSS identifiers.
 
-# Resulting Context
+## Resulting Context
 
 The survey data enables the university to track OSS projects that had previously been unknown outside of their own silos/networks.
 
@@ -49,7 +49,7 @@ The university is able to incorporate the results into messaging about the impor
 
 Surveys are not perfect; many open source contributors will decline to participate and thus remain "invisible" to the OSPO. Surveys should be combined with additional discovery approaches.
 
-## Additional Learning from University of Wisconsin-Madison OSPO
+### Additional Learning from University of Wisconsin-Madison OSPO
 
 Our OSPO is hosted by the Data Science Institute. We capitalized on the priorities and skill sets of our colleagues there to assist in the discovery process. This led to the development of the campus-wide survey.
 
@@ -57,7 +57,7 @@ There were 300 responses to our survey. The results provided clear feedback on n
 
 We also recruited an outreach specialist to contact people identified through initial introductory calls and through the campus-wide OS survey.
 
-## Additional Learning from University of California
+### Additional Learning from University of California Santa Barbara
 
 We conducted a survey across the UC system and ultimately received about 300 responses. Since we wanted to present the results in a scholarly format, we began by working with the Office of Research and the Institutional Review Board. Once we had IRB approval, we left the survey open for one month and advertised it as widely as possible. We maintain a "lessons learned" document with learnings particular to our survey instrument. (See [References](#references) section below.) Virginia gave a lightning talk at the February 2026 CURIOSS Gathering in Dublin describing some of our lessons learned (you can find it on the CURIOSS YouTube channel), but here are the highlights (plus some additional thoughts):
 * Have a distribution plan. We received some (justified) criticism from reviewers that our sample size was too small. The truth is that we fought hard to get those 300 responses. On many campuses, our requests to forward the survey were routinely denied, and our paper flyers were removed. (If you use paper flyers, check campus regulations on allowed posting locations.) Try to get to know the listserv administrators, or anyone who can post to a listserv, before the survey period starts. Go to student group fairs and introduce yourself to the students at the booths. Go to events hosted by student groups and introduce yourself to the hosts. Go to research seminars and introduce yourself to the researchers. These relationships can be your way in to their listservs. Also, we had better success getting through to the listservs via undergraduate advisers as opposed to pure admin front office staff or subject librarians. Your department's communication staff may have other ideas. Individualized communications have better success. Budget a LOT of time for this.
@@ -68,13 +68,13 @@ We conducted a survey across the UC system and ultimately received about 300 res
 * When collecting personal information, follow proper IRB procedures, and have a data management plan even if you aren't seeking IRB approval. We asked people for their GitHub/Lab, etc. usernames and their emails, and they were free to decline to give them. Most (~60-70%) did indeed decline. We also let them choose whether they would like to be added to our Slack or mailing lists. Give them a choice and then respect their choice.
 * Reuse our survey instrument! Tweak it, gut it, let us know what you think! [https://ucospo.net/oss-resources/survey/](https://ucospo.net/oss-resources/survey/)
 
-# Known Instances
+## Known Instances
 
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 * [University of California OSPO Network](https://ucospo.net/about/)
 
-# References
+## References
 
 * [Community Survey Page](https://uw-madison-dsi.github.io/open_source_survey_results/) \- Information about the Open Source Survey at UW-Madison.
 * [Open Source Survey Results](https://uw-madison-dsi.github.io/open_source_survey_results/sample.html) \- Anonymised results of the UW-Madison Open Source Survey.
@@ -82,12 +82,12 @@ We conducted a survey across the UC system and ultimately received about 300 res
 * [GW Open Source Survey](https://ospo.gwu.edu/gw-open-source-survey) \- Information about the George Washington University’s Open Source Survey.
 * [UC 2025 Survey Website](https://ucospo.net/oss-resources/survey/) \- All research artifacts from the University of California 2025 survey.
 
-## Related Patterns
+### Related Patterns 
 
 * [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
 * [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
 
-# Contributor(s) & Acknowledgment
+## Contributor(s) & Acknowledgment
 
 In alphabetical order:
 

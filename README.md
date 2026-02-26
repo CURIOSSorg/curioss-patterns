@@ -3,7 +3,7 @@ A public repository for the CURIOSS Patterns Practice.
 
 For more information about patterns in general, please see the [About Patterns](#about-patterns) section below. 
 
-# CURIOSS Patterns
+## CURIOSS Patterns
 
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
 
@@ -219,8 +219,8 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Summer Internship Program](summer-internship-program.md)
 * [Template for 1:1 Campus Consultations](https://github.com/CURIOSSorg/curioss-patterns/blob/main/template-for-1%3A1-campus-consultations.md)
 
-# About Patterns
-## What Are Patterns?
+## About Patterns
+### What Are Patterns?
 
 Patterns are reusable solutions to common problems within a specific context. Originating from architecture and urban design in the work of Christopher Alexander (see section on Origins), they were later adapted for software engineering, organizational design, and beyond. A pattern captures the essence of a proven solution in a way that can be applied flexibly to different scenarios, providing a shared language for understanding and resolving recurring challenges.
 
@@ -228,7 +228,7 @@ Sharing knowledge is a key goal of the CURIOSS Community \- we hope to build our
 
 The CURIOSS Patterns Practice is based on the [InnerSource Commons Patterns Practice](https://github.com/InnerSourceCommons/InnerSourcePatterns/) and we would like to thank all those in that community for inspiring us in this effort.
 
-## Key Characteristics of Patterns
+### Key Characteristics of Patterns
 
 * **Context:** Describes the situation where the pattern is applicable, including preconditions and constraints.  
 * **Problem:** Identifies the core challenge or issue the pattern addresses.  
@@ -244,14 +244,14 @@ For CURIOSS Patterns we also include:
 
 In some cases, we have even included some personal inspiration from the pattern authors. 
 
-## Benefits of Patterns
+### Benefits of Patterns
 
 * Encourage reuse of proven solutions.  
 * Foster shared understanding and communication within teams.  
 * Provide guidance without prescribing rigid processes.  
 * Enable scalability by breaking complex systems into manageable components.
 
-## Using Patterns
+### Using Patterns
 
 Patterns are not standalone solutions but are often organized into **pattern languages** or **collections**. Practitioners use them as building blocks to address complex problems by combining and adapting multiple patterns. A common workflow includes:
 
@@ -262,7 +262,7 @@ Patterns are not standalone solutions but are often organized into **pattern lan
 
 We hope that those who implement or adapt patterns here will contribute back their learnings to help improve the overall practice.
 
-## **Creating Patterns**
+### **Creating Patterns**
 
 The process of creating patterns involves observation, abstraction, and testing:
 
@@ -273,7 +273,7 @@ The process of creating patterns involves observation, abstraction, and testing:
 
 As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university), but we hope to add further known instances over time.
 
-## Origins: From Architecture to Software
+### Origins: From Architecture to Software
 
 The concept of design patterns originated in the field of architecture. Christopher Alexander, an architect, introduced the idea in his book “A Pattern Language: Towns, Buildings, Construction” published in 1977\. Alexander’s work focused on identifying recurring problems in architectural design and proposing solutions that could be reused in different contexts. His patterns were intended to improve the quality of life by creating environments that are functional, aesthetically pleasing, and harmonious.
 
