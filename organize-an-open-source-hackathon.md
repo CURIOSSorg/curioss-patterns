@@ -175,12 +175,12 @@ We also deliver pre-training workshops for participants who are less familiar wi
 * [GWU George Hacks - 2025 Innovation Hackathon](https://georgehacks.org)
 
 ### Related Patterns
-- [Design a Collaborative Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/design-a-collaborative-open-source-hackathon.md)
-- [Embed wellbeing into Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embed-wellbeing-into-student-hackathons.md)
-- [Enable Student-led Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/enable-student-led-hackathons.md)
-- [Engage a Hackathon Facilitator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/engage-a-hackathon-facilitator.md)
-- [Collaborate with External Partners on Open Source Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/collaborate-with-external-partners-on-open-source-hackathons.md)
-- [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md)
+- [Design a Collaborative Open Source Hackathon](design-a-collaborative-open-source-hackathon.md)
+- [Embed wellbeing into Student Hackathons](embed-wellbeing-into-student-hackathons.md)
+- [Enable Student-led Hackathons](enable-student-led-hackathons.md)
+- [Engage a Hackathon Facilitator](engage-a-hackathon-facilitator.md)
+- [Collaborate with External Partners on Open Source Hackathons](collaborate-with-external-partners-on-open-source-hackathons.md)
+- [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
 
 ## Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin

@@ -122,7 +122,7 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 * [Training modules for getting started with open source software development](https://github.com/gt-ospo/oss-training) \- Open training notebooks developed for VSIP students that will also enable other students and faculty to improve the quality of their open source projects. (Materials remain under development.)
 
 ### Related Patterns
-[Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/edit/main/student-showcase-sessions-at-ospo-events.md)
+[Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributor(s) & Acknowledgment
 * Sayeed Choudhury (Carnegie Mellon University)

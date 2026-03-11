@@ -48,7 +48,7 @@ OSPOs should identify organizers' support needs in the following areas:
 * External partners (industry, community open source groups) are assured that the institution has a trusted representative with the experience to support student organizers to fulfill their commitments.
 
 ### Additional Learning from the George Washington University OSPO
-[GeorgeHacks](https://www.georgehacks.org/#about) is a student group that runs an annual hackathon. It’s a two day event with approximately 150 participants. They have industry partners and collaborate with them to devise problem statements. This is a very experienced group and we have a really good relationship with the group. (Their lead is on our [OSPO Stakeholder Group](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-advisory-board.md).)
+[GeorgeHacks](https://www.georgehacks.org/#about) is a student group that runs an annual hackathon. It’s a two day event with approximately 150 participants. They have industry partners and collaborate with them to devise problem statements. This is a very experienced group and we have a really good relationship with the group. (Their lead is on our [OSPO Stakeholder Group](ospo-advisory-board.md).)
 
 In 2025, we partnered as sponsors and the theme for the hackathon was based on our suggestion of the [UN Sustainable Development Goals](https://sdgs.un.org/goals). We ran a workshop introducing the UN SDGs. 
 We facilitated an introductory open source workshop and sponsored an open source prize. Teams who made their projects open source and followed explicit guidelines (e.g. sharing on GitHub, adding the correct license etc.) qualified for a $500 spot prize. 
@@ -77,13 +77,13 @@ We’ve found that the big thing that student organizers need is an advocate.
 * [UCSC’s 2024 Ideathon (included OSPO-sponsored prize track)](https://lu.ma/d8afz220)
 
 ### Related Patterns
-- [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md) 
-- [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
-- [Design a Collaborative Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/design-a-collaborative-open-source-hackathon.md)
-- [Embed wellbeing into Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embed-wellbeing-into-student-hackathons.md)
-- [Engage a Hackathon Facilitator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/engage-a-hackathon-facilitator.md)
-- [Collaborate with External Partners on Open Source Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/collaborate-with-external-partners-on-open-source-hackathons.md)
-- [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md)
+- [Co-hosting student events](cohosting-student-events.md)
+- [Organize an Open Source Hackathon](organize-an-open-source-hackathon.md)
+- [Design a Collaborative Open Source Hackathon](design-a-collaborative-open-source-hackathon.md)
+- [Embed wellbeing into Student Hackathons](embed-wellbeing-into-student-hackathons.md)
+- [Engage a Hackathon Facilitator](engage-a-hackathon-facilitator.md)
+- [Collaborate with External Partners on Open Source Hackathons](collaborate-with-external-partners-on-open-source-hackathons.md)
+- [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
 
 ## Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin

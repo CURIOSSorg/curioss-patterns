@@ -109,7 +109,7 @@ Another successful workshop was held at the George Hacks Innovation Hackathon.  
 
 * [UT-OSPO’s User Group survey](https://docs.google.com/forms/d/e/1FAIpQLSej6LA9b3LcNdzekzWXWVsJIfngudodliGZm2NDA2pgFdgCjQ/viewform)
 * Details of UT-OSPO’s [past workshops and training events](https://opensource.utexas.edu/past-events)
-* [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md) - Pattern from University of Wisconsin-Madison OSPO and others
+* [Open Source Survey](./open-source-survey.md) - Pattern from University of Wisconsin-Madison OSPO and others
 
 ## Contributors & Acknowledgement
 

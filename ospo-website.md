@@ -114,12 +114,12 @@ The OSPO itself benefits from:
 
 ### Related Patterns
 
-* [Open Source Catalog](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-catalog.md)
-* [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
-* [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
-* [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
-* [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
-* [Set up an OSPO Giving Page](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-ospo-giving-page.md)
+* [Open Source Catalog](./open-source-catalog.md)
+* [Open Source Survey](./open-source-survey.md)
+* [OSPO Mailing List](./ospo-mailing-list.md)
+* [Publish an OSPO Newsletter](./publish-an-ospo-newsletter.md)
+* [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
+* [Set up an OSPO Giving Page](./set-up-an-ospo-giving-page.md)
 
 ## Contributors & Acknowledgement
 

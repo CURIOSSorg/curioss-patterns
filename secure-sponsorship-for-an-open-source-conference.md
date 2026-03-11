@@ -95,14 +95,14 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 * [UC Open Source Research Symposium 2024 Sponsorship Prospectus](https://drive.google.com/file/d/1cgxd-DRan9hC1JV2zefeHuXqWZpcRAsf/view).
 
 ### Related Patterns
-* [Co-hosting Student Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
-* [Create a Donor/Sponsorship Prospectus](https://github.com/CURIOSSorg/curioss-patterns/blob/main/create-a-donor-or-sponsorship-prospectus.md)
-* [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
-* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
-* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
+* [Co-hosting Student Events](./cohosting-student-events.md)
+* [Create a Donor/Sponsorship Prospectus](./create-a-donor-or-sponsorship-prospectus.md)
+* [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
+* [Host an Open Source Conference](./host-an-open-source-conference.md)
+* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
-* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
-* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
+* [Senior Leadership Keynote](./senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
   
 ## Contributors & Acknowledgement
 In alphabetical order:

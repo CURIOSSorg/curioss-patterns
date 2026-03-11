@@ -75,14 +75,14 @@ Because of the success of the student panels, we plan to split the format next y
 Scroll down the agenda for the [Open Source and Scientific Software Workshop](https://ospo.cc.gatech.edu/ospo-sse-workshop-2025/) for details of the student lightning talks.
 
 ### Related Patterns
-* [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
-* [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
-* [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
-* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
+* [Co-hosting student events](./cohosting-student-events.md)
+* [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
+* [Host an Open Source Conference](./host-an-open-source-conference.md)
+* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
-* [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
-* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
-* [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/edit/main/summer-internship-program.md)
+* [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
+* [Senior Leadership Keynote](./senior-leadership-keynote.md)
+* [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
 In alphaetical order

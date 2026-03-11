@@ -144,14 +144,14 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 * [Wharton School’s Conference Planning Guide](https://mbastudentlife.wharton.upenn.edu/wp-content/uploads/2024/06/Conference-Planning-Guide.pdf) Targeted at student-led initiatives, this guide from the University of Pennsylvania offers practical advice on marketing, administrative tasks, and vendor coordination, making it a valuable resource for academic institutions. 
 
 ### Related Patterns
-* [Co-hosting student events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/cohosting-student-events.md)
-* [Facilitate connections at Open Source Conferences](https://github.com/CURIOSSorg/curioss-patterns/blob/main/facilitate-connections-at-open-source-conferences.md)
-* [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
+* [Co-hosting student events](./cohosting-student-events.md)
+* [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
+* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
 * [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
-* [Secure Sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/secure-sponsorship-for-an-open-source-conference.md)
-* [Senior Leadership Keynote](https://github.com/CURIOSSorg/curioss-patterns/blob/main/senior-leadership-keynote.md)
-* [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
-* [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
+* [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
+* [Senior Leadership Keynote](./senior-leadership-keynote.md)
+* [Student Outreach Strategy](./student-outreach-strategy.md)
+* [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
 In alphabetical order:
