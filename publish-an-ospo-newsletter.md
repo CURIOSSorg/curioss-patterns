@@ -180,10 +180,10 @@ A sample of [TODO Group’s OSPO News](https://email.linuxfoundation.org/osponew
 
 ### Related Patterns
 
-* [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
-* [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
-* [OSPO Website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
-* [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
+* [Open Source Survey](./open-source-survey.md)
+* [OSPO Mailing List](./ospo-mailing-list.md)
+* [OSPO Website](./ospo-website.md)
+* [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
 
 ## Contributors & Acknowledgement
 

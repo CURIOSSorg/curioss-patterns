@@ -105,8 +105,8 @@ Building relationships in the leadership space; communicating about the OSPO and
 ## References
 
 * [The UT OSPO Open Source Participation Pathway](https://opensource.utexas.edu/resources) - an outline of the different stages of open source projects within the context of research development. This pathway is used as a reference point for engaging with user groups and identifying their needs at different points of the pathway.
-* [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO
-* [Supporting grant proposals with an open source componence](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md) - Pattern from Carnegie Mellon University OSPO
+* [Open Source Grant Commitment Letter](./open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO
+* [Supporting grant proposals with an open source componence](./supporting-grant-proposals-with-an-open-source-component.md) - Pattern from Carnegie Mellon University OSPO
 
 
 ## Contributors & Acknowledgement

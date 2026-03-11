@@ -102,10 +102,10 @@ Each campus is using different platforms, including Google Groups and Mailchimp.
 
 ### Related Patterns
 
-* [Open Source Survey](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-survey.md)
-* [OSPO website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
-* [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
-* [Set up an informal Communication Platform](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-informal-communication-platform.md)
+* [Open Source Survey](./open-source-survey.md)
+* [OSPO website](./ospo-website.md)
+* [Publish an OSPO Newsletter](./publish-an-ospo-newsletter.md)
+* [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
 
 ## Contributors & Acknowledgement
 

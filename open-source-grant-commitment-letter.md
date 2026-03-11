@@ -69,9 +69,9 @@ The initial outcome of this commitment letter is appreciation and education from
 
 ### Related Patterns
 
-* [Embedding the OSPO as Research Infrastructure](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
-* [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
-* [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md) - pattern from the CMU Open Source Program Office.
+* [Embedding the OSPO as Research Infrastructure](./embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
+* [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
+* [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md) - pattern from the CMU Open Source Program Office.
 
 ## Contributors & Acknowledgement
 

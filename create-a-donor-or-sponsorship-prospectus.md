@@ -75,8 +75,8 @@ A donor/sponsorship prospectus provides clear information and enables potential 
 * [University of Santa Cruz OSPO giving page](https://ucsc-ospo.github.io/bankinfo/)
 
 ### Related Patterns
-* [Secure sponsorship for an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/b17321be288388d6cc4b85c0603d16813f92035f/secure-sponsorship-for-an-open-source-conference.md)
-* [Set up an OSPO Giving Page](https://github.com/CURIOSSorg/curioss-patterns/blob/main/set-up-an-ospo-giving-page.md)
+* [Secure sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
+* [Set up an OSPO Giving Page](./set-up-an-ospo-giving-page.md)
 
 ## Contributors & Acknowledgement
 In alphabetical order

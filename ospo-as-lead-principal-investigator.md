@@ -48,8 +48,8 @@ PI responsibilities will need to be balanced against other OSPO responsibilities
 ## References
 
 ### Related patterns
-* [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
-* [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
+* [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
+* [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md)
 
 ## Contributors & Acknowledgement
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673

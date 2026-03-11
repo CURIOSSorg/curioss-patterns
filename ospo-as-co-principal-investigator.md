@@ -105,9 +105,9 @@ Co-PI responsibilities will need to be balanced against other OSPO responsibilit
 ## References
 
 ### Related Patterns
-* [Supporting grant proposals with an open source component](https://github.com/CURIOSSorg/curioss-patterns/blob/main/supporting-grant-proposals-with-an-open-source-component.md)
-* [Open Source Grant Commitment Letter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-grant-commitment-letter.md)
-* [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
+* [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md)
+* [Open Source Grant Commitment Letter](./open-source-grant-commitment-letter.md)
+* [OSPO as *Lead* Principal Investigator](./ospo-as-lead-principal-investigator.md)
 
 ## Contributors & Acknowledgement
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673

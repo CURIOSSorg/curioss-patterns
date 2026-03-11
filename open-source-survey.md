@@ -84,8 +84,8 @@ We conducted a survey across the UC system and ultimately received about 300 res
 
 ### Related Patterns 
 
-* [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
-* [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
+* [OSPO Mailing List](./ospo-mailing-list.md)
+* [Publish an OSPO Newsletter](./publish-an-ospo-newsletter.md)
 
 ## Contributor(s) & Acknowledgment
 

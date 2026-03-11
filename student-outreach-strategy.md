@@ -41,7 +41,7 @@ The solution below outlines some activities to consider:
 
 ### Hire Student Ambassadors
 
-Recruit [Student Ambassadors](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md) who are familiar with open source and community building. 
+Recruit [Student Ambassadors](./ospo-student-ambassador-program.md) who are familiar with open source and community building. 
 
 Student Ambassadors can educate their fellow students in peer-to-peer interactions, with approaches that are personalized and less intimidating than information heavy emails or lectures. 
 
@@ -55,7 +55,7 @@ LinkedIn is another popular social media platform for students to connect with p
 
 ### Host Tabling Events
 
-[Hosting a table at events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md) either independently or in collaboration with other student organizations is an effective method of connecting with students. 
+[Hosting a table at events](./event-tabling.md) either independently or in collaboration with other student organizations is an effective method of connecting with students. 
 
 Tables provide a fun and informal way to raise awareness of the OSPO's services. Short interactive games at the table can be used to educate students about the relevance of open source. 
 
@@ -93,10 +93,10 @@ We also used this [open source art repository](https://github.com/gw-ospo/open-s
 
 ### Related Patterns
 
-- [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
-- [Host an Open Source Conference](https://github.com/CURIOSSorg/curioss-patterns/blob/main/host-an-open-source-conference.md)
-- [OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
-- [Student Showcase Sessions at OSPO Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-showcase-sessions-at-ospo-events.md)
+- [Event Tabling](./event-tabling.md)
+- [Host an Open Source Conference](./host-an-open-source-conference.md)
+- [OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
+- [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgements
 

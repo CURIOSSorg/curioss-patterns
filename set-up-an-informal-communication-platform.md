@@ -66,7 +66,7 @@ We recently set up a Slack workspace for the network as a whole, and some campus
 
 ### Additional Learning from OpenSource@Stanford
 
-OpenSource@Stanford has its own Slack workspace where we invite community members to join public channels (using our general channel mainly for community-wide announcements and updates). We also have private channels for specific groups e.g. a channel for [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-and-contributors-roundtable.md) members.
+OpenSource@Stanford has its own Slack workspace where we invite community members to join public channels (using our general channel mainly for community-wide announcements and updates). We also have private channels for specific groups e.g. a channel for [Maintainers & Contributors Roundtable](./maintainers-and-contributors-roundtable.md) members.
 
 ## Known Instances
 
@@ -83,10 +83,10 @@ OpenSource@Stanford has its own Slack workspace where we invite community member
 
 ### Related Patterns
 
-* [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-and-contributors-roundtable.md)
-* [OSPO Mailing List](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-mailing-list.md)
-* [OSPO Website](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-website.md)
-* [Publish an OSPO Newsletter](https://github.com/CURIOSSorg/curioss-patterns/blob/main/publish-an-ospo-newsletter.md)
+* [Maintainers & Contributors Roundtable](./maintainers-and-contributors-roundtable.md)
+* [OSPO Mailing List](./ospo-mailing-list.md)
+* [OSPO Website](./ospo-website.md)
+* [Publish an OSPO Newsletter](./publish-an-ospo-newsletter.md)
 
 ## Contributors & Acknowledgement
 

@@ -39,7 +39,7 @@ The ambassadors serve as liaisons between the OSPO and the student body through 
 
 Activities to consider may include: 
 * Creating and managing OSPO social media accounts to share updates and opportunities.
-* Hosting and [tabling at campus events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md) to promote the OSPO and open source awareness.
+* Hosting and [tabling at campus events](./event-tabling.md) to promote the OSPO and open source awareness.
 * Organizing community-building activities such as movie nights or coding sessions.
 * Leading or contributing to open source technical projects that advance university OSPO goals.
 * Gathering student feedback and communicating emerging needs to OSPO leadership.
@@ -68,7 +68,7 @@ There are many steps involved in the hiring process, including posting the jobs,
 
 We were able to hire technical as well as communication and marketing team members that work very well together as an open source student outreach team. (The GW OSPO is happy to share details along with our specific job postings.) 
 
-After hiring is complete, OSPOs must consider onboarding for their ambassadors. The University of Vermont’s [ORCA program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md) provides a great starting point for outlining onboarding materials and ambassador expectations.
+After hiring is complete, OSPOs must consider onboarding for their ambassadors. The University of Vermont’s [ORCA program](./open-research-community-accelerator.md) provides a great starting point for outlining onboarding materials and ambassador expectations.
 
 ## Known Instances
 * [GW OSPO](https://ospo.gwu.edu/), George Washington University
@@ -81,9 +81,9 @@ After hiring is complete, OSPOs must consider onboarding for their ambassadors. 
 * [Undergraduate Student OSPO Ambassador job description](Undergrad%20Ambassador%20position.pdf)
 
 ### Related Patterns
-* [Event Tabling](https://github.com/CURIOSSorg/curioss-patterns/blob/main/event-tabling.md)
-* [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
-* [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
+* [Event Tabling](./event-tabling.md)
+* [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
+* [Student Outreach Strategy](./student-outreach-strategy.md)
 
 ## Contributors & Acknowledgements
 

@@ -66,8 +66,8 @@ This event was a fantastic opportunity to meet so many members of our community,
 ## References
 
 ### Related Patterns
-* [OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
-* [Student Outreach Strategy](https://github.com/CURIOSSorg/curioss-patterns/blob/main/student-outreach-strategy.md)
+* [OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
+* [Student Outreach Strategy](./student-outreach-strategy.md)
 
 ## Contributors & Acknowledgements
 

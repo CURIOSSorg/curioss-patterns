@@ -104,7 +104,7 @@ The program has also led to several speaking engagements about open source, rese
 
 ### Related Patterns
 
-[OSPO Student Ambassador Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-student-ambassador-program.md)
+[OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
 
 ## Contributor(s) & Acknowledgment
 
