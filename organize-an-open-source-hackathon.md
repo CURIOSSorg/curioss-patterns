@@ -113,9 +113,13 @@ The following items are essential items for any hackathon:
 
 # Resulting Context
 Participants learn about open source best practices; gain practical technical experience; and produce portfolio-worthy projects.
+
 Participants develop networking connections and the wider open source community on campus is strengthened.
+
 Faculty research advances through collaborative problem-solving.
+
 Open source contributions may extend beyond the event if sustainability is planned. 
+
 Hackathons also have the potential to position the university as a leader in open source or as an innovation hub in relation to the event’s chosen theme.
 
 ## Other learning
@@ -126,22 +130,33 @@ Hackathons also have the potential to position the university as a leader in ope
   
 ## Additional Learning from Carnegie Mellon University OSPO
 A significant amount of project management and time is required for hackathons. It’s important that the OSPO lead ensures that everyone involved understands their role, tasks and the event schedule. 
+
 Most students work on their own laptops. However, it may be necessary to provide some monitors. 
+
 Access to a supercomputer will depend on the theme and scale of the hackathon. 
 
 ## Additional Learning from the University of California, Santa Cruz
 It’s important not to underestimate the amount of time that project management and communications take up when organizing a hackathon - especially a hackathon where you have different people participating in different ways. 
+
 We recommend having more than one person to share responsibility for project management and to ensure seamless communication loops.
 
 ## Additional Learning from the University of Texas OSPO
 Each hackathon has its own organizing team. It’s essential that students are on the organizing team for promotion (through informal student channels) and participant recruitment. 
+
 A useful piece of participant feedback was for the organizers to make more use of social media channels. This particularly relates to announcing winners on LinkedIn where potential employers can learn more about students’ achievements.
+
 We’ve also learned, as organizers, that it’s really important to host internal communications on a group communication platform (e.g. [Discord](https://discord.com/)). 
+
 Our hackathon teams have access to the supercomputing center in Indiana and we pre-set our event with that. 
+
 Students bring their own laptops and their own power supply. We have extra power supply and power strips on hand for students. 
+
 We also provide each team with a dedicated space to work.
+
 We host ‘pop-in’ presentations three times a day to keep people on track and make sure everybody's okay. 
+
 Every team has a mentor and we provide mentor training beforehand.
+
 We also deliver pre-training workshops for participants who are less familiar with open source on GitHub, Jupyter Notebooks, Python. 
 
 # Known Instances
