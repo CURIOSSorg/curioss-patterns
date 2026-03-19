@@ -49,6 +49,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Individual consultations / Office Hours](https://github.com/CURIOSSorg/curioss-patterns/blob/main/individual-consultations-office-hours.md)
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
+* [Open Project Management using github](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
@@ -154,6 +155,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Integrating OSS into Institutional Software Pathways](https://github.com/CURIOSSorg/curioss-patterns/blob/main/integrating-oss-into-institutional-software-pathways.md)
 * [Lunch and Learn](lunch-and-learn.md)
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
+* [Open Project Management using github](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
 * [Open Source Software Prize](open-source-software-prize.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
 * [OSPO as *Lead* Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-lead-principal-investigator.md)
@@ -166,6 +168,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Software Prize](open-source-software-prize.md)
 
 **Tools & Infrastructure**
+* [Open Project Management using github](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [OSS Tutorials using Authoring Tools](https://github.com/CURIOSSorg/curioss-patterns/blob/main/oss-tutorials-using-authoring-tools.md)
 
