@@ -8,7 +8,7 @@ Hackathons that involve external partners (e.g. companies, nonprofits, or other 
 
 External partners vary widely in their level of hackathon experience and may have unrealistic expectations relating to decision making, event management and structure of the hackathon.
 
-A lack of early engagement and role clarity can lead to ambiguity about who is the key decision maker; logistical details on the day of the event; role confusion for mentors, judges, volunteers, and partner representatives.
+A lack of early engagement and role clarity can lead to ambiguity about who is the key decision maker; logistical details on the day of the event; role confusion for mentors, judges, volunteers and partner representatives.
 
 Partner contributions that are poorly integrated into the event reduce the value for participants.
 
@@ -23,12 +23,14 @@ A university OSPO is involved in organizing or co-organizing a hackathon.
 
 One or more external organizations have expressed interest in participating as sponsors, problem-statement providers or resource contributors. 
 
-Internal stakeholders from across the institution are also involved. The OSPO has established relationships with both external partners and relevant internal groups.
+Internal stakeholders from across the institution are also involved. 
+
+The OSPO has established relationships with both external partners and relevant internal groups.
 
 # Forces
 External partners may not know what a productive hackathon contribution looks like or may arrive with a highly structured approach that does not fit the university context.
 
-Partners with well-developed playbooks can be a significant asset, but their approach may need negotiation and adaptation to work well for student participants.
+Partners with well-developed playbooks can be a significant asset but their approach may need negotiation and adaptation to work well for student participants.
 
 Internal stakeholders (e.g. faculty, student groups, graduate programs) each have a stake in the event and may have different assumptions about governance and decision-making.
 
@@ -37,20 +39,17 @@ The OSPO has a coordinating role but not a directive one. It must build shared u
 Logistics and role clarity are significantly harder to address on the day itself, when time pressure is high.
 
 # Solution
-Obtain clarity on roles and logistics by positioning the OSPO as the central coordination point through which external partners, faculty, and student groups can each contribute to the event.
+Obtain clarity on roles and logistics by positioning the OSPO as the central coordination point through which external partners, faculty and student groups can each contribute to the event.
 
 The solution below outlines some core activities to consider:
 
 ## Define the partner's programmatic contribution
- 
 Before engaging with logistics, work with external partners to establish what they are uniquely positioned to offer. Questions to ask include: 
 
 - What access or resources does the partner bring that participants would not otherwise have e.g. proprietary tools, specialized datasets, on-call subject-matter engineers, mentors, prizes? 
-
 - What real-world problem statement can the partner offer? 
 
 ## Negotiate the partner's facilitation role
-
 - Assess whether the partner has an established facilitation playbook and, if so, how well it fits the university context and participant needs. 
 - Where a partner has a well-tested approach, work to integrate it into the event structure. 
 - Where a partner has no established approach, provide more scaffolding and take a more active role in defining what their participation looks like.
@@ -61,15 +60,15 @@ Problem statements that are too narrow or proprietary can constrain participant 
 
 ## Manage expectations and clarify roles
 - Meet external stakeholders in advance to agree on the event structure and individual responsibilities. 
-- Produce a shared run-of-show document before the event that sets out the event timeline and key phases (opening, hacking period, mentorship windows, judging, closing). The run-of-show document is only effective if all parties engage with it before the event; securing that engagement requires active follow-through from the OSPO.
-- Outline the specific expectations for each role i.e. mentors, judges, volunteers, and partner representatives including who owns each phase and each category of decision. 
+- Produce a shared run-of-show document before the event that sets out the event timeline and key phases (opening, hacking period, mentorship windows, judging, closing). The run-of-show document is only effective if all parties engage with it before the event. Securing that engagement requires active follow-through from the OSPO.
+- Outline the specific expectations for each role i.e. mentors, judges, volunteers and partner representatives - including who owns each phase and each category of decision. 
 - Circulate this document to all parties with enough lead time to resolve any disagreements before the day of the event.
 - Communicate partner contributions to internal stakeholders and participants so they can prepare to make use of it.
 
 # Resulting Context
 Collaborating with external partners offers participants fresh opportunities to access additional resources, new tools and real-world problems in a hackathon. 
 
-Role clarity achieved before the hackathon significantly reduces workload and  coordination overhead in the run-up to the event and on the day itself.
+Role clarity achieved before the hackathon significantly reduces workload and coordination overhead in the run-up to the event and on the day itself.
 
 External partners feel their contribution is purposeful and well-integrated, strengthening the relationship for future collaboration. 
 
