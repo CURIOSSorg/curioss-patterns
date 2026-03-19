@@ -10,10 +10,8 @@ Students and researchers are not attracting the contributors and maintainers nee
 
 # Pattern Category
 
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
-- Building University OSS Community
-- Sharing OSS Best Practices  
+- Building Community
+- Promoting Best Practices  
 
 # Context
 
