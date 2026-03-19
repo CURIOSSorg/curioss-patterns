@@ -19,12 +19,14 @@ The focus on winning can also discourage experimentation and limit knowledge sha
 - Working with Tech Transfer / External Partners  
    
 # Context
-* A research institution or a university. 
-* An OSPO has been established.
-* The OSPO is organizing an open source hackathon. 
+A research institution or a university. 
+
+An OSPO has been established.
+
+The OSPO is organizing an open source hackathon. 
 
 # Forces
-* There is flexibility to negotiate on prizes or competitive elements with partners or external sponsors. 
+There is flexibility to negotiate on prizes or competitive elements with partners or external sponsors. 
 
 # Solution
 Build in some or all of the actions below to reframe a hackathon as a collaborative experience rather than a competition.
@@ -35,7 +37,7 @@ Cash prizes create a more competitive atmosphere. Where possible, offer universa
 Prize categories should emphasise good practice and skills development rather than outputs (e.g. best use of open source, best research advancement).
 
 ## Value good open source practices
-Provide recognition for meaningful open source work including design, documentation, testing, community building, and accessibility improvements - not just code. 
+Provide recognition for meaningful open source work including design, documentation, testing, community building and accessibility improvements - not just code. 
 
 Make this explicit in the hackathon’s code of conduct and in decisions around rewards and celebrating contributions. 
 
@@ -66,7 +68,6 @@ Students develop not just technical skills but also collaboration, communication
 Researchers and open source projects gain access to a pipeline of potential new contributors/maintainers. 
 
 ## Additional Learning from the UC OSPO Network
-
 There are different models for non-competitive hackathons.
 
 One example is setting the same challenge for everyone and regrouping the following day to either combine solutions or work collaboratively on a ‘whole group’ solution.
@@ -87,11 +88,13 @@ We also host ‘pop-in’ presentations three times a day to keep people on trac
 
 We’ve found that collaborative open source hackathons tend to attract more women than competitive hackathons.
 
-# Known Instances and References
+# Known Instances
 - [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 - [University of California OSPO Network](https://ucospo.net/)
 - [UCSC OSPO](https://ucsc-ospo.github.io/). University of California, Santa Cruz
 - [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+
+# References
 
 ## Related Patterns
 - [Organize an Open Source Hackathon]
