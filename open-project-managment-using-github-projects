@@ -56,17 +56,17 @@ Project views, milestones, and iterations provide a straightforward way to track
 + Everyone on the team can see and comment on each other’s issues. This creates a sense of accountability and positive peer pressure, and it is extremely satisfying to complete each issue. 
 + Keeping work open makes it possible for those external to the OSPO to follow along and contribute. 
 
-## Additional Learning from The George Washington University
-We've already been contacted by someone (in another country) who is external to our OSPO and who wishes to contribute to our work. We plan to collaborate with them on another project.
-
 **Potential Trade-offs:**
 + Contributors unfamiliar with GitHub Projects may require additional training at the start.
 
+## Additional Learning from The George Washington University
+We've already been contacted by someone (in another country) who is external to our OSPO and who wishes to contribute to our work. We plan to collaborate with them on another project.
+
 # Known Instances
-- [The GW Open Source Program Office, The George Washington University](https://ospo.gwu.edu/)
+[The GW Open Source Program Office, The George Washington University](https://ospo.gwu.edu/)
 
 # References
-- [GW OSPO Github Project Board](https://github.com/orgs/gw-ospo/projects/)
+[GW OSPO Github Project Board](https://github.com/orgs/gw-ospo/projects/)
 
 # Contributors & Acknowledgement
 - Jood Alfadhel, George Washington University, <https://orcid.org/0009-0000-2827-4036>
