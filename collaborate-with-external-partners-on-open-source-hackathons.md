@@ -97,13 +97,13 @@ Often, our role as the OSPO, is to act as a central point that enables faculty, 
 # References
 
 ## Related Patterns
-- [Organize an Open Source Hackathon]
-- [Design a Collaborative Open Source Hackathon]
-- [Enable Student-led Hackathons]
-- [Embed wellbeing into Student Hackathons]
-- [Engage a Hackathon Facilitator]
-- [Collaborate with External Partners on Open Source Hackathons]
-- [Lower the barriers to entry for Student Hackathons]
+- [Collaborate with External Partners on Open Source Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/collaborate-with-external-partners-on-open-source-hackathons.md)
+- [Design a Collaborative Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/design-a-collaborative-open-source-hackathon.md)
+- [Embed wellbeing into Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/enable-student-led-hackathons.md)
+- [Enable Student-led Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/enable-student-led-hackathons.md)
+- [Engage a Hackathon Facilitator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/engage-a-hackathon-facilitator.md)
+- [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md)
+- [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
 
 # Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin
@@ -112,4 +112,3 @@ Often, our role as the OSPO, is to act as a central point that enables faculty, 
 - Emily Lovell, University of California Santa Cruz, https://orcid.org/0000-0001-5531-5956
 - Laura Langdon, University of California, Davis
 - Tom Hughes, Carnegie Mellon University, https://orcid.org/0009-0008-7516-3687
-
