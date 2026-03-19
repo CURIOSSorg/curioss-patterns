@@ -17,42 +17,50 @@ Left unaddressed, this can lead to physical exhaustion, impaired decision-making
    
 # Context
 A university or research institution. 
+
 An OSPO has been established.
+
 The OSPO is involved in organizing or supporting a hackathon.
 
 # Forces
 The hackathon will take place over a 24 or 48 hour period.
+
 Hackathon participants may be on-site overnight. 
+
 Student teams may be unsupervised for periods of time. 
+
 Mentors will also be on-site for guidance.
+
 A budget is available for food and hydration.
 
 # Solution
-Design wellbeing and safety into the following areas.
+Design wellbeing and safety into the following areas:
 
 ## Planning
 Organizers should establish clear positions on sleep, participant welfare and safety.
+
 Sleeping should be a non-negotiable requirement for participation. 
 
 ## Mentor Training
 Provide clear guidance to mentors on the hackathon’s approach to wellbeing. 
+
 Brief mentors explicitly on safety guidelines and actively encouraging participants to sleep.
 
 ## Food and Hydration
-Ensure that food, snacks, and water are available on-site throughout the event — particularly at night. 
-This removes the need for participants to leave the venue alone at night, which presents both safety and safeguarding risks. 
+Ensure that food, snacks and water are available on-site throughout the event — particularly at night. This removes the need for participants to leave the venue alone at night, which presents both safety and safeguarding risks. 
 
 ## Minors
 Where participation from minors is permitted, coordinate with campus risk management colleagues. 
+
 Areas for consideration include: waivers, transport and when participants should leave and return each day.
 
 ## Dedicated Wellbeing Support
 Appoint one or more welfare or wellbeing support people whose sole responsibility will be to support and monitor participant welfare. This role formalises care as a structured responsibility rather than leaving it to chance.
-The support person(s) will circulate amongst teams, check in proactively, and be a visible and approachable point of contact for students.
+
+The support person(s) will circulate amongst teams, check in proactively and be a visible, approachable point of contact for students.
 
 ## Messaging
-Ensure that safeguarding information about sleep, safety, food and support on-site is included in dvance communications with participants about the hackathon 
-This messaging should be reinforced throughout the hackathon.
+Ensure that safeguarding information about sleep, safety, food and support on-site is included in dvance communications with participants about the hackathon. This messaging should be reinforced throughout the hackathon.
 
 # Resulting Context
 Students experience the hackathon as an intensive but sustainable event. 
@@ -68,7 +76,7 @@ We have a policy of advocating for sleep.
 
 We also try to have food and water on hand so that students aren’t making food runs at 3am when they're sleep deprived. 
 
-We always make sure that we have a non participating support person who makes sure all teams are safe, feeling good, working well and that they don't need anything.
+We always have a non-participating support person who makes sure all teams are safe, feeling good, working well and that they don't need anything.
 
 ## Additional Learning from University of Texas at Austin OSPO
 We give explicit directions for sleep and we provide a mechanism to ensure that students get sleep. 
