@@ -27,7 +27,7 @@ An industry partner or sponsor may have expressed an interest in engaging studen
 # Solution
 Engage an external facilitator or industry partner who can provide end-to-end structure, domain expertise and on-the-ground management for the hackathon. 
 
-Universities can source and work with facilitators through industry partnerships or hiring external hackathon facilitators. 
+Universities can source and work with facilitators through industry partnerships or by hiring external hackathon facilitators. 
 
 ## Leverage industry partners as embedded facilitators
 Industry partners (e.g. technology companies, biomedical firms or sector-specific organisations) often offer: 
@@ -43,11 +43,11 @@ Universities may also use a portion of their hackathon budget to hire a professi
 * **The scale and duration of the hackathon:** A multi-day event will require more facilitation resources than a one-day sprint.
 * **The facilitator’s role** in designing challenges and/or delivering on a predetermined agenda.
   
-### Source Facilitators through existing networks
+### Source Facilitators 
 Universities can identify hackathon facilitators through a range of channels:
 
 * **Academic innovation and entrepreneurship networks:** Technology transfer offices, incubators, and entrepreneurship programmes often have connections to experienced hackathon facilitators.
-* **Industry associations** Sector bodies in areas such as life sciences, sustainability, fintech, or engineering frequently run or support hackathons and may be able to recommend facilitators.
+* **Industry associations** Sector bodies in areas such as life sciences, sustainability, fintech or engineering frequently run or support hackathons and may be able to recommend facilitators.
 * **Peer institution referrals:** Universities that have run successful hackathons can share recommendations through peer consortia or sector networks.
 * **Alumni networks:** Former students who have moved into innovation, product, or startup roles may be well-placed to facilitate events or refer facilitators.
 
@@ -61,7 +61,6 @@ Whether working with an industry partner or a hired facilitator, universities sh
 * Infrastructure responsibilities — what the university provides versus what the facilitator manages.
   
 A written agreement or detailed briefing document protects both parties and reduces the risk of misaligned expectations on the day.
-
 
 # Resulting Context
 **High quality event:** Universities with limited experience of running hackathons can still provide high quality events with clear agendas, excellent team support and strong student engagement.
@@ -77,7 +76,7 @@ The facilitation role is a big part of working with external partners.
 
 In the case of industry experts, It’s not just about funding. Partners often have a playbook of how they want to run a hackathon. Often they’ll come in with a defined problem set and a structure for the event and we partner with them to run the structure.
 
-Another example is an external facilitator that we used. They came in with a structure and also selected the team; brought in team leads; designed the problem set; and provided a plan of how the hackathon would be run each day. They also had a checklist of what they needed from us. 
+Another example is an external facilitator that we used. They came in with a structure and also selected the teams; brought in team leads; designed the problem set; and provided a plan of how the hackathon would be run each day. They also had a checklist of what they needed from us. 
 
 This was a big draw for us as we knew well ahead of time how many problems they would tackle and the resources involved. We had a laundry list that we could then share with colleagues.
 
