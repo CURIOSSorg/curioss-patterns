@@ -1,7 +1,7 @@
 # Lower the barriers to entry for Student Hackathons
 
 # Pattern Summary
-Offer pre-event training for participants and mentors to ensure that students of all skill levels can participate meaningfully in a hackathon.
+Offer pre-event training for participants and mentors to ensure that students of *all skill levels* can participate meaningfully in a hackathon.
 
 # Problem / Challenge
 Hackathons risk becoming exclusive to students who already have advanced technical skills. This limits both the diversity and number of participants who can meaningfully contribute to hackathons.
@@ -18,11 +18,13 @@ Mentors recruited from industry may be highly technically skilled but unfamiliar
 
 # Context
 A university OSPO is organizing or co-organizing a student hackathon. 
+
 The event is intended to be open to students across different programs and levels of experience - from undergraduates to postgraduates. 
+
 Some mentors are being recruited from industry rather than academia. 
 
 # Forces
-* Staff have the capacity to organize and/or deliver pre-training in advance of the event itself.
+Staff have the capacity to organize and/or deliver pre-training in advance of the event itself.
 
 # Solution
 Design and deliver a pre-event preparation programme that addresses the needs of both participants and mentors before the hackathon begins.
@@ -32,18 +34,18 @@ The solution below outlines some core activities to consider:
  ## Offer *optional* technical pre-training for participants
 - Identify the core tools and skills that participants will need to engage with the hackathon challenges. Examples of relevant training include introductions to GitHub, Python or Jupyter Notebooks.
 - Offer short, accessible training sessions in advance of the event that allow less experienced students to get up to speed. 
-- Framing these sessions as optional but useful encourages participation without implying that students who attend are less capable.  
+- Framing these sessions as 'optional but useful' encourages participation without implying that students who attend are less capable.  
 
 ## Deliver mentor training ahead of the event
 - Recruit mentors with enough lead time to provide them with a dedicated preparation session before the hackathon. 
-- Depending on the event’s theme, training may explore cover how to work effectively with students at different skill levels and what to expect from participants who may be newer to the domain. 
+- Depending on the event’s theme, training may explore cover how to work effectively with students at different skill levels and what to expect from participants who are newer to the domain. 
 
-This is particularly important where mentors are coming from industry and may not have recent experience working in an academic or educational setting.
+This is particularly important for industry mentors who may not have recent experience working in an academic or educational setting.
  
 ## Communicate the multi-skill-level ethos clearly
 Make it explicit in all event communications that the hackathon is designed for multiple skill levels and that support is available. 
 
-This sets expectations for both participants and mentors and helps create an environment where less experienced students feel genuinely welcome.
+This sets expectations for both participants and mentors and helps to create an environment where less experienced students feel genuinely welcome.
 
 ## During the event
 Where possible, provide a range of contribution opportunities for beginner-friendly issues (e.g. documentation, simple bug fixes). 
@@ -72,7 +74,6 @@ We also provide mentor training beforehand. Some of our mentors come from indust
 - [Embed wellbeing into Student Hackathons]
 - [Engage a Hackathon Facilitator]
 - [Collaborate with External Partners on Open Source Hackathons]
-- [Lower the barriers to entry for Student Hackathons]
 
 # Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin
