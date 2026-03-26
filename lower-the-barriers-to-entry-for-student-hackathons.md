@@ -68,12 +68,12 @@ We also provide mentor training beforehand. Some of our mentors come from indust
 # References
 
 ## Related Patterns
-- [Organize an Open Source Hackathon]
-- [Design a Collaborative Open Source Hackathon]
-- [Enable Student-led Hackathons]
-- [Embed wellbeing into Student Hackathons]
-- [Engage a Hackathon Facilitator]
-- [Collaborate with External Partners on Open Source Hackathons]
+- [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
+- [Design a Collaborative Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/design-a-collaborative-open-source-hackathon.md)
+- [Enable Student-led Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/enable-student-led-hackathons.md)
+- [Embed wellbeing into Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embed-wellbeing-into-student-hackathons.md)
+- [Engage a Hackathon Facilitator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/engage-a-hackathon-facilitator.md)
+- [Collaborate with External Partners on Open Source Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/collaborate-with-external-partners-on-open-source-hackathons.md)
 
 # Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin
