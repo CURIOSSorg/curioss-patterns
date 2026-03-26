@@ -187,7 +187,6 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Open Source Software Prize](open-source-software-prize.md)
 
 **Tools & Infrastructure**
-* [Design a Collaborative Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/design-a-collaborative-open-source-hackathon.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [OSS Tutorials using Authoring Tools](https://github.com/CURIOSSorg/curioss-patterns/blob/main/oss-tutorials-using-authoring-tools.md)
 
