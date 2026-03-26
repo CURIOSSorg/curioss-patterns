@@ -97,13 +97,12 @@ Often, our role as the OSPO, is to act as a central point that enables faculty, 
 # References
 
 ## Related Patterns
-- [Collaborate with External Partners on Open Source Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/collaborate-with-external-partners-on-open-source-hackathons.md)
+- [Organise an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
 - [Design a Collaborative Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/design-a-collaborative-open-source-hackathon.md)
-- [Embed wellbeing into Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/enable-student-led-hackathons.md)
+- [Embed wellbeing into Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/embed-wellbeing-into-student-hackathons.md)
 - [Enable Student-led Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/enable-student-led-hackathons.md)
 - [Engage a Hackathon Facilitator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/engage-a-hackathon-facilitator.md)
 - [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md)
-- [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
 
 # Contributors & Acknowledgement
 - Angela Newell, University of Texas at Austin
