@@ -1,0 +1,84 @@
+site_name: Patterns
+nav:
+  # This adds a link in the navigation bar on the left
+  - Home: README.md
+  - Template: PATTERN-TEMPLATE.md
+
+# Associated Git Repo Config
+repo_url: https://github.com/CURIOSSorg/curioss-patterns
+# use rep_name to change how the name is shown in the top right corner
+# repo_name: gh:curioss-patterns
+docs_dir: "../"
+site_dir: "/tmp/patterns_site"
+
+# Theme Configuration
+# Colour options: red, pink, purple, deep purple, indigo, blue, light blue,
+#                 cyan, teal, green, light green, lime, yellow, amber,
+#                 orange, deep orange
+theme:
+  name: 'material'
+  language: 'en'
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+  icon:
+    tag:
+      # keys refers to the tags identifier in the extra section below
+      # values are the icons to show. List of icons available
+      # https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
+      agp: material/scale-balance
+      awareness: material/rss-box
+      community: fontawesome/solid/people-group
+      value: material/diamond
+      dei: fontawesome/solid/rainbow
+      edu: material/book-education
+      funding: material/gold
+      development: material/code-tags
+      discovery: material/lightbulb
+      sustainability: material/recycle
+      promoting: material/newspaper
+      rewards: material/medal
+      tools: material/toolbox
+      transfer: material/transfer
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: 'teal'
+    accent: 'teal'
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: 'black'
+    accent: 'teal'
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+  logo: 'https://curioss.org/images/color_horizontal_logotype1.svg'
+
+markdown_extensions:
+  - toc:
+      permalink: ' §'
+  - footnotes
+  - sane_lists
+plugins:
+  - search
+  - tags
+extra:
+  tags:
+    # Set a tag with a identifier so then an icon can be set on the theme.
+    Advocacy, Governance & Policy: agp
+    Awareness: awareness
+    Community Building: community
+    Demonstrating value as an Academic OSPO: value
+    Diversity, Equity & Inclusion: dei
+    Education & Skills: edu
+    Funding & Financial Support: funding
+    Open Source Development: development
+    Open Source Discovery: discovery
+    Open Source Sustainability: sustainability
+    Promoting Best Practices: promoting
+    Rewards & Recognition: rewards
+    Tools & Infrastructure: tools
+    Working with Tech Transfer / External Partners: transfer
