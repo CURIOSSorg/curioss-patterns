@@ -1,3 +1,9 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Demonstrating value as an Academic OSPO
+  - Funding & Financial Support
+---
 # Open Source Grant Commitment Letter
 
 ## Pattern Summary

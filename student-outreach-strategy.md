@@ -1,3 +1,9 @@
+---
+tags:
+  - Awareness
+  - Community Building
+  - Education & Skills
+---
 # Student Outreach Strategy
 
 ## Pattern Summary

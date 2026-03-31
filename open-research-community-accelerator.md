@@ -1,3 +1,10 @@
+---
+tags:
+  - Education & Skills
+  - Open Source Development
+  - Open Source Sustainability
+  - Working with Tech Transfer / External Partners
+---
 # Open Research Community Accelerator (ORCA)
 
 ## Pattern Theme / Category

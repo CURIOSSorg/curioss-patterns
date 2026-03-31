@@ -1,3 +1,8 @@
+---
+tags:
+  - Community Building
+  - Open Source Discovery
+---
 # Open Source Catalog 
 
 ## Pattern Theme / Category

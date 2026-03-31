@@ -1,3 +1,10 @@
+---
+tags:
+  - Community Building
+  - Education & Skills
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Collaborate with External Partners on Open Source Hackathons
 
 ## Pattern Summary

@@ -1,3 +1,8 @@
+---
+tags:
+  - Awareness
+  - Community Building
+---
 # Set up an informal Communication Platform
 
 ## Pattern Summary

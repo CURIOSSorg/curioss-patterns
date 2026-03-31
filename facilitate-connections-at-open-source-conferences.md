@@ -1,3 +1,7 @@
+---
+tags:
+  - Community Building
+---
 # Facilitate connections at Open Source Conferences
 
 ## Pattern Summary

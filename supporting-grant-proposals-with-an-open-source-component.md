@@ -1,3 +1,9 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Demonstrating value as an Academic OSPO
+  - Funding & Financial Support
+---
 # Supporting grant proposals with an open source component
 
 ## Pattern Summary

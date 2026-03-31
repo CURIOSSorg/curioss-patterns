@@ -1,3 +1,8 @@
+---
+tags:
+  - Education & Skills
+  - Promoting Best Practices
+---
 # Organize one-off workshops
 
 ## Pattern Summary

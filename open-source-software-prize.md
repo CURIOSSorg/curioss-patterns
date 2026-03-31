@@ -1,3 +1,11 @@
+---
+tags:
+  - Community Building
+  - Diversity, Equity & Inclusion
+  - Open Source Discovery
+  - Promoting Best Practices
+  - Rewards & Recognition
+---
 # Open Source Software Prize
 
 ### Pattern Theme / Category

@@ -1,3 +1,13 @@
+---
+tags:
+  - Awareness
+  - Community Building
+  - Education & Skills
+  - Promoting Best Practices
+  - Rewards & Recognition
+  - Supporting Open Source Development
+  - Working with Tech Transfer / External Partners
+---
 # Organize an Open Source Hackathon
 
 ## Pattern Summary

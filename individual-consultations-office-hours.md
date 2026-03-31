@@ -1,3 +1,11 @@
+---
+tags:
+  - Community Building
+  - Funding & Financial Support
+  - Open Source Development
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Individual consultations / Office Hours
 
 ## Pattern Summary

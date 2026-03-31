@@ -1,3 +1,9 @@
+---
+tags:
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+  - Open Source Development
+---
 # Informal OSPO focus group sessions at Open Source Events
 
 ## Pattern Summary

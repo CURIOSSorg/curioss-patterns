@@ -1,3 +1,10 @@
+---
+tags:
+  - Awareness
+  - Community Building
+  - Education & Skills
+  - Open Source Discovery
+---
 # Event Tabling 
 
 ## Pattern Summary

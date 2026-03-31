@@ -1,3 +1,9 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Awareness
+  - Promoting Best Practices
+---
 # Framework for Managing University OSS
 
 ## Pattern Theme / Category

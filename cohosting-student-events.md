@@ -1,3 +1,9 @@
+---
+tags:
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+  - Education & Skills
+---
 # Co-hosting Student Events
 
 ## Pattern Summary

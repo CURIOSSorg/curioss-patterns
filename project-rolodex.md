@@ -1,3 +1,10 @@
+---
+tags:
+  - Awareness
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+  - Open Source Discovery
+---
 # Project Rolodex
 
 ## Pattern Summary

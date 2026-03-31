@@ -1,3 +1,11 @@
+---
+tags:
+  - Demonstrating value as an Academic OSPO
+  - Education & Skills
+  - Open Source Development
+  - Tools & Infrastructure
+  - Working with Tech Transfer / External Partners
+---
 # Open Source AI Pilot
 
 ## Pattern Summary

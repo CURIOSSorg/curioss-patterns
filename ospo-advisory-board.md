@@ -1,3 +1,9 @@
+---
+tags:
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+  - Working with Tech Transfer / External Partners
+---
 # OSPO Advisory Board
 
 ## Pattern Summary

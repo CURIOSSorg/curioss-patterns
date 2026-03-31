@@ -1,3 +1,12 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Awareness
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+  - Education & Skills
+  - Open Source Development
+---
 # Student Showcase Sessions at OSPO Events
 
 ## Pattern Summary

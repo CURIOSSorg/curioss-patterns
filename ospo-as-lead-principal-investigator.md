@@ -1,3 +1,12 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Demonstrating value as an Academic OSPO
+  - Funding & Financial Support
+  - Open Source Development
+  - Open Source Sustainability
+  - Promoting Best Practices
+---
 # OSPO as *Lead* Principal Investigator
 
 ## Pattern Summary

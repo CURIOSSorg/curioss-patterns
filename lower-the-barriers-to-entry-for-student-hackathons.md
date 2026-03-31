@@ -1,3 +1,11 @@
+---
+tags:
+  - Community Building
+  - Diversity, Equity & Inclusion
+  - Education & Skills
+  - Funding & Financial Support
+  - Promoting Best Practices
+---
 # Lower the barriers to entry for Student Hackathons
 
 ## Pattern Summary
