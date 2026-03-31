@@ -95,7 +95,7 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 * [Consultation template for projects](https://www.google.com/url?q=https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit?usp%3Dsharing&sa=D&source=docs&ust=1746004597188190&usg=AOvVaw1juIFcUqNZPBiGZcWgF3eL) used by Carnegie Mellon University OSPO.
 
 ### Related Patterns
-[Template for 1:1 Campus Consultations](./template-for-1%3A1-campus-consultations.md)
+[Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
 
 ## Contributors & Acknowledgement
 
