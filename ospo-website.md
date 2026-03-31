@@ -1,3 +1,9 @@
+---
+tags:
+  - Awareness
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+---
 # OSPO Website
 
 ## Pattern Summary

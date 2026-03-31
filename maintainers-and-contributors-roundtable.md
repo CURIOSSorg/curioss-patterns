@@ -1,3 +1,10 @@
+---
+tags:
+  - Community Building
+  - Education & Skills
+  - Open Source Discovery
+  - Promoting Best Practices
+---
 # Maintainers & Contributors Roundtable
 
 ## Pattern Summary

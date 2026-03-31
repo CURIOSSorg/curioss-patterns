@@ -1,3 +1,10 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Awareness
+  - Demonstrating value as an Academic OSPO
+  - Promoting Best Practices
+---
 # Lunch and Learn
 
 ## Pattern Theme / Category

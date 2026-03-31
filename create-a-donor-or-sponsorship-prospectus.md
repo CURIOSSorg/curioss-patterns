@@ -1,3 +1,9 @@
+---
+tags:
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+  - Funding & Financial Support
+---
 # Create a Donor/Sponsorship Prospectus
 
 ## Pattern Summary

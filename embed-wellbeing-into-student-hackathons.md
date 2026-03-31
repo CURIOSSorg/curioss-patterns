@@ -1,3 +1,9 @@
+---
+tags:
+  - Community Building
+  - Education & Skills
+  - Promoting best Practices
+---
 # Embed wellbeing into Student Hackathons
 
 ## Pattern Summary

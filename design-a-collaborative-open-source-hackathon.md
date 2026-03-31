@@ -1,3 +1,11 @@
+---
+tags:
+  - Community Building
+  - Diversity, Equity & Inclusion
+  - Education & Skills
+  - Rewards & Recognition
+  - Working with Tech Transfer / External Partners
+---
 # Design a Collaborative Open Source Hackathon
 
 ## Pattern Summary

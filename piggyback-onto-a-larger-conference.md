@@ -1,3 +1,12 @@
+---
+tags:
+  - Awareness
+  - Community Building
+  - Education & Skills
+  - Open Source Development
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Piggyback onto a larger conference
 
 ## Pattern Summary

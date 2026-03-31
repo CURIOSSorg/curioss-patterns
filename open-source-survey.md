@@ -1,3 +1,9 @@
+---
+tags:
+  - Awareness
+  - Community Building
+  - Open Source Discovery
+---
 # Open Source Survey
 
 ## Pattern Category

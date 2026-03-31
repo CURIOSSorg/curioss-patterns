@@ -1,3 +1,10 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Awareness
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+---
 # OSPO Mailing List
 
 ## Pattern Summary

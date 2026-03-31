@@ -1,3 +1,10 @@
+---
+tags:
+  - Community Building
+  - Education & Skills
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Engage a Hackathon Facilitator
 
 ## Pattern Summary

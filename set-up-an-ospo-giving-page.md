@@ -1,3 +1,7 @@
+---
+tags:
+  - Funding & Financial Support
+---
 # Set up an OSPO Giving Page
 
 ## Pattern Summary

@@ -1,3 +1,9 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Awareness
+  - Community Building
+---
 # Publish an OSPO Newsletter
 
 ## Pattern Summary

@@ -1,3 +1,9 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Awareness
+  - Demonstrating value as an Academic OSPO
+---
 # Senior Leadership Keynote
 
 ## Pattern Summary

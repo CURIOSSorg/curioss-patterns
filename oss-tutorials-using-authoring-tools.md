@@ -1,3 +1,8 @@
+---
+tags:
+  - Education & Skills
+  - Tools & Infrastructure
+---
 # OSS Tutorials using Authoring Tools
 
 ## Pattern Theme / Category

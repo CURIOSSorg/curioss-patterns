@@ -1,3 +1,15 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Awareness
+  - Community Building
+  - Demonstrating value as an Academic OSPO
+  - Education & Skills
+  - Funding & Financial Support
+  - Open Source Development
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Host an Open Source Conference
 
 ## Pattern Summary

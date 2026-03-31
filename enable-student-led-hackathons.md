@@ -1,3 +1,11 @@
+---
+tags:
+  - Community Building
+  - Education & Skills
+  - Funding & Financial Support
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Enable Student-led Hackathons
 
 ## Pattern Summary

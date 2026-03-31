@@ -1,3 +1,8 @@
+---
+tags:
+  - Education & Skills
+  - Working with Tech Transfer / External Partners
+---
 # Summer Internship Program  
 
 ## Pattern Theme / Category

@@ -1,3 +1,8 @@
+---
+tags:
+  - Community Building
+  - Promoting Best Practices
+---
 # Create template documents for GitHub Repositories
 
 ## Pattern Summary

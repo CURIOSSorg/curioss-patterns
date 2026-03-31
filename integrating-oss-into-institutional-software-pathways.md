@@ -1,3 +1,9 @@
+---
+tags:
+  - Advocacy, Governance & Policy
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Integrating OSS into Institutional Software Pathways 
 
 ## Pattern Summary

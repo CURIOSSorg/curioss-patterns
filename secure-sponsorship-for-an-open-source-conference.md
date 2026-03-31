@@ -1,3 +1,9 @@
+---
+tags:
+  - Community Building
+  - Funding & Financial Support
+  - Working with Tech Transfer / External Partners
+---
 # Secure sponsorship for an Open Source Conference
 
 ## Pattern Summary

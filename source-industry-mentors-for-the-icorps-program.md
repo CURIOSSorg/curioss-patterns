@@ -1,3 +1,13 @@
+---
+tags:
+  - Demonstrating value as an Academic OSPO
+  - Education & Skills
+  - Funding & Financial Support
+  - Open Source Development
+  - Open Source Sustainability
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Source Industry Mentors for the I-Corps program
 
 ## Pattern Summary
