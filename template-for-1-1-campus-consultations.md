@@ -1,3 +1,11 @@
+---
+tags:
+  - Community Building
+  - Funding & Financial Support
+  - Open Source Development
+  - Promoting Best Practices
+  - Working with Tech Transfer / External Partners
+---
 # Template for 1:1 Campus Consultations
 
 ## Pattern Summary
