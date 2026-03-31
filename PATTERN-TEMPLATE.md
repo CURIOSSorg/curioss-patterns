@@ -1,3 +1,20 @@
+---
+tags:
+  # Un-comment the tags that apply for your pattern, delete the rest.
+  #- Advocacy, Governance & Policy
+  #- Awareness
+  #- Community Building
+  #- Demonstrating value as an OSPO
+  #- Education & Skills
+  #- Funding & Financial Support
+  #- Open Source Development
+  #- Open Source Discovery
+  #- Open Source Sustainability
+  #- Promoting Best Practices
+  #- Rewards & Recognition
+  #- Tools & Infrastructure
+  #- Working with Tech Transfer / External Partners
+---
 # Pattern Name
 
 ## Pattern Summary
