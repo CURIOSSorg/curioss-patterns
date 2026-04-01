@@ -56,7 +56,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Informal OSPO focus group sessions at Open Source Events](https://github.com/CURIOSSorg/curioss-patterns/blob/main/informal-ospo-focus-groups-at-open-source-events.md)
 * [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md)
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
-* [Open Project Management using github](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
+* [Open Project Management using Github Projects](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
 * [Open Source Catalog](open-source-catalog.md)  
 * [Open Source Software Prize](open-source-software-prize.md)  
 * [Open Source Survey](open-source-survey.md)
@@ -178,7 +178,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Lunch and Learn](lunch-and-learn.md)
 * [Lower the barriers to entry for Student Hackathons](https://github.com/CURIOSSorg/curioss-patterns/blob/main/lower-the-barriers-to-entry-for-student-hackathons.md) 
 * [Maintainers & Contributors Roundtable](https://github.com/CURIOSSorg/curioss-patterns/blob/main/maintainers-contributors-roundtable.md)
-* [Open Project Management using github](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
+* [Open Project Management using Github Projects](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
 * [Open Source Software Prize](open-source-software-prize.md)
 * [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
 * [OSPO as Co-Principal Investigator](https://github.com/CURIOSSorg/curioss-patterns/blob/main/ospo-as-co-principal-investigator.md)
@@ -197,7 +197,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 * [Organize an Open Source Hackathon](https://github.com/CURIOSSorg/curioss-patterns/blob/main/organize-an-open-source-hackathon.md)
 
 **Tools & Infrastructure**
-* [Open Project Management using github](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
+* [Open Project Management using Github Projects](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-project-managment-using-github-projects.md)
 * [Open Source AI Pilot](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-ai-pilot.md)
 * [OSS Tutorials using Authoring Tools](https://github.com/CURIOSSorg/curioss-patterns/blob/main/oss-tutorials-using-authoring-tools.md)
 
