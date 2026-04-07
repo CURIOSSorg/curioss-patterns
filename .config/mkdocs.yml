@@ -1,4 +1,6 @@
 site_name: Patterns
+site_url: https://curioss.org/patterns/
+use_directory_urls: true
 nav:
   # This adds a link in the navigation bar on the left
   - Home: README.md
@@ -9,7 +11,7 @@ repo_url: https://github.com/CURIOSSorg/curioss-patterns
 # use rep_name to change how the name is shown in the top right corner
 # repo_name: gh:curioss-patterns
 docs_dir: "../"
-site_dir: "/tmp/patterns_site"
+# site_dir only used by GitHub Actions, local dev uses default
 
 # Theme Configuration
 # Colour options: red, pink, purple, deep purple, indigo, blue, light blue,
