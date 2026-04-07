@@ -23,14 +23,14 @@ jobs:
       - name: Build patterns site
         run: |
           cd .config
-          mkdocs build --site-dir ../site
+          mkdocs build --site-dir /tmp/patterns_site
       
       - name: Deploy to curioss.org repo
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PATTERNS_DEPLOY_TOKEN }}
           external_repository: CURIOSSorg/curioss.org
-          publish_dir: ./site
+          publish_dir: /tmp/patterns_site
           destination_dir: static/patterns
           publish_branch: main
           keep_files: true  # Don't delete other files in the repo

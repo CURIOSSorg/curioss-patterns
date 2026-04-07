@@ -11,7 +11,7 @@ repo_url: https://github.com/CURIOSSorg/curioss-patterns
 # use rep_name to change how the name is shown in the top right corner
 # repo_name: gh:curioss-patterns
 docs_dir: "../"
-# site_dir only used by GitHub Actions, local dev uses default
+# site_dir is specified in build command, not here
 
 # Theme Configuration
 # Colour options: red, pink, purple, deep purple, indigo, blue, light blue,
