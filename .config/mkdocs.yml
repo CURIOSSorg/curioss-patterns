@@ -57,7 +57,7 @@ theme:
     toggle:
       icon: material/weather-night
       name: Switch to light mode
-  logo: 'https://curioss.org/images/color_horizontal_logotype1.svg'
+  logo: 'assets/curioss_logo_white.svg'
 
 markdown_extensions:
   - toc:
