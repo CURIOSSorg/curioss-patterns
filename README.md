@@ -8,6 +8,25 @@ For more information about patterns in general, please see the [About Patterns](
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
 <!-- material/tags -->
 
+## Local Development
+
+To test the MkDocs site locally:
+
+1. **Install MkDocs Material** (requires Python):
+   ```bash
+   pip install mkdocs-material
+   ```
+
+2. **Run the development server:**
+   ```bash
+   cd .config
+   mkdocs serve
+   ```
+
+3. **View the site:** Open your browser to http://127.0.0.1:8000
+
+The development server will automatically reload when you make changes to any markdown files.
+
 ## About Patterns
 ### What Are Patterns?
 
