@@ -98,16 +98,15 @@ The program has also led to several speaking engagements about open source, rese
 
 ## Known Instances
 
-[Vermont Research Open Source Program Office (VERSO)](https://verso.w3.uvm.edu/), University of Vermont
+[Vermont Research Open Source Program Office (VERSO)](https://www.uvm.edu/verso), University of Vermont
 
 ## References
 
-* [Open Research Community Accelerator (ORCA)](https://verso.w3.uvm.edu/orca/) \- Website containing all information relevant to the ORCA program at the University of Vermont.
+* [Open Research Community Accelerator (ORCA)](https://verso-uvm.github.io/ORCA/) - Website containing all information relevant to the ORCA program at the University of Vermont.
 * [Open Resource Library](https://www.openresourcelibrary.com) \- A student-driven resource for creating and maintaining open source.
 * [ORCA GitHub repository](https://github.com/VERSO-UVM/ORCA) \- Includes handbook, policies and other details   
-* [Onboarding materials for Team Leaders](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-member-onboarding) \- ORCA program at the University of Vermont.  
-* [Onboarding materials for Team Members](https://github.com/VERSO-UVM/ORCA/blob/main/Onboarding.md#team-member-onboarding) \- ORCA program at the University of Vermont.  
-* [Open Source Skills \- onboarding materials for students](https://github.com/VERSO-UVM/ORCA/milestone/1?closed=1) \- ORCA program at the University of Vermont.
+* [ORCA Wiki](https://github.com/VERSO-UVM/ORCA/wiki) \- ORCA program at the University of Vermont.  
+* [Open Science 101 Onboarding Materials](https://verso-uvm.github.io/Open-Science-101/README.html) \- ORCA program at the University of Vermont.
 
 ### Related Patterns
 
