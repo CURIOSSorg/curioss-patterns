@@ -105,7 +105,8 @@ The program has also led to several speaking engagements about open source, rese
 * [Open Research Community Accelerator (ORCA)](https://verso-uvm.github.io/ORCA/) - Website containing all information relevant to the ORCA program at the University of Vermont.
 * [Open Resource Library](https://www.openresourcelibrary.com) \- A student-driven resource for creating and maintaining open source.
 * [ORCA GitHub repository](https://github.com/VERSO-UVM/ORCA) \- Includes handbook, policies and other details   
-* [ORCA Wiki](https://github.com/VERSO-UVM/ORCA/wiki) \- ORCA program at the University of Vermont.  
+* [ORCA Wiki](https://github.com/VERSO-UVM/ORCA/wiki) \- ORCA program at the University of Vermont - includes information about the program plus comprehensive information for interns.
+* [ORCA Onboarding Manual](https://github.com/VERSO-UVM/ORCA/wiki/Onboarding)
 * [Open Science 101 Onboarding Materials](https://verso-uvm.github.io/Open-Science-101/README.html) \- ORCA program at the University of Vermont.
 
 ### Related Patterns
