@@ -5,6 +5,10 @@ tags:
 ---
 # Summer Internship Program  
 
+## Pattern Summary
+
+Create a structured, mentor-led summer internship program connecting students with real open source projects across industry and faculty to build workforce-ready open source skills.
+
 ## Pattern Theme / Category
 
 * Education and Skills
