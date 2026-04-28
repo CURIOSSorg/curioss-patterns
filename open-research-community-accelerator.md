@@ -7,6 +7,10 @@ tags:
 ---
 # Open Research Community Accelerator (ORCA)
 
+## Pattern Summary
+
+Create a structured student pipeline for open source contributions, blending paid internships, volunteering and course credit to deliver research translation projects with real-world impact.
+
 ## Pattern Theme / Category
 
 * OSS Sustainability  
