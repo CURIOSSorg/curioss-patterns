@@ -115,6 +115,7 @@ Real clients receive quality software that addresses their genuine needs.
 The OSPO builds a sustainable pipeline of contributors and maintainers for products that persist across student cohorts through structured handoff processes and long-lived product documentation. 
 
 ### Additional Learning from Open Source with SLU
+
 Treating students as professionals by using real job titles, contingent employment contracts and professional communication norms proved transformative in shifting students' orientation from academic exercise to authentic work. The goal is not to tell students to put something on their resume but to ensure the experience genuinely merits being there.
 
 The distinction between the long-term product vision and the short-term project work of any given semester was one of the most important conceptual clarifications in the program's evolution. Products are built for a wider community over time; projects are the semester-by-semester iterations that advance them.
@@ -124,6 +125,10 @@ Community does not emerge overnight. Even with the best intentions around open s
 Multi-semester product handoffs are achievable and highly valuable. As the program matured, structured handoff documentation allowed new tech leads to onboard without requiring an hour-long meeting with their predecessor. The value lies not just in the documents themselves but in the planning activity that produces them.
 
 The program has grown to over 23 active products across more than three years, with an estimated value of over $500,000 in development work delivered. The program currently enrolls 62 undergraduate and 24 graduate students in a single semester.
+
+### Additional Learning from The GW Open Source Program Office
+We did a guest lecture in a data science capstone to teach students about project management. We have also worked with that professor to bring in projects from industry, government and other groups. Professor Amir Jafari has open sourced his [capstone program](https://github.com/amir-jafari/Capstone) which enables anyone to submit a project that students can opt to work on.
+
 
 ## Known Instances
 
@@ -145,3 +150,4 @@ Open Source with SLU, Saint Louis University
 
 - Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 - Daniel Shown (Saint Louis University), https://orcid.org/0009-0002-5716-8835
+- David Lippert (The George Washington University), https://orcid.org/0009-0003-6444-9595
