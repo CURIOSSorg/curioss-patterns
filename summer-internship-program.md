@@ -132,6 +132,7 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 
 ### Related Patterns
 [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
+[Open Source Capstone Course](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
 
 ## Contributor(s) & Acknowledgment
 * Sayeed Choudhury (Carnegie Mellon University)
