@@ -72,7 +72,7 @@ Alexander’s approach to patterns was revolutionary because it provided a struc
 
 ## Contributing
 
-Thanks for wanting to contribute. Please take a look at our brief [Contributing Guide](CONTRIBUTING.md)
+Thanks for wanting to contribute. Please take a look at our brief [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
