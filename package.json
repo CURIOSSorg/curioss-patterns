@@ -1,0 +1,16 @@
+{
+  "name": "curioss-patterns",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Open source patterns for academic OSPOs",
+  "scripts": {
+    "lint": "markdownlint . -i node_modules -i site",
+    "lint-fix": "markdownlint --fix . -i node_modules -i site",
+    "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
+    "links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check -q ./**/*.md -c mdlinkcheckconfig.json"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.12.2",
+    "markdownlint-cli": "^0.41.0"
+  }
+}

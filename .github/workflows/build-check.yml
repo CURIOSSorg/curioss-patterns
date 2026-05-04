@@ -1,0 +1,25 @@
+name: Validate site build
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout patterns repo
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.x
+
+      - name: Install MkDocs Material
+        run: pip install -r .config/requirements.txt
+
+      - name: Build patterns site (strict)
+        run: |
+          cd .config
+          mkdocs build --strict --site-dir /tmp/patterns_site
