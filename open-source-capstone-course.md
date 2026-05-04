@@ -143,8 +143,8 @@ Open Source with SLU, Saint Louis University
 - [Building Software Engineering Capacity through a University Open Source Program Office](https://dl.acm.org/doi/10.1145/3663529.3663866) Ekaterina Holdener; Daniel Shown
 
 ### Related Patterns
-- [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/summer-internship-program.md)
-- [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
+- [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
+- [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
 
