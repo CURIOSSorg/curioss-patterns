@@ -84,15 +84,15 @@ We started with a TL:DR about preparing for contributions but this was expanded 
 * [“My code is shit”: Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
 * [Astro's Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md)
 * [Checklist for repository documentation](https://github.com/mntnr/audit-templates/blob/master/audit-template.md) by Maintainer Mountaineer
-* [LazyGit - a terminal UI for git commands](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#features)
+* [LazyGit - a terminal UI for git commands](https://github.com/jesseduffield/lazygit?tab=readme-ov-file)
 
 ### README resources
 * [Drupal Guide to creating README.md](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template)
-* [README template from Reddit](https://github.com/Louis3797/awesome-readme-template?tab=readme-ov-file#gem-acknowledgements)
+* [README template from Reddit](https://github.com/Louis3797/awesome-readme-template?tab=readme-ov-file)
 * [Linux Foundation Beginner’s Guide to Open Source Software Development](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development)
 * [OctoGuide bot that helps contributors adhere to best practices for GitHub repositories](https://octo.guide/)
-* [A standard style for README files](https://github.com/RichardLitt/standard-readme/?tab=readme-ov-file#usage) by Richard Littauer
-* [Awesome README template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md#prerequisites) by Louis3797
+* [A standard style for README files](https://github.com/RichardLitt/standard-readme/?tab=readme-ov-file) by Richard Littauer
+* [Awesome README template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md) by Louis3797
 
 ## Contributors & Acknowledgement
 
