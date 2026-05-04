@@ -99,3 +99,4 @@ We started with a TL:DR about preparing for contributions but this was expanded 
 (in alphabetical order)
 * Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 * Laura Langdon (University of California Davis)
+* Richard Littauer, https://orcid.org/0000-0001-5428-7535
