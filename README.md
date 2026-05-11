@@ -60,6 +60,8 @@ The process of creating patterns involves observation, abstraction, and testing:
 
 As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university), but we hope to add further known instances over time.
 
+## Patterns
+
 <!-- material/tags -->
 
 ## Origins: From Architecture to Software
