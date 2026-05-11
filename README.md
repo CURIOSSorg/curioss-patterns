@@ -3,31 +3,10 @@ A public repository for the CURIOSS Patterns Practice.
 
 For more information about patterns in general, please see the [About Patterns](#about-patterns) section below. 
 
-## CURIOSS Patterns
-
-We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
-<!-- material/tags -->
-
-## Local Development
-
-To test the MkDocs site locally:
-
-1. **Install MkDocs Material** (requires Python):
-   ```bash
-   pip install mkdocs-material
-   ```
-
-2. **Run the development server:**
-   ```bash
-   cd .config
-   mkdocs serve
-   ```
-
-3. **View the site:** Open your browser to http://127.0.0.1:8000
-
-The development server will automatically reload when you make changes to any markdown files.
-
 ## About Patterns
+
+We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes.
+
 ### What Are Patterns?
 
 Patterns are reusable solutions to common problems within a specific context. Originating from architecture and urban design in the work of Christopher Alexander (see section on Origins), they were later adapted for software engineering, organizational design, and beyond. A pattern captures the essence of a proven solution in a way that can be applied flexibly to different scenarios, providing a shared language for understanding and resolving recurring challenges.
@@ -81,11 +60,32 @@ The process of creating patterns involves observation, abstraction, and testing:
 
 As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university), but we hope to add further known instances over time.
 
-### Origins: From Architecture to Software
+<!-- material/tags -->
+
+## Origins: From Architecture to Software
 
 The concept of design patterns originated in the field of architecture. Christopher Alexander, an architect, introduced the idea in his book “A Pattern Language: Towns, Buildings, Construction” published in 1977\. Alexander’s work focused on identifying recurring problems in architectural design and proposing solutions that could be reused in different contexts. His patterns were intended to improve the quality of life by creating environments that are functional, aesthetically pleasing, and harmonious.
 
 Alexander’s approach to patterns was revolutionary because it provided a structured method for solving design problems. His patterns were not rigid blueprints but flexible guidelines that could be adapted to specific situations. This adaptability made them highly valuable in architecture and laid the groundwork for their application in other fields.[^1]
 
 [^1]: ‘History and Evolution of Design Patterns: From Architecture to Software’, Design Patterns. Accessed: Dec. 12, 2024. [Online]. Available: https://softwarepatternslexicon.com/patterns-lua/1/3/
+
+## Local Development
+
+To test the MkDocs site locally:
+
+1. **Install MkDocs Material** (requires Python):
+   ```bash
+   pip install mkdocs-material
+   ```
+
+2. **Run the development server:**
+   ```bash
+   cd .config
+   mkdocs serve
+   ```
+
+3. **View the site:** Open your browser to http://127.0.0.1:8000
+
+The development server will automatically reload when you make changes to any markdown files.
 
