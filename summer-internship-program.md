@@ -136,6 +136,7 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributor(s) & Acknowledgment
+
 * Sayeed Choudhury (Carnegie Mellon University)
 * Clare Dillon (CURIOSS) [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
 * Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
