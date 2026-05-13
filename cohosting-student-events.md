@@ -95,7 +95,7 @@ We also hosted a one-day bootcamp for a GW open source data science project call
 
 ## Known Instances
 
-* [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)
+* [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net)
 * [GW OSPO](https://ospo.gwu.edu/), George Washington University
 
 ## References
