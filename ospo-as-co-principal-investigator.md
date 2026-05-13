@@ -108,7 +108,7 @@ Co-PI responsibilities will need to be balanced against other OSPO responsibilit
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 * [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
 * [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)  
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 ## References
