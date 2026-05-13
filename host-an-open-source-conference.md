@@ -132,7 +132,7 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 * [Johns Hopkins University OSPO](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
 * [Open Source Lab](https://osuosl.org/), Oregon State University
 * [SnT Tech Transfer Office](https://www.uni.lu/snt-en/),  Université du Luxembourg
-* [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)
+* [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net)
 * [VERSO OSPO](https://verso.w3.uvm.edu/), University of Vermont
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison 
 
