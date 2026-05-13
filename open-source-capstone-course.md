@@ -143,13 +143,16 @@ Open Source with SLU, Saint Louis University
 - [Building Software Engineering Capacity through a University Open Source Program Office](https://dl.acm.org/doi/10.1145/3663529.3663866) Ekaterina Holdener; Daniel Shown
 
 ### Related Patterns
-- [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/summer-internship-program.md)
-- [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
+- [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
+- [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/summer-internship-program.md)
+- [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
+- [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
 
 - Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 - Daniel Shown (Saint Louis University), https://orcid.org/0009-0002-5716-8835
 - David Lippert (The George Washington University), https://orcid.org/0009-0003-6444-9595
+- Richard Littauer, https://orcid.org/0000-0001-5428-7535
 
 **A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
