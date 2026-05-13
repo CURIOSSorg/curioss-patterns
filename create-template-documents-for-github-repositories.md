@@ -73,7 +73,7 @@ We started with a TL:DR about preparing for contributions but this was expanded 
 
 ## Known Instances
 
-* [UC Davis OSPO](https://ucospo.net/davis/), University of California Davis, [UC OSPO Network](https://ucospo.net/about/)  
+* [UC Davis OSPO](https://ucospo.net/davis/), University of California Davis, [UC OSPO Network](https://ucospo.net)  
 
 ## References
 
