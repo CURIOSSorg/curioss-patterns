@@ -73,7 +73,7 @@ A donor/sponsorship prospectus provides clear information and enables potential 
 
 ## Known Instances
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)  
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net)  
 
 ## References
 * [UC Open Source Research Symposium 2024 Sponsorship Prospectus](https://drive.google.com/file/d/1cgxd-DRan9hC1JV2zefeHuXqWZpcRAsf/view)
