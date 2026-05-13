@@ -2,6 +2,7 @@
 tags:
   - Awareness
   - Community Building
+  - Tools & Infrastructure
 ---
 # Set up an informal Communication Platform
 
@@ -84,7 +85,7 @@ OpenSource@Stanford has its own Slack workspace where we invite community member
 * [Example Code of Conduct for Online Discussion Forums](https://www.liverpool.ac.uk/media/livacuk/centre-for-innovation-in-education/diy-guides/example-code-of-conduct-online-discussion-forums/example-code-of-conduct-for-online-discussion-forums.pdf), Centre for Innovation in Education, University of Liverpool
 * [Contributor Covenant](https://www.contributor-covenant.org/), A Code of Conduct for Digital Communities
 * Scroll down to [Getting Started Contributing Code](https://oss-slu.github.io/connect_with/community) for the join button for Open Source with SLU's slack workspace.
-* The join button for the UC OSPO's slack workspace is at the top of [this page](https://ucospo.net/about/).
+* The join button for the UC OSPO's slack workspace is at the top of [this page](https://ucospo.net/).
 
 ### Related Patterns
 
