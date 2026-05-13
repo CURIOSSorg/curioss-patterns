@@ -107,7 +107,7 @@ The OSPO itself benefits from:
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
-* [TCD Open Source Program Office](https://www.tcd.ie/innovation/for-trinity-innovators/open-source-programme-office/), Trinity Innovation, Trinity College Dublin
+* [TCD Open Source Program Office](https://www.tcd.ie/innovation/knowledge-exchange-office-knex/open-source-programme-office/), Trinity Innovation, Trinity College Dublin
 * [UGA Open Source Program Office ](https://scienceouverte.univ-grenoble-alpes.fr/en/about/codes-data-grenoble-alpes-office/), Université Grenoble Alpes
 * [UC Berkeley OSPO](https://ospo-berkeley-edu.netlify.app/), Berkeley Institute for Data Science, University of California, Berkeley, [UC OSPO Network](https://ucospo.net/)  
 * [UC Davis OSPO](https://ucospo.net/davis/), University of California, Davis, [UC OSPO Network](https://ucospo.net/)  
