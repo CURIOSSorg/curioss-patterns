@@ -3,6 +3,10 @@ A public repository for the CURIOSS Patterns Practice.
 
 For more information about patterns in general, please see the [About Patterns](#about-patterns) section below. 
 
+## CURIOSS Patterns
+
+We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
+<!-- material/tags -->
 <!-- material/tags -->
 
 ## About Patterns

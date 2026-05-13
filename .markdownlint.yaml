@@ -1,0 +1,11 @@
+# Default state for all rules
+default: true
+
+# Path to configuration file to extend
+extends: null
+
+# Disable line length, doesn't matter for prose docs.
+MD013: false
+
+# Allow more than one top-level header (front-matter title clashes with H1).
+MD025: false

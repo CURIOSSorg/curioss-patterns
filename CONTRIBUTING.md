@@ -12,6 +12,7 @@ If you want to test the MkDocs site locally:
 
 1. **Install MkDocs Material** (requires Python):
    ```bash
+   pip install -r .config/requirements.txt
    pip install mkdocs-material
    ```
 
