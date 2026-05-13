@@ -124,7 +124,7 @@ However, there is a possibility for convening an alternative community of practi
 ## Known Instances
 
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
-* [UC OSPO Network](https://ucospo.net/about/), University of California
+* [UC OSPO Network](https://ucospo.net/), University of California
 
 ## References
 
