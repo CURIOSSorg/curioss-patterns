@@ -125,10 +125,10 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 
 ## References
 
-* [Open Source Software Engineering Education](https://www.youtube.com/watch?v=wL26yG6WU-Q&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=189) \- Presentation from Stephen Walli sharing learning from delivery of the Semesters of Code internship program at Johns Hopkins University and at Carnegie Mellon University.  
-* [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/) \- Website containing all information relevant to the program.  
-* [summer-internship-program](https://github.com/gt-ospo/summer-internship-program) \- Public archival site for the Georgia Tech OSPO VSIP.  
-* [Training modules for getting started with open source software development](https://github.com/gt-ospo/oss-training) \- Open training notebooks developed for VSIP students that will also enable other students and faculty to improve the quality of their open source projects. (Materials remain under development.)
+* [Open Source Software Engineering Education](https://www.youtube.com/watch?v=wL26yG6WU-Q&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=189) - Presentation from Stephen Walli sharing learning from delivery of the Semesters of Code internship program at Johns Hopkins University and at Carnegie Mellon University.  
+* [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/) - Website containing all information relevant to the program.  
+* [summer-internship-program](https://github.com/gt-ospo/summer-internship-program) - Public archival site for the Georgia Tech OSPO VSIP.  
+* [Training modules for getting started with open source software development](https://github.com/gt-ospo/oss-training) - Open training notebooks developed for VSIP students that will also enable other students and faculty to improve the quality of their open source projects. (Materials remain under development.)
 
 ### Related Patterns
 
