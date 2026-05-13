@@ -1,4 +1,4 @@
 {
-  "aliveStatusCodes": [0, 200, 202, 403, 415],
+  "aliveStatusCodes": [0, 200, 202, 403, 415, 417],
   "ignorePatterns": []
 }
