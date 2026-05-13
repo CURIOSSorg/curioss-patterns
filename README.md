@@ -74,7 +74,7 @@ The concept of design patterns originated in the field of architecture. Christop
 
 Alexander’s approach to patterns was revolutionary because it provided a structured method for solving design problems. His patterns were not rigid blueprints but flexible guidelines that could be adapted to specific situations. This adaptability made them highly valuable in architecture and laid the groundwork for their application in other fields.[^1]
 
-[^1]: ‘History and Evolution of Design Patterns: From Architecture to Software’, Design Patterns. Accessed: Dec. 12, 2024. [Online]. Available: https://softwarepatternslexicon.com/patterns-lua/1/3/
+[^1]: ‘History and Evolution of Design Patterns: From Architecture to Software’, Design Patterns. Accessed: Dec. 12, 2024. [Online]. Available: https://softwarepatternslexicon.com
 
 ## Contributing
 
