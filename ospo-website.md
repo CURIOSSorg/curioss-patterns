@@ -109,11 +109,11 @@ The OSPO itself benefits from:
 * [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
 * [TCD Open Source Program Office](https://www.tcd.ie/innovation/for-trinity-innovators/open-source-programme-office/), Trinity Innovation, Trinity College Dublin
 * [UGA Open Source Program Office ](https://scienceouverte.univ-grenoble-alpes.fr/en/about/codes-data-grenoble-alpes-office/), Université Grenoble Alpes
-* [UC Berkeley OSPO](https://ospo-berkeley-edu.netlify.app/), Berkeley Institute for Data Science, University of California, Berkeley, [UC OSPO Network](https://ucospo.net/about/)  
-* [UC Davis OSPO](https://ucospo.net/davis/), University of California, Davis, [UC OSPO Network](https://ucospo.net/about/)  
-* [UC Los Angeles OSPO](https://ucospo.net/los-angeles/), University of California, Los Angeles, [UC OSPO Network](https://ucospo.net/about/)  
-* [UC San Diego OSPO](https://ospo.ucsd.edu/), University of California, San Diego, [UC OSPO Network](https://ucospo.net/about/)  
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)  
+* [UC Berkeley OSPO](https://ospo-berkeley-edu.netlify.app/), Berkeley Institute for Data Science, University of California, Berkeley, [UC OSPO Network](https://ucospo.net/)  
+* [UC Davis OSPO](https://ucospo.net/davis/), University of California, Davis, [UC OSPO Network](https://ucospo.net/)  
+* [UC Los Angeles OSPO](https://ucospo.net/los-angeles/), University of California, Los Angeles, [UC OSPO Network](https://ucospo.net/)  
+* [UC San Diego OSPO](https://ospo.ucsd.edu/), University of California, San Diego, [UC OSPO Network](https://ucospo.net/)  
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 * [UT-OSPO](https://opensource.utexas.edu/) , University of Texas at Austin
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 * [Vermont Research Open Source Program Office](https://verso.w3.uvm.edu/), (VERSO), University of Vermont
