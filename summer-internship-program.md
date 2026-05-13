@@ -132,6 +132,7 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 
 ### Related Patterns
 
+- [Open Research Community Accelerator](./open-research-community-accelerator.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
