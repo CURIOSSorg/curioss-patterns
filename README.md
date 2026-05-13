@@ -9,6 +9,10 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 <!-- material/tags -->
 
 ## About Patterns
+## About Patterns
+
+We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes.
+
 ### What Are Patterns?
 
 Patterns are reusable solutions to common problems within a specific context. Originating from architecture and urban design in the work of Christopher Alexander (see section on Origins), they were later adapted for software engineering, organizational design, and beyond. A pattern captures the essence of a proven solution in a way that can be applied flexibly to different scenarios, providing a shared language for understanding and resolving recurring challenges.
@@ -62,7 +66,11 @@ The process of creating patterns involves observation, abstraction, and testing:
 
 As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university), but we hope to add further known instances over time.
 
-### Origins: From Architecture to Software
+## Patterns
+
+<!-- material/tags -->
+
+## Origins: From Architecture to Software
 
 The concept of design patterns originated in the field of architecture. Christopher Alexander, an architect, introduced the idea in his book “A Pattern Language: Towns, Buildings, Construction” published in 1977\. Alexander’s work focused on identifying recurring problems in architectural design and proposing solutions that could be reused in different contexts. His patterns were intended to improve the quality of life by creating environments that are functional, aesthetically pleasing, and harmonious.
 
@@ -78,4 +86,22 @@ Thanks for wanting to contribute. Please take a look at our brief [Contributing 
 
 All work here is licensed under a CC-BY 4.0 International License (https://creativecommons.org/licenses/by/4.0/deed.en), by the CURIOSS organizers and contributors.
 
+## Local Development
+
+To test the MkDocs site locally:
+
+1. **Install MkDocs Material** (requires Python):
+   ```bash
+   pip install mkdocs-material
+   ```
+
+2. **Run the development server:**
+   ```bash
+   cd .config
+   mkdocs serve
+   ```
+
+3. **View the site:** Open your browser to http://127.0.0.1:8000
+
+The development server will automatically reload when you make changes to any markdown files.
 
