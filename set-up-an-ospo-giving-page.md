@@ -82,7 +82,7 @@ Our [OSPO giving page](https://ucsc-ospo.github.io/bankinfo/) links to our [UCSC
 
 ## Known Instances
 * [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)  
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 
 ## References
 * [Open Source with SLU Make a Gift page](https://oss-slu.github.io/connect_with/donate)
