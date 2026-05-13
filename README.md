@@ -3,6 +3,12 @@ A public repository for the CURIOSS Patterns Practice.
 
 For more information about patterns in general, please see the [About Patterns](#about-patterns) section below. 
 
+## CURIOSS Patterns
+
+We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
+<!-- material/tags -->
+
+## About Patterns
 ## About Patterns
 
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes.
@@ -71,6 +77,14 @@ The concept of design patterns originated in the field of architecture. Christop
 Alexander’s approach to patterns was revolutionary because it provided a structured method for solving design problems. His patterns were not rigid blueprints but flexible guidelines that could be adapted to specific situations. This adaptability made them highly valuable in architecture and laid the groundwork for their application in other fields.[^1]
 
 [^1]: ‘History and Evolution of Design Patterns: From Architecture to Software’, Design Patterns. Accessed: Dec. 12, 2024. [Online]. Available: https://softwarepatternslexicon.com/patterns-lua/1/3/
+
+## Contributing
+
+Thanks for wanting to contribute. Please take a look at our brief [Contributing Guide](CONTRIBUTING.md).
+
+## License
+
+All work here is licensed under a CC-BY 4.0 International License (https://creativecommons.org/licenses/by/4.0/deed.en), by the CURIOSS organizers and contributors.
 
 ## Local Development
 
