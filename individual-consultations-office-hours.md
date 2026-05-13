@@ -86,8 +86,8 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
 * [UGA Open Source Program Office](https://scienceouverte.univ-grenoble-alpes.fr/codes-et-logiciels/), Grenoble Alpes University
-* [UC Davis OSPO](https://ucospo.net/davis/), University of California Davis, [UC OSPO Network](https://ucospo.net/about/)  
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/about/)  
+* [UC Davis OSPO](https://ucospo.net/davis/), University of California Davis, [UC OSPO Network](https://ucospo.net/)  
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 * [UT-OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
 * [Vermont Research Open Source Program Office](https://verso.w3.uvm.edu/) (VERSO), University of Vermont
 
