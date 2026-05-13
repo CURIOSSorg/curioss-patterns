@@ -78,7 +78,7 @@ We conducted a survey across the UC system and ultimately received about 300 res
 
 * [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-* [University of California OSPO Network](https://ucospo.net/about/)
+* [University of California OSPO Network](https://ucospo.net/)
 
 ## References
 
