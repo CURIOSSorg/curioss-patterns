@@ -59,7 +59,7 @@ A report capturing key learning about the requirement, compliance and good pract
 
 ### Additional learning from Syracuse University OSPO
 
-In our case, the OSPO was tasked with supporting the development of comprehensive data management and public access guidelines (in response to the [Nelson Memo](https://www.whitehouse.gov/wp-content/uploads/2023/01/01-2023-Memorandum_on_Framework_Delivery.pdf)).
+In our case, the OSPO was tasked with supporting the development of comprehensive data management and public access guidelines (in response to the [Nelson Memo](https://bidenwhitehouse.archives.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/)).
 
 Interviews with faculty and sample review of grants and what other universities are doing illustrated the scope of the problem, potential complications and some potential solutions. 
 
