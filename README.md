@@ -7,12 +7,15 @@ For more information about patterns in general, please see the [About Patterns](
 
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
 <!-- material/tags -->
+<!-- material/tags -->
+
+## About Patterns
 
 ### What Are Patterns?
 
 Patterns are reusable solutions to common problems within a specific context. Originating from architecture and urban design in the work of Christopher Alexander (see section on Origins), they were later adapted for software engineering, organizational design, and beyond. A pattern captures the essence of a proven solution in a way that can be applied flexibly to different scenarios, providing a shared language for understanding and resolving recurring challenges.
 
-Sharing knowledge is a key goal of the CURIOSS Community \- we hope to build our CURIOSS Pattern Practice to record how we tackle the common problems facing OSPOs in university and research institutions. 
+Sharing knowledge is a key goal of the CURIOSS Community - we hope to build our CURIOSS Patterns Practice to record how we tackle the common problems facing OSPOs in university and research institutions. 
 
 The CURIOSS Patterns Practice is based on the [InnerSource Commons Patterns Practice](https://github.com/InnerSourceCommons/InnerSourcePatterns/) and we would like to thank all those in that community for inspiring us in this effort.
 
@@ -25,9 +28,9 @@ The CURIOSS Patterns Practice is based on the [InnerSource Commons Patterns Prac
 
 For CURIOSS Patterns we also include:
 
-* **Title**: A phrase that helps identify the pattern  
-* **Theme/Cateogry**: To help us categorize our patterns  
-* **Known Instances**: information on known instances of the use of the pattern.
+* **Title**: A phrase that helps identify the pattern.  
+* **Theme/Cateogry**: To help us categorize our patterns. 
+* **Known Instances**: Information about who has used the pattern.
 * **Contributors**: A list of all those who contributed to the creation of the pattern (inside and outside of GitHub).
 
 In some cases, we have even included some personal inspiration from the pattern authors. 
@@ -41,14 +44,14 @@ In some cases, we have even included some personal inspiration from the pattern 
 
 ### Using Patterns
 
-Patterns are not standalone solutions but are often organized into **pattern languages** or **collections**. Practitioners use them as building blocks to address complex problems by combining and adapting multiple patterns. A common workflow includes:
+Patterns are not standalone solutions but are often organized into **collections**. Practitioners use them as building blocks to address complex problems by combining and adapting multiple patterns. A common workflow includes:
 
 1. **Identify the Problem:** Understand the specific challenge and its context.  
 2. **Select Relevant Patterns:** Look for patterns that address similar problems or contexts.  
 3. **Adapt the Pattern:** Tailor the solution to fit the unique aspects of the current situation.  
 4. **Implement and Iterate:** Apply the solution, observe its impact, and refine as needed.
 
-We hope that those who implement or adapt patterns here will contribute back their learnings to help improve the overall practice.
+We hope that those who implement or adapt patterns here will contribute back their learning to help improve the overall practice.
 
 ### **Creating Patterns**
 
@@ -59,7 +62,7 @@ The process of creating patterns involves observation, abstraction, and testing:
 3. **Validation:** The pattern matures as it is applied the pattern in different contexts. This stage confirms its effectiveness and generalizability.  
 4. **Documentation:** Use a consistent format to record the pattern, often as a template, making it accessible for others to use. Here is the [CURIOSS pattern template](PATTERN-TEMPLATE.md).
 
-As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university), but we hope to add further known instances over time.
+As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university). We hope to add further known instances over time.
 
 ## Patterns
 
