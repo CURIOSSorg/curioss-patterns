@@ -81,7 +81,7 @@ At a smaller scale, we hold OSPO talks with local meet up groups where OSPO staf
 ## References
 * SnT Tech Transfer Office piggybacked onto the [LibreOffice and Open Source Conference 2024](https://www.uni.lu/snt-en/events/open-source-conference-2024/)
 * The GT OSPO collaborated with the Scientific Software Engineering Center to host the [Sustainable Software in Academia](https://ssecenter.cc.gatech.edu/georgia-tech-scientific-software-2024-workshop/) and the [Open Source and Scientific Software Workshop](https://ospo.cc.gatech.edu/ospo-sse-workshop-2025/) in 2025.
-* The UW-Madison OSPO piggybacked on [UW-Madison Innovate Week](https://innovate.wisc.edu/uw-madison-innovate-week/) to run the event, [‘How Open Source Is Fostering Innovation in AI’](https://ospo.wisc.edu/blog/2024/AI/)).
+* The UW-Madison OSPO piggybacked on [UW-Madison Innovate Week](https://innovate.wisc.edu/uw-madison-innovate-week/) to run the event, [‘How Open Source Is Fostering Innovation in AI’](https://dsi.wisc.edu/2024/08/27/how-open-source-is-fostering-innovation-in-ai/)).
 * The VERSO OSPO hosted a number of [Strudel workshops and presentations](https://verso.w3.uvm.edu/research-week-2025-strudel-ux-workshops/) as part of the [University of Vermont’s Research Week 2025](https://www.uvm.edu/ovpr/research-week). 
 * The VERSO OSPO also co-hosted the [Data and Open Science Summit 2025](https://verso.w3.uvm.edu/data-open-science-summit/) with a number of other Departments in University of Vermont.
 
