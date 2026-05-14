@@ -66,6 +66,7 @@ We also recruited an outreach specialist to contact people identified through in
 ### Additional Learning from University of California Santa Barbara
 
 We conducted a survey across the UC system and ultimately received about 300 responses. Since we wanted to present the results in a scholarly format, we began by working with the Office of Research and the Institutional Review Board. Once we had IRB approval, we left the survey open for one month and advertised it as widely as possible. We maintain a "lessons learned" document with learnings particular to our survey instrument. (See [References](#references) section below.) Virginia gave a lightning talk at the February 2026 CURIOSS Gathering in Dublin describing some of our lessons learned (you can find it on the CURIOSS YouTube channel), but here are the highlights (plus some additional thoughts):
+
 * Have a distribution plan. We received some (justified) criticism from reviewers that our sample size was too small. The truth is that we fought hard to get those 300 responses. On many campuses, our requests to forward the survey were routinely denied, and our paper flyers were removed. (If you use paper flyers, check campus regulations on allowed posting locations.) Try to get to know the listserv administrators, or anyone who can post to a listserv, before the survey period starts. Go to student group fairs and introduce yourself to the students at the booths. Go to events hosted by student groups and introduce yourself to the hosts. Go to research seminars and introduce yourself to the researchers. These relationships can be your way in to their listservs. Also, we had better success getting through to the listservs via undergraduate advisers as opposed to pure admin front office staff or subject librarians. Your department's communication staff may have other ideas. Individualized communications have better success. Budget a LOT of time for this.
 * Use both qualitative and quantitative questions. Each has their strengths and drawbacks.
 * We found three overarching themes in our data: culture, resources, and infrastructure. We believe these three themes could serve as a blueprint for creating a comprehensive survey. Make sure you ask questions about all three.
@@ -88,7 +89,7 @@ We conducted a survey across the UC system and ultimately received about 300 res
 * [GW Open Source Survey](https://ospo.gwu.edu/gw-open-source-survey) \- Information about the George Washington University’s Open Source Survey.
 * [UC 2025 Survey Website](https://ucospo.net/oss-resources/survey/) \- All research artifacts from the University of California 2025 survey.
 
-### Related Patterns 
+### Related Patterns
 
 * [OSPO Mailing List](./ospo-mailing-list.md)
 * [Publish an OSPO Newsletter](./publish-an-ospo-newsletter.md)

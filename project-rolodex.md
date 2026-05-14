@@ -9,11 +9,11 @@ tags:
 
 ## Pattern Summary
 
-Create an outreach script and contact sheet for conducting outreach with potential stakeholders during the initial stages of establishing and promoting an academic OSPO. 
+Create an outreach script and contact sheet for conducting outreach with potential stakeholders during the initial stages of establishing and promoting an academic OSPO.
 
 ## Problem / Challenge
 
-Academic OSPOs, in their formation stage, face a "cold start" problem: they need to build awareness, identify stakeholders and establish credibility before they have a track record of accomplishments. 
+Academic OSPOs, in their formation stage, face a "cold start" problem: they need to build awareness, identify stakeholders and establish credibility before they have a track record of accomplishments.
 
 Without a structured approach to outreach, early conversations risk becoming:
 
@@ -24,11 +24,11 @@ Without a structured approach to outreach, early conversations risk becoming:
 
 ## Pattern Category
 
-- Awareness
-- Community Building
-- Demonstrating value as an OSPO
-- Open Source Discovery
-   
+* Awareness
+* Community Building
+* Demonstrating value as an OSPO
+* Open Source Discovery
+
 ## Context
 
 A university or research institution with existing open source activities that are scattered or informal.
@@ -45,7 +45,7 @@ Resources are limited, requiring efficient and repeatable outreach processes.
 
 ## Solution
 
-Create a structured approach to stakeholder outreach with a script for introductory conversations and a contact sheet for documenting the call. 
+Create a structured approach to stakeholder outreach with a script for introductory conversations and a contact sheet for documenting the call.
 
 ### Conversation Script
 
@@ -55,7 +55,7 @@ A script for initial conversations about the OSPO may include the following
 
 A broad explainer of OSPOs and academic OSPOs. More general information about the specific OSPO in the context of its institution may also be helpful.
 
-The OSPO may also choose to emphasise different aspects of its work that relate to the stakeholder’s domain, for example: 
+The OSPO may also choose to emphasise different aspects of its work that relate to the stakeholder’s domain, for example:
 
 * **Senior Decision Makers:** Open source as an accelerator of innovation, potential for external collaboration.
 * **Faculty/Researchers:** Support for releasing research software, collaboration infrastructure, recognition for open source contributions.
@@ -103,23 +103,24 @@ There are a number of benefits to using this structured approach:
 
 ### Additional learning from JHU Open Source Program Office
 
-We created a contact sheet for everyone - staff, faculty and any other stakeholders that we called in the initial stages of setting up and promoting the OSPO. 
+We created a contact sheet for everyone - staff, faculty and any other stakeholders that we called in the initial stages of setting up and promoting the OSPO.
 
-The sheet contained key details e.g. the name, role, contact details and department. The sheet also contained a set of specific statements/questions for those introductory conversations. 
+The sheet contained key details e.g. the name, role, contact details and department. The sheet also contained a set of specific statements/questions for those introductory conversations.
 
-We also developed a full set of questions that we included in the contact sheet. We never asked one person all of the questions on the list. Instead, we asked questions that related to what folks were interested in. 
+We also developed a full set of questions that we included in the contact sheet. We never asked one person all of the questions on the list. Instead, we asked questions that related to what folks were interested in.
 
 The questions we used were:
-* Tell me a little about your work 
-* What are the biggest challenges you face when using OSS in research? Teaching? 
-* What kind of support would you find most helpful from an OSPO? 
+
+* Tell me a little about your work
+* What are the biggest challenges you face when using OSS in research? Teaching?
+* What kind of support would you find most helpful from an OSPO?
 * What kind of training or workshops would you be interested in attending?  
-* What kind of training or workshops might be useful for your students? 
-* What kind of resources would you like to see the OSPO provide, such as docs, tools, best practices? 
-* How would you like the OSPO to engage with the broader open source community? City of Baltimore? 
-* Would you like the OSPO to help facilitate engagement with the broader open source community? 
+* What kind of training or workshops might be useful for your students?
+* What kind of resources would you like to see the OSPO provide, such as docs, tools, best practices?
+* How would you like the OSPO to engage with the broader open source community? City of Baltimore?
+* Would you like the OSPO to help facilitate engagement with the broader open source community?
 * Do you need assistance with license selection? Workshop or training on same?
-* Do you need assistance with tech transfer – choosing whether to open source, whether to monetize? 
+* Do you need assistance with tech transfer – choosing whether to open source, whether to monetize?
 * Do you want the OSPO to be an advocate for OSS? At what level – students, faculty, research, admin?
 
 #### Tell me “Two More People”
@@ -134,7 +135,7 @@ We asked everyone to suggest two more people that we should talk to. This was ve
 
 In alphabetical order
 
-* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
-* Megan Forbes, Johns Hopkins University, https://orcid.org/0000-0002-2611-1441
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+* Megan Forbes, Johns Hopkins University, <https://orcid.org/0000-0002-2611-1441>
   
 A very special thanks to Megan Forbes (Johns Hopkins University OSPO) for sharing this pattern and the title at the CURIOSS Gathering in Vermont (2024).

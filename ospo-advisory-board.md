@@ -46,7 +46,7 @@ Set up an Advisory Committee/Group to:
 
 - Better understand stakeholder needs.
 - Inform the OSPO’s strategic direction and activities.
-- Strengthen the OSPO’s profile and reach. 
+- Strengthen the OSPO’s profile and reach.
 - Develop strategic partnerships both within and outside of the institution
 - Maintain awareness of the evolving internal and external landscape in which the OSPO operates.
 - Promote the OSPO, its services and the importance of open source and open source software within academia.
@@ -60,28 +60,34 @@ The solution below outlines some core activities to consider. The sequence of th
 - Clarify the group's decision-making authority (purely advisory vs. some decision power).
 
 ### Identify optimal composition and size of the committee
+
 - Map out the key internal and external stakeholder groups that should be represented.
 - Determine ideal size of committee membership.
 - Balance institutional knowledge with external perspectives.
 
 ### Develop formal governance structure
+
 - Draft a charter outlining purpose, responsibilities, and procedures.
 - Establish meeting frequency and format.
 - Define communication channels between the Advisory Group and service leadership (if applicable).
 
 ### Recruit and onboard members
+
 - Agree on a recruitment strategy with senior leadership or management.
 - Approach potential members with clear expectations about commitment.
 
 ### Plan and facilitate effective meetings
+
 - Develop structured agendas with clear objectives.
 - Share relevant materials in advance.
 - Ensure balanced participation and productive discussion.
 
 ### Acknowledge and recognize contributions from the Advisory Group
+
 - Provide appropriate recognition for committee members' service at key events or in OSPO communications.
 
 ### Evaluate and evolve the advisory structure
+
 - Periodically review the group's composition and effectiveness.
 - Refresh membership as needed to maintain relevance and energy.
 
@@ -96,15 +102,18 @@ An academic OSPO can benefit from an Advisory Group in some or all of the follow
 - The OSPO can facilitate valuable connections and relationships between the university and external partners from both the region and the broader open source community.
 
 ### Additional learning from the George Washington University OSPO
+
 We have an OSPO stakeholder group. We don't use the term 'advisory' because we don't want our stakeholders to feel the need to advise us, rather, we are a community sharing ideas, feedback and working together.
 
 ### Additional learning from Saint Louis University
+
 We have a Faculty Advisory Board of experienced researchers and educators across the university. They provide strategic guidance on academic initiatives and ensure our program aligns with university priorities. Our Industry Advisory Board comprises seasoned technology leaders, open source practitioners, and innovation executives. Members provide insights into current market trends and workforce development needs.
 
 ### Additional learning from University of Wisconsin-Madison
-The UW-Madison OSPO identified the need for two distinct bodies to guide operations and provide strategic support during the planning phase. 
 
-The Executive Committee, composed of representatives from the Libraries, the Data Science Hub, and Madison College, was tasked with hiring the OSPO Manager and maintaining close collaboration with our office. These organizations were identified as crucial future partners in the original funding proposal. 
+The UW-Madison OSPO identified the need for two distinct bodies to guide operations and provide strategic support during the planning phase.
+
+The Executive Committee, composed of representatives from the Libraries, the Data Science Hub, and Madison College, was tasked with hiring the OSPO Manager and maintaining close collaboration with our office. These organizations were identified as crucial future partners in the original funding proposal.
 
 The OSPO Advisory Board drew from a broader range of campus and community stakeholders to guide the OSPO's overarching strategy.
 
@@ -120,14 +129,15 @@ Thus far our Stakeholder Group has been an enormous success.  The members are cr
 
 ## Known Instances
 
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
-* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+- [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+- [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
 ## References
-* Scroll down on the [Open Source with SLU Leadership page](https://oss-slu.github.io/people/leadership) for more information about the Faculty and Industry Advisory Boards.
+
+- Scroll down on the [Open Source with SLU Leadership page](https://oss-slu.github.io/people/leadership) for more information about the Faculty and Industry Advisory Boards.
 
 ## Contributors & Acknowledgement
 
-- Allison Kittinger https://orcid.org/0000-0002-3104-5995
-- Ciara Flanagan https://orcid.org/0009-0005-3153-7673
+- Allison Kittinger <https://orcid.org/0000-0002-3104-5995>
+- Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>
 - David Lippert [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)

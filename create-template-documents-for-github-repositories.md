@@ -28,7 +28,7 @@ Student and research repositories are missing the crucial documentation required
 
 ## Forces
 
-Labs and projects have expertise in computer science and coding. However, practitioners lack the knowledge and/or confidence to build the OSS communities needed to sustain their projects. 
+Labs and projects have expertise in computer science and coding. However, practitioners lack the knowledge and/or confidence to build the OSS communities needed to sustain their projects.
 
 Researchers and development teams on open science/open source projects are already overburdened.
 
@@ -36,7 +36,7 @@ Researchers and development teams on open science/open source projects are alrea
 
 ### Needs Analysis
 
-Review what documentation is (or isn't) in place on a sample of repositories. 
+Review what documentation is (or isn't) in place on a sample of repositories.
 
 Talk to a sample of students/researchers who are not using documentation to find out more. Important questions to ask relate to perceived challenges of writing documentation and their satisfaction levels with contributions to date.
 
@@ -73,30 +73,32 @@ We started with a TL:DR about preparing for contributions but this was expanded 
 
 ## Known Instances
 
-* [UC Davis OSPO](https://ucospo.net/davis/), University of California Davis, [UC OSPO Network](https://ucospo.net)  
+- [UC Davis OSPO](https://ucospo.net/davis/), University of California Davis, [UC OSPO Network](https://ucospo.net)  
 
 ## References
 
-* [Growing a Community Around a Project](https://ucospo.net/oss-resources/) - TL:DR from the UC OSPO network about preparing for contributions
-* [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/) from OpenSource.net
-* [OpenSauced's guide to becoming a maintainer](https://opensauced.pizza/learn/becoming-a-maintainer)
-* [Solving the Maker-Taker problem](https://dri.es/solving-the-maker-taker-problem) by Dries Buytaert
-* [“My code is shit”: Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
-* [Astro's Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md)
-* [Checklist for repository documentation](https://github.com/mntnr/audit-templates/blob/master/audit-template.md) by Maintainer Mountaineer
-* [LazyGit - a terminal UI for git commands](https://github.com/jesseduffield/lazygit?tab=readme-ov-file)
+- [Growing a Community Around a Project](https://ucospo.net/oss-resources/) - TL:DR from the UC OSPO network about preparing for contributions
+- [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/) from OpenSource.net
+- [OpenSauced's guide to becoming a maintainer](https://opensauced.pizza/learn/becoming-a-maintainer)
+- [Solving the Maker-Taker problem](https://dri.es/solving-the-maker-taker-problem) by Dries Buytaert
+- [“My code is shit”: Negative automatic thoughts and outcomes of a behavioral experiment for code review anxiety](https://osf.io/preprints/psyarxiv/hz3et)
+- [Astro's Contribution Ladder](https://github.com/withastro/.github/blob/main/GOVERNANCE.md)
+- [Checklist for repository documentation](https://github.com/mntnr/audit-templates/blob/master/audit-template.md) by Maintainer Mountaineer
+- [LazyGit - a terminal UI for git commands](https://github.com/jesseduffield/lazygit?tab=readme-ov-file)
 
 ### README resources
-* [Drupal Guide to creating README.md](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template)
-* [README template from Reddit](https://github.com/Louis3797/awesome-readme-template?tab=readme-ov-file)
-* [Linux Foundation Beginner’s Guide to Open Source Software Development](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development)
-* [OctoGuide bot that helps contributors adhere to best practices for GitHub repositories](https://octo.guide/)
-* [A standard style for README files](https://github.com/RichardLitt/standard-readme/?tab=readme-ov-file) by Richard Littauer
-* [Awesome README template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md) by Louis3797
+
+- [Drupal Guide to creating README.md](https://www.drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template)
+- [README template from Reddit](https://github.com/Louis3797/awesome-readme-template?tab=readme-ov-file)
+- [Linux Foundation Beginner’s Guide to Open Source Software Development](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development)
+- [OctoGuide bot that helps contributors adhere to best practices for GitHub repositories](https://octo.guide/)
+- [A standard style for README files](https://github.com/RichardLitt/standard-readme/?tab=readme-ov-file) by Richard Littauer
+- [Awesome README template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md) by Louis3797
 
 ## Contributors & Acknowledgement
 
 (in alphabetical order)
-* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
-* Laura Langdon (University of California Davis)
-* Richard Littauer, https://orcid.org/0000-0001-5428-7535
+
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- Laura Langdon (University of California Davis)
+- Richard Littauer, <https://orcid.org/0000-0001-5428-7535>

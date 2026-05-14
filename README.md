@@ -1,11 +1,12 @@
 # Introduction to the CURIOSS Patterns Practice
+
 A public repository for the CURIOSS Patterns Practice.
 
-For more information about patterns in general, please see the [About Patterns](#about-patterns) section below. 
+For more information about patterns in general, please see the [About Patterns](#about-patterns) section below.
 
 ## CURIOSS Patterns
 
-We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes. 
+We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes.
 <!-- material/tags -->
 <!-- material/tags -->
 
@@ -15,7 +16,7 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 
 Patterns are reusable solutions to common problems within a specific context. Originating from architecture and urban design in the work of Christopher Alexander (see section on Origins), they were later adapted for software engineering, organizational design, and beyond. A pattern captures the essence of a proven solution in a way that can be applied flexibly to different scenarios, providing a shared language for understanding and resolving recurring challenges.
 
-Sharing knowledge is a key goal of the CURIOSS Community - we hope to build our CURIOSS Patterns Practice to record how we tackle the common problems facing OSPOs in university and research institutions. 
+Sharing knowledge is a key goal of the CURIOSS Community - we hope to build our CURIOSS Patterns Practice to record how we tackle the common problems facing OSPOs in university and research institutions.
 
 The CURIOSS Patterns Practice is based on the [InnerSource Commons Patterns Practice](https://github.com/InnerSourceCommons/InnerSourcePatterns/) and we would like to thank all those in that community for inspiring us in this effort.
 
@@ -29,11 +30,11 @@ The CURIOSS Patterns Practice is based on the [InnerSource Commons Patterns Prac
 For CURIOSS Patterns we also include:
 
 * **Title**: A phrase that helps identify the pattern.  
-* **Theme/Cateogry**: To help us categorize our patterns. 
+* **Theme/Cateogry**: To help us categorize our patterns.
 * **Known Instances**: Information about who has used the pattern.
 * **Contributors**: A list of all those who contributed to the creation of the pattern (inside and outside of GitHub).
 
-In some cases, we have even included some personal inspiration from the pattern authors. 
+In some cases, we have even included some personal inspiration from the pattern authors.
 
 ### Benefits of Patterns
 
@@ -74,7 +75,7 @@ The concept of design patterns originated in the field of architecture. Christop
 
 Alexander’s approach to patterns was revolutionary because it provided a structured method for solving design problems. His patterns were not rigid blueprints but flexible guidelines that could be adapted to specific situations. This adaptability made them highly valuable in architecture and laid the groundwork for their application in other fields.[^1]
 
-[^1]: ‘History and Evolution of Design Patterns: From Architecture to Software’, Design Patterns. Accessed: Dec. 12, 2024. [Online]. Available: https://softwarepatternslexicon.com
+[^1]: ‘History and Evolution of Design Patterns: From Architecture to Software’, Design Patterns. Accessed: Dec. 12, 2024. [Online]. Available: <https://softwarepatternslexicon.com>
 
 ## Contributing
 
@@ -82,4 +83,4 @@ Thanks for wanting to contribute. Please take a look at our brief [Contributing 
 
 ## License
 
-All work here is licensed under a CC-BY 4.0 International License (https://creativecommons.org/licenses/by/4.0/deed.en), by the CURIOSS organizers and contributors.
+All work here is licensed under a CC-BY 4.0 International License (<https://creativecommons.org/licenses/by/4.0/deed.en>), by the CURIOSS organizers and contributors.

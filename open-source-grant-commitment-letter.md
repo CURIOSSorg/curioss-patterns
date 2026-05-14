@@ -31,7 +31,7 @@ An OSPO with the resources/capacity to supply grant commitment letters (that mee
 
 ## Forces
 
-Teams working on proposals face competing pressures and time constraints when submitting proposals and their primary concern is the proposal narrative and budget. 
+Teams working on proposals face competing pressures and time constraints when submitting proposals and their primary concern is the proposal narrative and budget.
 
 Other components of a grant application (e.g. open source, OSS) may be outside their area of expertise and/or their area of concern.
 
@@ -43,7 +43,7 @@ Provide a standard commitment letter to researchers to include in their grant ap
 
 Dear Review Panel
 
-If the proposal submitted by [NAME OF RESEARCHER/FACULTY MEMBER] entitled [NAME OF PROJECT] is selected for funding, it is my intent to collaborate and/or commit resources as detailed in the Project Description or the Facilities, Equipment, or Other Resources section of the proposal. 
+If the proposal submitted by [NAME OF RESEARCHER/FACULTY MEMBER] entitled [NAME OF PROJECT] is selected for funding, it is my intent to collaborate and/or commit resources as detailed in the Project Description or the Facilities, Equipment, or Other Resources section of the proposal.
 
 Sincerely
 
@@ -69,7 +69,7 @@ The initial outcome of this commitment letter is appreciation and education from
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 * [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison 
+* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 ## References
 
@@ -81,5 +81,5 @@ The initial outcome of this commitment letter is appreciation and education from
 
 ## Contributors & Acknowledgement
 
-* David Lippert (The George Washington University) https://orcid.org/0009-0003-6444-9595
-* Ciara Flanagan https://orcid.org/0009-0005-3153-7673
+* David Lippert (The George Washington University) <https://orcid.org/0009-0003-6444-9595>
+* Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>

@@ -14,7 +14,7 @@ Develop a pilot program to investigate the capabilities and use of locally run �
 
 ## Problem / Challenge
 
-Large Language Models (LLMs) have grown extremely quickly in the past couple of years. Universities (both faculty and administration) are keen to make use of these new tools. 
+Large Language Models (LLMs) have grown extremely quickly in the past couple of years. Universities (both faculty and administration) are keen to make use of these new tools.
 
 However, there are a number of challenges:
 
@@ -43,11 +43,11 @@ A university or research institution with an interest in making use of AI.
 
 ## Solution
 
-Develop a pilot program to explore how to use AI tools in an open-source, academic environment. 
+Develop a pilot program to explore how to use AI tools in an open-source, academic environment.
 
-Define and communicate the criteria for the project. 
+Define and communicate the criteria for the project.
 
-Overall, the pilot should be: 
+Overall, the pilot should be:
 
 * Relatively low risk (to take account of LLM hallucinations).
 * Useful to faculty and the wider university community.
@@ -66,7 +66,7 @@ Using retrieval-augmentation generation (RAG) will improve LLM accuracy.
 
 ## Resulting Context
 
-Intended outcomes are: 
+Intended outcomes are:
 
 * Faculty and students can make use of open source AI tools that benefit their research activities.
   
@@ -76,11 +76,11 @@ Intended outcomes are:
 
 ### Additional Learning from Syracuse University
 
-We’ve hired two Masters of Science students to work on two pilot projects. 
+We’ve hired two Masters of Science students to work on two pilot projects.
 
 The first pilot is to build a chatbot that will answer questions about research being undertaken at our university. The objectives of the project are to improve access to university-based research; and to strengthen collaboration across campus.
 
-An unexpected finding was the lack of a central database of publications written by faculty - an essential requirement for the chatbot. We’re currently building that database (which is a project in itself). These papers are being used to improve the training of a locally run instance of LLAMA and should enable the chatbot (in theory) to give more accurate answers. 
+An unexpected finding was the lack of a central database of publications written by faculty - an essential requirement for the chatbot. We’re currently building that database (which is a project in itself). These papers are being used to improve the training of a locally run instance of LLAMA and should enable the chatbot (in theory) to give more accurate answers.
 
 Given the broader value of the database, we plan to make it publicly available when it’s completed.
 
@@ -88,7 +88,7 @@ The second project is a collaboration with an economics professor and her team t
 
 We hope to have a working solution by the end of the spring semester 2025.
 
-If the projects are successful, we will build similar tools that will be useful to the university community. 
+If the projects are successful, we will build similar tools that will be useful to the university community.
 
 In taking on this project, we also discovered that the GPU hardware on campus is becoming outdated. We are currently working with other faculty that are interested in AI to submit a funding proposal.
 
@@ -100,7 +100,7 @@ In taking on this project, we also discovered that the GPU hardware on campus is
 
 ## Contributors & Acknowledgement
 
-* Will Gearty, (Syracuse University), https://orcid.org/0000-0003-0076-3262
-* Ramya Patchala, (Syracuse University), https://orcid.org/0009-0009-3018-6030
-* Aryan Apte, (Syracuse University), https://orcid.org/0009-0001-9299-6217
-* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
+* Will Gearty, (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
+* Ramya Patchala, (Syracuse University), <https://orcid.org/0009-0009-3018-6030>
+* Aryan Apte, (Syracuse University), <https://orcid.org/0009-0001-9299-6217>
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

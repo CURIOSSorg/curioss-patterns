@@ -31,11 +31,11 @@ PIs, other leaders, and central institution or departmental grants offices are i
 
 ## Forces
 
-Teams working on proposals face competing pressures and time constraints when submitting proposals and their primary concern is the proposal narrative and budget. 
+Teams working on proposals face competing pressures and time constraints when submitting proposals and their primary concern is the proposal narrative and budget.
 
 Other components of a grant application (e.g. open source, OSS) is outside their area of expertise and/or their area of concern.
 
-Other offices that focus on grant submissions may not know of the university OSPO and how it can support their funding applications. 
+Other offices that focus on grant submissions may not know of the university OSPO and how it can support their funding applications.
 
 ## Solution
 
@@ -45,7 +45,7 @@ The solution below outlines basic core activities to consider.
 
 ### Raising awareness with key stakeholders
 
-Develop approaches for marketing OSPO support in this area with relevant faculty, researchers and senior leadership. 
+Develop approaches for marketing OSPO support in this area with relevant faculty, researchers and senior leadership.
 
 Ideally, awareness raising activities should be conducted well in advance of any funding application deadlines. OSPO support for grant proposals can be communicated in:
 
@@ -65,7 +65,7 @@ Depending on capacity, options for grant support may include:
 * Consultation that leads to changes in the proposal narrative by the leadership team.
 * Letters of support or appendices that outline the services of the OSPO and other relevant teams (e.g. open science, open access), through associated templates.
 * Letters or appendices of commitment that outline specific contributions from the OSPO toward the deliverables of the proposal.
-* Recommendations regarding third party experts, organizations, etc. that could improve the chances of funding approval. 
+* Recommendations regarding third party experts, organizations, etc. that could improve the chances of funding approval.
 * Including OSPO personnel as members of the proposal team.
 
 ## Resulting Context
@@ -82,11 +82,11 @@ Possibly better reactions from reviewers interested in the open source component
 
 We regularly work with CMU’s Open Science team to provide information about our services.
 
-To date, faculty have directly contacted the OSPO for proposal support. The CMU OSPO offers to meet with the leadership team, which has often taken advantage of this opportunity. 
+To date, faculty have directly contacted the OSPO for proposal support. The CMU OSPO offers to meet with the leadership team, which has often taken advantage of this opportunity.
 
-In some cases, requests have come from departmental or college-level research support departments seeking additional expertise in support of faculty proposals. 
+In some cases, requests have come from departmental or college-level research support departments seeking additional expertise in support of faculty proposals.
 
-In all cases, the OSPO asks for a copy of the proposal, which is reviewed for any mention of or opportunity related to open source software. 
+In all cases, the OSPO asks for a copy of the proposal, which is reviewed for any mention of or opportunity related to open source software.
 
 We’ve also noted a greater awareness and appreciation for the CMU OSPO and we’ve used this as an opportunity to introduce projects to other services such as [Bitergia](https://bitergia.com/) and [Scarf](https://about.scarf.sh/).
 
@@ -99,13 +99,14 @@ We’ve also noted a greater awareness and appreciation for the CMU OSPO and we�
 ## References
 
 ### Related Patterns
+
 * [Embedding the OSPO as Research Infrastructure](./embedding-the-ospo-as-research-infrastructure.md) - Pattern from the UT Austin OSPO.
 * [Open Source Grant Commitment Letter](./open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO.
 * [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
 * [OSPO as *Lead* Principal Investigator](./ospo-as-lead-principal-investigator.md)
 
 ## Contributors & Acknowledgement
-* Sayeed Choudhury (Carnegie Mellon University) https://orcid.org/0000-0003-2891-0543
-* Tom Hughes (Carnegie Mellon University) https://orcid.org/0009-0008-7516-3687
-* Ciara Flanagan https://orcid.org/0009-0005-3153-7673
 
+* Sayeed Choudhury (Carnegie Mellon University) <https://orcid.org/0000-0003-2891-0543>
+* Tom Hughes (Carnegie Mellon University) <https://orcid.org/0009-0008-7516-3687>
+* Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>
