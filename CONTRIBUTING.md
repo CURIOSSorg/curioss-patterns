@@ -25,3 +25,4 @@ If you want to test the MkDocs site locally:
 3. **View the site:** Open your browser to http://127.0.0.1:8000
 
 The development server will automatically reload when you make changes to any markdown files.
+
