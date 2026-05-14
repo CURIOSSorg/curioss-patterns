@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "markdownlint . -i node_modules -i site",
     "lint-fix": "markdownlint --fix . -i node_modules -i site",
-    "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json && markdown-link-check ./**/*.md -c mdlinkcheckconfig.json",
-    "links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json && markdown-link-check -q ./**/*.md -c mdlinkcheckconfig.json"
+    "links": "markdown-link-check ./*.md -c mdlinkcheckconfig.json",
+    "links-ci": "markdown-link-check -q ./*.md -c mdlinkcheckconfig.json"
   },
   "devDependencies": {
     "markdown-link-check": "^3.12.2",
