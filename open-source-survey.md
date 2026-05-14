@@ -6,11 +6,6 @@ tags:
 ---
 # Open Source Survey
 
-## Pattern Category
-
-* Community building
-* OSS Discovery
-
 ## OSPO Problems / Challenges
 
 * A lack of up-to-date information on how much open source software is being produced in a university.

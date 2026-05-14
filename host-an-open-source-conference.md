@@ -25,17 +25,6 @@ A lack of awareness and visibility of an academic OSPO may create a number of ch
 * The impact of academic contributions from the OSPO’s institution are not recognized.
 * The OSPO experiences difficulties in connecting with internal and/or external partners.
 
-## Pattern Category
-
-* Building University OSS Community
-* Demonstrating value as an OSPO
-* Funding & Financial Support
-* Raising awareness
-* Sharing OSS Best Practices
-* OSS Advocacy and Policy
-* OSS Education & Skills  
-* Working with Tech Transfer / External Partners  
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.

@@ -2,7 +2,7 @@
 tags:
   - Community Building
   - Education & Skills
-  - Promoting best Practices
+  - Promoting Best Practices
 ---
 # Embed wellbeing into Student Hackathons
 
@@ -17,12 +17,6 @@ Hackathon culture tends to glorify extreme effort at the expense of basic self-c
 While mentors bring valuable expertise, some may unintentionally undermine wellbeing norms if not given clear guidance.
 
 Left unaddressed, this can lead to physical exhaustion, impaired decision-making, and safety incidents — particularly for younger or more vulnerable participants.
-
-## Pattern Category
-
-- Community Building
-- Education & Skills
-- Promoting Best Practices
 
 ## Context
 

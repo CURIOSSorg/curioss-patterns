@@ -3,6 +3,7 @@ tags:
   - Community Building
   - Demonstrating value as an Academic OSPO
   - Education & Skills
+  - Promoting Best Practices
 ---
 # Co-hosting Student Events
 
@@ -15,12 +16,6 @@ Collaborate with student clubs to co-host one-off, open source-focused campus ev
 There is a growing interest in open source amongst student cohorts outside of academic courses.
 
 However, OSPO staff time and resources are limited.
-
-## Pattern Category
-
-* Community building
-* Developing and sharing best practices  
-* OSS education & skills  
 
 ## Context
 

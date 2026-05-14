@@ -8,7 +8,6 @@ For more information about patterns in general, please see the [About Patterns](
 
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes.
 <!-- material/tags -->
-<!-- material/tags -->
 
 ## About Patterns
 
@@ -64,10 +63,6 @@ The process of creating patterns involves observation, abstraction, and testing:
 4. **Documentation:** Use a consistent format to record the pattern, often as a template, making it accessible for others to use. Here is the [CURIOSS pattern template](PATTERN-TEMPLATE.md).
 
 As CURIOSS and the idea of Academic OSPOs is relatively new, we recognize that the CURIOSS patterns may not yet have significant validation (i.e. may only have been used in one university). We hope to add further known instances over time.
-
-## Patterns
-
-<!-- material/tags -->
 
 ## Origins: From Architecture to Software
 

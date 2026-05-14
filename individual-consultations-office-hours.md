@@ -23,14 +23,6 @@ There is inconsistent knowledge across a university of:
 
 Students, researchers and faculty need guidance to identify the appropriate solutions for their specific challenges.
 
-## Pattern Category
-
-* Building University OSS Community
-* Sharing OSS Best Practices
-* Working with Tech Transfer / External Partners
-* Supporting OSS development
-* Funding & Financial Support
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.

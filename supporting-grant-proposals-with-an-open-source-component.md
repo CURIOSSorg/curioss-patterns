@@ -17,12 +17,6 @@ Provide a range of supports and resources to support funding proposals with an o
 * Principal Investigators (PIs) are not always aware of related best practices or options relating to open source software (OSS).
 * Faculty and researchers may not know how best to demonstrate that their publications, data and/or software will meet these requirements in their funding applications.
 
-## Pattern Category
-
-* Demonstrating value as an Academic OSPO
-* Funding & Financial Support
-* OSS Advocacy & Policy
-  
 ## Context
 
 A university or research institution that submits grant proposals to federal, state or private funding sources.

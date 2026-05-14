@@ -20,13 +20,6 @@ Compared to PhD students or more experienced peers, less experienced participant
 
 Mentors recruited from industry may be highly technically skilled but unfamiliar with how to work effectively with students at varying levels of experience. Without preparation, their mentorship may unintentionally favour advanced participants or fail to meet the needs of those who need more support.
 
-## Pattern Category
-
-- Community Building
-- Diversity, Equity, Inclusion
-- Education & Skills
-- Promoting Best Practices
-
 ## Context
 
 A university OSPO is organizing or co-organizing a student hackathon.

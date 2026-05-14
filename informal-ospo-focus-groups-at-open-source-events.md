@@ -19,12 +19,6 @@ Academic OSPOs may have a limited understanding of their community's actual need
 * Faculty, researchers and students may be hesitant to provide honest feedback through formal channels.
 * One-on-one conversations don't scale well for gathering broad community insights.
 
-## Pattern Category
-
-* Building University OSS Community
-* Demonstrating value as an OSPO
-* Supporting OSS development  
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.

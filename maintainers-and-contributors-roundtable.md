@@ -19,13 +19,6 @@ In many cases, maintainers find themselves in isolated roles without a way of le
 
 A certain proportion of maintainers are experts in their research field but not in open source software development and lack the awareness of where and how to find the information they need.
 
-## Pattern Category
-
-- Community Building
-- Education & Skills
-- Open Source Discovery
-- Promoting Best Practices
-
 ## Context
 
 A research university creating large volumes of research outputs across every discipline.
@@ -50,27 +43,27 @@ Convene a regular community of practice to facilitate the sharing of project act
 
 The community of practice or ‘roundtable’ may be promoted in a number of ways, including:
 
-- Sourcing maintainer and core contributor of open source projects through direct communications with the Principal Investigators (PIs) of labs.
+* Sourcing maintainer and core contributor of open source projects through direct communications with the Principal Investigators (PIs) of labs.
 
-- Inviting new members by promoting the community on our OSPO mailing list.
+* Inviting new members by promoting the community on our OSPO mailing list.
 
-- Advertising the meetings and sharing the rotating list of most commonly discussed topics on the OSPO website to give prospective members a sense of what may be discussed at any one meeting.
+* Advertising the meetings and sharing the rotating list of most commonly discussed topics on the OSPO website to give prospective members a sense of what may be discussed at any one meeting.
 
-- Requesting membership to provide referrals.
+* Requesting membership to provide referrals.
 
 ### Meeting Preparation
 
-- Typical meeting preparation involves room booking and food orders (if budgets are available).
-- Plan for a relevant topic/theme for each meeting that will engage the community members.
-- Where possible, contact community members whose expertise and interests match the topic.
+* Typical meeting preparation involves room booking and food orders (if budgets are available).
+* Plan for a relevant topic/theme for each meeting that will engage the community members.
+* Where possible, contact community members whose expertise and interests match the topic.
 
 ### Facilitating meetings
 
-- Host on-site meetings once a month with a hybrid option for remote members.
-- Organize each meeting around one core topic/theme or specific project and advertise the topic in advance.
-- Typically, a member of the OSPO should take on the role of facilitator.
-- In order to encourage a safe and enjoyable learning space, the tone of the meeting can be casual and conversational.
-- The meetings should also have a code of conduct or established norms such as [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) that encourage participants to share their thoughts freely.
+* Host on-site meetings once a month with a hybrid option for remote members.
+* Organize each meeting around one core topic/theme or specific project and advertise the topic in advance.
+* Typically, a member of the OSPO should take on the role of facilitator.
+* In order to encourage a safe and enjoyable learning space, the tone of the meeting can be casual and conversational.
+* The meetings should also have a code of conduct or established norms such as [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) that encourage participants to share their thoughts freely.
 
 ## Resulting Context
 
@@ -86,11 +79,11 @@ This newfound connection encourages **knowledge and skills sharing**.
 
 Hosting a community of practice yields a number of positive outcomes for the OSPO:
 
-- Stronger relationships with open source maintainers and contributors on campus.
-- Greater engagement from community of practice members in other OSPO initiatives (e.g. workshops, consultations, mentorship).
-- Deeper insights into specific needs and pain points of this cohort.
-- Increased opportunity to discover new open source projects on campus.
-- Potential to amplify the impact of open source projects through the facilitation of knowledge sharing and collaboration.  
+* Stronger relationships with open source maintainers and contributors on campus.
+* Greater engagement from community of practice members in other OSPO initiatives (e.g. workshops, consultations, mentorship).
+* Deeper insights into specific needs and pain points of this cohort.
+* Increased opportunity to discover new open source projects on campus.
+* Potential to amplify the impact of open source projects through the facilitation of knowledge sharing and collaboration.  
 
 ### Additional Learning from OpenSource@Stanford
 
@@ -128,24 +121,24 @@ However, there is a possibility for convening an alternative community of practi
 
 ## Known Instances
 
-- [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
-- [UC OSPO Network](https://ucospo.net/), University of California
+* [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
+* [UC OSPO Network](https://ucospo.net/), University of California
 
 ## References
 
-- [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://opensource.stanford.edu/programs/maintainers-contributors-roundtable)
-- [Highlights from the first UC Open Source Contributors & Maintainers Virtual Meetup](https://bids.berkeley.edu/news/building-bridges-highlights-inaugural-uc-open-source-meetup)
-- [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://www.youtube.com/watch?v=1tCLyTWbSbE) - CURIOSS Deep Dive with Francesca Vera and Ellianna Abrahams
-- Lave, Jean, and Étienne Wenger-Trayner. *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press, 2020.
-- Brown, John Seely, et al. *The Social Life of Information*. Harvard Business Review Press, 2017.
+* [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://opensource.stanford.edu/programs/maintainers-contributors-roundtable)
+* [Highlights from the first UC Open Source Contributors & Maintainers Virtual Meetup](https://bids.berkeley.edu/news/building-bridges-highlights-inaugural-uc-open-source-meetup)
+* [OpenSource@Stanford’s Maintainers & Contributors Roundtable](https://www.youtube.com/watch?v=1tCLyTWbSbE) - CURIOSS Deep Dive with Francesca Vera and Ellianna Abrahams
+* Lave, Jean, and Étienne Wenger-Trayner. *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press, 2020.
+* Brown, John Seely, et al. *The Social Life of Information*. Harvard Business Review Press, 2017.
 
 ### Related Patterns
 
-- [Open Source Catalog](./open-source-catalog.md)
-- [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
+* [Open Source Catalog](./open-source-catalog.md)
+* [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
 
 ## Contributors & Acknowledgement
 
-- Francesca Vera, Stanford University, <https://orcid.org/0000-0001-8791-3854>
-- Zach Chandler, Stanford University,  <https://orcid.org/0000-0003-2402-9839>
-- Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>
+* Francesca Vera, Stanford University, <https://orcid.org/0000-0001-8791-3854>
+* Zach Chandler, Stanford University,  <https://orcid.org/0000-0003-2402-9839>
+* Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>

@@ -18,12 +18,6 @@ Open source work may also be viewed as peripheral to the university's core acade
 
 Without visible leadership support, open source conferences risk being seen as niche technical events rather than strategic institutional priorities.
 
-## Pattern Category
-
-- Demonstrating value as an OSPO
-- OSS Advocacy & Policy
-- Raising awareness
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.
@@ -68,9 +62,9 @@ The presence of a program officer or director from a funding agency is an import
 
 ## Known Instances
 
-- Carnegie Mellon University OSPO, CMU Libraries, Carnegie Mellon University
-- Johns Hopkins University OSPO, Sheridan Libraries, Johns Hopkins University
-- [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+* Carnegie Mellon University OSPO, CMU Libraries, Carnegie Mellon University
+* Johns Hopkins University OSPO, Sheridan Libraries, Johns Hopkins University
+* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
 ## References
 
@@ -78,19 +72,19 @@ Johns Hopkins University OSPO’s [FOSSPROF Summative Event 2024](https://ospo.l
 
 ### Related Patterns
 
-- [Co-hosting student events](./cohosting-student-events.md)
-- [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
-- [Host an Open Source Conference](./host-an-open-source-conference.md)
-- [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
-- [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
-- [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
-- [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
+* [Co-hosting student events](./cohosting-student-events.md)
+* [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
+* [Host an Open Source Conference](./host-an-open-source-conference.md)
+* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
+* [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
 
 In alphabetical order
 
-- Bill Branan, Johns Hopkins University, <https://orcid.org/0000-0002-4735-6624>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Megan Forbes, Johns Hopkins University, <https://orcid.org/0000-0002-2611-1441>
-- Sayeed Choudhury, Carnegie Mellon University, <https://orcid.org/0000-0003-2891-0543>
+* Bill Branan, Johns Hopkins University, <https://orcid.org/0000-0002-4735-6624>
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+* Megan Forbes, Johns Hopkins University, <https://orcid.org/0000-0002-2611-1441>
+* Sayeed Choudhury, Carnegie Mellon University, <https://orcid.org/0000-0003-2891-0543>

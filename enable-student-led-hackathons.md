@@ -25,14 +25,6 @@ Student groups are often highly capable at organizing hackathons. However, organ
 
 Without proper support, student hackathons may fail to launch, produce limited learning outcomes or inadvertently create problems around intellectual property, code licensing, or project sustainability.
 
-## Pattern Category
-
-* Community Building
-* Education & Skills
-* Funding & Financial Support
-* Promoting Best Practices
-* Working with Tech Transfer/External Partners  
-
 ## Context
 
 An institution or a university.
@@ -80,7 +72,6 @@ With external partners, it can be challenging for students to engage with sponso
 We’ve found that the big thing that student organizers need is an advocate.
 
 ## Known Instances
-
 * [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 * [GW OSPO](https://ospo.gwu.edu/), George Washington University
 * [University of California OSPO Network](https://ucospo.net/)
@@ -96,7 +87,6 @@ We’ve found that the big thing that student organizers need is an advocate.
 * [UCSC’s 2024 Ideathon (included OSPO-sponsored prize track)](https://lu.ma/d8afz220)
 
 ### Related Patterns
-
 * [Co-hosting student events](cohosting-student-events.md)
 * [Organize an Open Source Hackathon](organize-an-open-source-hackathon.md)
 * [Design a Collaborative Open Source Hackathon](design-a-collaborative-open-source-hackathon.md)
@@ -106,7 +96,6 @@ We’ve found that the big thing that student organizers need is an advocate.
 * [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
 
 ## Contributors & Acknowledgement
-
 * Angela Newell, University of Texas at Austin
 * Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
 * David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>

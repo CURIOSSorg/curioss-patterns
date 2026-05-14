@@ -22,12 +22,6 @@ Without a transparent, discoverable web presence:
 
 As a result, the OSPO risks invisibility and its potential impact is limited.
 
-## Pattern Category
-
-* Awareness
-* Community Building
-* Demonstrating value as an OSPO
-
 ## Context
 
 A research institution or a university creating large volumes of research outputs across every discipline.

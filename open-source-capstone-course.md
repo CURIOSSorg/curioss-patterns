@@ -17,12 +17,6 @@ Redesign the traditional computer science capstone into a professional open sour
 - Students completing traditional capstone courses may receive course credit but gain little authentic professional experience, limiting the value of the work to both students and external partners.
 - Promising capstone projects risk being abandoned after the course ends.
 
-## Pattern Category
-
-- Education & Skills
-- Open Source Sustainability
-- Working with Tech Transfer / External Partners  
-
 ## Context
 
 A university with a large and diverse research and instructional cohort.

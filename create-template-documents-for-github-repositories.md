@@ -13,11 +13,6 @@ Create template documents for project repositories as a first step to attracting
 
 Students and researchers are not attracting the contributors and maintainers needed to sustain their OSS projects. Consequently, research software is open in name only and risks being abandoned after initial release.
 
-## Pattern Category
-
-- Building Community
-- Promoting Best Practices  
-
 ## Context
 
 A university with a large and diverse research cohort that is creating volumes of research outputs across all disciplines.

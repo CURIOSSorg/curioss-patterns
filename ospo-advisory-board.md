@@ -18,12 +18,6 @@ Academic OSPOs operate in complex institutional environments with diverse stakeh
 - Developing ‘blind spots’ in its understanding of the academic landscape it operates in.
 - Missing opportunities for strategic partnerships or collaborations.
 
-## Pattern Category
-
-- Community building
-- Demonstrating value as an academic OSPO
-- Working with Tech Transfer / External Partners  
-
 ## Context
 
 A research university creating large volumes of research outputs across every discipline.

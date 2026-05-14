@@ -22,13 +22,6 @@ Without a structured approach to outreach, early conversations risk becoming:
 * Unfocused - leading to missed opportunities for follow-up or collaboration.
 * Poorly documented - making it difficult to track who was contacted and what was discussed.
 
-## Pattern Category
-
-* Awareness
-* Community Building
-* Demonstrating value as an OSPO
-* Open Source Discovery
-
 ## Context
 
 A university or research institution with existing open source activities that are scattered or informal.

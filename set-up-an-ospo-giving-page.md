@@ -21,10 +21,6 @@ There are a number of bureaucratic challenges for academic OSPOs seeking to esta
 * **A need for transparent financial processes** that meet the institution’s financial compliance obligations.
 * **Potential difficulties in accepting unrestricted funds** that can be deployed flexibly across OSPO priorities and opportunities.
 
-## Pattern Category
-
-* Funding & Financial Support
-
 ## Context
 
 A research university creating large volumes of research outputs across every discipline.
@@ -60,7 +56,7 @@ Contact and/or meet finance colleagues to understand the institution’s process
 * Develop a strategy for promoting direct donations through the giving page and acknowledging donors on the OSPO’s website, materials and communication platforms.
 * Consider developing a prospectus outlining different donor or sponsorship ‘packages’, options for once-off smaller contributions and information about how donations will be used.
 
-### Build the giving page
+### Set up an OSPO Giving Page
 
 * Create a dedicated page on the OSPO’s website.
 * Ensure the page clearly identifies its purpose.

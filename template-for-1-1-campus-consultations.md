@@ -22,16 +22,6 @@ Academic OSPOs may be constrained by the number of individual consultations/offi
 * Lack of clarity about next steps and the roles responsible for those steps
 * An inconsistent approach to consultations.
 
-## Pattern Category
-
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
-* Building University OSS Community
-* Sharing OSS Best Practices  
-* Working with Tech Transfer / External Partners  
-* Supporting OSS development  
-* Funding & Financial Support
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.
@@ -61,7 +51,6 @@ Develop a template that guides the OSPO to explore some or all of the following 
 ## Resulting Context
 
 Academic OSPOs have a consultation template that serves as a:
-
 * Diagnostic tool for open source projects.
 * Framework that supports students, researchers and faculty at different points of open source development to deepen their understanding of their needs and objectives.
 * A structured knowledge base that enables OSPO staff to provide meaningful and consistent support.
