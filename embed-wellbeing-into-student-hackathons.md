@@ -7,69 +7,82 @@ tags:
 # Embed wellbeing into Student Hackathons
 
 ## Pattern Summary
+
 Embed physical and psychological wellbeing into student hackathons to ensure that participants can perform at their best while remaining safe and supported throughout the event.
 
 ## Problem / Challenge
-Hackathon culture tends to glorify extreme effort at the expense of basic self-care. 
+
+Hackathon culture tends to glorify extreme effort at the expense of basic self-care.
 
 While mentors bring valuable expertise, some may unintentionally undermine wellbeing norms if not given clear guidance.
 
 Left unaddressed, this can lead to physical exhaustion, impaired decision-making, and safety incidents — particularly for younger or more vulnerable participants.
 
 ## Pattern Category
+
 - Community Building
 - Education & Skills
 - Promoting Best Practices
-   
+
 ## Context
-A university or research institution. 
+
+A university or research institution.
 
 An OSPO has been established.
 
 The OSPO is involved in organizing or supporting a hackathon.
 
 ## Forces
+
 The hackathon will take place over a 24 or 48 hour period.
 
-Hackathon participants may be on-site overnight. 
+Hackathon participants may be on-site overnight.
 
-Student teams may be unsupervised for periods of time. 
+Student teams may be unsupervised for periods of time.
 
 Mentors will also be on-site for guidance.
 
 A budget is available for food and hydration.
 
 ## Solution
+
 Design wellbeing and safety into the following areas:
 
 ### Planning
+
 Organizers should establish clear positions on sleep, participant welfare and safety.
 
-Sleeping should be a non-negotiable requirement for participation. 
+Sleeping should be a non-negotiable requirement for participation.
 
 ### Mentor Training
-Provide clear guidance to mentors on the hackathon’s approach to wellbeing. 
+
+Provide clear guidance to mentors on the hackathon’s approach to wellbeing.
 
 Brief mentors explicitly on safety guidelines and actively encouraging participants to sleep.
 
 ### Food and Hydration
-Ensure that food, snacks and water are available on-site throughout the event — particularly at night. This removes the need for participants to leave the venue alone at night, which presents both safety and safeguarding risks. 
+
+Ensure that food, snacks and water are available on-site throughout the event — particularly at night. This removes the need for participants to leave the venue alone at night, which presents both safety and safeguarding risks.
 
 ### Minors
-Where participation from minors is permitted, coordinate with campus risk management colleagues. 
+
+Where participation from minors is permitted, coordinate with campus risk management colleagues.
 
 Areas for consideration include: waivers, transport and when participants should leave and return each day.
 
 ### Dedicated Wellbeing Support
+
 Appoint one or more welfare or wellbeing support people whose sole responsibility will be to support and monitor participant welfare. This role formalises care as a structured responsibility rather than leaving it to chance.
 
 The support person(s) will circulate amongst teams, check in proactively and be a visible, approachable point of contact for students.
 
 ### Messaging
+
 Ensure that safeguarding information about sleep, safety, food and support on-site is included in dvance communications with participants about the hackathon. This messaging should be reinforced throughout the hackathon.
 
 ## Resulting Context
-Students experience the hackathon as an intensive but sustainable event. 
+
+Students experience the hackathon as an intensive but sustainable event.
 
 Hackathon organizers can meet their duty of care with confidence.
 
@@ -78,22 +91,26 @@ Mentors have clear direction on the behaviours expected of them.
 In the longer term, consistent modelling and enforcing of wellbeing norms can influence what participants come to expect and value — moving away from the glorification of exhaustion and towards a healthier, more inclusive vision of what collaborative innovation looks like.
 
 ### Additional Learning from Carnegie Mellon University OSPO
-We have a policy of advocating for sleep. 
 
-We also try to have food and water on hand so that students aren’t making food runs at 3am when they're sleep deprived. 
+We have a policy of advocating for sleep.
+
+We also try to have food and water on hand so that students aren’t making food runs at 3am when they're sleep deprived.
 
 We always have a non-participating support person who makes sure all teams are safe, feeling good, working well and that they don't need anything.
 
 ### Additional Learning from University of Texas at Austin OSPO
-We give explicit directions for sleep and we provide a mechanism to ensure that students get sleep. 
+
+We give explicit directions for sleep and we provide a mechanism to ensure that students get sleep.
 
 Every team has a mentor
 
 ## Known Instances
+
 - [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 - [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
 
 ### Related Patterns
+
 - [Organize an Open Source Hackathon](organize-an-open-source-hackathon.md)
 - [Design a Collaborative Open Source Hackathon](design-a-collaborative-open-source-hackathon.md)
 - [Enable Student-led Hackathons](enable-student-led-hackathons.md)
@@ -102,9 +119,10 @@ Every team has a mentor
 - [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
 
 ## Contributors & Acknowledgement
+
 - Angela Newell, University of Texas at Austin
-- Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
-- David Lippert, George Washington University, https://orcid.org/0009-0003-6444-9595
-- Emily Lovell, University of California Santa Cruz, https://orcid.org/0000-0001-5531-5956
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
+- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
 - Laura Langdon, University of California, Davis
-- Tom Hughes, Carnegie Mellon University, https://orcid.org/0009-0008-7516-3687
+- Tom Hughes, Carnegie Mellon University, <https://orcid.org/0009-0008-7516-3687>

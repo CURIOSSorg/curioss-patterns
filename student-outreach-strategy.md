@@ -28,7 +28,7 @@ Without proactive outreach, awareness of open source opportunities remains low a
 
 A research university creating large volumes of research outputs across every discipline.
 
-An OSPO has been established. 
+An OSPO has been established.
 
 The OSPO may lack full-time staff dedicated to outreach.
 
@@ -47,13 +47,13 @@ The solution below outlines some activities to consider:
 
 ### Hire Student Ambassadors
 
-Recruit [Student Ambassadors](./ospo-student-ambassador-program.md) who are familiar with open source and community building. 
+Recruit [Student Ambassadors](./ospo-student-ambassador-program.md) who are familiar with open source and community building.
 
-Student Ambassadors can educate their fellow students in peer-to-peer interactions, with approaches that are personalized and less intimidating than information heavy emails or lectures. 
+Student Ambassadors can educate their fellow students in peer-to-peer interactions, with approaches that are personalized and less intimidating than information heavy emails or lectures.
 
 ### Create Social Media accounts
 
-Build a community on popular social media platforms to connect with and notify students about events, workshops, resources and programming. 
+Build a community on popular social media platforms to connect with and notify students about events, workshops, resources and programming.
 
 Instagram is a popular social media choice amongst students for interaction with organizations. Increase engagement and reach a larger audience through Instagram posts, stories and by following student organizations.
 
@@ -61,15 +61,15 @@ LinkedIn is another popular social media platform for students to connect with p
 
 ### Host Tabling Events
 
-[Hosting a table at events](./event-tabling.md) either independently or in collaboration with other student organizations is an effective method of connecting with students. 
+[Hosting a table at events](./event-tabling.md) either independently or in collaboration with other student organizations is an effective method of connecting with students.
 
-Tables provide a fun and informal way to raise awareness of the OSPO's services. Short interactive games at the table can be used to educate students about the relevance of open source. 
+Tables provide a fun and informal way to raise awareness of the OSPO's services. Short interactive games at the table can be used to educate students about the relevance of open source.
 
 Event tabling at central locations on campus is particularly effective for outreach to diverse groups of students.
 
 ### Organize 'First Contribution' Workshops
 
-'First Contribution' Workshops offer a simple introduction to open source and demonstrate open source fundamentals in an engaging way. 
+'First Contribution' Workshops offer a simple introduction to open source and demonstrate open source fundamentals in an engaging way.
 
 Organize a workshop where students can learn a simple activity that can be uploaded onto a public website.
 
@@ -83,7 +83,7 @@ Using multiple outreach activities enhances the OSPO's potential to reach a wide
 
 ### Additional Learning from the GW Open Source Program Office
 
-We wanted to reach as many students as possible while helping them to understand what our OSPO offers. We found that the most effective ways to reach students included hiring Student Ambassadors, creating social media content, hosting tabling events, organizing workshops and hosting movie nights. These methods were easily applicable and offered a fun and interactive way to raise awareness of the OSPO and the importance of open source. 
+We wanted to reach as many students as possible while helping them to understand what our OSPO offers. We found that the most effective ways to reach students included hiring Student Ambassadors, creating social media content, hosting tabling events, organizing workshops and hosting movie nights. These methods were easily applicable and offered a fun and interactive way to raise awareness of the OSPO and the importance of open source.
 
 The OSPO hired 2 graduate students and 2 undergraduate students as Student Ambassadors. The OSPO now has its own [Instagram](https://www.instagram.com/gwospo/) and [LinkedIn](https://www.linkedin.com/company/ospo-gwuniversity) accounts.
 
@@ -106,8 +106,8 @@ We also used this [open source art repository](https://github.com/gw-ospo/open-s
 
 ## Contributors & Acknowledgements
 
-- Sunil Shah, George Washington University, https://orcid.org/0009-0009-4567-8679
-- Rosemary Pauley, George Washington University, https://orcid.org/0009-0008-9354-4301
-- Nouha Elyazidi, George Washington University, https://orcid.org/0009-0004-8067-8803
-- Jood Alfadhel, George Washington University, https://orcid.org/0009-0000-2827-4036
-- Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
+- Sunil Shah, George Washington University, <https://orcid.org/0009-0009-4567-8679>
+- Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
+- Nouha Elyazidi, George Washington University, <https://orcid.org/0009-0004-8067-8803>
+- Jood Alfadhel, George Washington University, <https://orcid.org/0009-0000-2827-4036>
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

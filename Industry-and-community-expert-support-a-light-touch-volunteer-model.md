@@ -21,7 +21,7 @@ Engage experienced industry professionals and open source community experts as â
 
 - Education & Skills
 - Working with Tech Transfer / External Partners  
-   
+
 ## Context
 
 - A research or teaching university.
@@ -36,13 +36,14 @@ Engage experienced industry professionals and open source community experts as â
 
 ## Solution
 
-Establish a program that invites experienced technology professionals and open source community experts to participate as light-touch volunteers across OSPO programs and events. 
+Establish a program that invites experienced technology professionals and open source community experts to participate as light-touch volunteers across OSPO programs and events.
 
 The program should be designed to minimise the barrier to participation while maximizing the value that experts provide to students and the wider OSPO community.
 
 Key design considerations include:
 
 ### Minimum commitment expectations
+
 - Ask volunteers for a modest, flexible baseline commitment. Depending on the context, this could include:
 - Attending one or two events per semester
 - Supporting a hackathon
@@ -50,11 +51,11 @@ Key design considerations include:
 - Giving a talk
 - Answering questions in a shared communication workspace.
 
-Any engagement beyond this baseline is entirely at the volunteer's discretion. 
+Any engagement beyond this baseline is entirely at the volunteer's discretion.
 
 ### Formal but lightweight onboarding
 
-- Where possible, onboard volunteers formally, for example as contingent workers or university employees, even where no financial compensation is provided. 
+- Where possible, onboard volunteers formally, for example as contingent workers or university employees, even where no financial compensation is provided.
 
 - This confers a small number of meaningful soft perks such as a university email address, library access and/or access to co-working spaces.
 
@@ -62,12 +63,11 @@ Any engagement beyond this baseline is entirely at the volunteer's discretion.
 
 ### Integration into program communication infrastructure
 
-- Where a shared communication workspace exists (e.g. Slack), provide volunteers with access to relevant channels. 
+- Where a shared communication workspace exists (e.g. Slack), provide volunteers with access to relevant channels.
 
-- Public product or program channels allow volunteers to engage with individual teams or initiatives based on their interest and availability. 
+- Public product or program channels allow volunteers to engage with individual teams or initiatives based on their interest and availability.
 
 - Dedicated expert volunteer channels also allow the OSPO to share relevant information and coordinate engagement across the cohort as a whole.
-
 
 ## Resulting Context
 
@@ -103,7 +103,7 @@ Open Source with SLU, Saint Louis University
 
 ## Contributors & Acknowledgement
 
-- Ciara Flanagan (CURIOSS) https://orcid.org/0009-0005-3153-7673
-- Daniel Shown (Saint Louis University) https://orcid.org/0009-0002-5716-8835
+- Ciara Flanagan (CURIOSS) <https://orcid.org/0009-0005-3153-7673>
+- Daniel Shown (Saint Louis University) <https://orcid.org/0009-0002-5716-8835>
 
 A note on AI use: In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!

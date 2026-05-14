@@ -30,7 +30,7 @@ Education/training content is frequently updated across the university.
 
 Funding bodies are mandating public access to funded research outputs and research software.
 
-Training materials are needed to support academic cohorts to comply with these public funding mandates. 
+Training materials are needed to support academic cohorts to comply with these public funding mandates.
 
 Due to the diverse range of technologies and teaching approaches, training resources must be accessible and easily adapted.
 
@@ -51,14 +51,14 @@ Other tools / platforms such as [Jupyter Book 2](https://blog.jupyterbook.org/po
 
 Workflows can be developed for both tutorials *and* workshops that share content and provide experiential learning opportunities.
 
-The methodology for designing OSS tutorials can serve as an example for promoting the use of OER across departments. 
+The methodology for designing OSS tutorials can serve as an example for promoting the use of OER across departments.
 
 ### Additional Learning from the GW OSPO
 
 An exciting benefit of these interactive and publicly available educational tutorial templates is that they are more dynamic. They enable a new type of continuous open science that more closely matches agile development. Because these resources are designed to enable reproducibility and accessibility, they:
 
 * Foster trust in research.  
-* Increase scientific quality.   
+* Increase scientific quality.
 * Accelerate the pace of discovery and innovation.
 
 ## Known Instances
@@ -68,13 +68,13 @@ An exciting benefit of these interactive and publicly available educational tuto
 
 ## References
 
-* The GW Open Source Program Office: [sample template repository](https://github.com/gw-ospo/jupyter-book-template)   
+* The GW Open Source Program Office: [sample template repository](https://github.com/gw-ospo/jupyter-book-template)
 * [OSS Licensing for Researchers and Educators](https://gw-ospo.github.io/oss-licensing/intro.html) \- example of an open tutorial on OSS best practices  
 * Repository: [version-control-workshop-2024 and supporting materials](https://github.com/gw-ospo/version-control-workshop-2024/tree/main)  
   [Version Control Basics](https://gw-ospo.github.io/version-control-workshop-2024/) \- Workshop and supporting materials  
-* [Training modules for getting started with open source software development](https://github.com/gt-ospo/oss-training) \- examples of an open training notebooks on getting started with OSS   
+* [Training modules for getting started with open source software development](https://github.com/gt-ospo/oss-training) \- examples of an open training notebooks on getting started with OSS
 * Set Your Money on FIRE: [sample template repository](https://github.com/david-lippert/fire)  
-* [Set Your Money on FIRE tutorials](https://david-lippert.github.io/fire/intro.html)   
+* [Set Your Money on FIRE tutorials](https://david-lippert.github.io/fire/intro.html)
 * [2024 URSSI Summer School resources](https://github.com/si2-urssi/summerschool-June2024)  
 
 ## Contributor(s) & Acknowledgment
@@ -87,8 +87,7 @@ Michael Rossetti \- Jupyter Book Template
 
 ## Additional Notes / Related Inspiration
 
-
-**Excerpt from the poem Love is an Emergent Process by Adrien Marie Brown**
+### Excerpt from the poem Love is an Emergent Process by Adrien Marie Brown
 
 i look to the sky  
 taste the wind on my tongue  

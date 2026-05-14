@@ -23,7 +23,7 @@ Prepare incoming students with essential onboarding training that enables them t
 
 - Education & Skills
 - Promoting Best Practices
-   
+
 ## Context
 
 - A research or teaching university.
@@ -40,13 +40,13 @@ Students arrive with widely varying levels of prior experience in open source to
 
 The fixed duration of internship programs leaves little room for a slow onboarding process.
 
-Program staff and tech leads have limited capacity to provide individualised onboarding support to every student. 
+Program staff and tech leads have limited capacity to provide individualised onboarding support to every student.
 
 OSPO staff have limited time and capacity to deliver in-person training at scale.
 
 ## Solution
 
-Develop a structured onboarding process for incoming students that provides a common foundation of skills, knowledge and professional orientation before or at the start of the program. 
+Develop a structured onboarding process for incoming students that provides a common foundation of skills, knowledge and professional orientation before or at the start of the program.
 
 Onboarding should be designed to be scalable, welcoming and practical. It should model open source best practices through clear and openly available documentation.
 
@@ -56,13 +56,13 @@ Key design considerations include:
 
 ### Pre-program preparation
 
-Pre-program preparation reduces the time needed for onboarding once the program starts and allows students to begin contributing from the outset. Where possible, provide students with onboarding materials and resources before the program formally begins. 
+Pre-program preparation reduces the time needed for onboarding once the program starts and allows students to begin contributing from the outset. Where possible, provide students with onboarding materials and resources before the program formally begins.
 
 This may include introductory reading on open source practices, guidance on setting up their development environment and/or an overview of the program's tools, workflows, and communication norms.
 
 ### Structured onboarding activities
 
-Design a dedicated onboarding period at the start of the program that introduces students to the key skills, tools, and expectations they will need. 
+Design a dedicated onboarding period at the start of the program that introduces students to the key skills, tools, and expectations they will need.
 
 This should cover open source community norms and practices; the program's specific workflows and tools (e.g. version control, issue tracking, communication platforms); professional communication standards; and the structure and goals of the program itself.
 
@@ -70,9 +70,9 @@ Onboarding activities should be practical and hands-on wherever possible.
 
 ### Project and team orientation
 
-Ensure that students are introduced not only to the program as a whole but to their specific project and team. 
+Ensure that students are introduced not only to the program as a whole but to their specific project and team.
 
-This includes familiarising students with the project's codebase, history and goals. 
+This includes familiarising students with the project's codebase, history and goals.
 
 Introducing students to their tech lead, client and any relevant community members will help them understand how their contribution fits into the longer-term product vision.
 
@@ -84,9 +84,9 @@ Provide students with well-documented reference materials they can return to thr
 
 ### Ongoing support and check-ins
 
-Onboarding should not be treated as a one-off event. 
+Onboarding should not be treated as a one-off event.
 
-Build in regular check-ins between students and program staff or tech leads in the early weeks of the program to identify and address any gaps in understanding or confidence. 
+Build in regular check-ins between students and program staff or tech leads in the early weeks of the program to identify and address any gaps in understanding or confidence.
 
 Dedicated communication channels where students can ask questions and share challenges also help to extend the onboarding support throughout the program.
 
@@ -133,6 +133,6 @@ A key insight from our experience is that onboarding is most effective when it c
 
 ## Contributors & Acknowledgement
 
-- Ciara Flanagan (CURIOSS), https://orcid.org/0009-0005-3153-7673
-- Daniel Shown (Saint Louis University), https://orcid.org/0009-0002-5716-8835
-- Kendall Fortney (University of Vermont), https://orcid.org/0009-0006-3898-0771
+- Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
+- Daniel Shown (Saint Louis University), <https://orcid.org/0009-0002-5716-8835>
+- Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>

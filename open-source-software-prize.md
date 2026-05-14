@@ -8,14 +8,6 @@ tags:
 ---
 # Open Source Software Prize
 
-### Pattern Theme / Category
-
-* Community Building
-* DEI
-* Promoting good practices
-* OSS Discovery  
-* Reward & Recognition  
-
 ## OSPO Problems / Challenges
 
 * A lack of up to date information on how much open source software is being produced in a university.  
@@ -46,21 +38,21 @@ Develop a university-wide ‘Open Source Software Prize’ with the objectives o
 
 * Identifying labs and research teams working in open source that are outside of known networks.  
 * Tying prize eligibility to being listed in the Registry (to incentivize participation and discovery).  
-* Raising awareness of and elevating best practices in open source and open science.   
+* Raising awareness of and elevating best practices in open source and open science.
 * Rewarding best practices and those projects making an impact in relation to diversity and inclusion.  
 * Contributing to the [ORCID](https://orcid.org/) ecosystem to recognize researchers and build trust.
 
-The prize can be used as a vehicle for encouraging the adoption of open science tools to underrepresented fields. 
+The prize can be used as a vehicle for encouraging the adoption of open science tools to underrepresented fields.
 
 ORCID records are permanent and belong to  the researcher. Leveraging ORCID for official prize assertions makes the distinction more visible, durable, and relevant to the research community.
 
 A sample list of typical awards for entrants may include:
 
 * Cash prizes.  
-* Public recognition in academic fora.   
+* Public recognition in academic fora.
 * Official distinctions that incorporate a ‘permanent academic recognition’ of achievement.
 
-Award criteria should be devised to reward projects demonstrating practices and impact that the university wishes to foster in open source projects. 
+Award criteria should be devised to reward projects demonstrating practices and impact that the university wishes to foster in open source projects.
 
 Awards criteria should account for biases and limitations in scholarly metrics. For example, some impactful software projects in computer science may not have associated articles or preprints. In the absence of DOIs, other measures of industry impact are needed.
 
@@ -73,17 +65,19 @@ A sample evaluation rubric may include:
 
 Additional evaluation rubrics used by the GW OSPO for their student awards
 
-**Open Source Project Awards**
+### Open Source Project Awards
 
 Criteria - judging based on 4 categories evaluated with equal weight
+
 * 25% - Reproducibility - care taken to ensure the project is easily and accurately reproducible
 * 25% - Impact - Meaningful and interesting project
 * 25% - Adherence to open-source and software development best practices
 * 25% - Collaboration - inclusivity, cross discipline, demonstrative community building
 
-**Individual Contributor Awards**
+### Individual Contributor Awards
 
 Complete applications will be evaluated and must meet a minimum threshold to be entered in the lottery:
+
 * Must include at least one meaningful contribution of code or documentation addressing existing issues and accepted by the maintainer of an existing active Project
 * The project you contribute to may be a GW or external project, but our evaluation committee will verify that the contributions are beneficial and not trivial
 
@@ -105,9 +99,9 @@ The open source best practices criterion of the scoring rubric can be used as a 
 ## References
 
 * [https://opensource.stanford.edu/prize](https://opensource.stanford.edu/prize)  
-* [https://datascience.stanford.edu/cores/cores-annual-symposium-2024](https://datascience.stanford.edu/cores/cores-annual-symposium-2024)   
+* [https://datascience.stanford.edu/cores/cores-annual-symposium-2024](https://datascience.stanford.edu/cores/cores-annual-symposium-2024)
 * [https://opensource.stanford.edu/projects-registry](https://opensource.stanford.edu/projects-registry)  
-* [Pattern: Open Source Project Catalog](https://docs.google.com/document/d/1FSkp38gLwZoKAc2oLBMD56EJsijCsNKdCNaoaadRtTc/edit?usp=sharing) 
+* [Pattern: Open Source Project Catalog](https://docs.google.com/document/d/1FSkp38gLwZoKAc2oLBMD56EJsijCsNKdCNaoaadRtTc/edit?usp=sharing)
 
 ## Contributor(s) & Acknowledgment
 
