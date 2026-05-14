@@ -83,23 +83,3 @@ Thanks for wanting to contribute. Please take a look at our brief [Contributing 
 ## License
 
 All work here is licensed under a CC-BY 4.0 International License (https://creativecommons.org/licenses/by/4.0/deed.en), by the CURIOSS organizers and contributors.
-
-## Local Development
-
-To test the MkDocs site locally:
-
-1. **Install MkDocs Material** (requires Python):
-   ```bash
-   pip install mkdocs-material
-   ```
-
-2. **Run the development server:**
-   ```bash
-   cd .config
-   mkdocs serve
-   ```
-
-3. **View the site:** Open your browser to http://127.0.0.1:8000
-
-The development server will automatically reload when you make changes to any markdown files.
-
