@@ -36,26 +36,26 @@ Design a holistic assessment approach that accounts for the diversity of open so
 
 ## Forces
 
-- Students contribute in different ways depending on their role, skills, and the nature of their project; a one-size-fits-all assessment framework risks penalising students whose contributions are valuable but less visible.
+- Students contribute in different ways depending on their role, skills and the nature of their project. A 'one-size-fits-all' assessment framework risks penalising students whose contributions are valuable but less visible.
 
 - Grades need to be defensible within the academic institution's assessment framework while also reflecting the professional norms of the open source ecosystem.
 
 - Assessment should motivate students to engage deeply with their work and with the open source community rather than optimising for easily measurable outputs.
 
-
 ## Solution
 
-Design an assessment approach that is holistic, evidence-based, and flexible enough to account for the diversity of projects and student contributions. Assessment should draw on multiple sources of feedback and evidence, and should be clearly communicated to students from the outset so that expectations are transparent.
+Design an assessment approach that is holistic, evidence-based and flexible enough to account for the diversity of projects and student contributions. Assessment should draw on multiple sources of feedback and evidence and should be clearly communicated to students from the outset so that expectations are transparent.
 
 Key design considerations include:
 
 ### Holistic rather than points-based assessment
 
-Rather than summing individual assignment scores into a final grade, design assessment around a holistic evaluation of each student's overall performance and growth across the program. Build in assignments, checkpoints, and deadlines as evidence for this holistic assessment rather than as direct inputs to a grade calculation.
+Rather than summing individual assignment scores into a final grade, design assessment around a holistic evaluation of each student's overall performance and growth across the program. Build in assignments, checkpoints and deadlines as evidence for this holistic assessment rather than as direct inputs to a grade calculation.
 
 ### Multiple sources of evidence
 
 Draw on a range of evidence sources to build a rounded picture of each student's contribution and development. 
+
 These may include:
 
 - Client and stakeholder feedback
@@ -71,7 +71,13 @@ Weighting client and stakeholder feedback appropriately ensures that the real-wo
 
 In open source internship programs, how students work is as important as what they deliver. 
 
-Assessment should explicitly include dimensions such as quality of communication; responsiveness to feedback; engagement with the open source community; consistency of contribution over time; and the ability to collaborate effectively within a team. 
+Assessment should explicitly include dimensions such as:
+
+- Quality of communication
+- Responsiveness to feedback
+- Engagement with the open source community
+- Consistency of contribution over time
+- The ability to collaborate effectively within a team
 
 Weekly delivery indicators, such as demo videos, merged pull requests and checkpoint documents can provide useful evidence.
 
@@ -117,17 +123,17 @@ We also explored the potential to develop the program into a micro-badging frame
 
 We assess students on a holistic basis with a focus on final outcomes and overall growth trajectory rather than on individual assignment scores.
 
-The team provides feedback on all members including the client, and the client's voice carries additional weight in the overall assessment. 
+The team provides feedback on all members including the client. The client's voice carries additional weight in the overall assessment. 
 
 Observational evidence of how students actually do the work; their engagement on Slack; their conduct in meetings; and their responsiveness to peers and clients is also treated as a vital part of the assessment. 
 
-Weekly delivery indicators including demo videos, merged pull requests, and checkpoint documents provide evidence of sustained engagement and progress.
+Weekly delivery indicators including demo videos, merged pull requests and checkpoint documents provide evidence of sustained engagement and progress.
 
 A 10% stretch component rewards demonstrations of professional excellence. This may include public demonstrations of professional leadership such as conference presentations or contributions to major open source projects.
 
 ### Additional Learning from the University of Vermont VERSO Open Source Program Office
 
-We design assessment of students on the ORCA program to account for the diversity of projects and the different requirements in terms of onboarding, learning, and contributions.
+We design assessment of students on the ORCA program to account for the diversity of projects and the different requirements in terms of onboarding, learning and contributions.
 
 We explicitly recognise that completion of a project may not always be possible within the program timeframe and assessment is designed accordingly.
 
