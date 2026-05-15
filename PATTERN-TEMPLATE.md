@@ -46,12 +46,12 @@ Below is a list of common categories of academic OSPO activities \- please choos
 - Rewards & Recognition
 - Tools & Infrastructure
 - Working with Tech Transfer / External Partners  
-   
+
 ## Context
 
 *When and where does this pattern apply?*
 
-Describe the situation, prerequisites, and the context in which the problem arises. For example, is it applicable for all universities? 
+Describe the situation, prerequisites, and the context in which the problem arises. For example, is it applicable for all universities?
 
 ## Forces
 
@@ -74,8 +74,8 @@ Describe both the intended positive results and any potential side effects or co
 
 *Provide real-world instances of this pattern in action.*
 
-* Example 1: Description of a known use case.  
-* Example 2: Description of another instance.
+- Example 1: Description of a known use case.  
+- Example 2: Description of another instance.
 
 ## References
 

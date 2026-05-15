@@ -43,7 +43,7 @@ An OSPO with the resources/capacity to offer one-to-one consultations and any re
 
 ## Forces
 
-Students and researchers do not know how or where to access the information they need. 
+Students and researchers do not know how or where to access the information they need.
 
 OSPO staff have the capacity/availability to meet for consultations and to provide follow-up support.
 
@@ -65,15 +65,19 @@ This can be offered through a number of different channels:
 Research teams and projects benefit from personalized guidance along with referrals to complementary university support services.
 
 ### Additional Learning from Carnegie Mellon University OSPO
+
 We use this [consultation template](https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit#slide=id.g2c709938643_0_8) to guide the conversation with projects and to assess their needs.
 
 ### Additional Learning from Georgia Tech OSPO
+
 We support [POSE](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) proposal development with office hours.
 
 ### Additional Learning from University of California Santa Cruz OSPO
+
 We meet with projects to offer advice and support as needed. This is often a one-time call but sometimes grows into grant proposals or longer collaborations.
 
 ### Additional Learning from University of Vermont VERSO OSPO
+
 Most of our consultations come from internal referrals or the Tech Transfer Office.
 
 ## Known Instances
@@ -103,15 +107,15 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 * [Consultation template for projects](https://www.google.com/url?q=https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit?usp%3Dsharing&sa=D&source=docs&ust=1746004597188190&usg=AOvVaw1juIFcUqNZPBiGZcWgF3eL) used by Carnegie Mellon University OSPO.
 
 ### Related Patterns
+
 [Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
 
 ## Contributors & Acknowledgement
 
-* David Lippert (The George Washington University), https://orcid.org/0009-0003-6444-9595
+* David Lippert (The George Washington University), <https://orcid.org/0009-0003-6444-9595>
 * Duane O'Brien - consulted on the design of the CMU OSPO project consultation template
-* Emily Lovell, University of California Santa Cruz, https://orcid.org/0000-0001-5531-5956
-* Kendall Fortney (University of Vermont), https://orcid.org/0009-0006-3898-0771
-* Tom Hughes (Carnegie Mellon University) https://orcid.org/0009-0008-7516-3687
-* Will Gearty (Syracuse University), https://orcid.org/0000-0003-0076-3262
-* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
-
+* Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
+* Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>
+* Tom Hughes (Carnegie Mellon University) <https://orcid.org/0009-0008-7516-3687>
+* Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

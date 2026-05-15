@@ -23,7 +23,7 @@ Establish a structured onboarding process for graduate students taking on team l
 
 - Education & Skills
 - Promoting Best Practices
-   
+
 ## Context
 
 - A research or teaching university.
@@ -44,7 +44,7 @@ Establish a structured onboarding process for graduate students taking on team l
 
 ## Solution
 
-Develop a structured pre-semester onboarding program for graduate leads that equips them with the technical, professional, and interpersonal skills they need to lead their teams effectively from the first day of class. 
+Develop a structured pre-semester onboarding program for graduate leads that equips them with the technical, professional, and interpersonal skills they need to lead their teams effectively from the first day of class.
 
 Key design considerations include:
 
@@ -54,11 +54,11 @@ Where possible, begin onboarding graduate leads before the semester starts. This
 
 ### Develop structured training materials and workshops
 
-Develop onboarding documentation specifically dedicated to the key skills and knowledge areas tech leads will need. 
+Develop onboarding documentation specifically dedicated to the key skills and knowledge areas tech leads will need.
 
 Onboarding should also explicitly address the shift in role and mindset required when moving from individual contributor to team lead.
 
-Where time allows, run dedicated onboarding workshops for incoming leads. 
+Where time allows, run dedicated onboarding workshops for incoming leads.
 
 Topics for onboarding materials or workshops may include:
 
@@ -73,17 +73,17 @@ Topics for onboarding materials or workshops may include:
 
 ### Documented processes and resources
 
-Provide leads with clear documentation of program processes, expectations, and standards. 
+Provide leads with clear documentation of program processes, expectations, and standards.
 
-This may include a handbook covering codes of conduct, communication norms, sprint structures, evaluation criteria, and escalation procedures. 
+This may include a handbook covering codes of conduct, communication norms, sprint structures, evaluation criteria, and escalation procedures.
 
 Well-documented processes reduce the cognitive load on leads and ensure consistency across teams.
 
 ### Ongoing support structures
 
-Onboarding should not end at the start of the semester. 
+Onboarding should not end at the start of the semester.
 
-Build in regular touchpoints between leads and program staff or faculty throughout the semester. 
+Build in regular touchpoints between leads and program staff or faculty throughout the semester.
 
 Create dedicated communication channels for OSPO staff to answer questions from leads.
 
@@ -107,9 +107,9 @@ Open Source with SLU developed the [Building Open Leadership Toolsets (BOLT)](ht
 
 The BOLT workshop covers the full range of skills that tech leads need, including open source community practices, product and project management, professional communication norms and the specific tools and processes used within the Open Source with SLU program. By the time the semester starts, leads are ready to onboard their teams immediately rather than spending the first weeks finding their feet.
 
-The transition from graduate student to tech lead is treated explicitly as a professional development milestone. 
+The transition from graduate student to tech lead is treated explicitly as a professional development milestone.
 
-We’ve also developed a dedicated handbook on mentoring for tech leads to support this transition, providing leads with a practical reference resource throughout the semester. 
+We’ve also developed a dedicated handbook on mentoring for tech leads to support this transition, providing leads with a practical reference resource throughout the semester.
 
 ### Additional Learning from the University of Vermont VERSO Open Source Program Office
 
@@ -138,9 +138,9 @@ A key insight from our experience is the importance of creating spaces where lea
 
 ## Contributors & Acknowledgement
 
-- Ciara Flanagan (CURIOSS),(https://orcid.org/0009-0005-3153-7673)
-- Daniel Shown (Saint Louis University), https://orcid.org/0009-0002-5716-8835
-- Kendall Fortney (University of Vermont), https://orcid.org/0009-0006-3898-0771
-- Jeffrey Young (OSPO@GT), https://orcid.org/0000-0001-9841-4057 
+- Ciara Flanagan (CURIOSS),(<https://orcid.org/0009-0005-3153-7673>)
+- Daniel Shown (Saint Louis University), <https://orcid.org/0009-0002-5716-8835>
+- Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>
+- Jeffrey Young (OSPO@GT), <https://orcid.org/0000-0001-9841-4057>
 
 A note on AI use: In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!

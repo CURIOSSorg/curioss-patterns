@@ -47,17 +47,18 @@ Develop and deliver one-off workshops that address very specific knowledge gaps 
 ### Identify specific knowledge gaps that can be addressed by short workshops
 
 A training needs assessment can be carried out in a number of ways:
-* Individual consultations with students, researchers and faculty. 
+
+* Individual consultations with students, researchers and faculty.
 * A survey on training and/or open source needs.
 * Consultation with the OSPO’s advisory committee/user group.
 
-### Planning 
+### Planning
 
 Planning should take the following into account:
 
 * The cohort that will be targeted.
 * Learning goals.
-* What can realistically be covered in the selected timeframe (e.g. one hour, morning or afternoon workshop). 
+* What can realistically be covered in the selected timeframe (e.g. one hour, morning or afternoon workshop).
 * The most appropriate format e.g. virtual or in-person.
 * How best to promote the workshop.
 
@@ -66,7 +67,7 @@ Planning should take the following into account:
 Training workshops can be promoted via the following channels:
 
 * The OSPO website and social channels.
-* The OSPO mailing list. 
+* The OSPO mailing list.
 * Through key partners’ channels (e.g. the Office of Research, the Office of Computer Science, the Library).
 * Through student groups and students’ informal networks.
 
@@ -88,9 +89,9 @@ We always try to provide lunch at our in-person workshops.
 
 ### Additional Learning from University of Wisconsin-Madison
 
-Our curricula is a collaboration with [Software Carpentries](https://software-carpentry.org/) on OSS. 
+Our curricula is a collaboration with [Software Carpentries](https://software-carpentry.org/) on OSS.
 
-### Additional Learning from Syracuse University 
+### Additional Learning from Syracuse University
 
 We run workshops on computing 101 and intros to Python/R. They usually entail 4-6 x 2 hour segments in the style/format of Carpentries Workshops.
 
@@ -120,6 +121,5 @@ Another successful workshop was held at the George Hacks Innovation Hackathon.  
 
 * Dr. Angela Newell (University of Texas at Austin)
 * Dr. Alex Marden (University of Texas at Austin)
-* David Lippert (The George Washington University), https://orcid.org/0009-0003-6444-9595
-* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
-
+* David Lippert (The George Washington University), <https://orcid.org/0009-0003-6444-9595>
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

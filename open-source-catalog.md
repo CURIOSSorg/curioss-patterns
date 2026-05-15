@@ -3,7 +3,7 @@ tags:
   - Community Building
   - Open Source Discovery
 ---
-# Open Source Catalog 
+# Open Source Catalog
 
 ## Pattern Theme / Category
 
@@ -13,16 +13,16 @@ tags:
 ## OSPO Problem / Challenge
 
 * A lack of up to date information on how much open source software is being produced in a university.  
-    
+
 * There is no effective mechanism to identify or to share information about open source creators, users, or projects within a university.  
-    
+
 * The lack of visibility makes it difficult to build community, foster collaboration, and contribute to the overall sustainability of open source efforts on campus.
 
 ## Context
 
-A large and decentralized university. 
+A large and decentralized university.
 
-There is no central policy or mandate governing the creation or use of open source software (OSS). There is no requirement to register open source work or seek approval prior to creating or transitioning software to be open source. 
+There is no central policy or mandate governing the creation or use of open source software (OSS). There is no requirement to register open source work or seek approval prior to creating or transitioning software to be open source.
 
 Open source software is being created by affiliates of all types (e.g. students, faculty, researchers, staff), in many different contexts, for example: in classes, in labs, for personal use and/or to fulfill grant requirements.
 
@@ -40,10 +40,10 @@ There is limited time and personnel to identify, track, and catalog OS projects
 
 Create a tool to collect and promote university OSS projects. The tool provides a public, centralized resource for creating awareness of university OSS projects.
 
-* As an initial step, create a draft catalog. Some useful tools for experimenting are [WordPress plugins](https://wordpress.org/plugins/), embedding XLS sheets, creating tables, etc.   
-    
+* As an initial step, create a draft catalog. Some useful tools for experimenting are [WordPress plugins](https://wordpress.org/plugins/), embedding XLS sheets, creating tables, etc.
+
 * Consideration should be given to data fields, free text for submission and control vocabularies for sorting and filtering. ([Microsoft Lists](https://www.microsoft.com/en-ie/microsoft-365/microsoft-lists) is helpful for establishing a set of entries.)  
-    
+
 * Holding informal consultations with colleagues for feedback on accessibility, style and structure can be very useful.
 
 * Publish the catalog on the institution’s OSPO website or on another relevant site.
@@ -52,13 +52,13 @@ Create a tool to collect and promote university OSS projects. The tool provides 
 
 ### Additional learning from the Johns Hopkins University OSPO
 
-In our case, we created a submission form using Gravity Forms and used [Gravity Kit](https://www.gravitykit.com/products/gravityview/?ref=853&gad_source=1) (formerly Gravity View) for the catalog. 
+In our case, we created a submission form using Gravity Forms and used [Gravity Kit](https://www.gravitykit.com/products/gravityview/?ref=853&gad_source=1) (formerly Gravity View) for the catalog.
 
 The JHU OSPO now has a central, easily accessible location for gathering and sharing information about OSS projects on campus. This has the potential to increase collaboration and knowledge sharing among open source creators.
 
 The catalog is only one of many initiatives aimed at discovering OSS projects on campus but it is essential in that it provides an easily accessible, centralized resource for capturing information about these projects and sharing this information broadly. Over time, we hope that more projects will contribute directly to the catalog. As it grows, the catalog will provide a better sense of open source activity and help us achieve our community-building goals.
 
-Next steps are to publicize, encourage use and incentivize entries. Badging and gamification are under consideration. 
+Next steps are to publicize, encourage use and incentivize entries. Badging and gamification are under consideration.
 
 ### Additional learning from OpenSource@Stanford
 
@@ -66,7 +66,7 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 
 ## Known Instances
 
-* [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University   
+* [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
 * [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology  
 * [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 * [GW OSPO Project Registry](https://ospo.gwu.edu/project-registry), George Washington University
@@ -80,6 +80,7 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 * [Pattern: Open Source Software Prize](https://docs.google.com/document/d/1b5Bwuj8ZKbGSchBkpDgyK_3e1MAklxK7rYQ9Fdl-nfE/edit?usp=sharing)
 
 ### Related Patterns
+
 * [Maintainers & Contributors Roundtable](./maintainers-and-contributors-roundtable.md)
 * [OSPO Website](./ospo-website.md)
 

@@ -15,7 +15,8 @@ Establish a website for an Academic Open Source Program Office (OSPO) to communi
 Open source work in academia is usually dispersed across departments, labs, and projects - making it difficult for academic OSPOs to directly communicate with and reach all stakeholders.
 
 Without a transparent, discoverable web presence:
-* The OSPO becomes dependent on personal networks to promote its services and activities. 
+
+* The OSPO becomes dependent on personal networks to promote its services and activities.
 * Potential collaborators will not easily find or understand what the OSPO does.
 * A wider pool of students and researchers may miss opportunities to participate in open source initiatives.
 
@@ -23,10 +24,10 @@ As a result, the OSPO risks invisibility and its potential impact is limited.
 
 ## Pattern Category
 
-- Awareness
-- Community Building
-- Demonstrating value as an OSPO
-   
+* Awareness
+* Community Building
+* Demonstrating value as an OSPO
+
 ## Context
 
 A research institution or a university creating large volumes of research outputs across every discipline.
@@ -59,7 +60,7 @@ Based on the website’s goals, content may cover the following themes:
 
 * **About the OSPO:** Its mission, vision, governance, and team.
 
-* **OSPO Services:** Support and capacity building activities provided by the OSPO. 
+* **OSPO Services:** Support and capacity building activities provided by the OSPO.
 
 * **Projects and Collaboration:** Promotion of active open source projects (e.g. project registry), student programs, internal and external partnerships.
 
@@ -73,19 +74,21 @@ Based on the website’s goals, content may cover the following themes:
 
 * **Resources:** A collection of relevant policies, toolkits and best practices for stakeholders.
 
-### Other areas for consideration:
+### Other areas for consideration
 
 One question to consider may be whether to make the site itself open source.
 
 ## Resulting Context
 
-The OSPO website becomes a central point of discovery and engagement for stakeholders within and outside of its institution. 
+The OSPO website becomes a central point of discovery and engagement for stakeholders within and outside of its institution.
 
 Students, researchers and faculty engaged in open source activity benefit from:
+
 * A central hub of up to date information signposting relevant services and opportunities.
 * Lower barriers to internal and external collaboration.
 
 The OSPO itself benefits from:
+
 * Enhanced institutional visibility and legitimacy of open source work.
 * A platform that consistently communicates its mission and outputs.
 * A public archive of its projects, policies, and impact.
@@ -108,7 +111,7 @@ The OSPO itself benefits from:
 * [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 * [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
 * [TCD Open Source Program Office](https://www.tcd.ie/innovation/knowledge-exchange-office-knex/open-source-programme-office/), Trinity Innovation, Trinity College Dublin
-* [UGA Open Source Program Office ](https://scienceouverte.univ-grenoble-alpes.fr/en/about/codes-data-grenoble-alpes-office/), Université Grenoble Alpes
+* [UGA Open Source Program Office](https://scienceouverte.univ-grenoble-alpes.fr/en/about/codes-data-grenoble-alpes-office/), Université Grenoble Alpes
 * [UC Berkeley OSPO](https://ospo-berkeley-edu.netlify.app/), Berkeley Institute for Data Science, University of California, Berkeley, [UC OSPO Network](https://ucospo.net/)  
 * [UC Davis OSPO](https://ucospo.net/davis/), University of California, Davis, [UC OSPO Network](https://ucospo.net/)  
 * [UC Los Angeles OSPO](https://ucospo.net/los-angeles/), University of California, Los Angeles, [UC OSPO Network](https://ucospo.net/)  
@@ -129,4 +132,4 @@ The OSPO itself benefits from:
 
 ## Contributors & Acknowledgement
 
-* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
