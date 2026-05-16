@@ -13,7 +13,7 @@ Design a holistic assessment approach that accounts for the diversity of open so
 
 - Traditional academic grading approaches are poorly suited to open source internship programs, where projects vary significantly in scope, complexity, and the time required for onboarding and contribution.
 
-- Faculty and program staff may find it difficult to assess student performance consistently across teams working on very different projects with different clients, community partners and timelines. 
+- Faculty and program staff may find it difficult to assess student performance consistently across teams working on very different projects with different clients, community partners and timelines.
 
 - Assessment approaches that focus narrowly on technical outputs risk undervaluing the collaborative, communicative and professional skills that are central to open source practice.
 
@@ -54,7 +54,7 @@ Rather than summing individual assignment scores into a final grade, design asse
 
 ### Multiple sources of evidence
 
-Draw on a range of evidence sources to build a rounded picture of each student's contribution and development. 
+Draw on a range of evidence sources to build a rounded picture of each student's contribution and development.
 
 These may include:
 
@@ -69,7 +69,7 @@ Weighting client and stakeholder feedback appropriately ensures that the real-wo
 
 ### Assessment of process as well as output
 
-In open source internship programs, how students work is as important as what they deliver. 
+In open source internship programs, how students work is as important as what they deliver.
 
 Assessment should explicitly include dimensions such as:
 
@@ -91,7 +91,7 @@ Consider incorporating a stretch component into the assessment framework to rewa
 
 ### Strategic feedback
 
-Assessment should not be purely retrospective. 
+Assessment should not be purely retrospective.
 
 Use the assessment process as an opportunity to provide students with strategic guidance about their professional development and career trajectory. Feedback should help students understand their strengths and areas for growth in the context of the wider open source ecosystem and technology sector.
 
@@ -107,13 +107,13 @@ Students are motivated to engage deeply with their work, their team and the open
 
 ### Additional Learning from Carnegie Mellon University Libraries Open Source Program Office
 
-We assessed students on the Semesters of Code program by drawing on mentor reviews from industry partners including Red Hat Linux, the Eclipse Foundation, and local Pittsburgh startups. 
+We assessed students on the Semesters of Code program by drawing on mentor reviews from industry partners including Red Hat Linux, the Eclipse Foundation, and local Pittsburgh startups.
 
 The quality of student contributions was reflected in the strong interest shown by these mentors in offering students not only internships but also jobs upon graduation, providing a powerful real-world validation of student performance that complemented formal assessment processes.
 
 ### Additional Learning from Georgia Tech Open Source Program Office
 
-We adopted an evolving assessment approach on the Virtual Summer Internship Program (VSIP) that prioritised increasing awareness and engagement with open source practices among participants. 
+We adopted an evolving assessment approach on the Virtual Summer Internship Program (VSIP) that prioritised increasing awareness and engagement with open source practices among participants.
 
 We recognised that assessment needed to account for the diversity of projects and the different requirements in terms of onboarding, learning, and contributions.  This approach acknowledges that completion of a project may not always be possible within the internship timeframe.
 
@@ -123,9 +123,9 @@ We also explored the potential to develop the program into a micro-badging frame
 
 We assess students on a holistic basis with a focus on final outcomes and overall growth trajectory rather than on individual assignment scores.
 
-The team provides feedback on all members including the client. The client's voice carries additional weight in the overall assessment. 
+The team provides feedback on all members including the client. The client's voice carries additional weight in the overall assessment.
 
-Observational evidence of how students actually do the work; their engagement on Slack; their conduct in meetings; and their responsiveness to peers and clients is also treated as a vital part of the assessment. 
+Observational evidence of how students actually do the work; their engagement on Slack; their conduct in meetings; and their responsiveness to peers and clients is also treated as a vital part of the assessment.
 
 Weekly delivery indicators including demo videos, merged pull requests and checkpoint documents provide evidence of sustained engagement and progress.
 
@@ -137,7 +137,7 @@ We design assessment of students on the ORCA program to account for the diversit
 
 We explicitly recognise that completion of a project may not always be possible within the program timeframe and assessment is designed accordingly.
 
-We assess students through a combination of customer and stakeholder feedback, mentor reviews, learning journals, self-evaluation and 360 reviews in the case of student teams. 
+We assess students through a combination of customer and stakeholder feedback, mentor reviews, learning journals, self-evaluation and 360 reviews in the case of student teams.
 
 This multi-source approach ensures that the full range of student contributions, technical, collaborative and communicative, is captured in the assessment process.
 
@@ -163,12 +163,12 @@ This multi-source approach ensures that the full range of student contributions,
 
 ## Contributors & Acknowledgement
 
-- Ciara Flanagan (CURIOSS), https://orcid.org/0009-0005-3153-7673
-- Daniel Shown (Saint Louis University), https://orcid.org/0009-0002-5716-8835
-- Fang Liu (Georgia Institute of Technology), https://orcid.org/0000-0002-3383-2191
-- Jeffrey Young (Georgia Institute of Technology), https://orcid.org/0000-0001-9841-4057
-- Kendall Fortney (University of Vermont), https://orcid.org/0009-0006-3898-0771
+- Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
+- Daniel Shown (Saint Louis University), <https://orcid.org/0009-0002-5716-8835>
+- Fang Liu (Georgia Institute of Technology), <https://orcid.org/0000-0002-3383-2191>
+- Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-4057>
+- Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>
 - Sayeed Choudhury (Carnegie Mellon University)
-- Tom Hughes (Carnegie Mellon University), https://orcid.org/0009-0008-7516-3687
+- Tom Hughes (Carnegie Mellon University), <https://orcid.org/0009-0008-7516-3687>
 
 A note on AI use: In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
