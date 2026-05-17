@@ -1,7 +1,7 @@
 ---
 tags:
-  #- Education & Skills
-  #- Promoting Best Practices
+  - Education & Skills
+  - Promoting Best Practices
 ---
 # Assessing Students on Open Source Internship Programs
 
@@ -18,11 +18,6 @@ Design a holistic assessment approach that accounts for the diversity of open so
 - Assessment approaches that focus narrowly on technical outputs risk undervaluing the collaborative, communicative and professional skills that are central to open source practice.
 
 - Students may be discouraged from taking on ambitious or unfamiliar projects if they feel their grade depends solely on delivering a finished product.
-
-## Pattern Category
-
-- Education & Skills
-- Promoting Best Practices
 
 ## Context
 

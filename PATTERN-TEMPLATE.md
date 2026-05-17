@@ -1,6 +1,6 @@
 ---
 tags:
-  # Un-comment the tags that apply for your pattern, delete the rest.
+  # Un-comment the tags that apply for your pattern by removing the #, and then delete the rest.
   #- Advocacy, Governance & Policy
   #- Awareness
   #- Community Building
