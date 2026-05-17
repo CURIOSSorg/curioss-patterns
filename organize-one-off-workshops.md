@@ -15,11 +15,6 @@ There is limited knowledge across a university of how to create and use open sou
 
 The OSPO has also become aware of basic knowledge gaps in related areas (e.g. open science, computer sciences).
 
-## Pattern Category
-
-* OSS Education & Skills  
-* Sharing OSS Best Practices
-
 ## Context
 
 A university with a large research and instructional cohort across multiple disciplines.

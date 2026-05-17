@@ -4,7 +4,8 @@ tags:
   #- Advocacy, Governance & Policy
   #- Awareness
   #- Community Building
-  #- Demonstrating value as an OSPO
+  #- Demonstrating value as an Academic OSPO
+  #- Diversity, Equity & Inclusion
   #- Education & Skills
   #- Funding & Financial Support
   #- Open Source Development
@@ -28,24 +29,6 @@ Example: "An internship program to build open source skills with students."
 *What is the academic OSPO challenge or issue this pattern addresses?*
 
 Explain the problem clearly, providing enough detail for the reader to understand why the pattern is needed.
-
-## Pattern Category
-
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
-- Advocacy, Governance & Policy
-- Awareness
-- Community Building
-- Demonstrating value as an OSPO
-- Education & Skills
-- Funding & Financial Support
-- Open Source Development
-- Open Source Discovery
-- Open Source Sustainability
-- Promoting Best Practices
-- Rewards & Recognition
-- Tools & Infrastructure
-- Working with Tech Transfer / External Partners  
 
 ## Context
 
@@ -74,8 +57,8 @@ Describe both the intended positive results and any potential side effects or co
 
 *Provide real-world instances of this pattern in action.*
 
-- Example 1: Description of a known use case.  
-- Example 2: Description of another instance.
+* Example 1: Description of a known use case.  
+* Example 2: Description of another instance.
 
 ## References
 

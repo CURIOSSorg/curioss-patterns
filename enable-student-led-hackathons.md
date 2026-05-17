@@ -25,14 +25,6 @@ Student groups are often highly capable at organizing hackathons. However, organ
 
 Without proper support, student hackathons may fail to launch, produce limited learning outcomes or inadvertently create problems around intellectual property, code licensing, or project sustainability.
 
-## Pattern Category
-
-* Community Building
-* Education & Skills
-* Funding & Financial Support
-* Promoting Best Practices
-* Working with Tech Transfer/External Partners  
-
 ## Context
 
 An institution or a university.

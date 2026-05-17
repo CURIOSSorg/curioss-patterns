@@ -20,10 +20,6 @@ A core objective of an academic OSPO conference is to share learning and foster 
 * Attendees often come from different disciplines, institutions, or technical skill levels. Without a shared context or vocabulary, spontaneous conversations may stall or never start.
 * Attendees tend to stay with existing contacts and familiar faces. The ‘social clustering’ effect inhibits the cross-pollination of ideas and the relationships that OSPOs aim to foster.
 
-## Pattern Category
-
-Building University OSS Community
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.

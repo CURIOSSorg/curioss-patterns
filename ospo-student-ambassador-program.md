@@ -19,12 +19,6 @@ Academic OSPO staff have competing priorities and do not have the necessary time
 
 Without proactive outreach, awareness of open source opportunities remains low and student participation in OSPO initiatives will be limited.
 
-## Pattern Category
-
-* Awareness
-* Community Building
-* Education & Skills
-
 ## Context
 
 A research university creating large volumes of research outputs across every discipline.

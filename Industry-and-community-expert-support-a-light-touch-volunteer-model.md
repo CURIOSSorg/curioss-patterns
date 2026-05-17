@@ -1,7 +1,7 @@
 ---
 tags:
-  #- Education & Skills
-  #- Working with Tech Transfer / External Partners
+  - Education & Skills
+  - Working with Tech Transfer / External Partners
 ---
 # Industry and Community Expert Support: A Light-Touch Volunteer Model
 
@@ -16,11 +16,6 @@ Engage experienced industry professionals and open source community experts as â
 - Industry professionals and open source community experts who are willing to support students are often deterred by the time commitment and administrative burden associated with formal mentorship roles.
 
 - Open source programs risk operating in isolation from the wider professional community, limiting students' exposure to industry norms and potential career networks.
-
-## Pattern Category
-
-- Education & Skills
-- Working with Tech Transfer / External Partners  
 
 ## Context
 

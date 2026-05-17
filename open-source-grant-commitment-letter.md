@@ -15,12 +15,6 @@ Support faculty and research grant proposals with a commitment letter from the O
 * Funders increasingly require funded research to make research outputs publicly available.  
 * Faculty and researchers may not know how best to demonstrate that their publications, data and/or software will meet these requirements in their funding applications.
 
-## Pattern Category
-
-* Demonstrating value as an Academic OSPO
-* Funding & Financial Support
-* OSS Advocacy & Policy  
-
 ## Context
 
 A university or research institution that submits grant proposals to federal, state or private funding sources.

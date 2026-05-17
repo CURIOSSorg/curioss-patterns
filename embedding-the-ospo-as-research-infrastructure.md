@@ -16,14 +16,6 @@ The OSPO can be embedded as a core research facility of its university through a
 
 Academic OSPOs need to demonstrate relevance to senior leadership at their institutions and ensure their long term future.
 
-## Pattern Category
-
-* Advocacy & Policy
-* Demonstrating value as an Academic OSPO
-* Funding & Financial Support
-* OSS Education & Skills  
-* Supporting OSS development
-
 ## Context
 
 A research university creating large volumes of research outputs across every discipline.

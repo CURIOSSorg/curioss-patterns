@@ -21,15 +21,6 @@ Without understanding open source's role in academia, students may overlook how 
 
 There may also be a limited awareness of the OSPO’s student-focused initiatives leading to missed opportunities for students.  
 
-## Pattern Category
-
-- Building University OSS Community
-- Demonstrating value as an OSPO
-- OSS Advocacy & Policy
-- OSS Education & Skills
-- Raising awareness
-- Supporting OSS development  
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.

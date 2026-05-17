@@ -18,12 +18,6 @@ Many students don't know what open source is and may not be familiar with how it
 
 Without proactive outreach, awareness of open source opportunities remains low and student participation in OSPO initiatives will be limited.
 
-## Pattern Category
-
-- Awareness
-- Community building
-- Education & Skills
-
 ## Context
 
 A research university creating large volumes of research outputs across every discipline.

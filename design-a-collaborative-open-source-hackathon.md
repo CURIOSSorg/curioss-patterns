@@ -4,6 +4,7 @@ tags:
   - Diversity, Equity & Inclusion
   - Education & Skills
   - Rewards & Recognition
+  - Tools & Infrastructure
   - Working with Tech Transfer / External Partners
 ---
 # Design a Collaborative Open Source Hackathon
@@ -19,15 +20,6 @@ Traditional competitive hackathons at universities may create barriers to entry 
 The competitive atmosphere may deter women; underrepresented minorities in tech; and students who are new to programming and open source from participating in the events.
 
 The focus on winning can also discourage experimentation and limit knowledge sharing. Winning teams often produce impressive prototypes that are abandoned after the event.
-
-## Pattern Category
-
-- Community Building
-- Diversity, Equity, Inclusion
-- Education & Skills
-- Rewards & Recognition
-- Tools & Infrastructure
-- Working with Tech Transfer / External Partners  
 
 ## Context
 

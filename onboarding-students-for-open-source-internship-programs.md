@@ -1,7 +1,7 @@
 ---
 tags:
-  #- Education & Skills
-  #- Promoting Best Practices
+  - Education & Skills
+  - Promoting Best Practices
 ---
 # Onboarding Students for Open Source Internship Programs
 
@@ -18,11 +18,6 @@ Prepare incoming students with essential onboarding training that enables them t
 - The transient nature of student cohorts means that institutional knowledge and project context must be actively transferred to each new intake of students rather than assumed.
 
 - Students transitioning from academic coursework to a professional development environment may struggle with the shift in expectations around accountability, communication, and delivery.
-
-## Pattern Category
-
-- Education & Skills
-- Promoting Best Practices
 
 ## Context
 

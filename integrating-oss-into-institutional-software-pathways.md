@@ -15,14 +15,6 @@ Consult with researchers, faculty and staff about open source software (OSS) to 
 * Researchers are often unaware of the institutional context their projects are operating in, the value of open source software (OSS) and how their projects may be impacted by decisions taken at earlier stages of development.
 * Colleagues in start-up, spin-off and Technology Transfer Offices (TTOs) may also lack crucial knowledge about open source software in comparison to proprietary software.
 
-## Pattern Category
-
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
-* Advocacy, Governance & Policy
-* Promoting Best Practices
-* Working with Tech Transfer / External Partners  
-
 ## Context
 
 A university committed to research, teaching, and the transfer of knowledge and technology with diverse departments of varying levels of OSS expertise and needs.

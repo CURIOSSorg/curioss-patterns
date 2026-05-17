@@ -18,11 +18,6 @@ Standard communication channels (e.g. email or learning management systems) don'
 
 OSPOs need an accessible entry point for students, researchers, open source projects and potential contributors to engage with each other.
 
-## Pattern Category
-
-- Awareness
-- Community Building
-
 ## Context
 
 A university or research institution creating large volumes of research outputs across every discipline.

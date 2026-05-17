@@ -21,13 +21,6 @@ A lack of early engagement and role clarity can lead to ambiguity about who is t
 
 Partner contributions that are poorly integrated into the event reduce the value for participants.
 
-## Pattern Category
-
-- Community Building
-- Education & Skills
-- Promoting Best Practices
-- Working with Tech Transfer / External Partners  
-
 ## Context
 
 A university OSPO is involved in organizing or co-organizing a hackathon.

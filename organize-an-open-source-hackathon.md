@@ -5,7 +5,7 @@ tags:
   - Education & Skills
   - Promoting Best Practices
   - Rewards & Recognition
-  - Supporting Open Source Development
+  - Open Source Development
   - Working with Tech Transfer / External Partners
 ---
 # Organize an Open Source Hackathon
@@ -22,16 +22,6 @@ Organize an open source hackathon to promote open source on campus.
 - Students with an interest in open source are unlikely to be connected with peers who are based in different departments within their university.
 - Students may also be disconnected from broader open source movements like Hacktoberfest.
 - Faculty researchers need help extending their work but may lack resources.
-
-## Pattern Category
-
-- Awareness
-- Community Building
-- Education & Skills
-- Promoting Best Practices
-- Rewards & Recognition
-- Supporting OSS development
-- Working with Tech Transfer / External Partners  
 
 ## Context
 

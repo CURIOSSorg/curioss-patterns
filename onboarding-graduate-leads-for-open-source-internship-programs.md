@@ -1,7 +1,7 @@
 ---
 tags:
-  #- Education & Skills
-  #- Promoting Best Practices
+  - Education & Skills
+  - Promoting Best Practices
 ---
 # Onboarding Graduate Leads for Open Source Internship Programs
 
@@ -18,11 +18,6 @@ Establish a structured onboarding process for graduate students taking on team l
 - The short duration of academic semesters means there is little time to learn on the job. Tech leads who are not ready at the start of the semester can significantly impact the team's ability to deliver.
   
 - Programs that rely on graduate leads without investing in their preparation risk inconsistent quality across teams.
-
-## Pattern Category
-
-- Education & Skills
-- Promoting Best Practices
 
 ## Context
 

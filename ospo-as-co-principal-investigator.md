@@ -30,15 +30,6 @@ Meanwhile, research teams may lack the expertise needed to plan, execute, and su
 * Inefficient reinvention of existing tools.
 * Missed opportunities for collaboration and broader research impact.
 
-## Pattern Category
-
-* Advocacy, Governance & Policy
-* Demonstrating value as an Academic OSPO
-* Funding & Financial Support
-* Open Source Development
-* Open Source Sustainability
-* Promoting Best Practices
-
 ## Context
 
 A university or research institution that submits grant proposals to federal, state or private funding sources.

@@ -11,16 +11,9 @@ tags:
 
 Learn how to run a tabling event with games, interactive open source activities and prizes to engage students across the university.
 
-# Problem
+## Problem / Challenge
 
 Open Source programming is aimed at fostering collaboration - especially at university OSPOs. However, it can be challenging to meaningfully engage with busy students, faculty, and staff who work across diverse disciplines and are unaware of how the OSPO can benefit their work.
-
-# Pattern Category
-
-* Awareness
-* Community building
-* Education & Skills
-* Open Source Discovery
 
 ## Context
 

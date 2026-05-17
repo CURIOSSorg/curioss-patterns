@@ -22,16 +22,6 @@ Academic OSPOs may be constrained by the number of individual consultations/offi
 * Lack of clarity about next steps and the roles responsible for those steps
 * An inconsistent approach to consultations.
 
-## Pattern Category
-
-Below is a list of common categories of academic OSPO activities \- please choose which apply:
-
-* Building University OSS Community
-* Sharing OSS Best Practices  
-* Working with Tech Transfer / External Partners  
-* Supporting OSS development  
-* Funding & Financial Support
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.

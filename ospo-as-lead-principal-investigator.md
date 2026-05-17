@@ -19,15 +19,6 @@ There has been a growth in recognition of the value of open source software amon
 
 However, research proposals do not tend to focus on the development of foundational or sustainable infrastructure that serves a wide range of scientific communities.
 
-## Pattern Category
-
-- Advocacy, Governance & Policy
-- Demonstrating value as an Academic OSPO
-- Funding & Financial Support
-- Open Source Development
-- Open Source Sustainability
-- Promoting Best Practices
-
 ## Context
 
 A university or research institution that submits grant proposals to federal, state or private funding sources.
@@ -58,19 +49,19 @@ PI responsibilities will need to be balanced against other OSPO responsibilities
 
 ## Known Instances
 
-- [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
-- [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
-- [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
+* [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
+* [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 
 ## References
 
 ### Related patterns
 
-- [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
-- [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md)
+* [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
+* [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md)
 
 ## Contributors & Acknowledgement
 
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
 
 *Thanks to all the CURIOSS members who identified this pattern at the 2025 CURIOSS Winter Gathering.*

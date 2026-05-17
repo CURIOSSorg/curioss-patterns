@@ -22,13 +22,6 @@ However, there are a number of challenges:
 * **Cost:** Where platforms protect confidential data (e.g. Co-Pilot), licenses may be too expensive for the entire university or for individual faculty to use in their research programs.
 * **Reproducibility:** LLMs are stochastic by nature. This issue is exacerbated in enterprise models, which undergo frequent, undocumented updates. As a result,  their use as research tools raises concerns about reproducibility and result consistency.
 
-## Pattern Category
-
-* Demonstrating value as an Academic OSPO
-* OSS Education & Skills  
-* Supporting OSS development
-* Tools & Infrastructure
-
 ## Context
 
 A university or research institution with an interest in making use of AI.

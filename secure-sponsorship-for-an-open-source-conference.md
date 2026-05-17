@@ -18,12 +18,6 @@ The absence of dedicated funding limits the scale of the event.
 
 This, in turn, restricts the ability to showcase the OSPO’s work; promote open source best practices; and drive open source adoption in academia.
 
-## Pattern Category
-
-- Building University OSS Community
-- Funding & Financial Support
-- Working with Tech Transfer / External Partners  
-
 ## Context
 
 A university with diverse departments of varying levels of OSS expertise and needs.
@@ -50,32 +44,32 @@ The solution below outlines some core activities to consider:
 
 Conduct a mapping exercise of potential sponsors including:
 
-- Local tech companies, startups and campus-adjacent businesses that may benefit from visibility or hiring opportunities.
-- Research open source projects and foundations with funding capacity or community-building mandates.
-- Organizations already interacting with your academic community (e.g., via internships, joint research, GitHub contributions, IT services).
+* Local tech companies, startups and campus-adjacent businesses that may benefit from visibility or hiring opportunities.
+* Research open source projects and foundations with funding capacity or community-building mandates.
+* Organizations already interacting with your academic community (e.g., via internships, joint research, GitHub contributions, IT services).
 
 ### Create a Sponsorship Prospectus
 
 Develop a concise, professionally branded sponsorship package that outlines:
 
-- Event purpose and audience (students, researchers, developers).
-- Sponsorship tiers and benefits (logo placement, speaking slots, booth/table, recruiting access).
-- Impact metrics (expected attendance, demographics, institutional affiliation).
-- A clear call-to-action (how to get involved).
+* Event purpose and audience (students, researchers, developers).
+* Sponsorship tiers and benefits (logo placement, speaking slots, booth/table, recruiting access).
+* Impact metrics (expected attendance, demographics, institutional affiliation).
+* A clear call-to-action (how to get involved).
 
 The prospectus should also include alignment with academic values (e.g., open knowledge, inclusion, research impact) to appeal to mission-driven sponsors.
 
 ### Build Personal Connections
 
-- Leverage faculty, alumni and students with industry connections to make warm introductions.
-- Reach out through LinkedIn, local meetups or previous OSPO collaborators.
+* Leverage faculty, alumni and students with industry connections to make warm introductions.
+* Reach out through LinkedIn, local meetups or previous OSPO collaborators.
 
 ### Offer Non-Monetary Support Options
 
 For companies with limited budgets, provide options to contribute through:
 
-- In-kind support (venue, swag, food, volunteers, dev tools).
-- Cross-promotion or content contributions (workshops, talks, demos).
+* In-kind support (venue, swag, food, volunteers, dev tools).
+* Cross-promotion or content contributions (workshops, talks, demos).
 
 ### Sponsor relationship management
 
@@ -109,32 +103,32 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 
 ## Known Instances
 
-- [GW OSPO](https://ospo.gwu.edu/), George Washington University
-- [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of Santa Cruz, [University of California OSPO Network](https://ucospo.net/events/uc-open-4-2025/)
+* [GW OSPO](https://ospo.gwu.edu/), George Washington University
+* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of Santa Cruz, [University of California OSPO Network](https://ucospo.net/events/uc-open-4-2025/)
 
 ## References
 
-- [GW OSCON](https://ospo.gwu.edu/oscon-2025) sponsors listed at the end of the page.
-- [Sponsor Prospectus for GW OSCON 2025](https://gwu.box.com/s/t85385ljfie6ixtt0zxx2mnw6nxh40mx).
-- [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/) sponsors listed above summit agenda.
-- [UC Open Source Research Symposium 2024 Sponsorship Prospectus](https://drive.google.com/file/d/1cgxd-DRan9hC1JV2zefeHuXqWZpcRAsf/view).
+* [GW OSCON](https://ospo.gwu.edu/oscon-2025) sponsors listed at the end of the page.
+* [Sponsor Prospectus for GW OSCON 2025](https://gwu.box.com/s/t85385ljfie6ixtt0zxx2mnw6nxh40mx).
+* [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/) sponsors listed above summit agenda.
+* [UC Open Source Research Symposium 2024 Sponsorship Prospectus](https://drive.google.com/file/d/1cgxd-DRan9hC1JV2zefeHuXqWZpcRAsf/view).
 
 ### Related Patterns
 
-- [Co-hosting Student Events](./cohosting-student-events.md)
-- [Create a Donor/Sponsorship Prospectus](./create-a-donor-or-sponsorship-prospectus.md)
-- [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
-- [Host an Open Source Conference](./host-an-open-source-conference.md)
-- [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
-- [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
-- [Senior Leadership Keynote](./senior-leadership-keynote.md)
-- [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
+* [Co-hosting Student Events](./cohosting-student-events.md)
+* [Create a Donor/Sponsorship Prospectus](./create-a-donor-or-sponsorship-prospectus.md)
+* [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
+* [Host an Open Source Conference](./host-an-open-source-conference.md)
+* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
+* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+* [Senior Leadership Keynote](./senior-leadership-keynote.md)
+* [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
   
 ## Contributors & Acknowledgement
 
 In alphabetical order:
 
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Lorena Barba, George Washington University, <https://orcid.org/0000-0001-5812-2711>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+* David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
+* Lorena Barba, George Washington University, <https://orcid.org/0000-0001-5812-2711>
+* Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>
