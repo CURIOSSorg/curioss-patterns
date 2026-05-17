@@ -51,6 +51,7 @@ Develop a template that guides the OSPO to explore some or all of the following 
 ## Resulting Context
 
 Academic OSPOs have a consultation template that serves as a:
+
 * Diagnostic tool for open source projects.
 * Framework that supports students, researchers and faculty at different points of open source development to deepen their understanding of their needs and objectives.
 * A structured knowledge base that enables OSPO staff to provide meaningful and consistent support.

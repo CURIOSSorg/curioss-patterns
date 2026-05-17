@@ -101,12 +101,14 @@ During the design phase, he meets with our team and the relevant school that wil
 Now, we’ve run enough hackathons that we could probably facilitate ourselves.
 
 ## Known Instances
+
 * [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 * [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
 
 ## References
 
 ### Related Patterns
+
 * [Organize an Open Source Hackathon](organize-an-open-source-hackathon.md)
 * [Design a Collaborative Open Source Hackathon](design-a-collaborative-open-source-hackathon.md)
 * [Enable Student-led Hackathons](enable-student-led-hackathons.md)
@@ -115,6 +117,7 @@ Now, we’ve run enough hackathons that we could probably facilitate ourselves.
 * [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
 
 ## Contributors & Acknowledgement
+
 * Angela Newell, University of Texas at Austin
 * Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
 * David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>

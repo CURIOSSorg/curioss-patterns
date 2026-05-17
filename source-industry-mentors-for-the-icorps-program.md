@@ -73,6 +73,7 @@ We found that retired industry experts had more time and availability to commit 
 We are working with our Innovation and Entrepreneurship Hub staff. They can be part of the team and act as the industry mentor. Our folks have previous I-Corps experience so it is really valuable to have them on the team
 
 ## Known Instances
+
 + [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 + [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 + [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/)

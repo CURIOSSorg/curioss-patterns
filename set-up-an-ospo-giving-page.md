@@ -56,7 +56,7 @@ Contact and/or meet finance colleagues to understand the institution’s process
 * Develop a strategy for promoting direct donations through the giving page and acknowledging donors on the OSPO’s website, materials and communication platforms.
 * Consider developing a prospectus outlining different donor or sponsorship ‘packages’, options for once-off smaller contributions and information about how donations will be used.
 
-### Set up an OSPO Giving Page
+### Set up the Giving Page
 
 * Create a dedicated page on the OSPO’s website.
 * Ensure the page clearly identifies its purpose.

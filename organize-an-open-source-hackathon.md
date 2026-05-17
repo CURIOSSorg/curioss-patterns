@@ -76,12 +76,14 @@ For research hackathons, recruit faculty to propose research projects and provid
 Student organizations are also valuable in terms of hackathon promotion and recruitment of participants.
 
 ### Critical first steps
+
 - Set up an organizing team comprising both colleagues and students (where possible).
 - Secure an appropriate venue that includes both a large space for opening, closing, awards and teamwork and smaller spaces for workshops, small group work, solo working and rest breaks.
 - Select a date that takes account of the academic, sports and events calendar. Consideration should be given to potential participants who will not be able to miss class during weekdays.
 - As soon as the date is confirmed, share a ‘save the date’.
 
 ### Promoting the Hackathon
+
 - Prioritize engagement with the institution’s communications/marketing team to agree on key communication points and messaging.
 - Promote the hackathon on the OSPO website and university website (if possible).
 - Leverage student communication channels to promote the event.
@@ -135,6 +137,7 @@ Open source contributions may extend beyond the event if sustainability is plann
 Hackathons also have the potential to position the university as a leader in open source or as an innovation hub in relation to the event’s chosen theme.
 
 ### Other learning
+
 - Actual attendance tends to be lower than registration numbers and this should be considered as part of the planning process.
 - Hackathon organizers manage intensive communication demands and coordination before and during the event. Scheduling a rest break when the hackathon ends is essential.
 - Success creates expectations for future events, requiring ongoing resource commitments
@@ -183,6 +186,7 @@ We also deliver pre-training workshops for participants who are less familiar wi
 - [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
 
 ## References
+
 - [UCSC GraceHacks 2023 repository](https://github.com/emmet0r/gracehacks)
 - [UCSC Hacktoberfest 2024 event page](https://ucsc-ospo.github.io/event/20241010/)
 - [UCSC Hacktoberfest 2024 repository](https://github.com/emmet0r/hacktoberfest-2024)
