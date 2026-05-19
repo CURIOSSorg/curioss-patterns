@@ -132,9 +132,7 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 
 ### Related Patterns
 
-[Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
-[Open Source Capstone Course](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
-
+* [Industry and Community Expert Support: A Light-Touch Volunteer Model](./Industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 * [Open Research Community Accelerator](./open-research-community-accelerator.md)
 * [Open Source Capstone Course](./open-source-capstone-course.md)
 * [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
