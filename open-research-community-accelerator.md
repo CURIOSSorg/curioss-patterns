@@ -115,6 +115,7 @@ The program has also led to several speaking engagements about open source, rese
 
 ### Related Patterns
 
+* [Industry and Community Expert Support: A Light-Touch Volunteer Model](./Industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 * [OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
 * [Open Source Capstone Course](./open-source-capstone-course.md)
 * [OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
