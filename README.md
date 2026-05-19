@@ -1,12 +1,15 @@
 # Introduction to the CURIOSS Patterns Practice
 
-A public repository for the CURIOSS Patterns Practice.
+Welcome to our public repository for the CURIOSS Patterns Practice.
 
-For more information about patterns in general, please see the [About Patterns](#about-patterns) section below.
+Knowledge sharing is at the heart of the CURIOSS community. Our [members](https://curioss.org/about/members/) develop 'patterns' to record how they resolve problems facing Academic OSPOs in university and research institutions.
 
-## CURIOSS Patterns
+We categorize the patterns based on the common priorities or challenges identified by members. The categories are listed under the Table of Contents (on the right of the page if you're on a laptop). You can also scroll down the page to review category by category.
 
-We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes.
+A pattern will be listed more than once if it relates to multiple themes.
+
+For more information about patterns in general, scroll down to the [About Patterns](#about-patterns) section below.
+
 <!-- material/tags -->
 
 ## About Patterns
@@ -14,8 +17,6 @@ We have listed the CURIOSS Patterns by the common challenges or priorities of CU
 ### What Are Patterns?
 
 Patterns are reusable solutions to common problems within a specific context. Originating from architecture and urban design in the work of Christopher Alexander (see section on Origins), they were later adapted for software engineering, organizational design, and beyond. A pattern captures the essence of a proven solution in a way that can be applied flexibly to different scenarios, providing a shared language for understanding and resolving recurring challenges.
-
-Sharing knowledge is a key goal of the CURIOSS Community - we hope to build our CURIOSS Patterns Practice to record how we tackle the common problems facing OSPOs in university and research institutions.
 
 The CURIOSS Patterns Practice is based on the [InnerSource Commons Patterns Practice](https://github.com/InnerSourceCommons/InnerSourcePatterns/) and we would like to thank all those in that community for inspiring us in this effort.
 
