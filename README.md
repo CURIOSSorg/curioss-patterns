@@ -4,7 +4,9 @@ Welcome to our public repository for the CURIOSS Patterns Practice.
 
 Knowledge sharing is at the heart of the CURIOSS community. Our [members](https://curioss.org/about/members/) develop 'patterns' to record how they resolve problems facing Academic OSPOs in university and research institutions.
 
-We categorize the patterns based on the common priorities or challenges identified by members.  The categories are listed under the Table of Contents on the right of this page or scroll down the page to review them. 
+We categorize the patterns based on the common priorities or challenges identified by members.  The categories are listed under the Table of Contents (on the right of the page if you're on a laptop). You can also scroll down the page to review category by category. 
+
+A pattern will be listed more than once if it relates to multiple themes.
 
 For more information about patterns in general, scroll down to the [About Patterns](#about-patterns) section below.
 
