@@ -132,7 +132,9 @@ One challenge may be that we should be careful to work closely with other OSPOs 
 
 ### Related Patterns
 
-* [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md
+* [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
+* [Industry and Community Expert Support: A Light-Touch Volunteer Model](./Industry-and-community-expert-support-a-light-touch-volunteer-model.md)
+* [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 * [Open Research Community Accelerator](./open-research-community-accelerator.md)
 * [Open Source Capstone Course](./open-source-capstone-course.md)
 * [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
