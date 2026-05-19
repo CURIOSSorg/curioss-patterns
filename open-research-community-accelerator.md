@@ -115,6 +115,7 @@ The program has also led to several speaking engagements about open source, rese
 
 ### Related Patterns
 
+* - [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 * [OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
 * [Open Source Capstone Course](./open-source-capstone-course.md)
 * [OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
