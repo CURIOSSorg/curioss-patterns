@@ -91,8 +91,6 @@ After hiring is complete, OSPOs must consider onboarding for their ambassadors. 
 
 ## Contributors & Acknowledgements
 
-Mia Diewald, George Washington University, <https://orcid.org/0009-0005-8123-1832>
-
-Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
-
-Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- Mia Diewald, George Washington University, <https://orcid.org/0009-0005-8123-1832>
+- Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

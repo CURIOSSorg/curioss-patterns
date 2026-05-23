@@ -84,5 +84,6 @@ The second template is a more traditional google doc for individuals who prefer 
 (in alphabetical order)
 
 - Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Duane O'Brien consulted on the design of the CMU OSPO project consultation template
 - Tom Hughes (Carnegie Mellon University), <https://orcid.org/0009-0008-7516-3687>
+
+Thanks to Duane O'Brien for consulting on the design of the CMU OSPO project consultation template.

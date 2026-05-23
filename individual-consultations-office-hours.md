@@ -105,9 +105,10 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 ## Contributors & Acknowledgement
 
 - David Lippert (The George Washington University), <https://orcid.org/0009-0003-6444-9595>
-- Duane O'Brien - consulted on the design of the CMU OSPO project consultation template
 - Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
 - Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>
 - Tom Hughes (Carnegie Mellon University) <https://orcid.org/0009-0008-7516-3687>
 - Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
 - Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+
+Thanks to Duane O'Brien for consulting on the design of the CMU OSPO project consultation template.

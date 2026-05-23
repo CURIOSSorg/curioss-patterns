@@ -74,6 +74,5 @@ This event was a fantastic opportunity to meet so many members of our community,
 
 ## Contributors & Acknowledgements
 
-Nouha Elyazidi, George Washington University, <https://orcid.org/my-orcid?orcid=0009-0004-8067-8803>
-
-Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- Nouha Elyazidi, George Washington University, <https://orcid.org/0009-0004-8067-8803>
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

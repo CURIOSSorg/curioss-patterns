@@ -87,6 +87,6 @@ In alphabetical order
 - Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
 - Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>
 - Tom Hughes, Carnegie Mellon University, <https://orcid.org/0009-0008-7516-3687>
-- Zach Chandler, Stanford University, <https://orcid.org/0000-0003-2402-9839>](<https://orcid.org/0000-0003-2402-9839>
+- Zach Chandler, Stanford University, <https://orcid.org/0000-0003-2402-9839>
 
 Special thanks to Jeffrey Young (Georgia Tech OSPO) for kickstarting a group discussion on sourcing industry mentors for the I-Corps program.
