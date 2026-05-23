@@ -15,6 +15,11 @@ tags:
   #- Rewards & Recognition
   #- Tools & Infrastructure
   #- Working with Tech Transfer / External Partners
+authors:
+  # List the slug of every contributor, one per line. Slugs come from `authors.yml`
+  # at the root of this repo. If you're not in `authors.yml` yet, add yourself
+  # there first, then list your slug below.
+  #- your-slug-here
 ---
 # Pattern Name
 
@@ -66,4 +71,11 @@ List resources or related patterns for further reading.
 
 ## Contributors & Acknowledgement
 
-Recognize individuals or organizations that contributed to this pattern.
+The list of contributors is generated automatically from the `authors:` field
+in the frontmatter at the top of this file. You don't need to write the names
+here yourself — just add your slug to the frontmatter and the site will fill
+this section in.
+
+If you want to add extra acknowledgements (for example, a note about AI
+assistance, or thanks to people who contributed without an ORCID), add them
+as paragraphs below this line and they'll be preserved.

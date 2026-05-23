@@ -4,7 +4,39 @@ Thanks for wanting to contribute! Open a PR or an issue for anything.
 
 ## When contributing
 
-- Add your name and ORCID at the bottom of any pattern you edit!
+When you contribute to a pattern, add yourself as an author so you get credit
+on the website (and get your own author page listing every pattern you've
+worked on).
+
+There are two short steps:
+
+1. **Add yourself to [`authors.yml`](https://github.com/CURIOSSorg/curioss-patterns/blob/main/authors.yml)** (at the root of this repo)
+   if you're not already there. Pick a short slug — usually
+   `firstname-lastname` — and fill in your name, ORCID (optional), and
+   affiliation (optional). For example:
+
+   ```yaml
+   jane-doe:
+     name: Jane Doe
+     orcid: 0000-0001-2345-6789
+     affiliation: Example University
+   ```
+
+2. **Add your slug to the pattern's `authors:` frontmatter** at the top of the
+   pattern file. For example:
+
+   ```yaml
+   ---
+   tags:
+     - Community Building
+   authors:
+     - jane-doe
+   ---
+   ```
+
+You do **not** need to edit the "Contributors & Acknowledgement" section at
+the bottom of the pattern — the site generates that automatically from the
+frontmatter.
 
 ## Local Development
 
