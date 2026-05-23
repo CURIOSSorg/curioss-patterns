@@ -39,17 +39,17 @@ Division of tasks may typically be:
 
 ### OSPO Staff
 
-* Designing the event (based on consultation with student co-hosts).
-* Liaison with potential sponsors (if sponsorship or swag is required).
-* Organizing venue and refreshments.
-* Promoting the event through OSPO channels.
+- Designing the event (based on consultation with student co-hosts).
+- Liaison with potential sponsors (if sponsorship or swag is required).
+- Organizing venue and refreshments.
+- Promoting the event through OSPO channels.
 
 ### Students
 
-* Advertising and drumming up excitement amongst networks and informal communication channels (e.g. unofficial Discord servers).
-* Offering the student perspective on planning, logistics, the topic choice and what would make the event valuable.
-* Supporting the setup of the event, welcoming attendees, facilitating technical activities, and clean-up post event.
-* Amplifying the impact of the event through social media/mailing lists.
+- Advertising and drumming up excitement amongst networks and informal communication channels (e.g. unofficial Discord servers).
+- Offering the student perspective on planning, logistics, the topic choice and what would make the event valuable.
+- Supporting the setup of the event, welcoming attendees, facilitating technical activities, and clean-up post event.
+- Amplifying the impact of the event through social media/mailing lists.
 
 ## Resulting Context
 
@@ -63,9 +63,9 @@ The process of event organization facilitates relationship building between the 
 
 One-off events can be used as starting points for further collaboration. Examples include:
 
-* Cultivating interest in full-term academic courses.
-* Encouraging students to apply to mentorship/internship opportunities.
-* Recruiting students as contributors to campus open source projects.
+- Cultivating interest in full-term academic courses.
+- Encouraging students to apply to mentorship/internship opportunities.
+- Recruiting students as contributors to campus open source projects.
 
 ### Additional Learning from University of California Santa Cruz
 
@@ -87,32 +87,32 @@ We also hosted a one-day bootcamp for a GW open source data science project call
 
 ## Known Instances
 
-* [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net)
-* [GW OSPO](https://ospo.gwu.edu/), George Washington University
+- [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net)
+- [GW OSPO](https://ospo.gwu.edu/), George Washington University
 
 ## References
 
-* [UCSC GraceHacks 2023 repository](https://github.com/emmet0r/gracehacks)
-* [UCSC Hacktoberfest 2024 event page](https://ucsc-ospo.github.io/event/20241010/)
-* [UCSC Hacktoberfest 2024 repository](https://github.com/emmet0r/hacktoberfest-2024)
-* [UCSC’s 2024 Ideathon (included OSPO-sponsored prize track)](https://lu.ma/d8afz220)
-* [OpenHatch: Open Source Comes to Campus](https://github.com/openhatch/open-source-comes-to-campus)
-* [GWU George Hacks - 2025 Innovation Hackathon](https://georgehacks.org)
+- [UCSC GraceHacks 2023 repository](https://github.com/emmet0r/gracehacks)
+- [UCSC Hacktoberfest 2024 event page](https://ucsc-ospo.github.io/event/20241010/)
+- [UCSC Hacktoberfest 2024 repository](https://github.com/emmet0r/hacktoberfest-2024)
+- [UCSC’s 2024 Ideathon (included OSPO-sponsored prize track)](https://lu.ma/d8afz220)
+- [OpenHatch: Open Source Comes to Campus](https://github.com/openhatch/open-source-comes-to-campus)
+- [GWU George Hacks - 2025 Innovation Hackathon](https://georgehacks.org)
 
 ### Related Patterns
 
-* [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
-* [Host an Open Source Conference](./host-an-open-source-conference.md)
-* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
-* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
-* [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
-* [Senior Leadership Keynote](./senior-leadership-keynote.md)
-* [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
+- [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
+- [Host an Open Source Conference](./host-an-open-source-conference.md)
+- [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
+- [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+- [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
+- [Senior Leadership Keynote](./senior-leadership-keynote.md)
+- [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
 
-* Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-* Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>
-* Yelena Martynovskaya, University of California Santa Cruz
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-* David Lippert, George Washington University, [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)
+- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
+- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>
+- Yelena Martynovskaya, University of California Santa Cruz
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- David Lippert, George Washington University, [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)

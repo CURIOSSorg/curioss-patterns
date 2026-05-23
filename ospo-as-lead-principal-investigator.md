@@ -49,19 +49,19 @@ PI responsibilities will need to be balanced against other OSPO responsibilities
 
 ## Known Instances
 
-* [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
-* [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
+- [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
+- [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
+- [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 
 ## References
 
 ### Related patterns
 
-* [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
-* [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md)
+- [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
+- [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md)
 
 ## Contributors & Acknowledgement
 
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
 
 *Thanks to all the CURIOSS members who identified this pattern at the 2025 CURIOSS Winter Gathering.*

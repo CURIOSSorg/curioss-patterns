@@ -9,3 +9,7 @@ MD013: false
 
 # Allow more than one top-level header (front-matter title clashes with H1).
 MD025: false
+
+# Use dashes for all unordered list bullets.
+MD004:
+  style: dash

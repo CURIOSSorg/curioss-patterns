@@ -12,8 +12,8 @@ Support faculty and research grant proposals with a commitment letter from the O
 
 ## Problem / Challenge
 
-* Funders increasingly require funded research to make research outputs publicly available.  
-* Faculty and researchers may not know how best to demonstrate that their publications, data and/or software will meet these requirements in their funding applications.
+- Funders increasingly require funded research to make research outputs publicly available.  
+- Faculty and researchers may not know how best to demonstrate that their publications, data and/or software will meet these requirements in their funding applications.
 
 ## Context
 
@@ -59,21 +59,21 @@ The initial outcome of this commitment letter is appreciation and education from
 
 ## Known Instances
 
-* [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
-* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-* [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
-* [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+- [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
+- [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+- [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
+- [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
+- [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 ## References
 
 ### Related Patterns
 
-* [Embedding the OSPO as Research Infrastructure](./embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
-* [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
-* [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md) - pattern from the CMU Open Source Program Office.
+- [Embedding the OSPO as Research Infrastructure](./embedding-the-ospo-as-research-infrastructure.md) - pattern from the UT Austin OSPO.
+- [OSPO as Co-Principal Investigator](./ospo-as-co-principal-investigator.md)
+- [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md) - pattern from the CMU Open Source Program Office.
 
 ## Contributors & Acknowledgement
 
-* David Lippert (The George Washington University) <https://orcid.org/0009-0003-6444-9595>
-* Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>
+- David Lippert (The George Washington University) <https://orcid.org/0009-0003-6444-9595>
+- Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>

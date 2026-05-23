@@ -41,13 +41,13 @@ Publish a regular newsletter to raise awareness and visibility of the OSPO.
 
 Subscribers can be added or identified in a number of ways:
 
-* Adding a join button to the OSPO website.
-* Providing an opt-in for attendees during registration for OSPO events.
-* Providing a join link on any email/digital communications from the wider university (including the newsletter itself).
-* Providing an opt-out via self-subscription on the wider university lists service.
-* Direct promotion of the newsletter to interested groups on campus (e.g. tech groups, coder clubs etc.)
-* Direct promotion of the newsletter to maintainers and contributors identified in the discovery process for OSS projects on campus.
-* Direct promotion of the newsletter to key decision makers and leadership with an opt-in (or simple opt-out) to join.
+- Adding a join button to the OSPO website.
+- Providing an opt-in for attendees during registration for OSPO events.
+- Providing a join link on any email/digital communications from the wider university (including the newsletter itself).
+- Providing an opt-out via self-subscription on the wider university lists service.
+- Direct promotion of the newsletter to interested groups on campus (e.g. tech groups, coder clubs etc.)
+- Direct promotion of the newsletter to maintainers and contributors identified in the discovery process for OSS projects on campus.
+- Direct promotion of the newsletter to key decision makers and leadership with an opt-in (or simple opt-out) to join.
 
 Subscription opt-in should include a clear description of the frequency and content of the newsletter.
 
@@ -55,8 +55,8 @@ A prominent unsubscribe option should also be included in all newsletters.
 
 ### Select tool or platform
 
-* Liaise with communications colleagues on requirements to use university-approved platforms or tools for newsletters.
-* If an existing university system for newsletters is not in place, explore a range of self-hosted solutions.
+- Liaise with communications colleagues on requirements to use university-approved platforms or tools for newsletters.
+- If an existing university system for newsletters is not in place, explore a range of self-hosted solutions.
 
 ### Plan content and format of newsletter
 
@@ -64,11 +64,11 @@ The content and format of the newsletter should take into account the OSPO’s p
 
 A regular newsletter may contain some or all of the following content:
 
-* **Spotlight/Feature:** One major story, achievement, or community profile.
-* **Highlights:** Brief updates on projects, contributions, or milestones.
-* **Upcoming opportunities:** Events, workshops, contribution requests, important deadlines (bulleted list).
-* **Resources:** 2-3 links to useful tools, guides, or relevant external content.
-* **Call to action:** Clear next step readers can take to engage with OSPO activities.
+- **Spotlight/Feature:** One major story, achievement, or community profile.
+- **Highlights:** Brief updates on projects, contributions, or milestones.
+- **Upcoming opportunities:** Events, workshops, contribution requests, important deadlines (bulleted list).
+- **Resources:** 2-3 links to useful tools, guides, or relevant external content.
+- **Call to action:** Clear next step readers can take to engage with OSPO activities.
 
 The newsletter also presents an opportunity to model open source practices by actively promoting **contributions from the academic community**. An open source platform inviting updates from the community can be signposted in the newsletter and/or on the OSPO website.
 
@@ -100,9 +100,9 @@ Track basic metrics (open rates, click-throughs) to understand engagement.
 
 An academic Open Source Program Office (OSPO) gains several strategic benefits from publishing a regular newsletter:
 
-* **Increasing visibility of the OSPO and its services:** The newsletter serves as a regular channel for promoting the OSPO, signposting supports for open source projects and the academic community; and also attracting new contributors/participants to open source projects.
-* **Showcasing the OSPO’s impact and value:** The newsletter can be used as a vehicle to amplify the OSPO’s contributions to the academic community and the wider institution.
-* **Communicating the importance of open source as a research tool/artifact:** Newsletter articles can highlight how open source work connects to research, teaching, and the institution's mission.
+- **Increasing visibility of the OSPO and its services:** The newsletter serves as a regular channel for promoting the OSPO, signposting supports for open source projects and the academic community; and also attracting new contributors/participants to open source projects.
+- **Showcasing the OSPO’s impact and value:** The newsletter can be used as a vehicle to amplify the OSPO’s contributions to the academic community and the wider institution.
+- **Communicating the importance of open source as a research tool/artifact:** Newsletter articles can highlight how open source work connects to research, teaching, and the institution's mission.
 
 ### Additional Learning from the Advanced Research Computing Centre (ARC), University College of London
 
@@ -162,19 +162,19 @@ We also provide a sharing function for people subscribed to the list.
 
 ## Known Instances
 
-* [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing/), University College London
-* [GW OSPO](https://ospo.gwu.edu/), George Washington University
-* [University of California OSPO Network](https://ucospo.net/)
-* [UC Santa Barbara Open Source Program](https://ucospo.net/santa-barbara/), University of California, Santa Barbara, [University of California OSPO Network](https://ucospo.net/)
-* [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+- [Advanced Research Computing Centre](https://www.ucl.ac.uk/advanced-research-computing/), University College London
+- [GW OSPO](https://ospo.gwu.edu/), George Washington University
+- [University of California OSPO Network](https://ucospo.net/)
+- [UC Santa Barbara Open Source Program](https://ucospo.net/santa-barbara/), University of California, Santa Barbara, [University of California OSPO Network](https://ucospo.net/)
+- [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
 
 ## References
 
 ### Links to Academic OSPO Newsletter join buttons and registration pages
 
-* [Joining page](https://www.ucl.ac.uk/advanced-research-computing/community-events/digital-research-community-newsletter) for ARC’s Digital Research Community Newsletter.
-* Scroll to [What We Do](https://ospo.gwu.edu/) for the join button to be brought to this [registration page](https://ospo.gwu.edu/form/newsletter-opt-in)
-* Scroll down for the join button at the end of the [UC Santa Barbara Open Source Program home page](https://ucospo.net/santa-barbara/) to be brought to this [sign up page](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
+- [Joining page](https://www.ucl.ac.uk/advanced-research-computing/community-events/digital-research-community-newsletter) for ARC’s Digital Research Community Newsletter.
+- Scroll to [What We Do](https://ospo.gwu.edu/) for the join button to be brought to this [registration page](https://ospo.gwu.edu/form/newsletter-opt-in)
+- Scroll down for the join button at the end of the [UC Santa Barbara Open Source Program home page](https://ucospo.net/santa-barbara/) to be brought to this [sign up page](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
 
 ### Links to open source newsletters providing options for contributions
 
@@ -182,19 +182,19 @@ A sample of [TODO Group’s OSPO News](https://email.linuxfoundation.org/osponew
 
 ### Related Patterns
 
-* [Open Source Survey](./open-source-survey.md)
-* [OSPO Mailing List](./ospo-mailing-list.md)
-* [OSPO Website](./ospo-website.md)
-* [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
+- [Open Source Survey](./open-source-survey.md)
+- [OSPO Mailing List](./ospo-mailing-list.md)
+- [OSPO Website](./ospo-website.md)
+- [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
 
 ## Contributors & Acknowledgement
 
 In alphabetical order:
 
-* Angela Newell, University of Texas at Austin
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-* David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-* David Pérez-Suárez, University College London, <https://orcid.org/0000-0003-0784-6909>
-* Laura Langdon, University of California, Davis
-* Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
-* Virginia Scarlett, University of California, Santa Barbara, <https://orcid.org/0000-0002-4156-2849>
+- Angela Newell, University of Texas at Austin
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
+- David Pérez-Suárez, University College London, <https://orcid.org/0000-0003-0784-6909>
+- Laura Langdon, University of California, Davis
+- Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
+- Virginia Scarlett, University of California, Santa Barbara, <https://orcid.org/0000-0002-4156-2849>

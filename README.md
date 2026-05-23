@@ -22,26 +22,26 @@ The CURIOSS Patterns Practice is based on the [InnerSource Commons Patterns Prac
 
 ### Key Characteristics of Patterns
 
-* **Context:** Describes the situation where the pattern is applicable, including preconditions and constraints.  
-* **Problem:** Identifies the core challenge or issue the pattern addresses.  
-* **Solution:** Offers a general, adaptable approach to solving the problem.  
-* **Consequences:** Discusses the trade-offs and implications of using the pattern.
+- **Context:** Describes the situation where the pattern is applicable, including preconditions and constraints.  
+- **Problem:** Identifies the core challenge or issue the pattern addresses.  
+- **Solution:** Offers a general, adaptable approach to solving the problem.  
+- **Consequences:** Discusses the trade-offs and implications of using the pattern.
 
 For CURIOSS Patterns we also include:
 
-* **Title**: A phrase that helps identify the pattern.  
-* **Theme/Cateogry**: To help us categorize our patterns.
-* **Known Instances**: Information about who has used the pattern.
-* **Contributors**: A list of all those who contributed to the creation of the pattern (inside and outside of GitHub).
+- **Title**: A phrase that helps identify the pattern.  
+- **Theme/Cateogry**: To help us categorize our patterns.
+- **Known Instances**: Information about who has used the pattern.
+- **Contributors**: A list of all those who contributed to the creation of the pattern (inside and outside of GitHub).
 
 In some cases, we have even included some personal inspiration from the pattern authors.
 
 ### Benefits of Patterns
 
-* Encourage reuse of proven solutions.  
-* Foster shared understanding and communication within teams.  
-* Provide guidance without prescribing rigid processes.  
-* Enable scalability by breaking complex systems into manageable components.
+- Encourage reuse of proven solutions.  
+- Foster shared understanding and communication within teams.  
+- Provide guidance without prescribing rigid processes.  
+- Enable scalability by breaking complex systems into manageable components.
 
 ### Using Patterns
 

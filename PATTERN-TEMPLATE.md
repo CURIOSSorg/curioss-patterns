@@ -62,8 +62,8 @@ Describe both the intended positive results and any potential side effects or co
 
 *Provide real-world instances of this pattern in action.*
 
-* Example 1: Description of a known use case.  
-* Example 2: Description of another instance.
+- Example 1: Description of a known use case.  
+- Example 2: Description of another instance.
 
 ## References
 

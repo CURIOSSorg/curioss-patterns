@@ -40,53 +40,53 @@ The solution below outlines some core activities to consider:
 
 ### Seek partnership with or sponsorship from the Provost or Research Vice President
 
-* Connect early and regularly.
+- Connect early and regularly.
 
-* Clearly outline and align the OSPO with university research goals.
+- Clearly outline and align the OSPO with university research goals.
 
 ### Engage with and develop cross-campus partnerships with other key stakeholders
 
-* Develop approaches for marketing OSPO support with relevant faculty, researchers and senior leadership.
+- Develop approaches for marketing OSPO support with relevant faculty, researchers and senior leadership.
 
-* Attend regular meetings with senior leadership as a platform to share resources, identify needs and to demonstrate value. This may include meetings with the
+- Attend regular meetings with senior leadership as a platform to share resources, identify needs and to demonstrate value. This may include meetings with the
   Provost’s Office, Research Administration Office, Office of Development, College, School and Unit (CSU) Research Deans and the Research Compute/Information
   Office.
 
-* Provide Development Office staff with facility statements, templates (e.g. open source grant commitment letters) and ‘how to’ resource guidance on funding
+- Provide Development Office staff with facility statements, templates (e.g. open source grant commitment letters) and ‘how to’ resource guidance on funding
   requests.
 
-* Request inclusion in all communications and learning offerings from the CSU Research Deans and Research Compute/Information Offices.
+- Request inclusion in all communications and learning offerings from the CSU Research Deans and Research Compute/Information Offices.
 
 ### Operate as a core research function
 
 Typical activities may be to:
 
-* Create a research facility statement, resource statements and/or grant fulfillment/requirement templates that may be included as part of grant applications and grant reporting.
+- Create a research facility statement, resource statements and/or grant fulfillment/requirement templates that may be included as part of grant applications and grant reporting.
 
-* Connect the facility statement and resource statements to grant templates, data management planning tools and reporting templates.
+- Connect the facility statement and resource statements to grant templates, data management planning tools and reporting templates.
 
-* Include facility and resource statements and templates with the Office of Development, research administration, faculty and researcher development, libraries, research resources databases, university and library help desks.
+- Include facility and resource statements and templates with the Office of Development, research administration, faculty and researcher development, libraries, research resources databases, university and library help desks.
 
-* Request inclusion in annual research communications from CSUs to researchers, Principal Investigators (PIs) and resource communications.
+- Request inclusion in annual research communications from CSUs to researchers, Principal Investigators (PIs) and resource communications.
 
-* Participate in the Research Administration Office, faculty, PI, researcher, and graduate student orientations, research events and communications.
+- Participate in the Research Administration Office, faculty, PI, researcher, and graduate student orientations, research events and communications.
 
-* Anchor service to existing open education, science, research efforts.
+- Anchor service to existing open education, science, research efforts.
 
 ### Map the needs of key user groups to inform OSPO activity
 
-* Create a methodology for ecosystem activity (e.g. the [UT OSPO Participation Pathway](https://opensource.utexas.edu/resources)).
+- Create a methodology for ecosystem activity (e.g. the [UT OSPO Participation Pathway](https://opensource.utexas.edu/resources)).
 
-* Craft training and guidance to help users at different points of open source development in their research.
+- Craft training and guidance to help users at different points of open source development in their research.
 
 ### Evaluate and communicate resources
 
-* Provide a regular account of offerings. (Being able to relate services back to operational methodology or a participation pathway provides additional clarity for key stakeholders.)
+- Provide a regular account of offerings. (Being able to relate services back to operational methodology or a participation pathway provides additional clarity for key stakeholders.)
 
-* Communicate to audiences across the institution of the OSPO’s successes, Challenges (use this an opportunity to request input), facilities and resources, and
+- Communicate to audiences across the institution of the OSPO’s successes, Challenges (use this an opportunity to request input), facilities and resources, and
   Support services.
 
-* Communicate alignment with University priorities and goals and the OSPO's role in fulfilling those goals.
+- Communicate alignment with University priorities and goals and the OSPO's role in fulfilling those goals.
 
 ## Resulting Context
 
@@ -98,21 +98,21 @@ Building relationships in the leadership space; communicating about the OSPO and
 
 ## Known Instances
 
-* [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
-* [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
-* [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+- [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+- [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
+- [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
 
 ## References
 
-* [The UT OSPO Open Source Participation Pathway](https://opensource.utexas.edu/resources) - an outline of the different stages of open source projects within the context of research development. This pathway is used as a reference point for engaging with user groups and identifying their needs at different points of the pathway.
-* [Open Source Grant Commitment Letter](./open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO
-* [Supporting grant proposals with an open source componence](./supporting-grant-proposals-with-an-open-source-component.md) - Pattern from Carnegie Mellon University OSPO
+- [The UT OSPO Open Source Participation Pathway](https://opensource.utexas.edu/resources) - an outline of the different stages of open source projects within the context of research development. This pathway is used as a reference point for engaging with user groups and identifying their needs at different points of the pathway.
+- [Open Source Grant Commitment Letter](./open-source-grant-commitment-letter.md) - Pattern from the George Washington University OSPO
+- [Supporting grant proposals with an open source componence](./supporting-grant-proposals-with-an-open-source-component.md) - Pattern from Carnegie Mellon University OSPO
 
 ## Contributors & Acknowledgement
 
-* Dr. Angela Newell (University of Texas at Austin)
-* Dr. Alex Marden (University of Texas at Austin)
-* Dr. Jennifer Schopf (University of Texas at Austin)
-* Michael Shensky (University of Texas at Austin)
-* Michelle McDermott (University of Texas at Austin)
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- Dr. Angela Newell (University of Texas at Austin)
+- Dr. Alex Marden (University of Texas at Austin)
+- Dr. Jennifer Schopf (University of Texas at Austin)
+- Michael Shensky (University of Texas at Austin)
+- Michelle McDermott (University of Texas at Austin)
+- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
