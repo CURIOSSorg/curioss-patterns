@@ -20,12 +20,23 @@ from mkdocs.exceptions import PluginError
 from mkdocs.structure.files import File
 
 AUTHORS_FILE = "authors.yml"
+ORCID_ICON = "assets/orcid-id.svg"
 CONTRIB_HEADING_RE = re.compile(
     r"^##\s+Contributors\s*&\s*Acknowledg\w*\s*$",
     re.MULTILINE,
 )
 BULLET_LINE_RE = re.compile(r"^\s*[-*]\s+\S")
 HEADING_RE = re.compile(r"^#+\s", re.MULTILINE)
+
+
+def _orcid_markdown(orcid: str, asset_prefix: str) -> str:
+    """Render an ORCID iD with the official icon, wrapped in a link.
+
+    ``asset_prefix`` is "" for source pages at the docs root and "../" for
+    generated pages under ``authors/``.
+    """
+    icon = f"![ORCID iD icon]({asset_prefix}{ORCID_ICON})"
+    return f"[{icon} {orcid}](https://orcid.org/{orcid})"
 
 
 def _load_authors(docs_dir: str) -> dict:
@@ -101,7 +112,7 @@ def _render_authors_index(
         name = record.get("name", slug)
         aff = record.get("affiliation") or ""
         orcid = record.get("orcid")
-        orcid_cell = f"[{orcid}](https://orcid.org/{orcid})" if orcid else ""
+        orcid_cell = _orcid_markdown(orcid, "../") if orcid else ""
         lines.append(f"| [{name}](#{slug}) | {aff} | {orcid_cell} |")
 
     for slug, record in sorted_authors:
@@ -112,7 +123,7 @@ def _render_authors_index(
         if aff:
             lines += [f"**Affiliation:** {aff}", ""]
         if orcid:
-            lines += [f"**ORCID:** [{orcid}](https://orcid.org/{orcid})", ""]
+            lines += [f"**ORCID:** {_orcid_markdown(orcid, '../')}", ""]
         lines += ["**Patterns:**", ""]
         patterns = by_author.get(slug, [])
         if patterns:
@@ -136,7 +147,7 @@ def _render_pattern_bullets(slugs: list[str], authors_map: dict) -> str:
         if aff:
             extras.append(aff)
         if orcid:
-            extras.append(f"[ORCID](https://orcid.org/{orcid})")
+            extras.append(_orcid_markdown(orcid, ""))
         if extras:
             line += " — " + ", ".join(extras)
         bullets.append(line)
