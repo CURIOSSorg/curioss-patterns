@@ -5,6 +5,9 @@ tags:
   - Open Source Development
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - ciara-flanagan
+  - tom-hughes
 ---
 # Template for 1:1 Campus Consultations
 
@@ -80,10 +83,5 @@ The second template is a more traditional google doc for individuals who prefer 
 [Individual Consultations/Office Hours](./individual-consultations-office-hours.md)
 
 ## Contributors & Acknowledgement
-
-(in alphabetical order)
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Tom Hughes (Carnegie Mellon University), <https://orcid.org/0009-0008-7516-3687>
 
 Thanks to Duane O'Brien for consulting on the design of the CMU OSPO project consultation template.

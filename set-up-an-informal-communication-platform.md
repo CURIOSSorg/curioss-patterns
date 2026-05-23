@@ -3,6 +3,10 @@ tags:
   - Awareness
   - Community Building
   - Tools & Infrastructure
+authors:
+  - ciara-flanagan
+  - francesca-vera
+  - laura-langdon
 ---
 # Set up an informal Communication Platform
 
@@ -91,9 +95,3 @@ OpenSource@Stanford has its own Slack workspace where we invite community member
 - [Publish an OSPO Newsletter](./publish-an-ospo-newsletter.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Francesca Vera, Stanford University, <https://orcid.org/0000-0001-8791-3854>
-- Laura Langdon, University of California, Davis

@@ -3,6 +3,12 @@ tags:
   - Awareness
   - Community Building
   - Education & Skills
+authors:
+  - sunil-shah
+  - rosemary-pauley
+  - nouha-elyazidi
+  - jood-alfadhel
+  - ciara-flanagan
 ---
 # Student Outreach Strategy
 
@@ -99,9 +105,3 @@ We also used this [open source art repository](https://github.com/gw-ospo/open-s
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgements
-
-- Sunil Shah, George Washington University, <https://orcid.org/0009-0009-4567-8679>
-- Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
-- Nouha Elyazidi, George Washington University, <https://orcid.org/0009-0004-8067-8803>
-- Jood Alfadhel, George Washington University, <https://orcid.org/0009-0000-2827-4036>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

@@ -4,6 +4,13 @@ tags:
   - Education & Skills
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - angela-newell
+  - ciara-flanagan
+  - david-lippert
+  - emily-lovell
+  - laura-langdon
+  - tom-hughes
 ---
 # Engage a Hackathon Facilitator
 
@@ -117,10 +124,3 @@ Now, we’ve run enough hackathons that we could probably facilitate ourselves.
 - [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
 
 ## Contributors & Acknowledgement
-
-- Angela Newell, University of Texas at Austin
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-- Laura Langdon, University of California, Davis
-- Tom Hughes, Carnegie Mellon University, <https://orcid.org/0009-0008-7516-3687>

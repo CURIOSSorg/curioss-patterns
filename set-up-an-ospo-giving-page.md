@@ -1,6 +1,10 @@
 ---
 tags:
   - Funding & Financial Support
+authors:
+  - ciara-flanagan
+  - lance-albertson
+  - stephanie-lieggi
 ---
 # Set up an OSPO Giving Page
 
@@ -110,9 +114,3 @@ Our [OSPO giving page](https://ucsc-ospo.github.io/bankinfo/) links to our [UCSC
 - [Secure sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Lance Albertson, Oregon State University, <https://orcid.org/0009-0009-8721-3108>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>

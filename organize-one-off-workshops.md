@@ -2,6 +2,11 @@
 tags:
   - Education & Skills
   - Promoting Best Practices
+authors:
+  - angela-newell
+  - alex-marden
+  - david-lippert
+  - ciara-flanagan
 ---
 # Organize one-off workshops
 
@@ -113,8 +118,3 @@ Another successful workshop was held at the George Hacks Innovation Hackathon.  
 - [Open Source Survey](./open-source-survey.md) - Pattern from University of Wisconsin-Madison OSPO and others
 
 ## Contributors & Acknowledgement
-
-- Dr. Angela Newell (University of Texas at Austin)
-- Dr. Alex Marden (University of Texas at Austin)
-- David Lippert (The George Washington University), <https://orcid.org/0009-0003-6444-9595>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

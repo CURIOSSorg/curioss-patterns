@@ -3,6 +3,10 @@ tags:
   - Community Building
   - Demonstrating value as an Academic OSPO
   - Open Source Development
+authors:
+  - ciara-flanagan
+  - emily-lovell
+  - stephanie-lieggi
 ---
 # Informal OSPO focus group sessions at Open Source Events
 
@@ -108,9 +112,3 @@ Attendees had had two days of listening to us talking about things so they had l
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>

@@ -2,6 +2,10 @@
 tags:
   - Community Building
   - Promoting Best Practices
+authors:
+  - ciara-flanagan
+  - laura-langdon
+  - richard-littauer
 ---
 # Create template documents for GitHub Repositories
 
@@ -91,9 +95,3 @@ We started with a TL:DR about preparing for contributions but this was expanded 
 - [Awesome README template](https://github.com/Louis3797/awesome-readme-template/blob/main/README-WITHOUT-EMOJI.md) by Louis3797
 
 ## Contributors & Acknowledgement
-
-(in alphabetical order)
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Laura Langdon (University of California Davis)
-- Richard Littauer, <https://orcid.org/0000-0001-5428-7535>

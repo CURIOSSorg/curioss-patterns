@@ -4,6 +4,14 @@ tags:
   - Awareness
   - Community Building
   - Demonstrating value as an Academic OSPO
+authors:
+  - angela-newell
+  - ciara-flanagan
+  - david-lippert
+  - david-perez-suarez
+  - laura-langdon
+  - rosemary-pauley
+  - virginia-scarlett
 ---
 # Publish an OSPO Newsletter
 
@@ -188,13 +196,3 @@ A sample of [TODO Group’s OSPO News](https://email.linuxfoundation.org/osponew
 - [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order:
-
-- Angela Newell, University of Texas at Austin
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- David Pérez-Suárez, University College London, <https://orcid.org/0000-0003-0784-6909>
-- Laura Langdon, University of California, Davis
-- Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
-- Virginia Scarlett, University of California, Santa Barbara, <https://orcid.org/0000-0002-4156-2849>

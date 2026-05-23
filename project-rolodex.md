@@ -4,6 +4,9 @@ tags:
   - Community Building
   - Demonstrating value as an Academic OSPO
   - Open Source Discovery
+authors:
+  - ciara-flanagan
+  - megan-forbes
 ---
 # Project Rolodex
 
@@ -126,9 +129,4 @@ We asked everyone to suggest two more people that we should talk to. This was ve
 
 ## Contributors & Acknowledgement
 
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Megan Forbes, Johns Hopkins University, <https://orcid.org/0000-0002-2611-1441>
-  
 A very special thanks to Megan Forbes (Johns Hopkins University OSPO) for sharing this pattern and the title at the CURIOSS Gathering in Vermont (2024).

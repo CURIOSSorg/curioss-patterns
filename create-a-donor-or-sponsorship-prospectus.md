@@ -3,6 +3,10 @@ tags:
   - Community Building
   - Demonstrating value as an Academic OSPO
   - Funding & Financial Support
+authors:
+  - ciara-flanagan
+  - david-lippert
+  - stephanie-lieggi
 ---
 # Create a Donor/Sponsorship Prospectus
 
@@ -95,9 +99,3 @@ A donor/sponsorship prospectus provides clear information and enables potential 
 - [Set up an OSPO Giving Page](./set-up-an-ospo-giving-page.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, The George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>

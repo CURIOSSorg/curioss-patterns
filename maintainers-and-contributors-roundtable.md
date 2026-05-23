@@ -4,6 +4,10 @@ tags:
   - Education & Skills
   - Open Source Discovery
   - Promoting Best Practices
+authors:
+  - francesca-vera
+  - zach-chandler
+  - ciara-flanagan
 ---
 # Maintainers & Contributors Roundtable
 
@@ -138,7 +142,3 @@ However, there is a possibility for convening an alternative community of practi
 - [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
 
 ## Contributors & Acknowledgement
-
-- Francesca Vera, Stanford University, <https://orcid.org/0000-0001-8791-3854>
-- Zach Chandler, Stanford University,  <https://orcid.org/0000-0003-2402-9839>
-- Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>

@@ -4,6 +4,12 @@ tags:
   - Demonstrating value as an Academic OSPO
   - Education & Skills
   - Promoting Best Practices
+authors:
+  - emily-lovell
+  - stephanie-lieggi
+  - yelena-martynovskaya
+  - ciara-flanagan
+  - david-lippert
 ---
 # Co-hosting Student Events
 
@@ -110,9 +116,3 @@ We also hosted a one-day bootcamp for a GW open source data science project call
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>
-- Yelena Martynovskaya, University of California Santa Cruz
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)

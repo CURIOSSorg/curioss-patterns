@@ -5,6 +5,13 @@ tags:
   - Education & Skills
   - Funding & Financial Support
   - Promoting Best Practices
+authors:
+  - angela-newell
+  - ciara-flanagan
+  - david-lippert
+  - emily-lovell
+  - laura-langdon
+  - tom-hughes
 ---
 # Lower the barriers to entry for Student Hackathons
 
@@ -92,10 +99,3 @@ We also provide mentor training beforehand. Some of our mentors come from indust
 - [Industry and Community Expert Support: A Light-Touch Volunteer Model](./Industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 
 ## Contributors & Acknowledgement
-
-- Angela Newell, University of Texas at Austin
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-- Laura Langdon, University of California, Davis
-- Tom Hughes, Carnegie Mellon University, <https://orcid.org/0009-0008-7516-3687>

@@ -3,6 +3,8 @@ tags:
   - Awareness
   - Community Building
   - Demonstrating value as an Academic OSPO
+authors:
+  - ciara-flanagan
 ---
 # OSPO Website
 
@@ -125,5 +127,3 @@ The OSPO itself benefits from:
 - [Set up an OSPO Giving Page](./set-up-an-ospo-giving-page.md)
 
 ## Contributors & Acknowledgement
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

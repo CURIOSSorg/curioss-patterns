@@ -3,6 +3,10 @@ tags:
   - Community Building
   - Promoting Best Practices
   - Tools & Infrastructure
+authors:
+  - jood-alfadhel
+  - david-lippert
+  - sunil-shah
 ---
 # Open Project Managment Using Github Projects
 
@@ -76,7 +80,3 @@ We've already been contacted by someone (in another country) who is external to 
 [GW OSPO Github Project Board](https://github.com/orgs/gw-ospo/projects/)
 
 ## Contributors & Acknowledgement
-
-- Jood Alfadhel, George Washington University, <https://orcid.org/0009-0000-2827-4036>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Sunil Shah, George Washington University, <https://orcid.org/0009-0009-4567-8679>

@@ -3,6 +3,11 @@ tags:
   - Advocacy, Governance & Policy
   - Awareness
   - Demonstrating value as an Academic OSPO
+authors:
+  - bill-branan
+  - ciara-flanagan
+  - megan-forbes
+  - sayeed-choudhury
 ---
 # Senior Leadership Keynote
 
@@ -81,10 +86,3 @@ Johns Hopkins University OSPO’s [FOSSPROF Summative Event 2024](https://ospo.l
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Bill Branan, Johns Hopkins University, <https://orcid.org/0000-0002-4735-6624>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Megan Forbes, Johns Hopkins University, <https://orcid.org/0000-0002-2611-1441>
-- Sayeed Choudhury, Carnegie Mellon University, <https://orcid.org/0000-0003-2891-0543>

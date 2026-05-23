@@ -9,9 +9,33 @@
 #   orcid       (optional) Your ORCID iD, just the digits like 0000-0001-2345-6789.
 #   affiliation (optional) Your institution or organisation.
 
+alex-marden:
+  name: Alex Marden
+  affiliation: University of Texas at Austin
+
+allison-kittinger:
+  name: Allison Kittinger
+  orcid: 0000-0002-3104-5995
+  affiliation: University of Wisconsin-Madison
+
 angela-newell:
   name: Angela Newell
   affiliation: University of Texas at Austin
+
+aryan-apte:
+  name: Aryan Apte
+  orcid: 0009-0001-9299-6217
+  affiliation: Syracuse University
+
+bethany-philbrick:
+  name: Bethany Philbrick
+  orcid: 0009-0000-0872-5194
+  affiliation: University of Wisconsin-Madison
+
+bill-branan:
+  name: Bill Branan
+  orcid: 0000-0002-4735-6624
+  affiliation: Johns Hopkins University
 
 ciara-flanagan:
   name: Ciara Flanagan
@@ -28,26 +52,135 @@ david-lippert:
   orcid: 0009-0003-6444-9595
   affiliation: George Washington University
 
+david-perez-suarez:
+  name: David Pérez-Suárez
+  orcid: 0000-0003-0784-6909
+  affiliation: University College London
+
 emily-lovell:
   name: Emily Lovell
   orcid: 0000-0001-5531-5956
   affiliation: University of California Santa Cruz
+
+fang-liu:
+  name: Fang Liu
+  orcid: 0000-0002-3383-2191
+  affiliation: Georgia Institute of Technology
+
+francesca-vera:
+  name: Francesca Vera
+  orcid: 0000-0001-8791-3854
+  affiliation: Stanford University
+
+jacek-plucinski:
+  name: Jacek Plucinski
+  affiliation: Université du Luxembourg
 
 jeffrey-young:
   name: Jeffrey Young
   orcid: 0000-0001-9841-4057
   affiliation: OSPO@GT
 
+jennifer-schopf:
+  name: Jennifer Schopf
+  affiliation: University of Texas at Austin
+
+jood-alfadhel:
+  name: Jood Alfadhel
+  orcid: 0009-0000-2827-4036
+  affiliation: George Washington University
+
 kendall-fortney:
   name: Kendall Fortney
   orcid: 0009-0006-3898-0771
   affiliation: University of Vermont
 
+lance-albertson:
+  name: Lance Albertson
+  orcid: 0009-0009-8721-3108
+  affiliation: Oregon State University
+
 laura-langdon:
   name: Laura Langdon
   affiliation: University of California, Davis
+
+lorena-barba:
+  name: Lorena Barba
+  orcid: 0000-0001-5812-2711
+  affiliation: George Washington University
+
+megan-forbes:
+  name: Megan Forbes
+  orcid: 0000-0002-2611-1441
+  affiliation: Johns Hopkins University
+
+mia-diewald:
+  name: Mia Diewald
+  orcid: 0009-0005-8123-1832
+  affiliation: George Washington University
+
+michael-shensky:
+  name: Michael Shensky
+  affiliation: University of Texas at Austin
+
+michelle-mcdermott:
+  name: Michelle McDermott
+  affiliation: University of Texas at Austin
+
+nouha-elyazidi:
+  name: Nouha Elyazidi
+  orcid: 0009-0004-8067-8803
+  affiliation: George Washington University
+
+ramya-patchala:
+  name: Ramya Patchala
+  orcid: 0009-0009-3018-6030
+  affiliation: Syracuse University
+
+richard-littauer:
+  name: Richard Littauer
+  orcid: 0000-0001-5428-7535
+
+rosemary-pauley:
+  name: Rosemary Pauley
+  orcid: 0009-0008-9354-4301
+  affiliation: George Washington University
+
+sayeed-choudhury:
+  name: Sayeed Choudhury
+  orcid: 0000-0003-2891-0543
+  affiliation: Carnegie Mellon University
+
+stephanie-lieggi:
+  name: Stephanie Lieggi
+  orcid: 0009-0000-5647-6540
+  affiliation: University of California Santa Cruz
+
+sunil-shah:
+  name: Sunil Shah
+  orcid: 0009-0009-4567-8679
+  affiliation: George Washington University
 
 tom-hughes:
   name: Tom Hughes
   orcid: 0009-0008-7516-3687
   affiliation: Carnegie Mellon University
+
+virginia-scarlett:
+  name: Virginia Scarlett
+  orcid: 0000-0002-4156-2849
+  affiliation: University of California, Santa Barbara
+
+will-gearty:
+  name: Will Gearty
+  orcid: 0000-0003-0076-3262
+  affiliation: Syracuse University
+
+yelena-martynovskaya:
+  name: Yelena Martynovskaya
+  affiliation: University of California Santa Cruz
+
+zach-chandler:
+  name: Zach Chandler
+  orcid: 0000-0003-2402-9839
+  affiliation: Stanford University

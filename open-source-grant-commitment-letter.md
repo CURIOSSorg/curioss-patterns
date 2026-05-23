@@ -3,6 +3,9 @@ tags:
   - Advocacy, Governance & Policy
   - Demonstrating value as an Academic OSPO
   - Funding & Financial Support
+authors:
+  - david-lippert
+  - ciara-flanagan
 ---
 # Open Source Grant Commitment Letter
 
@@ -74,6 +77,3 @@ The initial outcome of this commitment letter is appreciation and education from
 - [Supporting grant proposals with an open source component](./supporting-grant-proposals-with-an-open-source-component.md) - pattern from the CMU Open Source Program Office.
 
 ## Contributors & Acknowledgement
-
-- David Lippert (The George Washington University) <https://orcid.org/0009-0003-6444-9595>
-- Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>

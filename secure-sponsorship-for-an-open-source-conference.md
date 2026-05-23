@@ -3,6 +3,11 @@ tags:
   - Community Building
   - Funding & Financial Support
   - Working with Tech Transfer / External Partners
+authors:
+  - ciara-flanagan
+  - david-lippert
+  - lorena-barba
+  - stephanie-lieggi
 ---
 # Secure sponsorship for an Open Source Conference
 
@@ -125,10 +130,3 @@ We used a lot of our sponsorship to pay for travel costs. Interestingly, this wa
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
   
 ## Contributors & Acknowledgement
-
-In alphabetical order:
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Lorena Barba, George Washington University, <https://orcid.org/0000-0001-5812-2711>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>

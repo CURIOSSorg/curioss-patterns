@@ -5,6 +5,13 @@ tags:
   - Open Source Development
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - david-lippert
+  - emily-lovell
+  - kendall-fortney
+  - tom-hughes
+  - will-gearty
+  - ciara-flanagan
 ---
 # Individual consultations / Office Hours
 
@@ -103,12 +110,5 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 [Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
 
 ## Contributors & Acknowledgement
-
-- David Lippert (The George Washington University), <https://orcid.org/0009-0003-6444-9595>
-- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-- Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>
-- Tom Hughes (Carnegie Mellon University) <https://orcid.org/0009-0008-7516-3687>
-- Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
 
 Thanks to Duane O'Brien for consulting on the design of the CMU OSPO project consultation template.

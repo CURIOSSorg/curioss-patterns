@@ -7,6 +7,11 @@ tags:
   - Open Source Sustainability
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - ciara-flanagan
+  - stephanie-lieggi
+  - tom-hughes
+  - zach-chandler
 ---
 # Source Industry Mentors for the I-Corps program
 
@@ -81,12 +86,5 @@ We are working with our Innovation and Entrepreneurship Hub staff. They can be p
 ## References
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>
-- Tom Hughes, Carnegie Mellon University, <https://orcid.org/0009-0008-7516-3687>
-- Zach Chandler, Stanford University, <https://orcid.org/0000-0003-2402-9839>
 
 Special thanks to Jeffrey Young (Georgia Tech OSPO) for kickstarting a group discussion on sourcing industry mentors for the I-Corps program.

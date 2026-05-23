@@ -3,8 +3,11 @@ tags:
   - Awareness
   - Community Building
   - Education & Skills
+authors:
+  - mia-diewald
+  - rosemary-pauley
+  - ciara-flanagan
 ---
-
 # OSPO Student Ambassador Program
 
 ## Pattern Summary
@@ -90,7 +93,3 @@ After hiring is complete, OSPOs must consider onboarding for their ambassadors. 
 - [Student Outreach Strategy](./student-outreach-strategy.md)
 
 ## Contributors & Acknowledgements
-
-- Mia Diewald, George Washington University, <https://orcid.org/0009-0005-8123-1832>
-- Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

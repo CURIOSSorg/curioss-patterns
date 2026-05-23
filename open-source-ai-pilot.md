@@ -5,6 +5,11 @@ tags:
   - Open Source Development
   - Tools & Infrastructure
   - Working with Tech Transfer / External Partners
+authors:
+  - will-gearty
+  - ramya-patchala
+  - aryan-apte
+  - ciara-flanagan
 ---
 # Open Source AI Pilot
 
@@ -92,8 +97,3 @@ In taking on this project, we also discovered that the GPU hardware on campus is
 ## References
 
 ## Contributors & Acknowledgement
-
-- Will Gearty, (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
-- Ramya Patchala, (Syracuse University), <https://orcid.org/0009-0009-3018-6030>
-- Aryan Apte, (Syracuse University), <https://orcid.org/0009-0001-9299-6217>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

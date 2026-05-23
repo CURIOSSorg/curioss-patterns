@@ -6,6 +6,14 @@ tags:
   - Open Source Development
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - bethany-philbrick
+  - ciara-flanagan
+  - david-lippert
+  - fang-liu
+  - jacek-plucinski
+  - jeffrey-young
+  - kendall-fortney
 ---
 # Piggyback onto a larger conference
 
@@ -96,13 +104,3 @@ At a smaller scale, we hold OSPO talks with local meet up groups where OSPO staf
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Bethany Philbrick, University of Madison-Wisconsin
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Fang Liu, Georgia Institute of Technology, <https://orcid.org/0000-0002-3383-2191>
-- Jacek Plucinski, l’Université du Luxembourg
-- Jeff Young, Georgia Institute of Technology,, <https://orcid.org/0000-0001-9841-4057>
-- Kendall Fortney, University of Vermont, <https://orcid.org/0009-0006-3898-0771>

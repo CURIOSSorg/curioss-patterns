@@ -9,6 +9,22 @@ tags:
   - Open Source Development
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - allison-kittinger
+  - bethany-philbrick
+  - bill-branan
+  - ciara-flanagan
+  - david-lippert
+  - emily-lovell
+  - fang-liu
+  - jacek-plucinski
+  - jeffrey-young
+  - kendall-fortney
+  - laura-langdon
+  - lorena-barba
+  - megan-forbes
+  - sayeed-choudhury
+  - stephanie-lieggi
 ---
 # Host an Open Source Conference
 
@@ -170,21 +186,3 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order:
-
-- Allison Kittinger, University of Wisconsin-Madison, <https://orcid.org/0000-0002-3104-5995>
-- Bethany Philbrick, University of Wisconsin-Madison
-- Bill Branan, Johns Hopkins University, <https://orcid.org/0000-0002-4735-6624>
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-- Fang Liu, Georgia Institute of Technology, <https://orcid.org/0000-0002-3383-2191>
-- Jacek Plucinski,  Université du Luxembourg
-- Jeff Young, Georgia Institute of Technology, <https://orcid.org/0000-0001-9841-4057>
-- Kendall Fortney, University of Vermont, <https://orcid.org/0009-0006-3898-0771>
-- Laura Langdon, University of California Davis
-- Lorena Barba, George Washington University, <https://orcid.org/0000-0001-5812-2711>
-- Megan Forbes, Johns Hopkins University, <https://orcid.org/0000-0002-2611-1441>
-- Sayeed Choudhury, Carnegie Mellon University, <https://orcid.org/0000-0003-2891-0543>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>

@@ -6,6 +6,10 @@ tags:
   - Demonstrating value as an Academic OSPO
   - Education & Skills
   - Open Source Development
+authors:
+  - ciara-flanagan
+  - fang-liu
+  - jeffrey-young
 ---
 # Student Showcase Sessions at OSPO Events
 
@@ -97,9 +101,3 @@ Scroll down the agenda for the [Open Source and Scientific Software Workshop](ht
 - [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
-
-In alphaetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Fang Liu, Georgia Institute of Technology, <https://orcid.org/0000-0002-3383-2191>
-- Jeff Young, Georgia Institute of Technology,, <https://orcid.org/0000-0001-9841-4057>

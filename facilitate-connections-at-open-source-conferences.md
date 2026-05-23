@@ -1,6 +1,13 @@
 ---
 tags:
   - Community Building
+authors:
+  - ciara-flanagan
+  - david-lippert
+  - emily-lovell
+  - laura-langdon
+  - sayeed-choudhury
+  - stephanie-lieggi
 ---
 # Facilitate connections at Open Source Conferences
 
@@ -99,12 +106,3 @@ Something I've seen at an event is attaching ribbons to the bottom of your name 
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-- Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-- Laura Langdon, University of California Davis
-- Sayeed Choudhury, Carnegie Mellon University, <https://orcid.org/0000-0003-2891-0543>
-- Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>

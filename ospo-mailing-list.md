@@ -4,6 +4,11 @@ tags:
   - Awareness
   - Community Building
   - Demonstrating value as an Academic OSPO
+authors:
+  - ciara-flanagan
+  - francesca-vera
+  - laura-langdon
+  - virginia-scarlett
 ---
 # OSPO Mailing List
 
@@ -117,10 +122,3 @@ Each campus is using different platforms, including Google Groups and Mailchimp.
 - [Set up an informal Communication Platform](./set-up-an-informal-communication-platform.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-- Francesca Vera, Stanford University, <https://orcid.org/0000-0001-8791-3854>
-- Laura Langdon, University of California, Davis
-- Virginia Scarlett, University of California, Santa Barbara, <https://orcid.org/0000-0002-4156-2849>

@@ -5,6 +5,13 @@ tags:
   - Education & Skills
   - Funding & Financial Support
   - Open Source Development
+authors:
+  - angela-newell
+  - alex-marden
+  - jennifer-schopf
+  - michael-shensky
+  - michelle-mcdermott
+  - ciara-flanagan
 ---
 # Embedding the OSPO as Research Infrastructure
 
@@ -109,10 +116,3 @@ Building relationships in the leadership space; communicating about the OSPO and
 - [Supporting grant proposals with an open source componence](./supporting-grant-proposals-with-an-open-source-component.md) - Pattern from Carnegie Mellon University OSPO
 
 ## Contributors & Acknowledgement
-
-- Dr. Angela Newell (University of Texas at Austin)
-- Dr. Alex Marden (University of Texas at Austin)
-- Dr. Jennifer Schopf (University of Texas at Austin)
-- Michael Shensky (University of Texas at Austin)
-- Michelle McDermott (University of Texas at Austin)
-- Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

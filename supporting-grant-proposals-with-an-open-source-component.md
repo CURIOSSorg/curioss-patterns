@@ -3,6 +3,10 @@ tags:
   - Advocacy, Governance & Policy
   - Demonstrating value as an Academic OSPO
   - Funding & Financial Support
+authors:
+  - sayeed-choudhury
+  - tom-hughes
+  - ciara-flanagan
 ---
 # Supporting grant proposals with an open source component
 
@@ -100,7 +104,3 @@ Weâ€™ve also noted a greater awareness and appreciation for the CMU OSPO and weâ
 - [OSPO as *Lead* Principal Investigator](./ospo-as-lead-principal-investigator.md)
 
 ## Contributors & Acknowledgement
-
-- Sayeed Choudhury (Carnegie Mellon University) <https://orcid.org/0000-0003-2891-0543>
-- Tom Hughes (Carnegie Mellon University) <https://orcid.org/0009-0008-7516-3687>
-- Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>
