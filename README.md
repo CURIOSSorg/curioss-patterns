@@ -12,6 +12,10 @@ For more information about patterns in general, scroll down to the [About Patter
 
 <!-- material/tags -->
 
+## Stay in the loop
+
+<p>Want to know when a new pattern is published? Subscribe to our <a href="feed_rss_created.xml">RSS feed</a>. Each item credits the pattern's authors with a link to their ORCID profile, so you can follow the people behind the work as well as the patterns themselves.</p>
+
 ## About Patterns
 
 ### What Are Patterns?

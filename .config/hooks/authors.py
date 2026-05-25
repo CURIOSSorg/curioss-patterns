@@ -12,6 +12,7 @@ Reads ``authors.yml`` (slug -> {name, orcid, affiliation}) and per-pattern
 
 from __future__ import annotations
 
+import html
 import re
 from pathlib import Path
 
@@ -26,6 +27,60 @@ CONTRIB_HEADING_RE = re.compile(
 )
 BULLET_LINE_RE = re.compile(r"^\s*[-*]\s+\S")
 HEADING_RE = re.compile(r"^#+\s", re.MULTILINE)
+FEED_SUMMARY_CHARS = 240
+
+# Material for MkDocs hardcodes the autodiscovery <link rel="alternate"> tag
+# to this filename. See .config/mkdocs.yml for context.
+FEED_URL = "feed_rss_created.xml"
+FEED_FILES = ("feed_rss_created.xml", "feed_rss_updated.xml")
+
+# Validation regexes for authors.yml. Names and affiliations are interpolated
+# into Markdown that allows inline HTML through, so we forbid characters that
+# could open HTML tags. ORCIDs are interpolated into URLs and link bodies.
+SLUG_RE = re.compile(r"^[a-z0-9-]+$")
+ORCID_RE = re.compile(r"^\d{4}-\d{4}-\d{4}-\d{3}[\dX]$")
+FORBIDDEN_IN_TEXT_RE = re.compile(r"[<>{}\x00-\x1f\x7f]")
+
+
+def _validate_authors(data: dict) -> None:
+    """Reject malformed or unsafe entries in authors.yml at build time.
+
+    Names and affiliations later end up inside Markdown that allows raw HTML,
+    and ORCIDs go into href attributes — so we strictly validate here rather
+    than try to escape every downstream interpolation site.
+    """
+    for slug, record in data.items():
+        loc = f"authors.yml: {slug!r}"
+        if not isinstance(slug, str) or not SLUG_RE.match(slug):
+            raise PluginError(
+                f"{loc}: slug must match {SLUG_RE.pattern} "
+                f"(lowercase letters, digits, hyphens)."
+            )
+        if not isinstance(record, dict):
+            raise PluginError(f"{loc}: entry must be a mapping, got {type(record).__name__}.")
+        name = record.get("name")
+        if not isinstance(name, str) or not name.strip():
+            raise PluginError(f"{loc}: 'name' is required and must be a non-empty string.")
+        if FORBIDDEN_IN_TEXT_RE.search(name) or len(name) > 200:
+            raise PluginError(
+                f"{loc}: 'name' contains a forbidden character (<, >, {{, }} "
+                f"or control char) or exceeds 200 chars."
+            )
+        aff = record.get("affiliation")
+        if aff is not None:
+            if not isinstance(aff, str):
+                raise PluginError(f"{loc}: 'affiliation' must be a string.")
+            if FORBIDDEN_IN_TEXT_RE.search(aff) or len(aff) > 300:
+                raise PluginError(
+                    f"{loc}: 'affiliation' contains a forbidden character or exceeds 300 chars."
+                )
+        orcid = record.get("orcid")
+        if orcid is not None:
+            if not isinstance(orcid, str) or not ORCID_RE.match(orcid):
+                raise PluginError(
+                    f"{loc}: 'orcid' must match {ORCID_RE.pattern} "
+                    f"(e.g. 0000-0001-2345-6789). Got {orcid!r}."
+                )
 
 
 def _load_authors(docs_dir: str) -> dict:
@@ -37,6 +92,7 @@ def _load_authors(docs_dir: str) -> dict:
         raise PluginError(
             f"authors hook: {AUTHORS_FILE} must be a YAML mapping keyed by slug"
         )
+    _validate_authors(data)
     return data
 
 
@@ -94,6 +150,10 @@ def _render_authors_index(
         "Everyone who has contributed to a CURIOSS pattern. "
         "Click a name to jump to their entry below.",
         "",
+        f'<p><em>New patterns are announced in the '
+        f'<a href="../{FEED_URL}">RSS feed</a> — each item credits the authors '
+        f'with a link to their ORCID profile.</em></p>',
+        "",
         "| Author | Affiliation | ORCID |",
         "| --- | --- | --- |",
     ]
@@ -122,6 +182,72 @@ def _render_authors_index(
             lines.append("_No patterns yet._")
     lines.append("")
     return "\n".join(lines)
+
+
+def _first_paragraph(markdown: str) -> str:
+    """Return the first prose paragraph after the H1, stripped of markdown."""
+    _, body = _parse_frontmatter(markdown)
+    paragraphs: list[str] = []
+    buf: list[str] = []
+    for line in body.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            if buf:
+                paragraphs.append(" ".join(buf))
+                buf = []
+            continue
+        if stripped.startswith("#") or BULLET_LINE_RE.match(line):
+            if buf:
+                paragraphs.append(" ".join(buf))
+                buf = []
+            continue
+        buf.append(stripped)
+    if buf:
+        paragraphs.append(" ".join(buf))
+    for p in paragraphs:
+        plain = re.sub(r"[*_`]", "", p)
+        plain = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", plain)
+        if plain:
+            return plain
+    return ""
+
+
+def _author_html(slug: str, record: dict) -> str:
+    name = record.get("name", slug)
+    orcid = record.get("orcid")
+    name_safe = html.escape(name, quote=True)
+    if orcid:
+        # ORCID is validated against ORCID_RE at load time, so no characters
+        # here need URL-encoding, but we still escape for attribute context.
+        return (
+            f'<a href="https://orcid.org/{html.escape(orcid, quote=True)}">{name_safe}</a>'
+        )
+    return name_safe
+
+
+def _feed_description(slugs: list[str], authors_map: dict, markdown: str) -> str:
+    """Build the HTML body for a feed item's <description>.
+
+    Emitted as raw HTML (anchor tags, escaped text). The on_post_build hook
+    later wraps each item-level <description> in CDATA so RSS readers render
+    these as live links rather than as escaped text.
+    """
+    parts = [_author_html(slug, authors_map.get(slug, {"name": slug})) for slug in slugs]
+    if not parts:
+        attribution = ""
+    elif len(parts) == 1:
+        attribution = f"By {parts[0]}."
+    else:
+        attribution = "By " + ", ".join(parts[:-1]) + f", and {parts[-1]}."
+
+    summary = _first_paragraph(markdown)
+    if summary and len(summary) > FEED_SUMMARY_CHARS:
+        summary = summary[: FEED_SUMMARY_CHARS - 1].rstrip() + "…"
+    summary_html = html.escape(summary, quote=False) if summary else ""
+
+    if attribution and summary_html:
+        return f"{attribution} {summary_html}"
+    return attribution or summary_html
 
 
 def _render_pattern_bullets(slugs: list[str], authors_map: dict) -> str:
@@ -188,6 +314,16 @@ def on_page_markdown(markdown, page, config, files):
     if not isinstance(fm_authors, list) or not fm_authors:
         return markdown
 
+    resolved_names = [
+        authors_map.get(slug, {}).get("name", slug) for slug in fm_authors
+    ]
+    page.meta["authors"] = resolved_names
+    rss_meta = page.meta.setdefault("rss", {})
+    if not rss_meta.get("feed_description"):
+        rss_meta["feed_description"] = _feed_description(
+            fm_authors, authors_map, markdown
+        )
+
     rendered = _render_pattern_bullets(fm_authors, authors_map)
 
     m = CONTRIB_HEADING_RE.search(markdown)
@@ -227,3 +363,57 @@ def on_page_markdown(markdown, page, config, files):
         rebuilt += trailing
     rebuilt += markdown[section_end:]
     return rebuilt
+
+
+# Pre-compiled patterns for the feed post-processor.
+_ITEM_RE = re.compile(r"<item>.*?</item>", re.DOTALL)
+_ITEM_DESC_RE = re.compile(r"<description>(.*?)</description>", re.DOTALL)
+_AUTHOR_RE = re.compile(r"<author>(.*?)</author>", re.DOTALL)
+_SOURCE_RE = re.compile(r"[ \t]*<source\b[^>]*>.*?</source>\s*\n?", re.DOTALL)
+_CATEGORY_RE = re.compile(r"<category>(.*?)</category>", re.DOTALL)
+
+
+def _rewrite_item(item_xml: str) -> str:
+    """Apply per-item transforms inside a single <item>...</item> block."""
+
+    def _desc_to_cdata(m: re.Match[str]) -> str:
+        # The plugin HTML-escapes our description body; reverse that and
+        # CDATA-wrap so feed readers render <a href="...">Name</a> as a real
+        # link instead of as literal angle-bracket text.
+        raw = html.unescape(m.group(1))
+        # Defuse any literal "]]>" sequence that would close CDATA early.
+        raw = raw.replace("]]>", "]]]]><![CDATA[>")
+        return f"<description><![CDATA[{raw}]]></description>"
+
+    item_xml = _ITEM_DESC_RE.sub(_desc_to_cdata, item_xml)
+    # RSS 2.0 <author> must be an email address; use Dublin Core <dc:creator>
+    # for plain names (the dc namespace is already declared by the plugin).
+    item_xml = _AUTHOR_RE.sub(r"<dc:creator>\1</dc:creator>", item_xml)
+    # The plugin emits a self-referencing <source> on every item. The RSS 2.0
+    # spec reserves <source> for items republished from another feed, so we
+    # strip it to keep the feed standards-compliant.
+    item_xml = _SOURCE_RE.sub("", item_xml)
+    # The plugin doesn't XML-escape category text, so tag names like
+    # "Education & Skills" produce invalid XML. Re-escape defensively.
+    item_xml = _CATEGORY_RE.sub(
+        lambda m: f"<category>{html.escape(html.unescape(m.group(1)), quote=False)}</category>",
+        item_xml,
+    )
+    return item_xml
+
+
+def on_post_build(config):
+    """Rewrite the generated feeds for spec compliance and link rendering.
+
+    The mkdocs-rss-plugin has no template-override mechanism, so we patch
+    its output after build: switch <author> to <dc:creator>, CDATA-wrap
+    item descriptions so HTML renders, and drop self-referencing <source>.
+    """
+    site_dir = Path(config["site_dir"])
+    for name in FEED_FILES:
+        path = site_dir / name
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+        text = _ITEM_RE.sub(lambda m: _rewrite_item(m.group(0)), text)
+        path.write_text(text, encoding="utf-8")
