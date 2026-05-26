@@ -108,15 +108,19 @@ We successfully met our objective of providing students with the opportunity to 
 
 ### Additional learning from the Georgia Tech OSPO on the Virtual Summer Internship Program (VSIP)
 
-This is an evolving process but we’ve already seen some initial increase in awareness amongst our 30 program participants.
+We created 'low-hanging' opportunities for faculty to use our internship structure to spend existing funding they might have. For us, the structure of the program and the training aspect seems to be a big draw for the faculty involved.
 
 We plan to continue making improvements to this program and to possibly turn it into a micro-badging program that can be shared with our constituents in an asynchronous fashion.
 
-Our hope is that we can use this initial engagement with the internship program as a seed for a wide-reaching, asynchronous and open educational framework that can extend the reach of our OSPO.
+Our hope is that we can use the initial engagement with the internship program as a seed for a wide-reaching, asynchronous and open educational framework that can extend the reach of our OSPO.
 
 As part of this program, we have been working on [open source training notebooks](https://github.com/gt-ospo/oss-training), which present a variety of topics that should enable students and faculty at Georgia Tech to improve the quality of their open source projects.
 
 One challenge may be that we should be careful to work closely with other OSPOs and OSS organizations to make sure we are not “recreating” existing resources. A good example of this is our open source code review lecture, which relies heavily on [BSSW’s code review example project](https://code-review.org).
+
+We would advise any OSPO starting out on an internship program to start small in terms of student numbers and build in avenues where mentors can help with the evaluation process during recruitment. The caveat is that this means your recruitment cycle will need to be longer. Our current cycle is February - April and would need to run from December to April to realistically include mentor feedback.
+
+We also recommend documenting outcomes and getting feedback from participants. We do a poster session which outlines positive outcomes but ideally, we would like to track more metrics in the future.
 
 ## Known Instances
 
