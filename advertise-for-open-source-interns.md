@@ -1,7 +1,6 @@
 ---
 tags:
- 
-  - Education & Skills
+ - Education & Skills
     
 ---
 # Advertise for Open Source Interns
@@ -16,7 +15,7 @@ Reach relevant student candidates for open source internships by advertising acr
 
 * Relying on a single communications channel for promoting open source internships risks missing strong candidates who may not be aware of that platform.
 
-* Without active outreach through trusted networks such as faculty, department newsletters, and student communities, programs struggle to build visibility among the students most likely to benefit.
+* Without active outreach through trusted networks such as faculty, department newsletters and student communities, programs struggle to build visibility among the students most likely to benefit.
 
 ## Context
 
@@ -40,7 +39,7 @@ Develop a structured advertising approach to reach  students through the routes 
 
 Ensure the OSPO website includes:
 
-* An overview of the program, its aims and what participation involves.
+* An overview of the program, its aims and what's involved in participation.
 
 * Provide individual project descriptions with enough detail for students to assess their fit including minimum requirements, the skills or background required and the expected time commitment.
 
@@ -54,13 +53,13 @@ Options include:
 
 * The university student jobs portal or equivalent hiring platform (e.g. Handshake).
 
-* Targeted newsletters and email lists across relevant departments and institutes, such as computer science, data science, statistics, AI, and engineering.
+* Targeted newsletters and email lists across relevant departments and institutes such as computer science, data science, statistics, AI and engineering.
 
-* Email outreach to faculty and staff who work with students in relevant areas, asking them to share the opportunity with students they think would be a good fit.
+* Email outreach to faculty and staff who work with students in relevant areas, asking them to share the opportunity with students who they think would be a good fit.
 
 * Career fairs and other on-campus events, where contact details can be collected from interested students.
 
-* Student community groups, such as coding clubs, hackathon groups and student societies.
+* Student community groups such as coding clubs, hackathon groups and student societies.
 
 ### Leverage ongoing relationships as a source of referrals
 
@@ -70,11 +69,11 @@ Strategies include:
 
 * Building relationships with complementary programs such as undergraduate research schemes or data science institutes whose student networks overlap with the target audience.
 
-* Encourage former interns to act as ambassadors for the program. 
+* Encouraging former interns to act as ambassadors for the program. 
 
 ### Hold information sessions
 
-Information sessions are a useful tool for building awareness and helping students understand what open source internship work involves before they apply. These can be held in person or online and may include short presentations from current or former interns, project mentors or participating organisations.
+Information sessions are a useful tool for building awareness and helping students understand what open source internship work involves before they apply. These can be held in person or online and may include short presentations from current or former interns, previous project mentors and/or participating organisations.
 
 Hosting these sessions ahead of the application window gives students time to prepare a stronger application.
 
@@ -82,7 +81,7 @@ Hosting these sessions ahead of the application window gives students time to pr
 
 The program reaches a broader and more relevant pool of prospective applicants.
 
-Students who apply have a clearer understanding of what the program involves and what individual projects require.
+Students who apply have a clearer understanding of what the program involves and what's required of them.
 
 The program develops a clearer picture of the advertising approaches that are most effective over time.
 
@@ -90,7 +89,7 @@ The program develops a clearer picture of the advertising approaches that are mo
 
 We advertised internship and student worker opportunities through a combination of the university student jobs portal and targeted outreach via the OSPO newsletter. For an industry placement with Open Teams, newsletter advertising alone generated 70 applicants. (Five candidates were put forward to the partner organisation.)
 
-We have also participated in the Code for GovTech program, which manages its own advertising and outreach and brings in a highly motivated international applicant pool
+We have also participated in the [Code for GovTech](https://codeforgoodtech.in/) program, which manages its own advertising and outreach and brings in a highly motivated international applicant pool.
 
 ## Additional Learning from the Georgia Tech Open Source Program Office
 
@@ -146,8 +145,7 @@ Project mentors and Data Science Institute staff are also asked to share opportu
 * Bethany Philbrick (University of Wisconsin-Madison), https://orcid.org/0009-0000-0872-5194
 * Ciara Flanagan (CURIOSS), https://orcid.org/0009-0005-3153-7673
 * David Lippert (George Washington University), https://orcid.org/0009-0003-6444-9595
-* Jeffrey Young (Georgia Institute of Technology), https://orcid.org/0000-0001-9841-405, 
-https://orcid.org/0009-0008-7516-3687
+* Jeffrey Young (Georgia Institute of Technology), https://orcid.org/0000-0001-9841-405 
 * Will Gearty (Syracuse University), https://orcid.org/0000-0003-0076-3262
 
 **A note on AI use:**  In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
