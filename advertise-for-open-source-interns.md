@@ -1,5 +1,6 @@
 ---
 tags:
+
  - Education & Skills
     
 ---
@@ -12,19 +13,14 @@ Reach relevant student candidates for open source internships by advertising acr
 ## Problem / Challenge
 
 * Students on traditional computer science or engineering programs may have little awareness of open source internships or that an OSPO exists on their campus. 
-
 * Relying on a single communications channel for promoting open source internships risks missing strong candidates who may not be aware of that platform.
-
 * Without active outreach through trusted networks such as faculty, department newsletters and student communities, programs struggle to build visibility among the students most likely to benefit.
 
 ## Context
 
 * A university with an established or emerging OSPO.
-
 * The OSPO is running or planning to run a structured open source internship or student worker program, either on a rolling semester basis or as a dedicated summer program.
-
 * Internships may be tied to academic credit; paid through grants or other funding sources; or a combination of both.
-
 * The program may involve matching students to existing faculty-led projects, internal OSPO projects, external open source organisations or industry partners.
 
 ## Forces
@@ -40,9 +36,7 @@ Develop a structured advertising approach to reach  students through the routes 
 Ensure the OSPO website includes:
 
 * An overview of the program, its aims and what's involved in participation.
-
 * Provide individual project descriptions with enough detail for students to assess their fit including minimum requirements, the skills or background required and the expected time commitment.
-
 * Clear information on how to apply.
   
 ### Advertise across a range of platforms and networks
@@ -50,15 +44,10 @@ Ensure the OSPO website includes:
 Options include:
 
 * The OSPO website, newsletter and mailing list.
-
 * The university student jobs portal or equivalent hiring platform (e.g. Handshake).
-
 * Targeted newsletters and email lists across relevant departments and institutes such as computer science, data science, statistics, AI and engineering.
-
 * Email outreach to faculty and staff who work with students in relevant areas, asking them to share the opportunity with students who they think would be a good fit.
-
 * Career fairs and other on-campus events, where contact details can be collected from interested students.
-
 * Student community groups such as coding clubs, hackathon groups and student societies.
 
 ### Leverage ongoing relationships as a source of referrals
@@ -66,9 +55,7 @@ Options include:
 Strategies include:
 
 * Keeping faculty and researchers who have previously engaged with the program informed when new positions open.
-
 * Building relationships with complementary programs such as undergraduate research schemes or data science institutes whose student networks overlap with the target audience.
-
 * Encouraging former interns to act as ambassadors for the program. 
 
 ### Hold information sessions
