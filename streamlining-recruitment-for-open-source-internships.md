@@ -49,7 +49,7 @@ Before advertising opens, work with project mentors and partners to clearly defi
 
 ### Add Structured Application Requirements
 
-Design specific application criteria that rewards attention to detail, genuine interest and relevant expertise. 
+Design specific application criteria that rewards attention to detail, genuine interest and relevant expertise.
 
 Approaches may include:
 
@@ -60,7 +60,7 @@ Approaches may include:
 
 The importance of meeting these requirements should be clearly communicated in the application guidelines.
 
-Applications and cover letters that do not follow these specific requirements should not be considered. 
+Applications and cover letters that do not follow these specific requirements should not be considered.
 
 ### Initial Screening Pass
 
@@ -68,9 +68,9 @@ The initial screening pass removes applications that do not meet the minimum req
 
 ### Scoring Metric
 
-Consult with project mentors to identify critical skills or competencies required for their projects. 
+Consult with project mentors to identify critical skills or competencies required for their projects.
 
-Design scoring criteria to enable efficient decision making. 
+Design scoring criteria to enable efficient decision making.
 
 Criteria may include:
 
@@ -81,7 +81,7 @@ Criteria may include:
 
 ### Standardize communication with applicants
 
-Timely communication with applicants throughout the process should reduce the volume of follow-up queries that OSPO staff receive. 
+Timely communication with applicants throughout the process should reduce the volume of follow-up queries that OSPO staff receive.
 
 Produce an FAQ document that covers key information about the program, timelines for applying and the standard turnaround for notifying applicants of the outcome.
 
@@ -99,7 +99,7 @@ The program builds a clearer picture of the screening approaches that work best 
 
 ### Additional Learning from The George Washington University Open Source Program Office
 
-We set a cap of 30 applications per position and monitor submissions actively as they arrive, removing mismatches before the cap is reached. This keeps the review pool to a manageable size. 
+We set a cap of 30 applications per position and monitor submissions actively as they arrive, removing mismatches before the cap is reached. This keeps the review pool to a manageable size.
 
 We use a set of open application questions to assess genuine interest and motivation. Face-to-face or video interviews are a standard part of our process and allow us to verify the skills and experience claimed in applications. In addition to resumes, we also ask for each student’s class schedule and their planned work hours to make sure they can meet the time commitment and to help with scheduling.
 
@@ -113,9 +113,9 @@ Finally, although the interview process often ends in disappointment for the maj
 
 We’re not in a position to interview students due to the high volume of applications we receive (over 200 applications each year).
 
-We use a scoring metric that balances the skills needed to perform the internship alongside providing opportunities for students who may not have a computer sciences background. 
+We use a scoring metric that balances the skills needed to perform the internship alongside providing opportunities for students who may not have a computer sciences background.
 
-Broadly, student gets points for: 
+Broadly, student gets points for:
 
 * Experience with Git and programming languages commonly used.
 * Being new to open source software and not a long-term contributor.
@@ -124,13 +124,13 @@ Broadly, student gets points for:
 
 ### Additional Learning from Syracuse University Open Source Program Office
 
-We conduct an initial screening pass on all applications before any materials go to project mentors, narrowing the field to between two and five candidates per project. 
+We conduct an initial screening pass on all applications before any materials go to project mentors, narrowing the field to between two and five candidates per project.
 
 We include a structured cover letter requirement: applicants must rank the available projects in order of preference and explain their reasoning. Applications that do not include this content are removed at the first pass. This single requirement reliably filters a significant proportion of the applicant pool, typically around a third to a half of all submissions.
 
 When a mentor already has a suitable candidate in mind, we skip advertising for the post as a strong referral often produces a better match than open recruitment.
 
-We conduct joint interviews with mentors where this is helpful and we're involved in the selection process throughout. 
+We conduct joint interviews with mentors where this is helpful and we're involved in the selection process throughout.
 
 ### Additional Learning from UW-Madison Open Source Program Office
 
@@ -168,10 +168,10 @@ We are working with [WISCURDS (Wisconsin Undergraduate Research in Data Science)
 
 ## Contributors & Acknowledgement
 
-* Bethany Philbrick (University of Wisconsin-Madison), https://orcid.org/0009-0000-0872-5194
-* Ciara Flanagan (CURIOSS), https://orcid.org/0009-0005-3153-7673
-* David Lippert (George Washington University), https://orcid.org/0009-0003-6444-9595
-* Jeffrey Young (Georgia Institute of Technology), https://orcid.org/0000-0001-9841-405
-* Will Gearty (Syracuse University), https://orcid.org/0000-0003-0076-3262
+* Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
+* Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
+* David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
+* Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
+* Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
 
 **A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
