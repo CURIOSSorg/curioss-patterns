@@ -104,6 +104,10 @@ Offering this service provides an opportunity to develop and strengthen relation
 
 Co-PI responsibilities will need to be balanced against other OSPO responsibilities. OSPOs may risk overcommitment if co-PI opportunities rapidly multiply.
 
+### Additional Learning from the UW-Madison Open Source Program Office
+
+We have also begun working with other programs to explore sub-award arrangements within research grant proposals so that internship funding (for open source) can be built into those grants from the outset rather than sourced separately after a grant is awarded.
+
 ## Known Instances
 
 * [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
@@ -122,6 +126,7 @@ Co-PI responsibilities will need to be balanced against other OSPO responsibilit
 
 ## Contributors & Acknowledgement
 
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+* Bethany Philbrick (University of Wisconsin-Madison), https://orcid.org/0009-0000-0872-5194
+* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
 
 *Thanks to all the CURIOSS members who identified this pattern at the 2025 CURIOSS Winter Gathering.*
