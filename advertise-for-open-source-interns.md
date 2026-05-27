@@ -11,7 +11,7 @@ Reach relevant student candidates for open source internships by advertising acr
 
 ## Problem / Challenge
 
-* Students on traditional computer science or engineering programs may have little awareness of open source internships or that an OSPO exists on their campus. 
+* Students on traditional computer science or engineering programs may have little awareness of open source internships or that an OSPO exists on their campus.
 
 * Relying on a single communications channel for promoting open source internships risks missing strong candidates who may not be aware of that platform.
 
@@ -69,7 +69,7 @@ Strategies include:
 
 * Building relationships with complementary programs such as undergraduate research schemes or data science institutes whose student networks overlap with the target audience.
 
-* Encouraging former interns to act as ambassadors for the program. 
+* Encouraging former interns to act as ambassadors for the program.
 
 ### Hold information sessions
 
@@ -95,17 +95,17 @@ We have also participated in the [Code for GovTech](https://codeforgoodtech.in/)
 
 We used information sessions as an effective promotional tool for our Virtual Summer Internship Program (VSIP). The sessions included lightning talks from participating organisations to give prospective applicants a concrete sense of the projects and mentors involved.
 
-We advertise on our [dedicated website page](https://ospo.cc.gatech.edu/vsip/), LinkedIn and via local mailing lists for undergrads and grad students. 
+We advertise on our [dedicated website page](https://ospo.cc.gatech.edu/vsip/), LinkedIn and via local mailing lists for undergrads and grad students.
 
 We also send out an invite to our research computing list for PACE, which has several thousand students and faculty on it.
 
 ## Additional Learning from Syracuse University Open Source Program Office
 
-We use Handshake and our mailing list as our primary advertising platforms. 
+We use Handshake and our mailing list as our primary advertising platforms.
 
 ## Additional Learning from UW-Madison Open Source Program Office
 
-We advertise internship opportunities through multiple channels: our website; the university student jobs portal; the Data Science Institute newsletter; targeted outreach to other campus newsletters and networks; career fairs; and direct email to a contact list of interested students who attend our events. 
+We advertise internship opportunities through multiple channels: our website; the university student jobs portal; the Data Science Institute newsletter; targeted outreach to other campus newsletters and networks; career fairs; and direct email to a contact list of interested students who attend our events.
 
 Project mentors and Data Science Institute staff are also asked to share opportunities with students they think would be a good fit.
 
@@ -137,15 +137,15 @@ Project mentors and Data Science Institute staff are also asked to share opportu
 * [Open Research Community Accelerator](./open-research-community-accelerator/)
 * [Open Source Capstone Course](./open-source-capstone-course/)
 * [Sourcing Projects for Open Source Internships]
-* [Streamlining Recruitment for Open Source Internships] 
+* [Streamlining Recruitment for Open Source Internships]
 * [Summer Internship Program](./summer-internship-program/)
 
 ## Contributors & Acknowledgement
 
-* Bethany Philbrick (University of Wisconsin-Madison), https://orcid.org/0009-0000-0872-5194
-* Ciara Flanagan (CURIOSS), https://orcid.org/0009-0005-3153-7673
-* David Lippert (George Washington University), https://orcid.org/0009-0003-6444-9595
-* Jeffrey Young (Georgia Institute of Technology), https://orcid.org/0000-0001-9841-405 
-* Will Gearty (Syracuse University), https://orcid.org/0000-0003-0076-3262
+* Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
+* Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
+* David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
+* Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
+* Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
 
 **A note on AI use:**  In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!

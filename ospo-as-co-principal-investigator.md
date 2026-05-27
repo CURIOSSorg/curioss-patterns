@@ -126,7 +126,7 @@ We have also begun working with other programs to explore sub-award arrangements
 
 ## Contributors & Acknowledgement
 
-* Bethany Philbrick (University of Wisconsin-Madison), https://orcid.org/0009-0000-0872-5194
-* Ciara Flanagan, https://orcid.org/0009-0005-3153-7673
+* Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
+* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
 
 *Thanks to all the CURIOSS members who identified this pattern at the 2025 CURIOSS Winter Gathering.*
