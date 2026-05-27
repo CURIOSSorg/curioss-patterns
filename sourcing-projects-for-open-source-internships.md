@@ -35,7 +35,7 @@ Faculty and researchers are more likely to engage with the program if they under
 
 ## Solution
 
-Source projects for open source internships in a number of ways, including open calls for proposals; outreach activities; internal project development; and external partnerships. 
+Source projects for open source internships in a number of ways, including open calls for proposals; outreach activities; internal project development; and external partnerships.
 
 ### Issue an open call for project proposals
 
@@ -65,7 +65,7 @@ Direct, face-to-face outreach by OSPO staff offers opportunities to reach new au
 
 ### Develop internal projects
 
-Internally generated projects, developed by the OSPO itself, also offer a source of work that can be scoped and timed to suit the internship structure. 
+Internally generated projects, developed by the OSPO itself, also offer a source of work that can be scoped and timed to suit the internship structure.
 
 Internal projects may include:
 
@@ -77,7 +77,7 @@ Internal projects also give the program flexibility to respond to short-term or 
 
 ### Cultivate external partnerships
 
-Partnerships with industry organisations; open source communities and foundations; and other external bodies can provide projects, co-funding, and mentorship opportunities that extend beyond internal opportunities. External partnerships typically require sustained relationship-building over time. 
+Partnerships with industry organisations; open source communities and foundations; and other external bodies can provide projects, co-funding, and mentorship opportunities that extend beyond internal opportunities. External partnerships typically require sustained relationship-building over time.
 
 Approaches include:
 
@@ -93,9 +93,9 @@ Faculty, researchers and external partners develop a clearer understanding of wh
 
 ### Additional Learning from The George Washington University Open Source Program Office
 
-We source projects through a combination of internal development and external partnerships. 
+We source projects through a combination of internal development and external partnerships.
 
-Our partnership with Open Teams emerged from a sustained relationship built through conference sponsorship and ongoing engagement. The placement that resulted was directly enabled by that relationship rather than by any formal call for proposals. 
+Our partnership with Open Teams emerged from a sustained relationship built through conference sponsorship and ongoing engagement. The placement that resulted was directly enabled by that relationship rather than by any formal call for proposals.
 
 ### Additional Learning from Georgia Tech Open Source Program Office
 
@@ -103,24 +103,23 @@ We source projects for the Virtual Summer Internship Program (VSIP) through outr
 
 Information sessions that include lightning talks from participating organisations have been effective in building awareness of the program among potential project mentors and partners as well as among prospective student applicants.
 
-Our mentoring guidelines set out clearly who can propose a project and what is involved. Mentors must be a primary maintainer or core contributor of an open source project or a project that can be released as open source by the end of the program. They are expected to commit one to two hours per week for synchronous meetings with students and to be available asynchronously via Slack, email or Discord during students' working hours. 
+Our mentoring guidelines set out clearly who can propose a project and what is involved. Mentors must be a primary maintainer or core contributor of an open source project or a project that can be released as open source by the end of the program. They are expected to commit one to two hours per week for synchronous meetings with students and to be available asynchronously via Slack, email or Discord during students' working hours.
 
 We’ve also used learning from our monthly meet-ups to document some general suggestions for mentors who participate in the program.
 
 ### Additional Learning from Syracuse University Open Source Program Office
 
-We source projects from a combination of internal OSPO priorities and faculty proposals. Some projects are internal to the OSPO or initiated at the direction of university leadership. The rest come through a rolling open call for proposals hosted on our website via a Google form. 
+We source projects from a combination of internal OSPO priorities and faculty proposals. Some projects are internal to the OSPO or initiated at the direction of university leadership. The rest come through a rolling open call for proposals hosted on our website via a Google form.
 
 We don’t currently conduct extensive active recruitment of project partners, in part because our funding limits the number of interns we can place but as the program grows we expect to move towards more proactive outreach to identify suitable projects.
 
 ### Additional Learning from UW-Madison Open Source Program Office
 
-We issue a call for proposals when we are looking for new projects and distribute it through email lists, newsletters and campus networks. Our director is also active in identifying potential projects through face-to-face conversations with researchers. 
+We issue a call for proposals when we are looking for new projects and distribute it through email lists, newsletters and campus networks. Our director is also active in identifying potential projects through face-to-face conversations with researchers.
 
 We also promote the internship program at career fairs on campus where we collect contact details from both interested students and potential project mentors.
 
 We have also begun working with project mentors to explore sub-award arrangements within research grant proposals so that intern funding can be built into grants from the outset rather than sourced separately after a grant is awarded.
-
 
 ## Known Instances
 
@@ -152,13 +151,12 @@ We have also begun working with project mentors to explore sub-award arrangement
 * [Streamlining Recruitment for Open Source Internships][.
 * [Summer Internship Program](./summer-internship-program/)
 
-
 ## Contributors & Acknowledgement
 
-* Bethany Philbrick (University of Wisconsin-Madison), https://orcid.org/0009-0000-0872-5194
-* Ciara Flanagan (CURIOSS), https://orcid.org/0009-0005-3153-7673
-* David Lippert (George Washington University), https://orcid.org/0009-0003-6444-9595
-* Jeffrey Young (Georgia Institute of Technology), https://orcid.org/0000-0001-9841-405
-* Will Gearty (Syracuse University), https://orcid.org/0000-0003-0076-3262
+* Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
+* Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
+* David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
+* Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
+* Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
 
 **A note on AI use:**  In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
