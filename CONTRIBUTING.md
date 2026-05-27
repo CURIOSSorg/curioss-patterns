@@ -5,8 +5,8 @@ Thanks for wanting to contribute! Open a PR or an issue for anything.
 ## When contributing
 
 When you contribute to a pattern, add yourself as an author so you get credit
-on the website (and get your own author page listing every pattern you've
-worked on).
+on the website and on the [Authors page](authors/index.md), which lists every
+contributor alongside the patterns they've worked on.
 
 There are two short steps:
 

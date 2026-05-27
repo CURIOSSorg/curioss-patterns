@@ -3,11 +3,11 @@
 Reads ``authors.yml`` (slug -> {name, orcid, affiliation}) and per-pattern
 ``authors:`` frontmatter (list of slugs), then:
 
-* Generates one page per author at ``authors/<slug>.md``.
-* Generates an index page at ``authors/index.md``.
+* Generates a single ``authors/index.md`` page with a roster table and one
+  anchored section per author listing the patterns they've contributed to.
 * Rewrites the ``## Contributors & Acknowledgement`` section in each pattern,
-  replacing the legacy bullet list with links to the per-author pages while
-  preserving any prose that follows the list.
+  replacing the legacy bullet list with links to anchors on the authors page
+  while preserving any prose that follows the list.
 """
 
 from __future__ import annotations
@@ -81,44 +81,45 @@ def _pattern_title(file: File) -> str:
     return Path(file.src_path).stem.replace("-", " ").title()
 
 
-def _render_author_page(slug: str, record: dict, patterns: list[tuple[str, str]]) -> str:
-    name = record.get("name", slug)
-    affiliation = record.get("affiliation")
-    orcid = record.get("orcid")
+def _render_authors_index(
+    authors_map: dict, by_author: dict[str, list[tuple[str, str]]]
+) -> str:
+    sorted_authors = sorted(
+        authors_map.items(), key=lambda kv: kv[1].get("name", kv[0]).lower()
+    )
 
-    lines = [f"# {name}", ""]
-    if affiliation:
-        lines += [f"**Affiliation:** {affiliation}", ""]
-    if orcid:
-        lines += [f"**ORCID:** [{orcid}](https://orcid.org/{orcid})", ""]
-
-    lines += ["## Patterns", ""]
-    if patterns:
-        for src_path, title in sorted(patterns, key=lambda p: p[1].lower()):
-            lines.append(f"- [{title}](../{src_path})")
-    else:
-        lines.append("_No patterns yet._")
-    lines.append("")
-    return "\n".join(lines)
-
-
-def _render_authors_index(authors_map: dict) -> str:
     lines = [
         "# Authors",
         "",
         "Everyone who has contributed to a CURIOSS pattern. "
-        "Click a name to see their patterns.",
+        "Click a name to jump to their entry below.",
         "",
+        "| Author | Affiliation | ORCID |",
+        "| --- | --- | --- |",
     ]
-    for slug, record in sorted(
-        authors_map.items(), key=lambda kv: kv[1].get("name", kv[0]).lower()
-    ):
+    for slug, record in sorted_authors:
+        name = record.get("name", slug)
+        aff = record.get("affiliation") or ""
+        orcid = record.get("orcid")
+        orcid_cell = f"[{orcid}](https://orcid.org/{orcid})" if orcid else ""
+        lines.append(f"| [{name}](#{slug}) | {aff} | {orcid_cell} |")
+
+    for slug, record in sorted_authors:
         name = record.get("name", slug)
         aff = record.get("affiliation")
-        line = f"- [{name}]({slug}.md)"
+        orcid = record.get("orcid")
+        lines += ["", f"## {name} {{ #{slug} }}", ""]
         if aff:
-            line += f" — {aff}"
-        lines.append(line)
+            lines += [f"**Affiliation:** {aff}", ""]
+        if orcid:
+            lines += [f"**ORCID:** [{orcid}](https://orcid.org/{orcid})", ""]
+        lines += ["**Patterns:**", ""]
+        patterns = by_author.get(slug, [])
+        if patterns:
+            for src_path, title in sorted(patterns, key=lambda p: p[1].lower()):
+                lines.append(f"- [{title}](../{src_path})")
+        else:
+            lines.append("_No patterns yet._")
     lines.append("")
     return "\n".join(lines)
 
@@ -130,7 +131,7 @@ def _render_pattern_bullets(slugs: list[str], authors_map: dict) -> str:
         name = record.get("name", slug)
         aff = record.get("affiliation")
         orcid = record.get("orcid")
-        line = f"- [{name}](authors/{slug}.md)"
+        line = f"- [{name}](authors/index.md#{slug})"
         extras = []
         if aff:
             extras.append(aff)
@@ -165,13 +166,11 @@ def on_files(files, config):
                 )
             by_author[slug].append((f.src_path, title))
 
-    for slug, record in authors_map.items():
-        content = _render_author_page(slug, record, by_author.get(slug, []))
-        files.append(File.generated(config, f"authors/{slug}.md", content=content))
-
     files.append(
         File.generated(
-            config, "authors/index.md", content=_render_authors_index(authors_map)
+            config,
+            "authors/index.md",
+            content=_render_authors_index(authors_map, by_author),
         )
     )
 
