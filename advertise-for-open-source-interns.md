@@ -131,14 +131,14 @@ Project mentors and Data Science Institute staff are also asked to share opportu
 
 ## Related Patterns
 
-* [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs/)
-* [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs/)
-* [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs/)
-* [Open Research Community Accelerator](./open-research-community-accelerator/)
-* [Open Source Capstone Course](./open-source-capstone-course/)
+* [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
+* [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
+* [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
+* [Open Research Community Accelerator](./open-research-community-accelerator.md)
+* [Open Source Capstone Course](./open-source-capstone-course.md)
 * [Sourcing Projects for Open Source Internships]
 * [Streamlining Recruitment for Open Source Internships]
-* [Summer Internship Program](./summer-internship-program/)
+* [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
 
