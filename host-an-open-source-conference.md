@@ -160,7 +160,7 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 
 - [GW OSCON](https://ospo.gwu.edu/oscon-2025)
 - [How Open Source is Fostering Innovation in AI event](https://ospo.wisc.edu/blog/2024/10/recording-available-of-ospo-innovate-week-event-how-open-source-is-fostering-innovation-in-ai/)
-- [Libre Office Conference 2024](https://conference.libreoffice.org/2024/)
+- [Libre Office Conferences](https://conference.libreoffice.org/)
 - [Open Source and Scientific Software Workshop](https://ospo.cc.gatech.edu/ospo-sse-workshop-2025/)
 - [Sustainable Software in Academia 2024](https://ssecenter.cc.gatech.edu/georgia-tech-scientific-software-2024-workshop/)
 - [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/)
