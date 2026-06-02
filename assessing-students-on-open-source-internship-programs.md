@@ -155,6 +155,7 @@ This multi-source approach ensures that the full range of student contributions,
 - [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
 - [Open Source Capstone Course](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
 - [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/summer-internship-program.md)
+- [Advertise for Open Source Interns](https://curioss.org/patterns/advertise-for-open-source-interns/)
 
 ## Contributors & Acknowledgement
 
@@ -166,4 +167,4 @@ This multi-source approach ensures that the full range of student contributions,
 - Sayeed Choudhury (Carnegie Mellon University)
 - Tom Hughes (Carnegie Mellon University), <https://orcid.org/0009-0008-7516-3687>
 
-A note on AI use: In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
+**A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
