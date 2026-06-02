@@ -142,14 +142,14 @@ We have also begun working with project mentors to explore sub-award arrangement
 
 ## Related Patterns
 
-* [Advertise for Open Source Interns]
-* [Assessing Students on Open Source Internship Programs](./patterns/assessing-students-on-open-source-internship-programs/)
-* [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs/)
-* [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs/)
-* [Open Research Community Accelerator](./open-research-community-accelerator/)
-* [Open Source Capstone Course](./open-source-capstone-course/)
-* [Streamlining Recruitment for Open Source Internships][.
-* [Summer Internship Program](./summer-internship-program/)
+* [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
+* [Assessing Students on Open Source Internship Programs](./patterns/assessing-students-on-open-source-internship-programs.md)
+* [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
+* [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
+* [Open Research Community Accelerator](./open-research-community-accelerator.md)
+* [Open Source Capstone Course](./open-source-capstone-course.md)
+* [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
+* [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
 
