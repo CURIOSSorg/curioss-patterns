@@ -162,8 +162,7 @@ We are working with [WISCURDS (Wisconsin Undergraduate Research in Data Science)
 * [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
 * [Open Research Community Accelerator](./open-research-community-accelerator.md)
 * [Open Source Capstone Course](./open-source-capstone-course.md)
-* [Sourcing Projects for Open Source Internships](
-* [Streamlining Recruitment for Open Source Internships](
+* [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
 * [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
