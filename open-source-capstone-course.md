@@ -144,8 +144,8 @@ Open Source with SLU, Saint Louis University
 
 ### Related Patterns
 
-- [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
-- [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/summer-internship-program.md)
+- [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
+- [Summer Internship Program](./summer-internship-program.md)
 - [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
 - [Summer Internship Program](./summer-internship-program.md)
 
