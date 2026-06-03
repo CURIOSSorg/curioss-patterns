@@ -1,6 +1,12 @@
 ---
 tags:
- - Education & Skills
+  - Education & Skills
+authors:
+  - bethany-philbrick
+  - ciara-flanagan
+  - david-lippert
+  - jeffrey-young
+  - will-gearty
 ---
 # Advertise for Open Source Interns
 
@@ -141,10 +147,4 @@ Project mentors and Data Science Institute staff are also asked to share opportu
 
 ## Contributors & Acknowledgement
 
-- Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
-- Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
-- David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
-- Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
-- Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
-
-**A note on AI use:**  In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
+**A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
