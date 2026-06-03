@@ -5,6 +5,7 @@ nav:
   # This adds a link in the navigation bar on the left
   - Home: README.md
   - Template: PATTERN-TEMPLATE.md
+  - Authors: authors/index.md
 
 # Associated Git Repo Config
 repo_url: https://github.com/CURIOSSorg/curioss-patterns
@@ -18,6 +19,7 @@ docs_dir: "../"
 exclude_docs: |
   /node_modules/
   /site/
+  /authors.yml
 
 # Theme Configuration
 # Colour options: red, pink, purple, deep purple, indigo, blue, light blue,
@@ -70,9 +72,12 @@ markdown_extensions:
       permalink: ' §'
   - footnotes
   - sane_lists
+  - attr_list
 plugins:
   - search
   - tags
+hooks:
+  - hooks/authors.py
 extra:
   tags:
     # Set a tag with a identifier so then an icon can be set on the theme.

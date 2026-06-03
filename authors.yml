@@ -1,0 +1,53 @@
+# Authors of CURIOSS patterns.
+#
+# Each entry is keyed by a short slug (kebab-case, usually firstname-lastname).
+# When you contribute to a pattern, add yourself here (if you're not listed yet),
+# then put your slug in that pattern's `authors:` frontmatter list.
+#
+# Fields:
+#   name        (required) Your full name as you'd like it shown.
+#   orcid       (optional) Your ORCID iD, just the digits like 0000-0001-2345-6789.
+#   affiliation (optional) Your institution or organisation.
+
+angela-newell:
+  name: Angela Newell
+  affiliation: University of Texas at Austin
+
+ciara-flanagan:
+  name: Ciara Flanagan
+  orcid: 0009-0005-3153-7673
+  affiliation: CURIOSS
+
+daniel-shown:
+  name: Daniel Shown
+  orcid: 0009-0002-5716-8835
+  affiliation: Saint Louis University
+
+david-lippert:
+  name: David Lippert
+  orcid: 0009-0003-6444-9595
+  affiliation: George Washington University
+
+emily-lovell:
+  name: Emily Lovell
+  orcid: 0000-0001-5531-5956
+  affiliation: University of California Santa Cruz
+
+jeffrey-young:
+  name: Jeffrey Young
+  orcid: 0000-0001-9841-4057
+  affiliation: OSPO@GT
+
+kendall-fortney:
+  name: Kendall Fortney
+  orcid: 0009-0006-3898-0771
+  affiliation: University of Vermont
+
+laura-langdon:
+  name: Laura Langdon
+  affiliation: University of California, Davis
+
+tom-hughes:
+  name: Tom Hughes
+  orcid: 0009-0008-7516-3687
+  affiliation: Carnegie Mellon University

@@ -2,12 +2,17 @@
 tags:
   - Education & Skills
   - Promoting Best Practices
+authors:
+  - ciara-flanagan
+  - daniel-shown
+  - kendall-fortney
+  - jeffrey-young
 ---
 # Onboarding Graduate Leads for Open Source Internship Programs
 
 ## Pattern Summary
 
-Establish a structured onboarding process for graduate students taking on team lead roles in open source internship programs.
+Establish a structured onboarding process for gradluate students taking on team lead roles in open source internship programs.
 
 ## Problem / Challenge
 
@@ -132,10 +137,5 @@ A key insight from our experience is the importance of creating spaces where lea
 - [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/372feb89e8656f3cee0da054e9ee66e08ddab9e7/summer-internship-program.md)
 
 ## Contributors & Acknowledgement
-
-- Ciara Flanagan (CURIOSS),(<https://orcid.org/0009-0005-3153-7673>)
-- Daniel Shown (Saint Louis University), <https://orcid.org/0009-0002-5716-8835>
-- Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>
-- Jeffrey Young (OSPO@GT), <https://orcid.org/0000-0001-9841-4057>
 
 A note on AI use: In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
