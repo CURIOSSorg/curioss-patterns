@@ -76,6 +76,34 @@ markdown_extensions:
 plugins:
   - search
   - tags
+  - rss:
+      enabled: true
+      # match_path picks which pages become feed items. We include every
+      # top-level .md EXCEPT the four meta/generated paths below:
+      #   - authors/        (generated author pages, not patterns)
+      #   - README.md       (the home page itself)
+      #   - PATTERN-TEMPLATE.md / CONTRIBUTING.md  (docs about patterns, not patterns)
+      # If you add another top-level non-pattern document later
+      # (e.g. CODE-OF-CONDUCT.md), append it here or it will show up
+      # in the feed as if it were a new pattern.
+      match_path: '(?!authors/|README\.md$|PATTERN-TEMPLATE\.md$|CONTRIBUTING\.md$).*\.md'
+      length: 50
+      abstract_chars_count: 280
+      date_from_meta:
+        as_creation: git
+        as_update: git
+      categories:
+        - tags
+      # Filenames are LEFT AT THE PLUGIN DEFAULTS because Material for
+      # MkDocs hardcodes the autodiscovery <link rel="alternate"> in its
+      # base.html to feed_rss_created.xml / feed_rss_updated.xml. Renaming
+      # the files here would silently break browser/reader autodiscovery.
+      pretty_print: true
+      json_feed_enabled: false
+      feed_title: "CURIOSS Patterns — new patterns"
+      feed_description: "New patterns published in the CURIOSS Patterns catalogue."
+      image: "https://curioss.org/patterns/assets/curioss_logo_white.svg"
+      use_git: true
 hooks:
   - hooks/authors.py
 extra:
