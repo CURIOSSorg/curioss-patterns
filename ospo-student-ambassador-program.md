@@ -3,8 +3,11 @@ tags:
   - Awareness
   - Community Building
   - Education & Skills
+authors:
+  - mia-diewald
+  - rosemary-pauley
+  - ciara-flanagan
 ---
-
 # OSPO Student Ambassador Program
 
 ## Pattern Summary
@@ -27,10 +30,10 @@ The academic OSPO may lack full-time staff dedicated to outreach.
 
 ## Forces
 
-* OSPO staff are time-poor and lack the capacity to maintain regular contact with students.
-* There is administrative support for paid student positions.
-* Prospective Student Ambassadors will have technical expertise and social engagement skills.
-* Student involvement must be balanced with academic workloads and turnover.
+- OSPO staff are time-poor and lack the capacity to maintain regular contact with students.
+- There is administrative support for paid student positions.
+- Prospective Student Ambassadors will have technical expertise and social engagement skills.
+- Student involvement must be balanced with academic workloads and turnover.
 
 ## Solution
 
@@ -40,11 +43,11 @@ The ambassadors serve as liaisons between the OSPO and the student body through 
 
 Activities to consider may include:
 
-* Creating and managing OSPO social media accounts to share updates and opportunities.
-* Hosting and [tabling at campus events](./event-tabling.md) to promote the OSPO and open source awareness.
-* Organizing community-building activities such as movie nights or coding sessions.
-* Leading or contributing to open source technical projects that advance university OSPO goals.
-* Gathering student feedback and communicating emerging needs to OSPO leadership.
+- Creating and managing OSPO social media accounts to share updates and opportunities.
+- Hosting and [tabling at campus events](./event-tabling.md) to promote the OSPO and open source awareness.
+- Organizing community-building activities such as movie nights or coding sessions.
+- Leading or contributing to open source technical projects that advance university OSPO goals.
+- Gathering student feedback and communicating emerging needs to OSPO leadership.
 
 ## Resulting Context
 
@@ -74,25 +77,19 @@ After hiring is complete, OSPOs must consider onboarding for their ambassadors. 
 
 ## Known Instances
 
-* [GW OSPO](https://ospo.gwu.edu/), George Washington University
+- [GW OSPO](https://ospo.gwu.edu/), George Washington University
 
 ## References
 
-* [GeorgeHacks Makerspace 2025](https://ospo.gwu.edu/georgehacks-makerspace-2025) article on the GW OSPO Student Ambassadors' table at a Makerspace event.
-* [Graduate Technical Projects Student OSPO Ambassador job description](Grad%20tech%20position.pdf)
-* [Graduate Communications and Marketing Student OSPO Ambassador job description](Grad%20Comms%20position.pdf)
-* [Undergraduate Student OSPO Ambassador job description](Undergrad%20Ambassador%20position.pdf)
+- [GeorgeHacks Makerspace 2025](https://ospo.gwu.edu/georgehacks-makerspace-2025) article on the GW OSPO Student Ambassadors' table at a Makerspace event.
+- [Graduate Technical Projects Student OSPO Ambassador job description](Grad%20tech%20position.pdf)
+- [Graduate Communications and Marketing Student OSPO Ambassador job description](Grad%20Comms%20position.pdf)
+- [Undergraduate Student OSPO Ambassador job description](Undergrad%20Ambassador%20position.pdf)
 
 ### Related Patterns
 
-* [Event Tabling](./event-tabling.md)
-* [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
-* [Student Outreach Strategy](./student-outreach-strategy.md)
+- [Event Tabling](./event-tabling.md)
+- [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
+- [Student Outreach Strategy](./student-outreach-strategy.md)
 
 ## Contributors & Acknowledgements
-
-Mia Diewald, George Washington University, <https://orcid.org/0009-0005-8123-1832>
-
-Rosemary Pauley, George Washington University, <https://orcid.org/0009-0008-9354-4301>
-
-Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

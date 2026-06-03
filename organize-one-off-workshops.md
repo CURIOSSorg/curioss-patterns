@@ -2,6 +2,11 @@
 tags:
   - Education & Skills
   - Promoting Best Practices
+authors:
+  - angela-newell
+  - alex-marden
+  - david-lippert
+  - ciara-flanagan
 ---
 # Organize one-off workshops
 
@@ -43,28 +48,28 @@ Develop and deliver one-off workshops that address very specific knowledge gaps 
 
 A training needs assessment can be carried out in a number of ways:
 
-* Individual consultations with students, researchers and faculty.
-* A survey on training and/or open source needs.
-* Consultation with the OSPO’s advisory committee/user group.
+- Individual consultations with students, researchers and faculty.
+- A survey on training and/or open source needs.
+- Consultation with the OSPO’s advisory committee/user group.
 
 ### Planning
 
 Planning should take the following into account:
 
-* The cohort that will be targeted.
-* Learning goals.
-* What can realistically be covered in the selected timeframe (e.g. one hour, morning or afternoon workshop).
-* The most appropriate format e.g. virtual or in-person.
-* How best to promote the workshop.
+- The cohort that will be targeted.
+- Learning goals.
+- What can realistically be covered in the selected timeframe (e.g. one hour, morning or afternoon workshop).
+- The most appropriate format e.g. virtual or in-person.
+- How best to promote the workshop.
 
 ### Promotion of workshops
 
 Training workshops can be promoted via the following channels:
 
-* The OSPO website and social channels.
-* The OSPO mailing list.
-* Through key partners’ channels (e.g. the Office of Research, the Office of Computer Science, the Library).
-* Through student groups and students’ informal networks.
+- The OSPO website and social channels.
+- The OSPO mailing list.
+- Through key partners’ channels (e.g. the Office of Research, the Office of Computer Science, the Library).
+- Through student groups and students’ informal networks.
 
 ### Workshop delivery
 
@@ -100,21 +105,16 @@ Another successful workshop was held at the George Hacks Innovation Hackathon.  
 
 ## Known Instances
 
-* The [University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
-* [ETH Transfer](https://ethz.ch/en/industry/transfer.html), ETH Zürich
-* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-* [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+- The [University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+- [ETH Transfer](https://ethz.ch/en/industry/transfer.html), ETH Zürich
+- [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+- [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
+- [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 ## References
 
-* [UT-OSPO’s User Group survey](https://docs.google.com/forms/d/e/1FAIpQLSej6LA9b3LcNdzekzWXWVsJIfngudodliGZm2NDA2pgFdgCjQ/viewform)
-* Details of UT-OSPO’s [past workshops and training events](https://opensource.utexas.edu/past-events)
-* [Open Source Survey](./open-source-survey.md) - Pattern from University of Wisconsin-Madison OSPO and others
+- [UT-OSPO’s User Group survey](https://docs.google.com/forms/d/e/1FAIpQLSej6LA9b3LcNdzekzWXWVsJIfngudodliGZm2NDA2pgFdgCjQ/viewform)
+- Details of UT-OSPO’s [past workshops and training events](https://opensource.utexas.edu/past-events)
+- [Open Source Survey](./open-source-survey.md) - Pattern from University of Wisconsin-Madison OSPO and others
 
 ## Contributors & Acknowledgement
-
-* Dr. Angela Newell (University of Texas at Austin)
-* Dr. Alex Marden (University of Texas at Austin)
-* David Lippert (The George Washington University), <https://orcid.org/0009-0003-6444-9595>
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

@@ -3,6 +3,10 @@ tags:
   - Community Building
   - Promoting Best Practices
   - Tools & Infrastructure
+authors:
+  - jood-alfadhel
+  - david-lippert
+  - sunil-shah
 ---
 # Open Project Managment Using Github Projects
 
@@ -20,26 +24,26 @@ This pattern applies to university-based OSPOs that use GitHub as a primary coll
 
 ## Forces
 
-+ **Transparency vs. sensitivity:** OSPOs aim to work openly, but some tasks involve sensitive information that cannot be fully public.
-+ **Learning curve:** GitHub Projects requires contributors to learn a new tool, which can be challenging in academic OSPOs where students and short-term contributors rotate frequently.
-+ **Timely updates:** Project boards are only useful if issues are consistently updated, which can be difficult to maintain.
-+ **Tracking sub-issues:** Many OSPO tasks involve subtasks, which can be difficult to represent clearly without added structure.
-+ **Tool integration gaps:** Limited integration with tools like Slack, Gmail, or Logseq can cause work to be discussed or tracked outside GitHub, reducing visibility.
+- **Transparency vs. sensitivity:** OSPOs aim to work openly, but some tasks involve sensitive information that cannot be fully public.
+- **Learning curve:** GitHub Projects requires contributors to learn a new tool, which can be challenging in academic OSPOs where students and short-term contributors rotate frequently.
+- **Timely updates:** Project boards are only useful if issues are consistently updated, which can be difficult to maintain.
+- **Tracking sub-issues:** Many OSPO tasks involve subtasks, which can be difficult to represent clearly without added structure.
+- **Tool integration gaps:** Limited integration with tools like Slack, Gmail, or Logseq can cause work to be discussed or tracked outside GitHub, reducing visibility.
 
 ## Solution
 
 Adopt GitHub Projects as the OSPO’s centralized, shared workflow system and integrate it into all active projects and repositories. Use it as the default place to plan, track, and discuss OSPO work.
 
-+ **Centralized and transparent tracking:**
+- **Centralized and transparent tracking:**
 Use an organization-level project board to make all OSPO work visible, allowing team members to see, comment on, and follow progress without requiring work to be “perfect” or closed immediately.
 
-+ **Consistent team usage:**
+- **Consistent team usage:**
 Program coordinators and technical team members use the project regularly to plan, update, and coordinate work, establishing shared habits and accountability.
 
-+ **Onboarding and collaboration:**
+- **Onboarding and collaboration:**
 Label “good first issues” to support student onboarding and task tracking, as well as enable external collaborators to participate in discussions.
 
-+ **Simplified planning and reporting:**
+- **Simplified planning and reporting:**
 Project views, milestones, and iterations provide a straightforward way to track progress over time and generate reports without additional tools.
 
 ### Key steps include
@@ -56,10 +60,10 @@ Project views, milestones, and iterations provide a straightforward way to track
 
 ## Resulting Context
 
-+ The OSPO gains a clear and collaborative picture of ongoing work across all teams and repositories. Staff can easily report progress and plan across projects.
-+ Work is publicly visible, enabling simplified reporting not only for the OSPO but also for funders and PIs. Ongoing tasks can be aligned with grant requirements and grant work plans.
-+ Everyone on the team can see and comment on each other’s issues. This creates a sense of accountability and positive peer pressure, and it is extremely satisfying to complete each issue.
-+ Keeping work open makes it possible for those external to the OSPO to follow along and contribute.
+- The OSPO gains a clear and collaborative picture of ongoing work across all teams and repositories. Staff can easily report progress and plan across projects.
+- Work is publicly visible, enabling simplified reporting not only for the OSPO but also for funders and PIs. Ongoing tasks can be aligned with grant requirements and grant work plans.
+- Everyone on the team can see and comment on each other’s issues. This creates a sense of accountability and positive peer pressure, and it is extremely satisfying to complete each issue.
+- Keeping work open makes it possible for those external to the OSPO to follow along and contribute.
 
 **Potential Trade-offs:** Contributors unfamiliar with GitHub Projects may require additional training at the start.
 
@@ -76,7 +80,3 @@ We've already been contacted by someone (in another country) who is external to 
 [GW OSPO Github Project Board](https://github.com/orgs/gw-ospo/projects/)
 
 ## Contributors & Acknowledgement
-
-+ Jood Alfadhel, George Washington University, <https://orcid.org/0009-0000-2827-4036>
-+ David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-+ Sunil Shah, George Washington University, <https://orcid.org/0009-0009-4567-8679>

@@ -7,16 +7,16 @@ tags:
 
 ## Pattern Theme / Category
 
-* Community Building
-* OSS Discovery
+- Community Building
+- OSS Discovery
 
 ## OSPO Problem / Challenge
 
-* A lack of up to date information on how much open source software is being produced in a university.  
+- A lack of up to date information on how much open source software is being produced in a university.  
 
-* There is no effective mechanism to identify or to share information about open source creators, users, or projects within a university.  
+- There is no effective mechanism to identify or to share information about open source creators, users, or projects within a university.  
 
-* The lack of visibility makes it difficult to build community, foster collaboration, and contribute to the overall sustainability of open source efforts on campus.
+- The lack of visibility makes it difficult to build community, foster collaboration, and contribute to the overall sustainability of open source efforts on campus.
 
 ## Context
 
@@ -40,13 +40,13 @@ There is limited time and personnel to identify, track, and catalog OS projects
 
 Create a tool to collect and promote university OSS projects. The tool provides a public, centralized resource for creating awareness of university OSS projects.
 
-* As an initial step, create a draft catalog. Some useful tools for experimenting are [WordPress plugins](https://wordpress.org/plugins/), embedding XLS sheets, creating tables, etc.
+- As an initial step, create a draft catalog. Some useful tools for experimenting are [WordPress plugins](https://wordpress.org/plugins/), embedding XLS sheets, creating tables, etc.
 
-* Consideration should be given to data fields, free text for submission and control vocabularies for sorting and filtering. ([Microsoft Lists](https://www.microsoft.com/en-ie/microsoft-365/microsoft-lists) is helpful for establishing a set of entries.)  
+- Consideration should be given to data fields, free text for submission and control vocabularies for sorting and filtering. ([Microsoft Lists](https://www.microsoft.com/en-ie/microsoft-365/microsoft-lists) is helpful for establishing a set of entries.)  
 
-* Holding informal consultations with colleagues for feedback on accessibility, style and structure can be very useful.
+- Holding informal consultations with colleagues for feedback on accessibility, style and structure can be very useful.
 
-* Publish the catalog on the institution’s OSPO website or on another relevant site.
+- Publish the catalog on the institution’s OSPO website or on another relevant site.
 
 ## Resulting Context
 
@@ -66,30 +66,30 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 
 ## Known Instances
 
-* [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
-* [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology  
-* [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
-* [GW OSPO Project Registry](https://ospo.gwu.edu/project-registry), George Washington University
+- [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
+- [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology  
+- [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
+- [GW OSPO Project Registry](https://ospo.gwu.edu/project-registry), George Washington University
 
 ## References
 
-* [Georgia Tech OSPO OSS Project Explorer](https://gt-ospo.github.io/oss-project-explorer/) \- See submission form at bottom of page.  
-* [JHU Open Source Project Catalog](https://ospo.library.jhu.edu/services/open-source-project-catalog/)  
-* [JHU Open Source Project Catalog Submission Form](https://ospo.library.jhu.edu/services/open-source-project-catalog/oss-catalog-submission-form/)  
-* [OpenSource@Stanford Project Registry](https://opensource.stanford.edu/projects-registry)  
-* [Pattern: Open Source Software Prize](https://docs.google.com/document/d/1b5Bwuj8ZKbGSchBkpDgyK_3e1MAklxK7rYQ9Fdl-nfE/edit?usp=sharing)
+- [Georgia Tech OSPO OSS Project Explorer](https://gt-ospo.github.io/oss-project-explorer/) \- See submission form at bottom of page.  
+- [JHU Open Source Project Catalog](https://ospo.library.jhu.edu/services/open-source-project-catalog/)  
+- [JHU Open Source Project Catalog Submission Form](https://ospo.library.jhu.edu/services/open-source-project-catalog/oss-catalog-submission-form/)  
+- [OpenSource@Stanford Project Registry](https://opensource.stanford.edu/projects-registry)  
+- [Pattern: Open Source Software Prize](https://docs.google.com/document/d/1b5Bwuj8ZKbGSchBkpDgyK_3e1MAklxK7rYQ9Fdl-nfE/edit?usp=sharing)
 
 ### Related Patterns
 
-* [Maintainers & Contributors Roundtable](./maintainers-and-contributors-roundtable.md)
-* [OSPO Website](./ospo-website.md)
+- [Maintainers & Contributors Roundtable](./maintainers-and-contributors-roundtable.md)
+- [OSPO Website](./ospo-website.md)
 
 ## Author(s) & Acknowledgement
 
-* Bill Branan [https://orcid.org/0000-0002-4735-6624](https://orcid.org/0000-0002-4735-6624)  
-* Zach Chandler [https://orcid.org/0000-0003-2402-9839](https://orcid.org/0000-0003-2402-9839)
-* Clare Dillon (CURIOSS) [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
-* Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)
-* Megan Forbes [https://orcid.org/0000-0002-2611-1441](https://orcid.org/0000-0002-2611-1441)  
-* Fang Liu [https://orcid.org/0000-0002-3383-2191](https://orcid.org/0000-0002-3383-2191)  
-* Jeffrey Young [https://orcid.org/0000-0001-9841-4057](https://orcid.org/0000-0001-9841-4057)
+- Bill Branan [https://orcid.org/0000-0002-4735-6624](https://orcid.org/0000-0002-4735-6624)  
+- Zach Chandler [https://orcid.org/0000-0003-2402-9839](https://orcid.org/0000-0003-2402-9839)
+- Clare Dillon (CURIOSS) [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
+- Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)
+- Megan Forbes [https://orcid.org/0000-0002-2611-1441](https://orcid.org/0000-0002-2611-1441)  
+- Fang Liu [https://orcid.org/0000-0002-3383-2191](https://orcid.org/0000-0002-3383-2191)  
+- Jeffrey Young [https://orcid.org/0000-0001-9841-4057](https://orcid.org/0000-0001-9841-4057)

@@ -4,6 +4,13 @@ tags:
   - Education & Skills
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - angela-newell
+  - ciara-flanagan
+  - david-lippert
+  - emily-lovell
+  - laura-langdon
+  - tom-hughes
 ---
 # Engage a Hackathon Facilitator
 
@@ -39,36 +46,36 @@ Universities can source and work with facilitators through industry partnerships
 
 Industry partners (e.g. technology companies, biomedical firms or sector-specific organisations) often offer:
 
-* A defined problem set for participants to work on.
-* A pre-planned structure covering day-by-day agendas.
-* Their own team leads and mentors to guide student teams.
-* A checklist of what they need from the university (venue, food, diversity considerations, etc.).
+- A defined problem set for participants to work on.
+- A pre-planned structure covering day-by-day agendas.
+- Their own team leads and mentors to guide student teams.
+- A checklist of what they need from the university (venue, food, diversity considerations, etc.).
 
 ### Allocate a dedicated budget for professional facilitation
 
 Universities may also use a portion of their hackathon budget to hire a professional facilitator. Any budget or terms of agreement should consider the following:
 
-* **The scale and duration of the hackathon:** A multi-day event will require more facilitation resources than a one-day sprint.
-* **The facilitator’s role** in designing challenges and/or delivering on a predetermined agenda.
+- **The scale and duration of the hackathon:** A multi-day event will require more facilitation resources than a one-day sprint.
+- **The facilitator’s role** in designing challenges and/or delivering on a predetermined agenda.
   
 #### Source Facilitators
 
 Universities can identify hackathon facilitators through a range of channels:
 
-* **Academic innovation and entrepreneurship networks:** Technology transfer offices, incubators, and entrepreneurship programmes often have connections to experienced hackathon facilitators.
-* **Industry associations** Sector bodies in areas such as life sciences, sustainability, fintech or engineering frequently run or support hackathons and may be able to recommend facilitators.
-* **Peer institution referrals:** Universities that have run successful hackathons can share recommendations through peer consortia or sector networks.
-* **Alumni networks:** Former students who have moved into innovation, product, or startup roles may be well-placed to facilitate events or refer facilitators.
+- **Academic innovation and entrepreneurship networks:** Technology transfer offices, incubators, and entrepreneurship programmes often have connections to experienced hackathon facilitators.
+- **Industry associations** Sector bodies in areas such as life sciences, sustainability, fintech or engineering frequently run or support hackathons and may be able to recommend facilitators.
+- **Peer institution referrals:** Universities that have run successful hackathons can share recommendations through peer consortia or sector networks.
+- **Alumni networks:** Former students who have moved into innovation, product, or startup roles may be well-placed to facilitate events or refer facilitators.
 
 ### Role expectations and Deliverables
 
 Whether working with an industry partner or a hired facilitator, universities should agree upfront on:
 
-* The number and nature of the hackathon challenges.
-* The event structure, including a day-by-day or session-by-session agenda.
-* How student teams will be formed or selected.
-* The facilitator's role during the event (active facilitation, mentoring, judging or a combination).
-* Infrastructure responsibilities — what the university provides versus what the facilitator manages.
+- The number and nature of the hackathon challenges.
+- The event structure, including a day-by-day or session-by-session agenda.
+- How student teams will be formed or selected.
+- The facilitator's role during the event (active facilitation, mentoring, judging or a combination).
+- Infrastructure responsibilities — what the university provides versus what the facilitator manages.
   
 A written agreement or detailed briefing document protects both parties and reduces the risk of misaligned expectations on the day.
 
@@ -102,25 +109,18 @@ Now, we’ve run enough hackathons that we could probably facilitate ourselves.
 
 ## Known Instances
 
-* [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
-* [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
+- [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
+- [The University of Texas OSPO (UT-OSPO)](https://opensource.utexas.edu/), University of Texas at Austin
 
 ## References
 
 ### Related Patterns
 
-* [Organize an Open Source Hackathon](organize-an-open-source-hackathon.md)
-* [Design a Collaborative Open Source Hackathon](design-a-collaborative-open-source-hackathon.md)
-* [Enable Student-led Hackathons](enable-student-led-hackathons.md)
-* [Embed wellbeing into Student Hackathons](embed-wellbeing-into-student-hackathons.md)
-* [Collaborate with External Partners on Open Source Hackathons](collaborate-with-external-partners-on-open-source-hackathons.md)
-* [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
+- [Organize an Open Source Hackathon](organize-an-open-source-hackathon.md)
+- [Design a Collaborative Open Source Hackathon](design-a-collaborative-open-source-hackathon.md)
+- [Enable Student-led Hackathons](enable-student-led-hackathons.md)
+- [Embed wellbeing into Student Hackathons](embed-wellbeing-into-student-hackathons.md)
+- [Collaborate with External Partners on Open Source Hackathons](collaborate-with-external-partners-on-open-source-hackathons.md)
+- [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
 
 ## Contributors & Acknowledgement
-
-* Angela Newell, University of Texas at Austin
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-* David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-* Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-* Laura Langdon, University of California, Davis
-* Tom Hughes, Carnegie Mellon University, <https://orcid.org/0009-0008-7516-3687>

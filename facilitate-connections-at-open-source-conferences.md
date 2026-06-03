@@ -1,6 +1,13 @@
 ---
 tags:
   - Community Building
+authors:
+  - ciara-flanagan
+  - david-lippert
+  - emily-lovell
+  - laura-langdon
+  - sayeed-choudhury
+  - stephanie-lieggi
 ---
 # Facilitate connections at Open Source Conferences
 
@@ -14,11 +21,11 @@ These low barrier prompts support attendees to overcome social hesitation and in
 
 A core objective of an academic OSPO conference is to share learning and foster collaborative relationships that will ultimately promote the advancement of open source. However, there are a number of logistic challenges:
 
-* Conference agendas are often dense with presentations and workshops, leaving little unstructured time for networking. Without intentional design, opportunities to connect may be missed.
-* Not all participants are equally comfortable with networking. Students, junior researchers, introverted people or newcomers to open source may feel intimidated about approaching others.
-* Some connection formats may inadvertently exclude people (e.g., loud receptions for those with sensory sensitivities or informal meetups that aren’t accessible).
-* Attendees often come from different disciplines, institutions, or technical skill levels. Without a shared context or vocabulary, spontaneous conversations may stall or never start.
-* Attendees tend to stay with existing contacts and familiar faces. The ‘social clustering’ effect inhibits the cross-pollination of ideas and the relationships that OSPOs aim to foster.
+- Conference agendas are often dense with presentations and workshops, leaving little unstructured time for networking. Without intentional design, opportunities to connect may be missed.
+- Not all participants are equally comfortable with networking. Students, junior researchers, introverted people or newcomers to open source may feel intimidated about approaching others.
+- Some connection formats may inadvertently exclude people (e.g., loud receptions for those with sensory sensitivities or informal meetups that aren’t accessible).
+- Attendees often come from different disciplines, institutions, or technical skill levels. Without a shared context or vocabulary, spontaneous conversations may stall or never start.
+- Attendees tend to stay with existing contacts and familiar faces. The ‘social clustering’ effect inhibits the cross-pollination of ideas and the relationships that OSPOs aim to foster.
 
 ## Context
 
@@ -40,10 +47,10 @@ Build low-pressure icebreaker activities and conversation starting tools that su
 
 Examples may include:
 
-* [Interaction badges](https://stimpunks.org/fieldguide/events/access/interaction-badges/) with prompts such as ‘Ask me about …’ or ‘Seeking partnerships in …’
-* Structured mingling activities such as speed networking where attendees rotate and have brief timed conversations with each other.
-* Roundtables that create targeted opportunities for attendees to find collaborators, mentors, or contributors who aligned with their open source or academic goals.
-* Explain the [Pac-Man Rule](https://psychsafety.com/the-pac-man-rule/) and encourage all conference participants to follow this rule during hallway conversations and networking opportunities.
+- [Interaction badges](https://stimpunks.org/fieldguide/events/access/interaction-badges/) with prompts such as ‘Ask me about …’ or ‘Seeking partnerships in …’
+- Structured mingling activities such as speed networking where attendees rotate and have brief timed conversations with each other.
+- Roundtables that create targeted opportunities for attendees to find collaborators, mentors, or contributors who aligned with their open source or academic goals.
+- Explain the [Pac-Man Rule](https://psychsafety.com/the-pac-man-rule/) and encourage all conference participants to follow this rule during hallway conversations and networking opportunities.
 
 ## Resulting Context
 
@@ -51,11 +58,11 @@ Strategic connection activities and tools minimize networking anxiety, establish
 
 They also offer strategic and cultural benefits for academic OSPOs including:
 
-* The use of intentional networking activities and tools demonstrates OSPO values such as openness, collaboration, transparency, and community stewardship.
-* Structured relationship building reinforces the OSPO brand as an essential ‘connector’ of people and projects within the open source ecosystem.
-* Academic OSPOs often convene researchers from various fields. Connection tools  allow attendees from diverse disciplines to efficiently discover mutual interests and identify common ground.
-* Icebreakers and tools democratize conversation by empowering introverts, first-time attendees, or underrepresented voices to engage. A well-designed badge or structured activity offers a non-threatening entry point to dialogue and contributes to a more welcoming and equitable environment.
-* Stronger interpersonal connections lead to more follow-up conversations, project collaborations and sustained engagement after the event - ultimately extending the conference’s impact well beyond its duration.
+- The use of intentional networking activities and tools demonstrates OSPO values such as openness, collaboration, transparency, and community stewardship.
+- Structured relationship building reinforces the OSPO brand as an essential ‘connector’ of people and projects within the open source ecosystem.
+- Academic OSPOs often convene researchers from various fields. Connection tools  allow attendees from diverse disciplines to efficiently discover mutual interests and identify common ground.
+- Icebreakers and tools democratize conversation by empowering introverts, first-time attendees, or underrepresented voices to engage. A well-designed badge or structured activity offers a non-threatening entry point to dialogue and contributes to a more welcoming and equitable environment.
+- Stronger interpersonal connections lead to more follow-up conversations, project collaborations and sustained engagement after the event - ultimately extending the conference’s impact well beyond its duration.
 
 ### Additional Learning from University of California Santa Cruz OSPO, UC OSPO Network
 
@@ -80,31 +87,22 @@ Something I've seen at an event is attaching ribbons to the bottom of your name 
 
 ## Known Instances
 
-* [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
-* [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [University of California OSPO Network](https://ucospo.net/)
+- [GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+- [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [University of California OSPO Network](https://ucospo.net/)
 
 ## References
 
-* [GW OSCON 2025](https://ospo.gwu.edu/oscon-2025)
-* [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/)
+- [GW OSCON 2025](https://ospo.gwu.edu/oscon-2025)
+- [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/)
 
 ### Related Patterns
 
-* [Co-hosting student events](./cohosting-student-events.md)
-* [Host an Open Source Conference](./host-an-open-source-conference.md)
-* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
-* [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
-* [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
-* [Senior Leadership Keynote](./senior-leadership-keynote.md)
-* [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
+- [Co-hosting student events](./cohosting-student-events.md)
+- [Host an Open Source Conference](./host-an-open-source-conference.md)
+- [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
+- [Piggyback onto a larger conference](piggyback-onto-a-larger-conference.md)
+- [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
+- [Senior Leadership Keynote](./senior-leadership-keynote.md)
+- [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-* David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-* Emily Lovell, University of California Santa Cruz, <https://orcid.org/0000-0001-5531-5956>
-* Laura Langdon, University of California Davis
-* Sayeed Choudhury, Carnegie Mellon University, <https://orcid.org/0000-0003-2891-0543>
-* Stephanie Lieggi, University of California Santa Cruz, <https://orcid.org/0009-0000-5647-6540>

@@ -5,6 +5,11 @@ tags:
   - Open Source Development
   - Tools & Infrastructure
   - Working with Tech Transfer / External Partners
+authors:
+  - will-gearty
+  - ramya-patchala
+  - aryan-apte
+  - ciara-flanagan
 ---
 # Open Source AI Pilot
 
@@ -18,9 +23,9 @@ Large Language Models (LLMs) have grown extremely quickly in the past couple of 
 
 However, there are a number of challenges:
 
-* **Privacy:** In the case of platforms that incorporate further training in LLMs (e.g. ChatGPT), the LLM cannot be used for sensitive data, or documents with licenses that do not allow for dissemination without prior approval from the author(s).
-* **Cost:** Where platforms protect confidential data (e.g. Co-Pilot), licenses may be too expensive for the entire university or for individual faculty to use in their research programs.
-* **Reproducibility:** LLMs are stochastic by nature. This issue is exacerbated in enterprise models, which undergo frequent, undocumented updates. As a result,  their use as research tools raises concerns about reproducibility and result consistency.
+- **Privacy:** In the case of platforms that incorporate further training in LLMs (e.g. ChatGPT), the LLM cannot be used for sensitive data, or documents with licenses that do not allow for dissemination without prior approval from the author(s).
+- **Cost:** Where platforms protect confidential data (e.g. Co-Pilot), licenses may be too expensive for the entire university or for individual faculty to use in their research programs.
+- **Reproducibility:** LLMs are stochastic by nature. This issue is exacerbated in enterprise models, which undergo frequent, undocumented updates. As a result,  their use as research tools raises concerns about reproducibility and result consistency.
 
 ## Context
 
@@ -28,11 +33,11 @@ A university or research institution with an interest in making use of AI.
 
 ## Forces
 
-* Graphic Processing Units (GPUs) and large amounts of memory are required to run these models locally.
+- Graphic Processing Units (GPUs) and large amounts of memory are required to run these models locally.
 
-* A database of documents or information is required to augment the LLM.
+- A database of documents or information is required to augment the LLM.
 
-* Resources are in place to fund students to work on development.
+- Resources are in place to fund students to work on development.
 
 ## Solution
 
@@ -42,10 +47,10 @@ Define and communicate the criteria for the project.
 
 Overall, the pilot should be:
 
-* Relatively low risk (to take account of LLM hallucinations).
-* Useful to faculty and the wider university community.
-* Able to run on local hardware.
-* Designed for students to work and collaborate on.
+- Relatively low risk (to take account of LLM hallucinations).
+- Useful to faculty and the wider university community.
+- Able to run on local hardware.
+- Designed for students to work and collaborate on.
 
 ### Tools and Infrastructure
 
@@ -61,11 +66,11 @@ Using retrieval-augmentation generation (RAG) will improve LLM accuracy.
 
 Intended outcomes are:
 
-* Faculty and students can make use of open source AI tools that benefit their research activities.
+- Faculty and students can make use of open source AI tools that benefit their research activities.
   
-* The OSPO demonstrates its value in enhancing access to research and as an enabler of research efficiency.
+- The OSPO demonstrates its value in enhancing access to research and as an enabler of research efficiency.
   
-* Developing AI solutions that address problems identified on campus fosters stronger relationships with faculty, researchers and students.
+- Developing AI solutions that address problems identified on campus fosters stronger relationships with faculty, researchers and students.
 
 ### Additional Learning from Syracuse University
 
@@ -92,8 +97,3 @@ In taking on this project, we also discovered that the GPU hardware on campus is
 ## References
 
 ## Contributors & Acknowledgement
-
-* Will Gearty, (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
-* Ramya Patchala, (Syracuse University), <https://orcid.org/0009-0009-3018-6030>
-* Aryan Apte, (Syracuse University), <https://orcid.org/0009-0001-9299-6217>
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>

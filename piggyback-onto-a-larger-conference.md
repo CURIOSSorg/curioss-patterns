@@ -6,6 +6,14 @@ tags:
   - Open Source Development
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - bethany-philbrick
+  - ciara-flanagan
+  - david-lippert
+  - fang-liu
+  - jacek-plucinski
+  - jeffrey-young
+  - kendall-fortney
 ---
 # Piggyback onto a larger conference
 
@@ -71,38 +79,28 @@ At a smaller scale, we hold OSPO talks with local meet up groups where OSPO staf
 
 ## Known Instances
 
-* [SnT Tech Transfer Office](https://www.uni.lu/snt-en/), l’Université du Luxembourg
-* [GW Open Source Program Office](https://ospo.gwu.edu/), George Washington University
-* [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
-* [Vermont Research Open Source Program Office (VERSO)](https://verso.w3.uvm.edu/), University of Vermont
+- [SnT Tech Transfer Office](https://www.uni.lu/snt-en/), l’Université du Luxembourg
+- [GW Open Source Program Office](https://ospo.gwu.edu/), George Washington University
+- [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
+- [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
+- [Vermont Research Open Source Program Office (VERSO)](https://verso.w3.uvm.edu/), University of Vermont
 
 ## References
 
-* SnT Tech Transfer Office piggybacked onto the [LibreOffice and Open Source Conference 2024](https://www.uni.lu/snt-en/events/open-source-conference-2024/)
-* The GT OSPO collaborated with the Scientific Software Engineering Center to host the [Sustainable Software in Academia](https://ssecenter.cc.gatech.edu/georgia-tech-scientific-software-2024-workshop/) and the [Open Source and Scientific Software Workshop](https://ospo.cc.gatech.edu/ospo-sse-workshop-2025/) in 2025.
-* The UW-Madison OSPO piggybacked on [UW-Madison Innovate Week](https://innovate.wisc.edu/uw-madison-innovate-week/) to run the event, [‘How Open Source Is Fostering Innovation in AI’](https://dsi.wisc.edu/2024/08/27/how-open-source-is-fostering-innovation-in-ai/)).
-* The VERSO OSPO hosted a number of [Strudel workshops and presentations](https://verso.w3.uvm.edu/research-week-2025-strudel-ux-workshops/) as part of the [University of Vermont’s Research Week 2025](https://www.uvm.edu/ovpr/research-week).
-* The VERSO OSPO also co-hosted the [Data and Open Science Summit 2025](https://verso.w3.uvm.edu/data-open-science-summit/) with a number of other Departments in University of Vermont.
+- SnT Tech Transfer Office piggybacked onto the [LibreOffice and Open Source Conference 2024](https://www.uni.lu/snt-en/events/open-source-conference-2024/)
+- The GT OSPO collaborated with the Scientific Software Engineering Center to host the [Sustainable Software in Academia](https://ssecenter.cc.gatech.edu/georgia-tech-scientific-software-2024-workshop/) and the [Open Source and Scientific Software Workshop](https://ospo.cc.gatech.edu/ospo-sse-workshop-2025/) in 2025.
+- The UW-Madison OSPO piggybacked on [UW-Madison Innovate Week](https://innovate.wisc.edu/uw-madison-innovate-week/) to run the event, [‘How Open Source Is Fostering Innovation in AI’](https://dsi.wisc.edu/2024/08/27/how-open-source-is-fostering-innovation-in-ai/)).
+- The VERSO OSPO hosted a number of [Strudel workshops and presentations](https://verso.w3.uvm.edu/research-week-2025-strudel-ux-workshops/) as part of the [University of Vermont’s Research Week 2025](https://www.uvm.edu/ovpr/research-week).
+- The VERSO OSPO also co-hosted the [Data and Open Science Summit 2025](https://verso.w3.uvm.edu/data-open-science-summit/) with a number of other Departments in University of Vermont.
 
 ### Related Patterns
 
-* [Co-hosting student events](./cohosting-student-events.md)
-* [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
-* [Host an Open Source Conference](./host-an-open-source-conference.md)
-* [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
-* [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
-* [Senior Leadership Keynote](./senior-leadership-keynote.md)
-* [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
+- [Co-hosting student events](./cohosting-student-events.md)
+- [Facilitate connections at Open Source Conferences](./facilitate-connections-at-open-source-conferences.md)
+- [Host an Open Source Conference](./host-an-open-source-conference.md)
+- [Informal OSPO focus group sessions at Open Source Events](./informal-ospo-focus-groups-at-open-source-events.md)
+- [Secure Sponsorship for an Open Source Conference](./secure-sponsorship-for-an-open-source-conference.md)
+- [Senior Leadership Keynote](./senior-leadership-keynote.md)
+- [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
 ## Contributors & Acknowledgement
-
-In alphabetical order
-
-* Bethany Philbrick, University of Madison-Wisconsin
-* Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
-* David Lippert, George Washington University, <https://orcid.org/0009-0003-6444-9595>
-* Fang Liu, Georgia Institute of Technology, <https://orcid.org/0000-0002-3383-2191>
-* Jacek Plucinski, l’Université du Luxembourg
-* Jeff Young, Georgia Institute of Technology,, <https://orcid.org/0000-0001-9841-4057>
-* Kendall Fortney, University of Vermont, <https://orcid.org/0009-0006-3898-0771>

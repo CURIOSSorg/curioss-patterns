@@ -3,6 +3,10 @@ tags:
   - Community Building
   - Demonstrating value as an Academic OSPO
   - Working with Tech Transfer / External Partners
+authors:
+  - allison-kittinger
+  - ciara-flanagan
+  - david-lippert
 ---
 # OSPO Advisory Board
 
@@ -131,7 +135,3 @@ Thus far our Stakeholder Group has been an enormous success.  The members are cr
 - Scroll down on the [Open Source with SLU Leadership page](https://oss-slu.github.io/people/leadership) for more information about the Faculty and Industry Advisory Boards.
 
 ## Contributors & Acknowledgement
-
-- Allison Kittinger <https://orcid.org/0000-0002-3104-5995>
-- Ciara Flanagan <https://orcid.org/0009-0005-3153-7673>
-- David Lippert [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)

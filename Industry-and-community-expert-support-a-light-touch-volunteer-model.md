@@ -2,6 +2,9 @@
 tags:
   - Education & Skills
   - Working with Tech Transfer / External Partners
+authors:
+  - ciara-flanagan
+  - daniel-shown
 ---
 # Industry and Community Expert Support: A Light-Touch Volunteer Model
 
@@ -97,8 +100,5 @@ Open Source with SLU, Saint Louis University
 - [Design a Collaborative Open Source Hackathon](./design-a-collaborative-open-source-hackathon.md)
 
 ## Contributors & Acknowledgement
-
-- Ciara Flanagan (CURIOSS) <https://orcid.org/0009-0005-3153-7673>
-- Daniel Shown (Saint Louis University) <https://orcid.org/0009-0002-5716-8835>
 
 A note on AI use: In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!

@@ -12,8 +12,8 @@ Consult with researchers, faculty and staff about open source software (OSS) to 
 
 ## Problem / Challenge
 
-* Researchers are often unaware of the institutional context their projects are operating in, the value of open source software (OSS) and how their projects may be impacted by decisions taken at earlier stages of development.
-* Colleagues in start-up, spin-off and Technology Transfer Offices (TTOs) may also lack crucial knowledge about open source software in comparison to proprietary software.
+- Researchers are often unaware of the institutional context their projects are operating in, the value of open source software (OSS) and how their projects may be impacted by decisions taken at earlier stages of development.
+- Colleagues in start-up, spin-off and Technology Transfer Offices (TTOs) may also lack crucial knowledge about open source software in comparison to proprietary software.
 
 ## Context
 
@@ -48,17 +48,17 @@ Seek more extensive feedback from  faculty and researchers by organizing small g
 Questions for staff may differ from faculty and researchers.
 Questions for staff in TTOs and related teams are likely to focus on:
 
-* The recurrent issues that they encounter.
-* When these problems typically arise.
-* The advice they currently provide on academic OSS.
+- The recurrent issues that they encounter.
+- When these problems typically arise.
+- The advice they currently provide on academic OSS.
 
 Questions for faculty and students may need to capture:
 
-* Their areas of work.
-* What they may have misunderstood or ignored about open source in the initial research and development phases.
-* The impact of common pitfalls on the release, management, commercialization or translation of their projects.
-* The contact points for advice and interaction on the transfer or commercialization of software.
-* What type of materials/supports they would benefit from in relation to these issues and how best to promote them to a wider audience within the institution.
+- Their areas of work.
+- What they may have misunderstood or ignored about open source in the initial research and development phases.
+- The impact of common pitfalls on the release, management, commercialization or translation of their projects.
+- The contact points for advice and interaction on the transfer or commercialization of software.
+- What type of materials/supports they would benefit from in relation to these issues and how best to promote them to a wider audience within the institution.
 
 #### Initial consultation phase
 
@@ -66,9 +66,9 @@ Organise meetings with each cohort to understand the common challenges and their
 
 #### Develop educational resources
 
-* Based on learning, create a draft resource that addresses the identified knowledge gaps and common pitfalls. This may include:
-* Signposting contact points
-* A process map or flowchart relating to software pathways and key decision points for all stakeholders.
+- Based on learning, create a draft resource that addresses the identified knowledge gaps and common pitfalls. This may include:
+- Signposting contact points
+- A process map or flowchart relating to software pathways and key decision points for all stakeholders.
 
 #### Follow up consultation
 
