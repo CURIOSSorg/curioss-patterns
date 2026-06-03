@@ -136,9 +136,12 @@ We also recommend documenting outcomes and getting feedback from participants. W
 
 ### Related Patterns
 
-[Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
-[Open Source Capstone Course](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
-
+- [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
+- [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
+- [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
+- [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
+- [Open Source Capstone Course](./open-source-capstone-course.md)
+- [Industry and Community Expert Support: A Light-Touch Volunteer Model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 - [Open Research Community Accelerator](./open-research-community-accelerator.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
