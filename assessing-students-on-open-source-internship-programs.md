@@ -162,8 +162,10 @@ This multi-source approach ensures that the full range of student contributions,
 
 - [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
 - [Open Source Capstone Course](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
+- [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
+- [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
 - [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/summer-internship-program.md)
-- [Advertise for Open Source Interns](https://curioss.org/patterns/advertise-for-open-source-interns/)
+- [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
 
 ## Contributors & Acknowledgement
 
