@@ -1,7 +1,6 @@
 ---
 tags:
  - Education & Skills
-  
 ---
 # Advertise for Open Source Interns
 
