@@ -154,6 +154,7 @@ We have also begun working with project mentors to explore sub-award arrangement
 - [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
 - [Open Research Community Accelerator](./open-research-community-accelerator.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
+- [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
 - [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
 - [Summer Internship Program](./summer-internship-program.md)
 
