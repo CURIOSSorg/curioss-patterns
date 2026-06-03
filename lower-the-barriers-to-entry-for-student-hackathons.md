@@ -96,6 +96,6 @@ We also provide mentor training beforehand. Some of our mentors come from indust
 - [Embed wellbeing into Student Hackathons](embed-wellbeing-into-student-hackathons.md)
 - [Engage a Hackathon Facilitator](engage-a-hackathon-facilitator.md)
 - [Collaborate with External Partners on Open Source Hackathons](collaborate-with-external-partners-on-open-source-hackathons.md)
-- [Industry and Community Expert Support: A Light-Touch Volunteer Model](./Industry-and-community-expert-support-a-light-touch-volunteer-model.md)
+- [Industry and Community Expert Support: A Light-Touch Volunteer Model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 
 ## Contributors & Acknowledgement

@@ -127,6 +127,6 @@ We’ve found that collaborative open source hackathons tend to attract more wom
 - [Engage a Hackathon Facilitator](engage-a-hackathon-facilitator.md)
 - [Collaborate with External Partners on Open Source Hackathons](collaborate-with-external-partners-on-open-source-hackathons.md)
 - [Lower the barriers to entry for Student Hackathons](lower-the-barriers-to-entry-for-student-hackathons.md)
-- [Industry and Community Expert Support: A Light-Touch Volunteer Model](./Industry-and-community-expert-support-a-light-touch-volunteer-model.md)
+- [Industry and Community Expert Support: A Light-Touch Volunteer Model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 
 ## Contributors & Acknowledgement
