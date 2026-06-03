@@ -144,8 +144,10 @@ Open Source with SLU, Saint Louis University
 
 ### Related Patterns
 
-- [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
-- [Summer Internship Program](./summer-internship-program.md)
+- [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
+- [Industry and Community Expert Support: A Light-Touch Volunteer Model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
+- [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
+- [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
 - [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
 - [Summer Internship Program](./summer-internship-program.md)
 
