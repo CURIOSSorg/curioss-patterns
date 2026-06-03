@@ -42,10 +42,10 @@ Design the recruitment process to filter out mismatched applications early, to s
 
 Before advertising opens, work with project mentors and partners to clearly define and document the requirements for each role. These should be published as part of the project or role description and may include:
 
-* Required programming languages or technical skills.
-* Familiarity with specific platforms, tools or domains.
-* Level of prior experience expected (e.g. undergraduate, graduate, prior open source contribution).
-* Expected time commitment and any constraints on scheduling or availability.
+- Required programming languages or technical skills.
+- Familiarity with specific platforms, tools or domains.
+- Level of prior experience expected (e.g. undergraduate, graduate, prior open source contribution).
+- Expected time commitment and any constraints on scheduling or availability.
 
 ### Add Structured Application Requirements
 
@@ -53,10 +53,10 @@ Design specific application criteria that rewards attention to detail, genuine i
 
 Approaches may include:
 
-* Requiring applicants to apply to individual projects rather than expressing general interest across the whole program in a single submission.
-* Requiring a cover letter that includes specific content such as ranking the available projects in order of preference and explaining the reasoning behind that ranking.
-* Using a small number of open questions that seek specific information relevant to the projects or the wider internship program.
-* Requesting a GitHub profile or portfolio alongside standard application materials.
+- Requiring applicants to apply to individual projects rather than expressing general interest across the whole program in a single submission.
+- Requiring a cover letter that includes specific content such as ranking the available projects in order of preference and explaining the reasoning behind that ranking.
+- Using a small number of open questions that seek specific information relevant to the projects or the wider internship program.
+- Requesting a GitHub profile or portfolio alongside standard application materials.
 
 The importance of meeting these requirements should be clearly communicated in the application guidelines.
 
@@ -74,10 +74,10 @@ Design scoring criteria to enable efficient decision making.
 
 Criteria may include:
 
-* Experience of GitHub and/or programming languages.
-* Experience as a contributor.
-* The interest statement of candidates.
-* Interest or skills match with the selected project.
+- Experience of GitHub and/or programming languages.
+- Experience as a contributor.
+- The interest statement of candidates.
+- Interest or skills match with the selected project.
 
 ### Standardize communication with applicants
 
@@ -87,9 +87,9 @@ Produce an FAQ document that covers key information about the program, timelines
 
 Where possible, avail of automated options on student job portals to communicate the following:
 
-* Acknowledgement of receipt of applications where possible.
-* Notification to applicants if the process is taking longer than expected.
-* Notification of the outcome to all applicants at the same time, including those who have not been successful, rather than leaving positions quietly closed.
+- Acknowledgement of receipt of applications where possible.
+- Notification to applicants if the process is taking longer than expected.
+- Notification of the outcome to all applicants at the same time, including those who have not been successful, rather than leaving positions quietly closed.
 
 ## Resulting Context
 
@@ -117,10 +117,10 @@ We use a scoring metric that balances the skills needed to perform the internshi
 
 Broadly, student gets points for:
 
-* Experience with Git and programming languages commonly used.
-* Being new to open source software and not a long-term contributor.
-* A background that is not computer science or computer engineering related.
-* Their interest statement and if it matches the projects they express an interest in.
+- Experience with Git and programming languages commonly used.
+- Being new to open source software and not a long-term contributor.
+- A background that is not computer science or computer engineering related.
+- Their interest statement and if it matches the projects they express an interest in.
 
 ### Additional Learning from Syracuse University Open Source Program Office
 
@@ -142,35 +142,35 @@ We are working with [WISCURDS (Wisconsin Undergraduate Research in Data Science)
 
 ## Known Instances
 
-* [GW Open Source Program Office, The George Washington University](https://ospo.gwu.edu/)
-* [Georgia Tech Open Source Program Office, Georgia Institute of Technology](https://ospo.cc.gatech.edu/)
-* [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/)
+- [GW Open Source Program Office, The George Washington University](https://ospo.gwu.edu/)
+- [Georgia Tech Open Source Program Office, Georgia Institute of Technology](https://ospo.cc.gatech.edu/)
+- [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
+- [UW-Madison Open Source Program Office](https://ospo.wisc.edu/)
 
 ## References
 
-* [GW Open Source Intern Opportunities](https://ospo.gwu.edu/gw-open-source-intern-opportunities)
-* [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/)
-* [Georgia Tech OSPO Information Session on the Virtual Summer Internship Program](https://github.com/gt-ospo/summer-internship-program/blob/main/2026/information_session_agenda.md)
-* [University of Wisconsin-Madison OSPO Internship Program](https://ospo.wisc.edu/internship-program/)
+- [GW Open Source Intern Opportunities](https://ospo.gwu.edu/gw-open-source-intern-opportunities)
+- [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/)
+- [Georgia Tech OSPO Information Session on the Virtual Summer Internship Program](https://github.com/gt-ospo/summer-internship-program/blob/main/2026/information_session_agenda.md)
+- [University of Wisconsin-Madison OSPO Internship Program](https://ospo.wisc.edu/internship-program/)
 
 ### Related Patterns
 
-* [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
-* [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
-* [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
-* [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
-* [Open Research Community Accelerator](./open-research-community-accelerator.md)
-* [Open Source Capstone Course](./open-source-capstone-course.md)
-* [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
-* [Summer Internship Program](./summer-internship-program.md)
+- [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
+- [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
+- [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
+- [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
+- [Open Research Community Accelerator](./open-research-community-accelerator.md)
+- [Open Source Capstone Course](./open-source-capstone-course.md)
+- [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
+- [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
 
-* Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
-* Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
-* David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
-* Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
-* Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
+- Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
+- Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
+- David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
+- Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
+- Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
 
 **A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!

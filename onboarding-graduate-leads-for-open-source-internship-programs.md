@@ -140,7 +140,6 @@ A key insight from our experience is the importance of creating spaces where lea
 - [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
 - [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/372feb89e8656f3cee0da054e9ee66e08ddab9e7/summer-internship-program.md)
 
-
 ## Contributors & Acknowledgement
 
 A note on AI use: In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!

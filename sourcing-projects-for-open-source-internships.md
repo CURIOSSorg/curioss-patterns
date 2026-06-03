@@ -41,27 +41,27 @@ Source projects for open source internships in a number of ways, including open 
 
 Publish a standing or periodic open call for project proposals on the OSPO website and promote it through the OSPO newsletter or mailing list. The call should include:
 
-* A brief description of what the program offers and what participation as a project mentor involves.
-* Guidance on what makes a project a good fit including the kinds of tasks, scope and timelines that work well within the internship structure.
-* Clear information on mentor eligibility, for example, whether mentors need to be a maintainer or core contributor of an open source project; and if industry participants, faculty, staff, or senior students are eligible to apply.
-* An outline of the minimum time commitment expected of mentors such as regular synchronous meetings with students or availability for asynchronous communication during working hours.
-* A simple application process e.g., a short online form.
+- A brief description of what the program offers and what participation as a project mentor involves.
+- Guidance on what makes a project a good fit including the kinds of tasks, scope and timelines that work well within the internship structure.
+- Clear information on mentor eligibility, for example, whether mentors need to be a maintainer or core contributor of an open source project; and if industry participants, faculty, staff, or senior students are eligible to apply.
+- An outline of the minimum time commitment expected of mentors such as regular synchronous meetings with students or availability for asynchronous communication during working hours.
+- A simple application process e.g., a short online form.
 
 ### Promote the call using the university’s communication channels
 
 Share information through the OSPO's contacts and their communication channels including:
 
-* Faculty and researcher mailing lists and department newsletters.
-* Campus research networks and institutes.
-* Complementary programs, for example, undergraduate research schemes or computer science courses whose networks overlap with potential project mentors.
+- Faculty and researcher mailing lists and department newsletters.
+- Campus research networks and institutes.
+- Complementary programs, for example, undergraduate research schemes or computer science courses whose networks overlap with potential project mentors.
 
 ### Outreach Activities
 
 Direct, face-to-face outreach by OSPO staff offers opportunities to reach new audiences, including:
 
-* Faculty and researchers at departmental seminars, research group meetings and campus events.
-* Individual researchers working on software-intensive projects with open source potential.
-* Information sessions where potential mentors can learn about the program, ask questions and hear from previous participants.
+- Faculty and researchers at departmental seminars, research group meetings and campus events.
+- Individual researchers working on software-intensive projects with open source potential.
+- Information sessions where potential mentors can learn about the program, ask questions and hear from previous participants.
 
 ### Develop internal projects
 
@@ -69,9 +69,9 @@ Internally generated projects, developed by the OSPO itself, also offer a source
 
 Internal projects may include:
 
-* OSPO infrastructure or tooling work.
-* Projects that address identified needs within the university research community.
-* Projects aligned with the OSPO's own strategic priorities such as open science, research software sustainability or community engagement.
+- OSPO infrastructure or tooling work.
+- Projects that address identified needs within the university research community.
+- Projects aligned with the OSPO's own strategic priorities such as open science, research software sustainability or community engagement.
 
 Internal projects also give the program flexibility to respond to short-term or opportunistic funding without being dependent on external partner availability.
 
@@ -81,9 +81,9 @@ Partnerships with industry organisations; open source communities and foundation
 
 Approaches include:
 
-* Identifying organisations whose open source work aligns with student skills and interests; and initiating conversations about potential collaboration.
-* Maintaining contact with conference sponsors, open source community members and other contacts who have expressed interest in working with students.
-* Exploring externally managed programs, such as [Google Summer of Code](https://summerofcode.withgoogle.com/), [Code for GovTech](https://app.codeforgovtech.in/) or similar initiatives that provide their own project pipeline and recruitment infrastructure.
+- Identifying organisations whose open source work aligns with student skills and interests; and initiating conversations about potential collaboration.
+- Maintaining contact with conference sponsors, open source community members and other contacts who have expressed interest in working with students.
+- Exploring externally managed programs, such as [Google Summer of Code](https://summerofcode.withgoogle.com/), [Code for GovTech](https://app.codeforgovtech.in/) or similar initiatives that provide their own project pipeline and recruitment infrastructure.
 
 ## Resulting Context
 
@@ -123,40 +123,40 @@ We have also begun working with project mentors to explore sub-award arrangement
 
 ## Known Instances
 
-* [CMU Open Source Program Office, Carnegie Mellon University](https://www.library.cmu.edu/services/ospo)
-* [GW Open Source Program Office, The George Washington University](https://ospo.gwu.edu/)
-* [Georgia Tech Open Source Program Office, Georgia Institute of Technology](https://ospo.cc.gatech.edu/)
-* [Open Source with SLU, Saint Louis University](https://oss-slu.github.io/)
-* [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
-* [UW-Madison Open Source Program Office](https://ospo.wisc.edu/)
-* [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso-uvm.github.io/ORCA/)
+- [CMU Open Source Program Office, Carnegie Mellon University](https://www.library.cmu.edu/services/ospo)
+- [GW Open Source Program Office, The George Washington University](https://ospo.gwu.edu/)
+- [Georgia Tech Open Source Program Office, Georgia Institute of Technology](https://ospo.cc.gatech.edu/)
+- [Open Source with SLU, Saint Louis University](https://oss-slu.github.io/)
+- [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
+- [UW-Madison Open Source Program Office](https://ospo.wisc.edu/)
+- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso-uvm.github.io/ORCA/)
 
 ## References
 
-* [A Guide for Open Source Maintainers: Engaging Students Effectively](https://github.com/gt-ospo/oss-student-resources/blob/main/tips-for-maintainers.md) - A suggestion document for project mentors created by the Georgia Tech OSPO
-* [GW Open Source Intern Opportunities](https://github.com/gt-ospo/oss-student-resources/blob/main/tips-for-maintainers.md)
-* [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/)
-* [Georgia Tech OSPO Summer Internship Information Session](https://mediaspace.gatech.edu/media/Georgia+Tech+OSPO+Summer+Internship+-+Informational+Meeting+-+February+27th%2C+2024/1_x91gms33)
-* [Georgia Tech VSIP Mentoring Guidelines](https://ospo.cc.gatech.edu/vsip-mentoring/)
-* [University of Wisconsin-Madison OSPO Internship Program](https://ospo.wisc.edu/internship-program/)
+- [A Guide for Open Source Maintainers: Engaging Students Effectively](https://github.com/gt-ospo/oss-student-resources/blob/main/tips-for-maintainers.md) - A suggestion document for project mentors created by the Georgia Tech OSPO
+- [GW Open Source Intern Opportunities](https://github.com/gt-ospo/oss-student-resources/blob/main/tips-for-maintainers.md)
+- [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/)
+- [Georgia Tech OSPO Summer Internship Information Session](https://mediaspace.gatech.edu/media/Georgia+Tech+OSPO+Summer+Internship+-+Informational+Meeting+-+February+27th%2C+2024/1_x91gms33)
+- [Georgia Tech VSIP Mentoring Guidelines](https://ospo.cc.gatech.edu/vsip-mentoring/)
+- [University of Wisconsin-Madison OSPO Internship Program](https://ospo.wisc.edu/internship-program/)
 
 ## Related Patterns
 
-* [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
-* [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
-* [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
-* [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
-* [Open Research Community Accelerator](./open-research-community-accelerator.md)
-* [Open Source Capstone Course](./open-source-capstone-course.md)
-* [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
-* [Summer Internship Program](./summer-internship-program.md)
+- [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
+- [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
+- [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
+- [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
+- [Open Research Community Accelerator](./open-research-community-accelerator.md)
+- [Open Source Capstone Course](./open-source-capstone-course.md)
+- [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
+- [Summer Internship Program](./summer-internship-program.md)
 
 ## Contributors & Acknowledgement
 
-* Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
-* Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
-* David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
-* Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
-* Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
+- Bethany Philbrick (University of Wisconsin-Madison), <https://orcid.org/0009-0000-0872-5194>
+- Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
+- David Lippert (George Washington University), <https://orcid.org/0009-0003-6444-9595>
+- Jeffrey Young (Georgia Institute of Technology), <https://orcid.org/0000-0001-9841-405>
+- Will Gearty (Syracuse University), <https://orcid.org/0000-0003-0076-3262>
 
 **A note on AI use:**  In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
