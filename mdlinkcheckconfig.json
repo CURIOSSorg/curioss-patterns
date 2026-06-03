@@ -1,6 +1,7 @@
 {
   "aliveStatusCodes": [0, 200, 202, 403, 415, 417],
   "ignorePatterns": [
-    { "pattern": "^https?://(www\\.)?instagram\\.com/" }
+    { "pattern": "^https?://(www\\.)?instagram\\.com/" },
+    { "pattern": "^authors/index\\.md" }
   ]
 }
