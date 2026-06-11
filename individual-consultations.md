@@ -13,7 +13,7 @@ authors:
   - will-gearty
   - ciara-flanagan
 ---
-# Individual consultations / Office Hours
+# Individual Consultations
 
 ## Pattern Summary
 
@@ -34,11 +34,7 @@ Students, researchers and faculty need guidance to identify the appropriate solu
 
 A university with diverse departments of varying levels of OSS expertise and needs.
 
-There is inconsistent awareness about the role of OSS standards in improving scientific quality and generating results that are reproducible and trustworthy.
-
-There is inconsistent awareness of OSS license management and compliance with institutional and IP policies.
-
-An OSPO with the resources/capacity to offer one-to-one consultations and any required follow-up work.
+An OSPO is in place.
 
 ## Forces
 
@@ -46,11 +42,11 @@ Students and researchers do not know how or where to access the information they
 
 OSPO staff have the capacity/availability to meet for consultations and to provide follow-up support.
 
-The OSPO or project lead has a working knowledge of and relationships with TTO, contract, and other staff/faculty who are positioned to support students.
+The OSPO or project lead has a working knowledge of and relationships with TTO, contract and other staff/faculty who are positioned to support students.
 
 ## Solution
 
-Offer individual consultations or ‘office hours’ as a service to answer questions and/or to provide support to open source projects.
+Offer individual consultations as a service to answer questions and/or to provide support to open source projects.
 
 This can be offered through a number of different channels:
 
@@ -66,10 +62,6 @@ Research teams and projects benefit from personalized guidance along with referr
 ### Additional Learning from Carnegie Mellon University OSPO
 
 We use this [consultation template](https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit#slide=id.g2c709938643_0_8) to guide the conversation with projects and to assess their needs.
-
-### Additional Learning from Georgia Tech OSPO
-
-We support [POSE](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) proposal development with office hours.
 
 ### Additional Learning from University of California Santa Cruz OSPO
 
@@ -96,13 +88,12 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 
 ## References
 
-- [Consultations](https://library.gwu.edu/consultation-services) offered by the GWU OSPO are part of the library’s research consulting services.
+- Scroll to the bottom of [this page](https://ospo.gwu.edu/about) to click the ['Book an Appointment'](https://calendly.com/david-lippert/30min?month=2026-06) to schedule a consultation with the GWU OSPO.
 - [Consulting services](https://ospo.library.jhu.edu/services/consulting/) offered by Johns Hopkins University OSPO.
-- [Consultations](https://opensource.stanford.edu/) offered by OpenSource@Stanford.
-- [Consultations](https://innovationpartnerships.umich.edu/moss/) offered by the MOSS Program - scroll down to GitHub Garage under “Education”.
-- [Consultation services](https://opensource.utexas.edu/connect) offered by the UT-OSPO.
+- Scroll to the bottom of [this page](https://opensource.stanford.edu/) to request a consultation with OpenSource@Stanford.
+- [Booking form Consultation services](https://opensource.utexas.edu/connect) offered by the UT-OSPO.
 - [Consultation booking form](https://outlook.office365.com/book/UTOSPOOpenSourceSoftwareConsultation@utexas.onmicrosoft.com/) for the UT-OSPO.
-- [Consultations and other services](https://verso.w3.uvm.edu/services/) offered by VERSO OSPO.
+- Information about [Consultations and other services](https://verso.w3.uvm.edu/services/) offered by VERSO OSPO.
 - [Consultation template for projects](https://www.google.com/url?q=https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit?usp%3Dsharing&sa=D&source=docs&ust=1746004597188190&usg=AOvVaw1juIFcUqNZPBiGZcWgF3eL) used by Carnegie Mellon University OSPO.
 
 ### Related Patterns
