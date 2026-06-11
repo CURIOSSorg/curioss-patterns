@@ -5,6 +5,7 @@ tags:
 authors:
   - ciara-flanagan
   - daniel-shown
+  - david-lippert
 ---
 # Industry and Community Expert Support: A Light-Touch Volunteer Model
 
@@ -77,6 +78,17 @@ Students and OSPO program participants gain access to an additional layer of exp
 
 - Over time, this network of volunteers strengthens the OSPO's ties to the wider regional technology and open source ecosystem.
 
+## Additional Learning from The George Washington University
+
+The GW OSPO has an informal model for obtaining volunteer support from industry and community experts.  As a part of our community building work we connect with many open source advocates and we invite them to volunteer as:
+- Presenters for our conference and for the GW Coders lunch & learn series.
+- Volunteers at our conference or other events.
+- Mentors, judges, or problem statement providers at hackathons.
+- Project providers for various capstone courses.
+- Research partners.
+
+In general, we have found that open source enthusiasts often become excellent long term collaborators.  Often we form reciprocal relationships where we will volunteer for and promote each other’s events.
+
 ## Additional Learning from Open Source with SLU
 
 Open Source with SLU formalized this model through our [Industry Fellows program](https://oss-slu.github.io/programs/fellows) where we recruited experienced technology professionals from the regional community as light-touch volunteer mentors in our open source capstone course.Fellows were hired as contingent university employees despite receiving no financial compensation. This provided some perks including a university email address, library access, and co-working space. We also ensured that Fellows underwent a background check. This gave the Industry Fellows  a genuine sense of institutional belonging and professional legitimacy within the program.
@@ -85,11 +97,9 @@ The minimum ask of Fellows was simply to be present in the program's Slack works
 
 This model proved effective in attracting busy professionals who might otherwise have been deterred by a more formal commitment.
 
-Additional Learning from …
-
 ## Known Instances
-
-Open Source with SLU, Saint Louis University
+- The GW OSPO, The George Washington University
+- Open Source with SLU, Saint Louis University
 
 ## Related Patterns
 
