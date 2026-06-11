@@ -106,13 +106,16 @@ Each campus is using different platforms, including Google Groups and Mailchimp.
 
 ## Known Instances
 
+- [Michigan Open Source Support (MOSS)](https://innovationpartnerships.umich.edu/moss/), University of Michigan
 - [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 - [University of California OSPO Network](https://ucospo.net/)
 - [UC Santa Barbara Open Source Program](https://ucospo.net/santa-barbara/), University of California, Santa Barbara, [University of California OSPO Network](https://ucospo.net/)
 
+
 ## References
 
 - Scroll down for the join button at the end of the [UC Santa Barbara Open Source Program home page](https://ucospo.net/santa-barbara/) to be brought to this [sign up page](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
+- Scroll down for the join button at the end of the [MOSS home page](https://innovationpartnerships.umich.edu/moss/) to sign up [here](https://umich.us1.list-manage.com/subscribe?u=25a3b2b0e3a0959baef567ed7&id=a972885772)
 
 ### Related Patterns
 
