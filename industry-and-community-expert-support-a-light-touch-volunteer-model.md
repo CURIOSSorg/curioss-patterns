@@ -81,6 +81,7 @@ Students and OSPO program participants gain access to an additional layer of exp
 ## Additional Learning from The George Washington University
 
 The GW OSPO has an informal model for obtaining volunteer support from industry and community experts.  As a part of our community building work we connect with many open source advocates and we invite them to volunteer as:
+
 - Presenters for our conference and for the GW Coders lunch & learn series.
 - Volunteers at our conference or other events.
 - Mentors, judges, or problem statement providers at hackathons.
@@ -98,6 +99,7 @@ The minimum ask of Fellows was simply to be present in the program's Slack works
 This model proved effective in attracting busy professionals who might otherwise have been deterred by a more formal commitment.
 
 ## Known Instances
+
 - The GW OSPO, The George Washington University
 - Open Source with SLU, Saint Louis University
 
