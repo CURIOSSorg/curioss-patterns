@@ -111,7 +111,6 @@ Each campus is using different platforms, including Google Groups and Mailchimp.
 - [University of California OSPO Network](https://ucospo.net/)
 - [UC Santa Barbara Open Source Program](https://ucospo.net/santa-barbara/), University of California, Santa Barbara, [University of California OSPO Network](https://ucospo.net/)
 
-
 ## References
 
 - Scroll down for the join button at the end of the [UC Santa Barbara Open Source Program home page](https://ucospo.net/santa-barbara/) to be brought to this [sign up page](https://lp.constantcontactpages.com/sl/hlmtgmY/ucsbospo)
