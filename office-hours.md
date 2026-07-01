@@ -71,7 +71,7 @@ Attendance can be unpredictable. Some sessions may be empty while others are ove
 
 ## Related Patterns
 
-* [Individual consultations / Office Hours](./individual-consultations.md)
+* [Individual consultations](./individual-consultations.md)
 * [Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
 
 
