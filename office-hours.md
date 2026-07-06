@@ -7,7 +7,9 @@ tags:
  
 authors:
  
-  #- your-slug-here
+  - ciara-flanagan
+  - laura-langdon
+    
 ---
 # Office Hours
 
@@ -76,10 +78,5 @@ Attendance can be unpredictable. Some sessions may be empty while others are ove
 
 
 ## Contributors & Acknowledgement
-
-The list of contributors is generated automatically from the `authors:` field
-in the frontmatter at the top of this file. You don't need to write the names
-here yourself — just add your slug to the frontmatter and the site will fill
-this section in.
 
 **A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
