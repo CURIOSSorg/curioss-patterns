@@ -12,7 +12,7 @@ authors:
 
 ## Pattern Summary
 
-Establish a structured onboarding process for gradluate students taking on team lead roles in open source internship programs.
+Establish a structured onboarding process for graduate students taking on team lead roles in open source internship programs.
 
 ## Problem / Challenge
 
