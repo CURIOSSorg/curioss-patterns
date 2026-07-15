@@ -72,11 +72,19 @@ Any engagement beyond this baseline is entirely at the volunteer's discretion.
 
 Students and OSPO program participants gain access to an additional layer of expert support that reflects genuine industry experience and open source community practice.
 
-- The OSPO's capacity to deliver meaningful skills development scales without placing unsustainable demands on experts.
+The OSPO's capacity to deliver meaningful skills development scales without placing unsustainable demands on experts.
 
-- Expert volunteers benefit from a low-commitment but meaningful connection to the next generation of open source practitioners, along with access to any associated institutional perks.
+Expert volunteers benefit from a low-commitment but meaningful connection to the next generation of open source practitioners, along with access to any associated institutional perks.
 
-- Over time, this network of volunteers strengthens the OSPO's ties to the wider regional technology and open source ecosystem.
+Over time, this network of volunteers strengthens the OSPO's ties to the wider regional technology and open source ecosystem.
+
+## Additional Learning from Open Source with SLU
+
+Open Source with SLU formalized this model through our [Industry Fellows program](https://oss-slu.github.io/programs/fellows) where we recruited experienced technology professionals from the regional community as light-touch volunteer mentors in our open source capstone course.Fellows were hired as contingent university employees despite receiving no financial compensation. This provided some perks including a university email address, library access, and co-working space. We also ensured that Fellows underwent a background check. This gave the Industry Fellows  a genuine sense of institutional belonging and professional legitimacy within the program.
+
+The minimum ask of Fellows was simply to be present in the program's Slack workspace and to attend two events per semester. Any additional engagement e.g., contributing to projects, joining team channels and/or reviewing code, was entirely self-directed. All product-specific Slack channels were kept public and long-lived, enabling fellows to engage with any team that interested them and ensuring that knowledge passed between generations of student developers over time.
+
+This model proved effective in attracting busy professionals who might otherwise have been deterred by a more formal commitment.
 
 ## Additional Learning from The George Washington University
 
@@ -88,15 +96,9 @@ The GW OSPO has an informal model for obtaining volunteer support from industry 
 - Project providers for various capstone courses.
 - Research partners.
 
+Inspired by Open Source with SLU's fellowship model, we've also brought one of our students back for an unpaid internship as a "fellow" for a further two months, which has allowed them to extend their visa. 
+
 In general, we have found that open source enthusiasts often become excellent long term collaborators.  Often we form reciprocal relationships where we will volunteer for and promote each other’s events.
-
-## Additional Learning from Open Source with SLU
-
-Open Source with SLU formalized this model through our [Industry Fellows program](https://oss-slu.github.io/programs/fellows) where we recruited experienced technology professionals from the regional community as light-touch volunteer mentors in our open source capstone course.Fellows were hired as contingent university employees despite receiving no financial compensation. This provided some perks including a university email address, library access, and co-working space. We also ensured that Fellows underwent a background check. This gave the Industry Fellows  a genuine sense of institutional belonging and professional legitimacy within the program.
-
-The minimum ask of Fellows was simply to be present in the program's Slack workspace and to attend two events per semester. Any additional engagement e.g., contributing to projects, joining team channels and/or reviewing code, was entirely self-directed. All product-specific Slack channels were kept public and long-lived, enabling fellows to engage with any team that interested them and ensuring that knowledge passed between generations of student developers over time.
-
-This model proved effective in attracting busy professionals who might otherwise have been deterred by a more formal commitment.
 
 ## Known Instances
 
