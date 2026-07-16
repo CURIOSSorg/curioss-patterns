@@ -45,17 +45,17 @@ Schedule a recurring slot of office hours that is open to students, faculty and 
 
 Practical considerations include:
 
-* Schedule: Choose a regular cadence (e.g. weekly or fortnightly) and a consistent time and location (physical, virtual or hybrid) so that the slot becomes easy to remember and plan around.
-* Format: Office hours should follow the drop-in format and be informal. No booking or agenda is required.
-* Promotion: Advertise office hours on the OSPO website, in newsletters, on mailing lists and through departmental channels.
-* Follow-up: For questions that cannot be resolved within the session, refer attendees to an individual consultation or to other university services.
-* Metrics and Service Improvement: Track attendance and common themes to refine the timing, format and development of OSPO services over time. Attendance figures can also be used to track the growing reach of OSPO.
+- Schedule: Choose a regular cadence (e.g. weekly or fortnightly) and a consistent time and location (physical, virtual or hybrid) so that the slot becomes easy to remember and plan around.
+- Format: Office hours should follow the drop-in format and be informal. No booking or agenda is required.
+- Promotion: Advertise office hours on the OSPO website, in newsletters, on mailing lists and through departmental channels.
+- Follow-up: For questions that cannot be resolved within the session, refer attendees to an individual consultation or to other university services.
+- Metrics and Service Improvement: Track attendance and common themes to refine the timing, format and development of OSPO services over time. Attendance figures can also be used to track the growing reach of OSPO.
 
 ## Resulting Context
 
 Students, faculty and staff have a predictable, low-barrier route to open source guidance and further support from the OSPO.
 
-The OSPO builds visibility and relationships across campus. 
+The OSPO builds visibility and relationships across campus.
 
 Recurring topics raised at office hours can inform the development of workshops, documentation and other services.
 
@@ -63,19 +63,18 @@ Attendance can be unpredictable. Some sessions may be empty while others are ove
 
 ## Known Instances
 
-* Georgia Tech Open Source Program Office, Georgia Institute of Technology
-* University of California Open Source Program Office Network
+- Georgia Tech Open Source Program Office, Georgia Institute of Technology
+- University of California Open Source Program Office Network
 
 ## References
 
-* [POSE](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) proposal development supported with office hours by the Georgia Tech OSPO
-* [Information on Coworking/Office Hours](https://ucospo.net/events/#coworking-office-hours-ongoing) offered by the [UC OSPO Network](https://ucospo.net/)
+- [POSE](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) proposal development supported with office hours by the Georgia Tech OSPO
+- [Information on Coworking/Office Hours](https://ucospo.net/events/#coworking-office-hours-ongoing) offered by the [UC OSPO Network](https://ucospo.net/)
 
 ## Related Patterns
 
-* [Individual consultations](./individual-consultations.md)
-* [Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
-
+- [Individual consultations](./individual-consultations.md)
+- [Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
 
 ## Contributors & Acknowledgement
 
