@@ -80,7 +80,8 @@ The second template is a more traditional google doc for individuals who prefer 
 
 ### Related Patterns
 
-[Individual Consultations/Office Hours](./individual-consultations.md)
+- [Individual Consultations/Office Hours](./individual-consultations.md)
+- [Office Hours](./office-hours.md)
 
 ## Contributors & Acknowledgement
 
