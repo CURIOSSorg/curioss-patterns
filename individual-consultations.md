@@ -98,7 +98,8 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 
 ### Related Patterns
 
-[Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
+- [Template for 1:1 Campus Consultations](./template-for-1-1-campus-consultations.md)
+- [Office Hours](./office-hours.md)
 
 ## Contributors & Acknowledgement
 
