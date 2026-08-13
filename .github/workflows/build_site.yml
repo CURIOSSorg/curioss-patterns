@@ -33,4 +33,8 @@ jobs:
           publish_dir: /tmp/patterns_site
           destination_dir: static/patterns
           publish_branch: main
-          keep_files: true  # Don't delete other files in the repo
+          # keep_files is scoped to destination_dir (static/patterns), not the
+          # whole curioss.org repo, so this only cleans up this site's output.
+          # false (the default) lets renamed/removed pages stop leaving
+          # orphaned directories behind on every deploy.
+          keep_files: false
