@@ -24,11 +24,11 @@ Overcome financial barriers to access graduate skills and talent.
 
 ## Problem / Challenge
 
-- Graduate students are often tied to tuition remission, tuition waivers, or a "buy-out" of their time from a supervising faculty member - making them more expensive to hire than undergraduate students.
+- Graduate students are often tied to tuition remission, tuition waivers or a "buy-out" of their time from a supervising faculty member - making them more expensive to hire than undergraduate students.
 - Where formal Research Assistant (RA) or Graduate Assistant (GA) positions exist, they can be prohibitively expensive for an OSPO, sometimes consuming an entire budget on one role.
 - Some OSPO funders explicitly exclude tuition costs from their funding requirements.
-- Tuition rates and rules vary considerably even within a single university depending on a student's subject area, their international status, their status as a masters or PhD student. This causes difficulties for OSPOs to budget or plan with confidence.
-- Union contracts covering graduate student labour may add a further layer of institution-specific rules that OSPOs must navigate.
+- Tuition rates and rules vary considerably even within a single university depending on a student's subject area, their international status and/or their status as a masters or PhD student. This causes difficulties for OSPOs to budget or plan with confidence.
+- Union contracts covering graduate student labour may add a further layer of rules that OSPOs must navigate.
 
 ## Context
 
@@ -46,6 +46,7 @@ Overcome financial barriers to access graduate skills and talent.
 ## Solution
 
 Throughout institutions, graduate students may be hired as part-time or hourly employees on work that is explicitly separate from their research or theses. This keeps the arrangement outside of tuition remission and waiver processes and allows OSPOs to employ graduate students in the same way as any other part-time staff member.
+
 The solution below outlines some core activities to consider:
 
 ### Design and Communication of Roles
@@ -54,11 +55,12 @@ The solution below outlines some core activities to consider:
 
 ### Use existing Hiring Structures and Expertise
 - Most universities already have a system for hiring students on an hourly or part-time basis for roles (e.g. for work in canteens, campus stores etc.). The same hiring and employment infrastructure can be used for recruiting and employing OSPO student workers.
-- Reduce time and uncertainty involved by linking in with colleagues with experience in student and graduate hiring. These colleagues may be based in central services (e.g. the careers office, or a central HR function), or within the Departments/units where the OSPO is based.
+- Reduce time and uncertainty involved by linking in with colleagues with experience in student and graduate hiring. These colleagues may be based in central services (e.g. the careers office, a central HR function), or within the Departments/units where the OSPO is based.
 
 ## Resulting Context
 
 OSPOs can access graduate skills and talent within existing budgets.
+
 Many graduate students are keen to gain real-world experience alongside their studies. A role of this kind can be a genuine, mutually beneficial opportunity for both the student and the OSPO - once sufficient clarity is offered from the outset.
 
 ## Known Instances
@@ -69,7 +71,7 @@ Many graduate students are keen to gain real-world experience alongside their st
 - [Johns Hopkins University Open Source Programs Office](https://ospo.library.jhu.edu/)
 - [Open Source with SLU, Saint Louis University](https://oss-slu.github.io/)
 - [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
-- [UT-OSPO, The University of Texas at Austin](https://opensource.utexas.edu/) 
+- [Texas-OSPO, The University of Texas at Austin](https://opensource.utexas.edu/) 
 
 ## References
 
