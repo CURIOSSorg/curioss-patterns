@@ -11,7 +11,7 @@ authors:
  - daniel-shown
  - david-lippert
  - kendall-fortney
- - jeffrey -young 
+ - jeffrey-young 
  - megan-forbes
    
 ---
