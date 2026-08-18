@@ -42,16 +42,16 @@ OSPO staff have limited time to closely supervise students, due to competing ope
 
 - Break student work down into smaller, clearly defined tasks rather than broad or open-ended project goals, so that progress is easier to track with limited supervision time.
 - Take a more structured, "waterfall" style approach to project design than might otherwise be used, specifying deliverables and milestones.
-- Be specific about what the task is and what the deliverables are, so that both the student and the supervisor have a shared, concrete understanding of what "done" looks like at each stage.
+- Be specific about what the task is and what the deliverables are so that both the student and the supervisor have a shared, concrete understanding of what "done" looks like at each stage.
 - Schedule regular check-ins against these milestones.
 
 ## Resulting Context
 
-Breaking work into smaller, clearly defined tasks with regular milestone check-ins allows OSPO staff to supervise graduate students effectively, even where their own time for oversight is limited.
+Breaking work into smaller, clearly defined tasks with regular milestone check-ins allows OSPO staff to supervise graduate students effectively when their own time for oversight is limited.
 
 ### Additional Learning from Johns Hopkins University Open Source Program Office
 
-We only supervise one graduate student, but even with just one, there's always the question of how to effectively supervise someone else's work. What we've found is that projects need to be much more detailed and much more "waterfall" than we might otherwise design them, and we've found it helps to be very specific about what the task is and what the deliverables are.
+We've found that projects need to be much more detailed and much more "waterfall" than we might otherwise design them. It helps to be very specific about what the task is and what the deliverables are.
 
 ## Known Instances
 
