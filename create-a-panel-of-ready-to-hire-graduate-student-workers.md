@@ -1,6 +1,7 @@
 ---
 tags:
  - Education & Skills
+ - Funding & Financial Support
 
 authors:
 
