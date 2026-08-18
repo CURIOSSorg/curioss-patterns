@@ -30,12 +30,12 @@ Create a pool of pre-approved graduate students who can be hired quickly as shor
 ## Context
 
 - A university with an established or emerging OSPO.
-- OSPO funding may arrive in small, irregular, or short-notice amounts.
+- OSPO funding may arrive in small, irregular or short-notice amounts.
 
 ## Forces
 
 - OSPO staff have relationships with colleagues who have knowledge of recruitment and hiring processes within their institution.
-- Their institution has existing mechanisms for recruiting from a panel of pre-approved candidates who can be called on for short-term or ad hoc work. In these cases, typical hiring and interview processes are not required.
+- The institution has existing mechanisms for recruiting from a panel of pre-approved candidates who can be called on for short-term or ad hoc work. In these cases, typical hiring and interview processes are not required.
 
 ## Solution
 
@@ -45,11 +45,11 @@ Create a pool of pre-approved graduate students who can be hired quickly as shor
 
 ## Resulting Context
 
-The OSPO can respond quickly to small or short-notice funding, without needing to run a new recruitment and hiring process each time. Students on the panel can be hired for anything from a couple of weeks of work up to a full semester or summer, and can move in and out of paid work across that time as funding allows.
+The OSPO can respond quickly to small or short-notice funding, without needing to run a new recruitment and hiring process each time. Students on the panel can be hired for anything from a couple of weeks of work up to a full semester or summer and can move in and out of paid work across that time as funding allows.
 
 ### Additional Learning from Saint Louis University Open Source Program Office
 
-We set this up by reaching out to a business manager already familiar with the university's hiring systems, and asking them to place a list of capable students onto the mechanism the university uses for hiring office temps. Once someone is on that list, they are "on the books" and can be hired at any point that funding becomes available, whether that's a couple of weeks' worth of work for a few hundred dollars or a full semester's worth of work for someone who has already demonstrated capacity. This has let us make use of small or irregular amounts of funding that would otherwise have been difficult to act on quickly.
+We set this up by reaching out to a business manager already familiar with the university's hiring systems. We asked them to place a list of capable students onto the mechanism the university uses for hiring office temps. Once someone is on that list, they are "on the books" and can be hired at any point that funding becomes available, whether that's a couple of weeks' worth of work for a few hundred dollars or a full semester's worth of work for someone who has already demonstrated capacity. This has let us make use of small or irregular amounts of funding that would otherwise have been difficult to act on quickly.
 
 ## Known Instances
 
