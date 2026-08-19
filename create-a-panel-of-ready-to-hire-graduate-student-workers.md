@@ -58,6 +58,8 @@ We set this up by reaching out to a business manager already familiar with the u
 
 ## References
 
+### Related Patterns
+
 - [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 - [Open Research Community Accelerator](./open-research-community-accelerator.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
