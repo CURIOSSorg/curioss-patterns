@@ -133,11 +133,14 @@ A key insight from our experience is the importance of creating spaces where lea
 ## Related Patterns
 
 - [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
+- [Create a Panel of Ready-to-Hire Graduate Student Workers](./create-a-panel-of-ready-to-hire-graduate-student-workers.md)
 - [Onboarding Students for Open Source Internship programs](./onboarding-students-for-open-source-internship-programs.md)
 - [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
 - [Open Source Capstone Course](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
+- [Overcome Barriers to Recruiting Graduate Leads](./overcome-barriers-to-recruiting-graduate-students.md)
 - [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
 - [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
+- [Structuring Graduate Student Work](./structuring-graduate-student-work.md)
 - [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/372feb89e8656f3cee0da054e9ee66e08ddab9e7/summer-internship-program.md)
 
 ## Contributors & Acknowledgement
