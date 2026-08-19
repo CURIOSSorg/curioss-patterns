@@ -1,3 +1,4 @@
+---
 tags:
 
  - Education & Skills
@@ -14,7 +15,7 @@ authors:
   - kendall-fortney
   - jeffrey-young
   - megan-forbes
-
+---
 ---
 # Overcome Barriers to Recruiting Graduate Students
 
