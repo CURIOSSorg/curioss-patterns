@@ -96,7 +96,7 @@ The GW OSPO has an informal model for obtaining volunteer support from industry 
 - Project providers for various capstone courses.
 - Research partners.
 
-Inspired by Open Source with SLU's fellowship model, we've also brought one of our students back for an unpaid internship as a "fellow" for a further two months, which has allowed them to extend their visa. 
+Inspired by Open Source with SLU's fellowship model, we've also brought one of our students back for an unpaid internship as a "fellow" for a further two months, which has allowed them to extend their visa.
 
 In general, we have found that open source enthusiasts often become excellent long term collaborators.  Often we form reciprocal relationships where we will volunteer for and promote each other’s events.
 

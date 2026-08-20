@@ -1,11 +1,9 @@
 ---
 tags:
-
  - Education & Skills
  - Funding & Financial Support
 
 authors:
-
   - angela-newell
   - ciara-flanagan
   - clara-morella-teixidor
@@ -16,7 +14,7 @@ authors:
   - jeffrey-young
   - megan-forbes
 ---
----
+
 # Overcome Barriers to Recruiting Graduate Students
 
 ## Pattern Summary
@@ -51,10 +49,12 @@ Throughout institutions, graduate students may be hired as part-time or hourly e
 The solution below outlines some core activities to consider:
 
 ### Design and Communication of Roles
+
 - Design and scope graduate student level roles as 'student worker' or paid positions that are separate and distinct from academic requirements.
 - Advertisements and job descriptions should clearly inform students about how the role relates (or doesn't relate) to their studies.
 
 ### Use existing Hiring Structures and Expertise
+
 - Most universities already have a system for hiring students on an hourly or part-time basis for roles (e.g. for work in canteens, campus stores etc.). The same hiring and employment infrastructure can be used for recruiting and employing OSPO student workers.
 - Reduce time and uncertainty involved by linking in with colleagues with experience in student and graduate hiring. These colleagues may be based in central services (e.g. the careers office, a central HR function), or within the Departments/units where the OSPO is based.
 
@@ -72,7 +72,7 @@ Many graduate students are keen to gain real-world experience alongside their st
 - [Johns Hopkins University Open Source Programs Office](https://ospo.library.jhu.edu/)
 - [Open Source with SLU, Saint Louis University](https://oss-slu.github.io/)
 - [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
-- [Texas-OSPO, The University of Texas at Austin](https://opensource.utexas.edu/) 
+- [Texas-OSPO, The University of Texas at Austin](https://opensource.utexas.edu/)
 
 ## References
 

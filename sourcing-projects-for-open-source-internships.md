@@ -129,6 +129,7 @@ We also promote the internship program at career fairs on campus where we collec
 We have also begun working with project mentors to explore sub-award arrangements within research grant proposals so that intern funding can be built into grants from the outset rather than sourced separately after a grant is awarded.
 
 ### Additional Learning from University of Texas at Austin OSPO
+
 Researchers looking for student talent tend to fall into two groups: tenure-track faculty who sit within an academic unit and researchers based in research institutes who are not affiliated with a school and so don't have the same access to student programs. We've found that a lot of our value sits in connecting those unaffiliated research institutes with students they wouldn't otherwise reach. Just as the best way to find a strong student is often a friend-of-a-friend referral, the same is true for finding good research projects. Researchers who aren't embedded in a department are often navigating this on their own. We've tried to become that friend-of-a-friend for them so they have a route in even without a formal home in the system.
 
 ## Known Instances
