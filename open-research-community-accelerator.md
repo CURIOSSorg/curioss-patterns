@@ -117,13 +117,16 @@ The program has also led to several speaking engagements about open source, rese
 
 - [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
 - [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
+- [Create a Panel of Ready-to-Hire Graduate Student Workers](./create-a-panel-of-ready-to-hire-graduate-student-workers.md0
 - [Industry and Community Expert Support: A light-touch volunteer model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 - [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 - [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
 - [OSPO Student Ambassador Program](./ospo-student-ambassador-program.md)
+- [Overcome Barriers to Recruiting Graduate Students](./overcome-barriers-to-recruiting-graduate-students.md)
 - [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
 - [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
+- [Structuring Graduate Student Work](./structuring-graduate-student-work.md)
 
 ## Contributor(s) & Acknowledgment
 
