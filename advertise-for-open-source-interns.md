@@ -123,7 +123,7 @@ Project mentors and Data Science Institute staff are also asked to share opportu
 - [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
 - [UW-Madison Open Source Program Office](https://ospo.wisc.edu/)
 - [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso.w3.uvm.edu/)
-  
+
 ## References
 
 - [GW Open Source Intern Opportunities](https://ospo.gwu.edu/gw-open-source-intern-opportunities)

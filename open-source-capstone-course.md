@@ -150,12 +150,12 @@ Open Source with SLU, Saint Louis University
 - [Industry and Community Expert Support: A light-touch volunteer model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 - [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 - [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
-- [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
+- [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
 - [Overcome Barriers to Recruiting Graduate Students](./overcome-barriers-to-recruiting-graduate-students.md)
 - [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
 - [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
 - [Structuring Graduate Student Work](./structuring-graduate-student-work.md)
-- [Summer Internship Program](https://github.com/CURIOSSorg/curioss-patterns/blob/main/summer-internship-program.md)
+- [Summer Internship Program](./summer-internship-program.md)
 - [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
 
 ## Contributors & Acknowledgement
