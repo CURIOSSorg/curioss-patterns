@@ -147,7 +147,7 @@ Open Source with SLU, Saint Louis University
 - [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
 - [Assessing Students on Open Source Internship Progrmas](./assessing-students-on-open-source-internship-programs.md)
 - [Create a Panel of Ready-to-Hire Graduate Student Workers](./create-a-panel-of-ready-to-hire-graduate-student-workers.md)
-- [Industry and Community Expert Support: A light-touch volunteer model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
+- [Industry Fellows: A Light-Touch Volunteer Model](./industry-fellows:-a-light-touch-volunteer-model.md)
 - [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 - [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
 - [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
