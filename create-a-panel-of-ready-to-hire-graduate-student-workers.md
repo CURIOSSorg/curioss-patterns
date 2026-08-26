@@ -14,6 +14,7 @@ authors:
  - kendall-fortney
  - jeffrey-young 
  - megan-forbes
+ - will-gearty
    
 ---
 # Create a Panel of Ready-to-Hire Graduate Student Workers
