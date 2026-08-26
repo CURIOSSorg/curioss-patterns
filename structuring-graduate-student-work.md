@@ -14,6 +14,7 @@ authors:
  - kendall-fortney
  - jeffrey-young 
  - megan-forbes
+ - will-gearty
 
 ---
 # Structuring Graduate Student Work
