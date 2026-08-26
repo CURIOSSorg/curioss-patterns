@@ -13,6 +13,8 @@ authors:
   - kendall-fortney
   - jeffrey-young
   - megan-forbes
+  - will-gearty
+
 ---
 
 # Overcome Barriers to Recruiting Graduate Students
