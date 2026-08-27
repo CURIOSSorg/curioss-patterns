@@ -141,7 +141,7 @@ We also recommend documenting outcomes and getting feedback from participants. W
 - [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
-- [Industry Fellows: A Light-Touch Volunteer Model](./industry-fellows--a-light-touch-volunteer-model.md)
+- [Industry and Community Expert Support: A Light-Touch Volunteer Model](./industry-and-community-expert-support-a-light-touch-volunteer-model.md)
 - [Open Research Community Accelerator](./open-research-community-accelerator.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
@@ -161,4 +161,3 @@ We also recommend documenting outcomes and getting feedback from participants. W
 - Dr. Michael Hilton (Carnegie Mellon University)  
 - Brad Topol and Susan Malaika (IBM)  
 - Stephen Walli (Microsoft)
-- XXX
