@@ -7,7 +7,7 @@ authors:
   - daniel-shown
   - david-lippert
 ---
-# Industry and Community Expert Support: A Light-Touch Volunteer Model
+# Industry Fellows: A Light-Touch Volunteer Model
 
 ## Pattern Summary
 
