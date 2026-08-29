@@ -13,7 +13,7 @@ authors:
   - laura-langdon
   - tom-hughes
 ---
-# Lower the barriers to entry for Student Hackathons
+# Lower the Barriers to Entry for Student Hackathons
 
 ## Pattern Summary
 
@@ -96,6 +96,9 @@ We also provide mentor training beforehand. Some of our mentors come from indust
 - [Embed wellbeing into Student Hackathons](embed-wellbeing-into-student-hackathons.md)
 - [Engage a Hackathon Facilitator](engage-a-hackathon-facilitator.md)
 - [Collaborate with External Partners on Open Source Hackathons](collaborate-with-external-partners-on-open-source-hackathons.md)
-- [Industry Fellows: A Light-Touch Volunteer Model](./industry-fellows:-a-light-touch-volunteer-model.md)
+- [Industry Fellows: A Light-Touch Volunteer Model](./industry-fellows--a-light-touch-volunteer-model.md)
 
 ## Contributors & Acknowledgement
+
+**A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
+
