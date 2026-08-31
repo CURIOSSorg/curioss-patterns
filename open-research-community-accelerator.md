@@ -110,15 +110,15 @@ The program has also led to several speaking engagements about open source, rese
 - [Open Resource Library](https://www.openresourcelibrary.com) \- A student-driven resource for creating and maintaining open source.
 - [ORCA GitHub repository](https://github.com/VERSO-UVM/ORCA) \- Includes handbook, policies and other details
 - [ORCA Wiki](https://github.com/VERSO-UVM/ORCA/wiki) \- ORCA program at the University of Vermont - includes information about the program plus comprehensive information for interns.
-- [ORCA Onboarding Manual](https://github.com/VERSO-UVM/ORCA/wiki/Onboarding) \ Online onboarding training manual for interns.
+- [ORCA Onboarding Manual](https://github.com/VERSO-UVM/ORCA/wiki/Onboarding) \- Online onboarding training manual for interns.
 - [Open Science 101 Onboarding Materials](https://verso-uvm.github.io/Open-Science-101/README.html) \- ORCA program at the University of Vermont.
 
 ### Related Patterns
 
 - [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
 - [Assessing Students on Open Source Internship Programs](./assessing-students-on-open-source-internship-programs.md)
-- [Create a Panel of Ready-to-Hire Graduate Student Workers](./create-a-panel-of-ready-to-hire-graduate-student-workers.md0
-- [Industry Fellows: A Light-Touch Volunteer Model](./industry-fellows:-a-light-touch-volunteer-model.md)
+- [Create a Panel of Ready-to-Hire Graduate Student Workers](./create-a-panel-of-ready-to-hire-graduate-student-workers.md)
+- [Industry Fellows: A Light-Touch Volunteer Model](./industry-fellows--a-light-touch-volunteer-model.md)
 - [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 - [Onboarding Students for Open Source Internship Programs](./onboarding-students-for-open-source-internship-programs.md)
 - [Open Source Capstone Course](./open-source-capstone-course.md)
@@ -133,3 +133,6 @@ The program has also led to several speaking engagements about open source, rese
 - Clare Dillon (CURIOSS)  
 - Ciara Flanagan (CURIOSS) [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
 - Kendall Fortney (University of Vermont) [https://orcid.org/0009-0006-3898-0771](https://orcid.org/0009-0006-3898-0771)
+
+**A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
+  
