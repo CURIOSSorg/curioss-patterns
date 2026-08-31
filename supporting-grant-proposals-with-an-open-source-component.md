@@ -90,11 +90,11 @@ Weâ€™ve also noted a greater awareness and appreciation for the CMU OSPO and weâ
 
 ## Additional Learning from OpenSource@Stanford
 
-One of our OSPOs served as a Community Manager on a funding program and another served as Innovation Manager. This allowed us to be wiritten into the grant, and have some salary (small amount) of salary support.  
+OSPO staff have served as Community Managers Innovation Managers on funded projects. This allowed us to be written into the grant, and receive a small allocation towards salary support.  
 
 ## Additional Learning from University of California, Santa Cruz OSPO
 
-We were co-PI on a Phase I of [I-Corps program](https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps) this year. Our OSPO also provides letters of support and assists with [POSE projects](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/505982/nsf24-606) as the PIs want us to.
+We were co-PI on a Phase I of [I-Corps program](https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps) this year. Our OSPO also provides letters of support and assists with [POSE projects](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/505982/nsf24-606) as and when needed by PIs.
 
 ## Known Instances
 
