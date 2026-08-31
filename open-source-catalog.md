@@ -66,22 +66,25 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 
 ## Known Instances
 
+- [GW OSPO](https://ospo.gwu.edu/), The George Washington University
+- [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology
 - [JHU Open Source Programs Office](https://ospo.library.jhu.edu/), Sheridan Libraries, Johns Hopkins University
-- [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/), Georgia Institute of Technology  
 - [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
-- [GW OSPO Project Registry](https://ospo.gwu.edu/project-registry), George Washington University
+- [Syracuse University OSPO](https://opensource.syracuse.edu/), Syracuse University
 
 ## References
 
-- [Georgia Tech OSPO OSS Project Explorer](https://gt-ospo.github.io/oss-project-explorer/) \- See submission form at bottom of page.  
+- [Georgia Tech OSPO OSS Project Explorer](https://gt-ospo.github.io/oss-project-explorer/) - See submission form at bottom of page.
+- [GW OSPO Project Registry](https://ospo.gwu.edu/project-registry)
 - [JHU Open Source Project Catalog](https://ospo.library.jhu.edu/services/open-source-project-catalog/)  
-- [JHU Open Source Project Catalog Submission Form](https://ospo.library.jhu.edu/services/open-source-project-catalog/oss-catalog-submission-form/)  
-- [OpenSource@Stanford Project Registry](https://opensource.stanford.edu/projects-registry)  
-- [Pattern: Open Source Software Prize](https://docs.google.com/document/d/1b5Bwuj8ZKbGSchBkpDgyK_3e1MAklxK7rYQ9Fdl-nfE/edit?usp=sharing)
+- [JHU Open Source Project Catalog Submission Form](https://ospo.library.jhu.edu/services/open-source-project-catalog/oss-catalog-submission-form/)
+- [OpenSource@Stanford Project Registry](https://opensource.stanford.edu/projects-registry)
+- [Open Source Software @ Syracuse](https://opensource.syracuse.edu/open-source-software-su/)
 
 ### Related Patterns
 
 - [Maintainers & Contributors Roundtable](./maintainers-and-contributors-roundtable.md)
+- [Open Source Software Prize](./patterns/open-source-software-prize/)
 - [OSPO Website](./ospo-website.md)
 
 ## Author(s) & Acknowledgement
