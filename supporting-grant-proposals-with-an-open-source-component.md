@@ -88,11 +88,21 @@ In all cases, the OSPO asks for a copy of the proposal, which is reviewed for an
 
 We’ve also noted a greater awareness and appreciation for the CMU OSPO and we’ve used this as an opportunity to introduce projects to other services such as [Bitergia](https://bitergia.com/) and [Scarf](https://about.scarf.sh/).
 
+## Additional Learning from OpenSource@Stanford
+
+One of our OSPOs served as a Community Manager on a funding program and another served as Innovation Manager. This allowed us to be wiritten into the grant, and have some salary (small amount) of salary support.  
+
+## Additional Learning from University of California, Santa Cruz OSPO
+
+We were co-PI on a Phase I of [I-Corps program](https://www.nsf.gov/funding/initiatives/i-corps/about-i-corps) this year. Our OSPO also provides letters of support and assists with [POSE projects](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems/505982/nsf24-606) as the PIs want us to.
+
 ## Known Instances
 
 - [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
-- [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+- [GW OSPO](https://ospo.gwu.edu/), The George Washington University
+- [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 - [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
+- [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/)
 
 ## References
 
