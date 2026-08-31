@@ -84,7 +84,7 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 ### Related Patterns
 
 - [Maintainers & Contributors Roundtable](./maintainers-and-contributors-roundtable.md)
-- [Open Source Software Prize](https://curioss.org/patterns/open-source-software-prize/)
+- [Open Source Software Prize](./patterns/open-source-software-prize/)
 - [OSPO Website](./ospo-website.md)
 
 ## Author(s) & Acknowledgement
