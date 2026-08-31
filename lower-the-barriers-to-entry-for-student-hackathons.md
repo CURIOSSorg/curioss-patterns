@@ -13,7 +13,7 @@ authors:
   - laura-langdon
   - tom-hughes
 ---
-# Lower the Barriers to Entry for Student Hackathons
+# Lower the Barriers to entry for Student Hackathons
 
 ## Pattern Summary
 
