@@ -64,8 +64,10 @@ The initial outcome of this commitment letter is appreciation and education from
 
 - [CMU Open Source Program Office](https://www.library.cmu.edu/services/ospo), CMU Libraries, Carnegie Mellon University
 - [The GW Open Source Program Office](https://ospo.gwu.edu/), The George Washington University
+- [OpenSource@Stanford](https://opensource.stanford.edu/), Stanford Data Science Center for Open and Reproducible Science (CORES), Leland Stanford Junior University
 - [Open Source with SLU](https://oss-slu.github.io/), Saint Louis University
 - [The UT Austin OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
+- [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net/)
 - [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 ## References
