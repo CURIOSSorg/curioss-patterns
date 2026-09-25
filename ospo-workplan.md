@@ -36,7 +36,7 @@ This may include:
 ## Forces
 - Funding is available to establish an Academic OSPO.
 - Funders and decision makers need specific information to allocate resources. 
-- OSPO champions or staff need to be provide informaton that is actionable and fundable but general enough to adapt as the OSPO learns more about its institution's needs during its first year.
+- OSPO champions or staff need a plan that is actionable and fundable but general enough to adapt as the OSPO learns more about its institution's needs during its first year.
   
 ## Solution
 
@@ -49,7 +49,7 @@ A typical plan works through a small number of broad phases over the two years:
 - **Evaluate and refine:** Formally assess progress against the original plan, update the strategic plan based on what has been learned, and use this evaluation to inform the next phase of work.
 - **Scale and sustain:** Expand successful programs, deepen policy and partnership work, and introduce activities that extend the OSPO's reach and long-term sustainability, such as grant or fellowship programs, conferences, or expanded infrastructure offerings.
 
-The table below provides an example work plan from its first two years of operation.
+The table below provides an example work plan from the GW OSPO's first two years of operation.  Work plans will vary based on resources and priorities.  This OSPO had a broad purview and the staffing included a PI, a Faculty Director (summer stipend), a full time director, one half time technical staff, and lots of volunteer support.
 
 | Year/Q | Activity | Objective |
 | --- | --- | --- |
@@ -77,7 +77,7 @@ The table below provides an example work plan from its first two years of operat
 
 Presenting the plan this way allows it to be used in two ways at once: as a narrative funders and leadership can follow to understand the OSPO's trajectory and expected return on investment, and as a working checklist new staff can pick up and use from day one.
 
-The plan an be adapted into a funding proposal, a business case or an onboarding document for new staff - without needing to be rewritten from scratch for each audience.
+The plan can be adapted into a funding proposal, a business case or an onboarding document for new staff - without needing to be rewritten from scratch for each audience.
 
 ### Additional Learning from the George Washington University Open Source Program Office
 
@@ -90,3 +90,4 @@ We used this workplan as a core component of our funding application for our OSP
 ## Contributors & Acknowledgement
 
 **A note on AI use:** This content was drafted with the help of AI. As a small organization, AI tools help us turn rich conversations into written resources with less effort - meaning we can offer more to the community. As always, there were plenty of human eyes reviewing, editing and improving the content before it was published. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
+
