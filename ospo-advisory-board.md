@@ -1,5 +1,6 @@
 ---
 tags:
+  - Advocacy, Governance & Policy
   - Community Building
   - Demonstrating value as an Academic OSPO
   - Working with Tech Transfer / External Partners
