@@ -88,7 +88,5 @@ We used this workplan as a core component of our funding application for our OSP
 
 - [GW OSPO](https://ospo.gwu.edu/)
 
-## Contributors & Acknowledgement
-
 **A note on AI use:** This content was drafted with the help of AI. As a small organization, AI tools help us turn rich conversations into written resources with less effort - meaning we can offer more to the community. As always, there were plenty of human eyes reviewing, editing and improving the content before it was published. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
 
