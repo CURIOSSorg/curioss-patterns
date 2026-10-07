@@ -19,7 +19,7 @@ A structured work plan covering the first years of an OSPO's operations establis
 
 ## Problem / Challenge
 
-- New OSPOs, and the people who fund them may lack a shared, concrete picture of what the office will actually do in its early life.
+- Newly established OSPOs and the people who fund them may lack a shared, concrete picture of what the office will actually do in its early life.
 - Funders and senior leadership need to understand what an investment in an OSPO will deliver before they will commit resources but OSPO champions may not yet have the institutional data or relationships needed to produce a highly detailed plan.
 - Funding to establish new OSPOs is often short-term with resources limited to one or a few staff. New OSPO staff need to move quickly to show value but foundational activities (stakeholder engagement, needs assessment, strategy) take time and must happen before more visible activities (training, infrastructure, grants) can be effectively delivered.
 
@@ -29,12 +29,13 @@ Universities and research institutions that are establishing a new OSPO (or form
 
 This may include:
  
-- Staff or champions preparing a funding application or business case for an OSPO.
+- OSPO Champions preparing a funding application or making a business case for an OSPO.
 - Senior decision makers (e.g. Provosts, Vice Presidents for Research, library or IT leadership) who need to evaluate a proposed OSPO investment.
-- Newly hired OSPO Directors or Program Managers who need a starting structure for their first year(s) in post.
+- Newly hired OSPO Directors or Program Managers who need a starting structure guiding their first year(s) in post.
 
 ## Forces
 - Funding is available to establish an Academic OSPO.
+- There is a resource allocation for OSPO staff.
 - Funders and decision makers need specific information to allocate resources. 
 - OSPO champions or staff need a plan that is actionable and fundable but general enough to adapt as the OSPO learns more about its institution's needs during its first year.
   
