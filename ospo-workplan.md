@@ -2,7 +2,7 @@
 tags:
 
  - Advocacy, Governance & Policy
- - Demonstrativing value as an Academic OSPO
+ - Demonstrating value as an Academic OSPO
  - Funding & Financial Support
 
 authors:
