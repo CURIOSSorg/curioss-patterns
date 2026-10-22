@@ -9,6 +9,7 @@ authors:
 
  - ciara-flanagan
  - david-lippert
+ - lorena-barba
 
 ---
 # OSPO Workplan
