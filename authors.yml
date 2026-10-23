@@ -181,7 +181,7 @@ tom-hughes:
   orcid: 0009-0008-7516-3687
   affiliation: Carnegie Mellon University
 
- violaine-louvet:
+violaine-louvet:
   name: Violaine Louvet
   orcid: 0000-0002-8742-8952
   affiliation: Université Grenoble Alpes
@@ -201,9 +201,9 @@ yelena-martynovskaya:
   affiliation: University of California Santa Cruz
 
 ying-wang:
- name: Ying Wang
- orcid: 
- affiliation: ETH Zürich
+  name: Ying Wang
+  orcid: 
+  affiliation: ETH Zürich
 
 zach-chandler:
   name: Zach Chandler
