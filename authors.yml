@@ -9,6 +9,11 @@
 #   orcid       (optional) Your ORCID iD, just the digits like 0000-0001-2345-6789.
 #   affiliation (optional) Your institution or organisation.
 
+aoife-tierney: 
+  name: Aoife Tierney
+  orcid: 0009-0009-8699-7043
+  affiliation: Trinity College Dublin
+  
 alex-marden:
   name: Alex Marden
   affiliation: University of Texas at Austin
@@ -176,6 +181,11 @@ tom-hughes:
   orcid: 0009-0008-7516-3687
   affiliation: Carnegie Mellon University
 
+violaine-louvet:
+  name: Violaine Louvet
+  orcid: 0000-0002-8742-8952
+  affiliation: Université Grenoble Alpes
+
 virginia-scarlett:
   name: Virginia Scarlett
   orcid: 0000-0002-4156-2849
@@ -189,6 +199,11 @@ will-gearty:
 yelena-martynovskaya:
   name: Yelena Martynovskaya
   affiliation: University of California Santa Cruz
+
+ying-wang:
+  name: Ying Wang
+  orcid: 
+  affiliation: ETH Zürich
 
 zach-chandler:
   name: Zach Chandler
