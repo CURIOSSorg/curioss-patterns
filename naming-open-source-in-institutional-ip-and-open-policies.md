@@ -12,7 +12,7 @@ authors:
   - ying-wang
 ---
 
-# Naming Open Source in Institutional IP and Open Access Policies
+# Naming Open Source in Institutional IP and Open Policies
 
 ## Pattern Summary
 
@@ -20,10 +20,9 @@ Work with the owners of institutional intellectual property (IP), open access, o
 
 ## Problem / Challenge
 
-- Many IP and open policies predate institutions’ capacity and expertise in open source and either ignore software or treat it only as IP to commercialize.
-- Without explicit policy language, researchers don't know whether or how they can release code as open source and staff in Technology Transfer Offices (TTO) or other areas have no formal basis for supporting it.
-- Related policies are often owned by different units (e.g. Library, TTO,Office of Research, Data Institutes). The policies are revised on different cycles and may contradict each other.
-- Good practice examples of language on open source may be difficult to source. Many institutions do not publish their policies.
+- Many IP and open policies predate institutions’ capacity and expertise in open source, either ignoring software or treating it as IP to commercialize.
+- Without explicit policy language, researchers don't know whether or how they can release code as open source and staff in Technology Transfer Offices (TTOs) or other areas have no formal basis for supporting it.
+- Related policies are often owned by different units (e.g. Library, TTO, Office of Research, Data Institutes) and may contradict each other.
 
 ## Context
 
@@ -33,7 +32,7 @@ An OSPO, or a staff member with open source expertise (often based in a TTO, lib
 
 ## Forces
 
-- Institutional policies are reviewed infrequently.
+- Institutional policies are reviewed infrequently and on different cycles.
 - Opportunities to influence policy often come through a scheduled policy review or a request to join a policy review group.
 - Policy changes must pass through formal approval processes. Draft language usually cannot be shared or promoted until it has been approved.
 - Ownership of related policies is split across units with different priorities. Open access, open science and open data communities may view open source differently from TTO staff.
@@ -84,7 +83,7 @@ When drafting or redrafting open source provisions, the following provisions may
 
 ### Align related policies
 
-Decide how much crossover there should be between policies. One approach is to make a single policy the "home" for open source provisions and cross-reference it from the others.
+Decide how much crossover there should be between policies. One approach is to make a single policy the "home" for open source provisions and cross-reference it.
 
 Where open source is addressed in more than one policy, those policies should be consistent with one another.
 
@@ -92,9 +91,7 @@ Whoever leads on one policy should review drafts of the others to avoid contradi
 
 ### Gather and share examples
 
-Collect example language from peer institutions before drafting. Useful starting points include:
-
-- The [Research Software Alliance (ReSA) collection of institutional research software policies](https://www.researchsoft.org/institutional-policies/).
+Collect example language from peer institutions before drafting. Useful starting points includes the [Research Software Alliance's (ReSA) collection of institutional research software policies](https://www.researchsoft.org/institutional-policies/).
 
 ### Allow time for approval, and document the journey
 
@@ -124,7 +121,7 @@ In that clause, we say that we support authors who want to open source software 
 
 As part of the latest review of our IP policy, we redrafted and expanded the open source section. The revised policy is still going through our approval processes.
 
-We're using the open access policy review to align our policies. Our open access policy dates from 2010 and is owned by the Library. We joined the review group to bring an IP perspective and make sure the revised policy doesn't conflict with our IP policy, which we're updating in parallel. We're also considering whether to add open source and software to the open access policy and we're working through how much crossover there should be between the two.
+We're using the open access policy review to align our policies. Our open access policy dates from 2010 and is owned by the Library. We joined the review group to bring an IP perspective and to make sure that the revised policy doesn't conflict with our IP policy, which we're updating in parallel. We're also considering whether to add open source and software to the open access policy and we're working through how much crossover there should be between the two.
 
 Contractual terms matter as much as policy. Even with supportive policy in place, a big part of our work is negotiating contractual terms with companies when open source outputs are expected from commercial or collaborative projects.
 
@@ -132,35 +129,27 @@ Contractual terms matter as much as policy. Even with supportive policy in place
 
 Most university TTOs in Europe acknowledge open source licensing and are actively working with it alongside conventional proprietary licensing. However, some universities may find that administration and policy-making may be slower to adapt to the trend.
 
-At ETH TTO, we implement coherent OSS policies in both the IP regulation and the Business Creation Guideline. Together, they offer a legal base that acknowledges open source licensing as a tech transfer pathway alongside the transfer of patents etc.; and as the foundation to establish Spin-offs. (We have shifted to the equity participation model without the need of additional licensing for OSS.)
+At ETH TTO, we implement coherent OSS policies in both the IP regulation and the Business Creation Guideline. Together, they offer a legal basis that acknowledges open source licensing as both a tech transfer pathway alongside the transfer of patents etc. and as a foundation for establishing Spin-offs. (We have shifted to the equity participation model without the need of additional licensing for OSS.)
 
-TTO is in charge of the IP policy, containing the main OSS provisions while the Library is in charge of open access policies, also touching OSS. The two teams are frequently communicating on revising relevant regulations to ensure aligned policy-making and operations. Our TTO hosted OSPO acts as the contact between the teams.
+The TTO is in charge of the IP policy, containing the main OSS provisions while the Library is in charge of open access policies, also touching OSS. The two teams frequently communicate on revising relevant regulations to ensure aligned policy-making and operations. Our OSPO (which is hosted by the TTO) acts as the contact point between the teams.
 
-## Open Source Policy Framework at ETH Zurich
+#### Open Source Policy Framework at ETH Zurich
 
-### IP and Exploitation Regulations, July 2026
-
- [IP and Exploitation Regulations](https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/440.4en.pdf), July 2026
+[IP and Exploitation Regulations](https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/440.4en.pdf), July 2026
 - Drafted and revised by TTO, with open review by the ETH community.
-- Art.2, para 1k: define open source software by referring to the OSI standard;
+- Art.2, para 1k: define open source software by referring to the OSI standard.
 - Art. 27: authorize employees to release OSS, delegate the decision rights and responsibility to the research group leader, outline the release conditions.
 
-### Equity and Licensing Policy, July 2025
-
- [Equity and Licensing Policy](https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/440.51en.pdf), July 2025
+[Equity and Licensing Policy](https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/440.51en.pdf), July 2025
 - Drafted and revised by TTO, with open review by the ETH community.
 - Art. 12: categorize software as OSS, ETH software, and mixed software; outline general licensing principles for software;
 - Art 13: recognize OSS as a foundation for establishing ETH Spin-off.
 
-### Guidelines for Research Data Management, July 2022
-
- [Guidelines for Research Data Management](https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/414.2en.pdf), July 2022
+[Guidelines for Research Data Management](https://ethz.ch/content/dam/ethz/main/eth-zurich/organisation/rechtssammlung/414.2en.pdf), July 2022
 - Maintained and supported by ETH Library.
 - Art 6: implement the FAIR principle in publishing research data and code; advocate the use of open source licenses to publish research data and code (para 4); allow exceptions based on commercial use or contractual obligations (para 3).
 
-### Open Source Software – ETH transfer | ETH Zurich, January 2026
-
- [Open Source Software – ETH transfer | ETH Zurich](https://transfer.ethz.ch/researchers/oss.html), January 2026
+[Open Source Software – ETH transfer | ETH Zurich](https://transfer.ethz.ch/researchers/oss.html), January 2026
 - Built and maintained by TTO ([ETH transfer](https://transfer.ethz.ch/), the open source working group).
 - permanent online platform to provide comprehensive guidance and support on policy, best practice, licensing management, case-by-case consulting, CLA, etc.
 
@@ -170,9 +159,6 @@ TTO is in charge of the IP policy, containing the main OSS provisions while the 
 - [Open Source Software – ETH transfer](https://transfer.ethz.ch/researchers/oss.html), ETH Zurich
 
 ## References
-
 - [Research Software Policy Collections](https://www.researchsoft.org/resource/software-policies/), Research Software Alliance (ReSA)
-
-## Contributors & Acknowledgement
 
 **A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
