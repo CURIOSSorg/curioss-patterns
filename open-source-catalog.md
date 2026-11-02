@@ -80,6 +80,7 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 - [JHU Open Source Project Catalog Submission Form](https://ospo.library.jhu.edu/services/open-source-project-catalog/oss-catalog-submission-form/)
 - [OpenSource@Stanford Project Registry](https://opensource.stanford.edu/projects-registry)
 - [Open Source Software @ Syracuse](https://opensource.syracuse.edu/open-source-software-su/)
+- [Texas-OSPO Software Catalog](https://texas-opensource.org/software-catalog/)
 
 ### Related Patterns
 
