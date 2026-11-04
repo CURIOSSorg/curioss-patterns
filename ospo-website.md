@@ -115,7 +115,7 @@ The OSPO itself benefits from:
 - [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 - [UT-OSPO](https://opensource.utexas.edu/) , University of Texas at Austin
 - [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
-- [Vermont Research Open Source Program Office](https://verso.w3.uvm.edu/), (VERSO), University of Vermont
+- [Vermont Research Open Source Program Office](https://www.uvm.edu/verso), (VERSO), University of Vermont
 
 ### Related Patterns
 

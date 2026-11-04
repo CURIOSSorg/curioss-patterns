@@ -122,7 +122,7 @@ Project mentors and Data Science Institute staff are also asked to share opportu
 - [Open Source with SLU, Saint Louis University](https://oss-slu.github.io/)
 - [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
 - [UW-Madison Open Source Program Office](https://ospo.wisc.edu/)
-- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso.w3.uvm.edu/)
+- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://www.uvm.edu/verso)
 
 ## References
 
