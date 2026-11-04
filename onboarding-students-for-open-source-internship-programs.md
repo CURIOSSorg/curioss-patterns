@@ -128,9 +128,9 @@ A key insight from our experience is that onboarding is most effective when it c
 ## Related Patterns
 
 - [Advertise for Open Source Interns](./advertise-for-open-source-interns.md)
-- [Open Research Community Accelerator (ORCA)](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-research-community-accelerator.md)
-- [Open Source Capstone Course](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
-- [Onboarding Graduate Leads for Open Source Internship Programs](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
+- [Open Research Community Accelerator (ORCA)](./open-research-community-accelerator.md)
+- [Open Source Capstone Course](./open-source-capstone-course.md)
+- [Onboarding Graduate Leads for Open Source Internship Programs](./onboarding-graduate-leads-for-open-source-internship-programs.md)
 - [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
 - [Sourcing Projects for Open Source Internships](./sourcing-projects-for-open-source-internships.md)
 
