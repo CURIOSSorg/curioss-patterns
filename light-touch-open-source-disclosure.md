@@ -37,7 +37,7 @@ work includes open source software.
 -   The TTO or OSPO may not own the institutional IP policy.
 -   A single short form may need to work across very different disciplines and output types (e.g. biomedical projects, software,
     datasets and know-how).
--   TTO colleagues may not be fully aware of the importance or value oposition of open source (see [Integrating OSS into Institutional Software pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)
+-   TTO colleagues may not be fully aware of the importance or value oposition of open source see [Integrating OSS into Institutional Software pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)
 
 ## Solution
 
