@@ -155,7 +155,7 @@ This multi-source approach ensures that the full range of student contributions,
 
 - [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/)
 - [Open Source with SLU Student Program](https://oss-slu.github.io/programs/oss)
-- [VERSO ORCA Program](https://www.uvm.edu/verso/open-community-research-accelerator-orca)
+- [VERSO ORCA Program](https://verso-uvm.github.io/ORCA/)
 - [ORCA Program Wiki, University of Vermont](https://github.com/VERSO-UVM/ORCA/wiki)
 
 ## Related Patterns
