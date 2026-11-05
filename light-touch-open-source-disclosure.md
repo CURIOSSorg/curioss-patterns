@@ -51,8 +51,7 @@ work includes open source software.
     datasets and know-how).
 -   TTO colleagues may not be fully aware of the importance or value
     proposition of open source (see [Integrating OSS into Institutional
-    Software
-    Pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)).
+    Software pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)
 
 ## Solution
 
@@ -95,7 +94,8 @@ researcher, for example:
 Where the conversation shows the output is significant software, follow
 up with a more detailed software disclosure or a list of dependencies
 and licenses. See [Disclosing Open Source in Software Disclosure
-Forms](#) for a more comprehensive approach.
+Forms](#[Open.Source.Disclosure.Patterns.docx](https://github.com/user-attachments/files/34432291/Open.Source.Disclosure.Patterns.docx)
+) for a more comprehensive approach.
 
 ### Build the case over time
 
@@ -150,9 +150,9 @@ the same purpose.
 
 ## References
 
-## Related Patterns
+### Related Patterns
 
--   Disclosing Open Source in Software Disclosure Forms
+-   [Disclosing Open Source in Software Disclosure Forms](./light-touch-open-source-disclosure.md)
 -   [Integrating OSS into Institutional Software
     Pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)
 
@@ -166,9 +166,7 @@ the same purpose.
     (ISGlobal)
 -   Jacek Plucinski --- Université du Luxembourg
 
-## A Note on AI Use
-
-This content was drafted with the help of AI. As a small organization,
+**A note on AI use:** This content was drafted with the help of AI. As a small organization,
 AI tools help us turn rich conversations into written resources with
 less effort---meaning we can offer more to the community. As always,
 there were plenty of human eyes reviewing, editing and improving the
