@@ -117,7 +117,7 @@ A key insight from our experience is that onboarding is most effective when it c
 
 - [Open Source with SLU, Saint Louis University](https://oss-slu.github.io)
 - [The George Washington University Open Source Program Office (GW OSPO)](https://ospo.gwu.edu/)
-- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso.w3.uvm.edu)
+- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://www.uvm.edu/verso)
 
 ## References
 

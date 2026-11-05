@@ -84,7 +84,7 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 - [UC Davis OSPO](https://ucospo.net/davis/), University of California Davis, [UC OSPO Network](https://ucospo.net/)  
 - [UC Santa Cruz OSPO](https://ucsc-ospo.github.io/), University of California Santa Cruz, [UC OSPO Network](https://ucospo.net/)  
 - [UT-OSPO](https://opensource.utexas.edu/), The University of Texas at Austin
-- [Vermont Research Open Source Program Office](https://verso.w3.uvm.edu/) (VERSO), University of Vermont
+- [Vermont Research Open Source Program Office](https://www.uvm.edu/verso) (VERSO), University of Vermont
 
 ## References
 
@@ -93,7 +93,6 @@ Most of our consultations come from internal referrals or the Tech Transfer Offi
 - Scroll to the bottom of [this page](https://opensource.stanford.edu/) to request a consultation with OpenSource@Stanford.
 - [Booking form Consultation services](https://opensource.utexas.edu/connect) offered by the UT-OSPO.
 - [Consultation booking form](https://outlook.office365.com/book/UTOSPOOpenSourceSoftwareConsultation@utexas.onmicrosoft.com/) for the UT-OSPO.
-- Information about [Consultations and other services](https://verso.w3.uvm.edu/services/) offered by VERSO OSPO.
 - [Consultation template for projects](https://www.google.com/url?q=https://docs.google.com/presentation/d/1ybyObRt8XOlrjK-CgCXBPImryWV-b4M9_OIfyAbUwo8/edit?usp%3Dsharing&sa=D&source=docs&ust=1746004597188190&usg=AOvVaw1juIFcUqNZPBiGZcWgF3eL) used by Carnegie Mellon University OSPO.
 
 ### Related Patterns

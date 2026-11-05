@@ -141,7 +141,7 @@ Researchers looking for student talent tend to fall into two groups: tenure-trac
 - [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
 - [University of Texas at Austin OSPO (UTAustin-OSPO)](https://opensource.utexas.edu/), [Texas OSPO](https://texas-opensource.org/)
 - [UW-Madison Open Source Program Office](https://ospo.wisc.edu/)
-- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso-uvm.github.io/ORCA/)
+- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://www.uvm.edu/verso)
 
 ## References
 

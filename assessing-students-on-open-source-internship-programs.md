@@ -149,13 +149,13 @@ This multi-source approach ensures that the full range of student contributions,
 - [CMU Open Source Program Office, Carnegie Mellon University](https://www.library.cmu.edu/services/ospo)
 - [Georgia Tech Open Source Program Office, Georgia Institute of Technology](https://ospo.cc.gatech.edu)
 - [Open Source with SLU, Saint Louis University](https://oss-slu.github.io)
-- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso.w3.uvm.edu)
+- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://www.uvm.edu/verso)
 
 ## References
 
 - [Georgia Tech OSPO Virtual Summer Internship Program](https://ospo.cc.gatech.edu/vsip/)
 - [Open Source with SLU Student Program](https://oss-slu.github.io/programs/oss)
-- [VERSO ORCA Program](https://verso.w3.uvm.edu/orca/)
+- [VERSO ORCA Program](https://verso-uvm.github.io/ORCA/)
 - [ORCA Program Wiki, University of Vermont](https://github.com/VERSO-UVM/ORCA/wiki)
 
 ## Related Patterns

@@ -113,7 +113,7 @@ We’ve also developed a dedicated handbook on mentoring for tech leads to suppo
 
 ### Additional Learning from the University of Vermont VERSO Open Source Program Office
 
-The VERSO Open Source Program Office at the University of Vermont developed a structured onboarding process for team leads in our [Open Research Community Accelerator(ORCA)](https://verso.w3.uvm.edu/orca/) program, recognising that the transition to a leadership role requires dedicated support beyond standard program induction.
+The VERSO Open Source Program Office at the University of Vermont developed a structured onboarding process for team leads in our [Open Research Community Accelerator(ORCA)](https://verso-uvm.github.io/ORCA/) program, recognising that the transition to a leadership role requires dedicated support beyond standard program induction.
 
 Our onboarding materials for team leaders cover a range of practical activities designed to help leads adjust to their new role, including guidance on how to support team members; manage stakeholder relationships; and navigate the specific challenges of leading open source research translation projects. .
 
@@ -122,7 +122,7 @@ A key insight from our experience is the importance of creating spaces where lea
 ## Known Instances
 
 - [Open Source with SLU, Saint Louis University](https://oss-slu.github.io)
-- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://verso.w3.uvm.edu)
+- [Vermont Research Open Source Program Office (VERSO), University of Vermont](https://www.uvm.edu/verso)
 
 ## References
 

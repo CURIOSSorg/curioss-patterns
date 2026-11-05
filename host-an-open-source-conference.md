@@ -151,7 +151,7 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 - [Open Source Lab](https://osuosl.org/), Oregon State University
 - [SnT Tech Transfer Office](https://www.uni.lu/snt-en/),  Université du Luxembourg
 - [UCSC OSPO](https://ucsc-ospo.github.io/), University of California, Santa Cruz, [UC OSPO Network](https://ucospo.net)
-- [VERSO OSPO](https://verso.w3.uvm.edu/), University of Vermont
+- [VERSO OSPO](https://www.uvm.edu/verso), University of Vermont
 - [UW-Madison Open Source Program Office](https://ospo.wisc.edu/), Data Science Institute, University of Wisconsin-Madison
 
 ## References
@@ -165,7 +165,7 @@ We also used [VolunteerSignup](https://volunteersignup.org/) which is free for n
 - [Sustainable Software in Academia 2024](https://ssecenter.cc.gatech.edu/georgia-tech-scientific-software-2024-workshop/)
 - [University of California Open Summit (UC Open) 2025](https://ucospo.net/events/uc-open-4-2025/)
 - [Johns Hopkins University, Free and Open Source Project Fund Summative Event](https://ospo.library.jhu.edu/services/free-and-open-source-software-project-fund-fossprof/fossprof-summative-event/)
-- [University of Vermont Open Science Summit](https://verso.w3.uvm.edu/data-open-science-summit/)
+- [University of Vermont Open Science Summit](https://www.uvm.edu/verso/conferences)
 
 ### Academic Conference Planning Resources
 
