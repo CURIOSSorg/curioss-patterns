@@ -36,8 +36,7 @@ or commercialization team, that uses a general invention, idea or IP
 disclosure form rather than a dedicated software disclosure form.
 
 An OSPO, open source champion or TTO staff member is available to follow
-up with researchers who indicate in their initial disclosure that their
-work includes open source software.
+up with researchers who indicate that their work includes open source software.
 
 ## Forces
 
@@ -50,9 +49,7 @@ work includes open source software.
     disciplines and output types (e.g. biomedical projects, software,
     datasets and know-how).
 -   TTO colleagues may not be fully aware of the importance or value
-    proposition of open source (see [Integrating OSS into Institutional
-    Software
-    Pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)).
+    proposition of open source (see [Integrating OSS into Institutional Software Pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)).
 
 ## Solution
 
@@ -110,7 +107,7 @@ significant burden for researchers or requiring changes to institutional
 policy.
 
 The follow-up meeting gives the TTO the detail it needs to identify
-licensing issues early, and over time the institution builds evidence
+licensing issues early, and over time, the institution builds evidence
 that can support a more comprehensive approach.
 
 ## Additional Learning from ISGlobal
