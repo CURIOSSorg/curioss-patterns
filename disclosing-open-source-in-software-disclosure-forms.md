@@ -16,8 +16,7 @@ authors:
 
 Use a dedicated software disclosure form that asks researchers to list
 all third-party and open source software that their work depends on,
-together with licenses. This enables the Technology Transfer Office
-(TTO) to identify a basic software bill of materials (SBOM).
+together with licenses. This enables the institution to identify a basic software bill of materials (SBOM).
 
 ## Problem / Challenge
 
@@ -29,8 +28,8 @@ together with licenses. This enables the Technology Transfer Office
     particularly the open source it depends on, may not be fully
     referenced, or may not be named at all.
 -   When third-party open source components and their licenses are not
-    known at the outset, TTOs can discover licensing conflicts late in
-    the process---after critical decisions about release, licensing and
+    known at the outset, Tech Transfer Offices (TTOs) can discover licensing conflicts late in
+    the process - after critical decisions about release, licensing and
     commercialization have already been made.
 -   Institutions have little hard data on how much of their research
     output uses or produces open source, which makes it harder to plan
@@ -43,7 +42,7 @@ A university or research institution with a Technology Transfer Office
 disclosures of research outputs from researchers.
 
 An OSPO, open source champion or TTO staff member is in place who
-understands, and has the capacity to monitor, the open source disclosed
+understands the context for open source disclosed
 within the institution's commercialization and translation pathways.
 
 ## Forces
@@ -91,7 +90,7 @@ The solution below outlines some core activities to consider.
 
 -   Ask researchers to list all third-party software, libraries and
     dependencies they have used, together with their licenses. In
-    effect, this gives the TTO a basic SBOM.
+    effect, this provides a basic SBOM.
 -   Where researchers can generate an SBOM with a tool, accept it in
     place of a manually completed list.
 
@@ -117,9 +116,8 @@ inform decisions about release and commercialization routes.
 
 ### Use the information for monitoring
 
-Disclosed dependency lists and repository locations can help the TTO or
-OSPO distinguish between internal development and code that has already
-been released publicly, and build a better picture of open source
+Disclosed dependency lists and repository locations can help the institution to distinguish between internal development and code that has already
+been released publicly, and to build a better picture of open source
 activity across the institution.
 
 ### Review and update regularly
@@ -140,7 +138,7 @@ builds up a clearer picture of how open source is used in its research.
 ## Additional Learning from Trinity College Dublin
 
 Our TTO has a dedicated software disclosure form, which, as far as we
-know, is not standard practice across tech transfer offices.
+know, is not standard practice across Tech Transfer offices.
 
 Our software disclosure form is lighter than our invention disclosure
 form (IDF). We sometimes ask researchers to complete both, with the two
@@ -154,7 +152,7 @@ part of their disclosure.
 We plan to update our software disclosure form over time.
 
 Our current IDF can be too STEM-heavy for researchers in arts,
-humanities and social sciences. We are planning to work with researchers
+humanities and social sciences. We're planning to work with researchers
 to develop a 'softer' innovation disclosure form that would also capture
 outputs such as teaching materials, where appropriate.
 
