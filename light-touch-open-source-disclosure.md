@@ -66,8 +66,7 @@ Keep a short list of open source questions to work through with the researcher, 
 
 ### Escalate where needed
 
-Where the conversation shows the output is significant software, follow up with a more detailed software disclosure or a list of dependencies and licenses. See [Disclosing Open Source in Software Disclosure
-Forms](https://curioss.org/patterns/disclosing-open-source-in-software-disclosure-forms/) for a more comprehensive approach.
+Where the conversation shows the output is significant software, follow up with a more detailed software disclosure or a list of dependencies and licenses. See [Open Source Software Disclosure Form](https://curioss.org/patterns/open-source-software-disclosure-form/) for a more comprehensive approach.
 
 ### Build the case over time
 
@@ -106,7 +105,7 @@ For us, it does not need to be labelled as a software disclosure form: a general
 
 ### Related Patterns
 
--   [Disclosing Open Source in Software Disclosure Forms](https://curioss.org/patterns/disclosing-open-source-in-software-disclosure-forms/)
+-   [Open Source Software Disclosure Form](https://curioss.org/patterns/open-source-software-disclosure-form/)
 -   [Integrating OSS into Institutional Software Pathways](https://curioss.org/patterns/integrating-oss-into-institutional-software-pathways/)
 
 ## Contributors & Acknowledgements
