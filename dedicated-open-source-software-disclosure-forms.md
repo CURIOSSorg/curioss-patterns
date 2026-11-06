@@ -10,7 +10,7 @@ authors:
   - jacek-plucinski
   
 ---
-# Dedicated Software Disclosure Form
+# Dedicated Open Source Software Disclosure Form
 
 ## Pattern Summary
 
