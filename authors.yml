@@ -9,6 +9,10 @@
 #   orcid       (optional) Your ORCID iD, just the digits like 0000-0001-2345-6789.
 #   affiliation (optional) Your institution or organisation.
 
+amber-budden:
+  name: Amber Budden
+  orcid: 0000-0003-2885-3980
+
 aoife-tierney: 
   name: Aoife Tierney
   orcid: 0009-0009-8699-7043
@@ -50,6 +54,11 @@ ciara-flanagan:
 clara-morella-teixidor:
  name: Clara Morella Teixidor
  affiliation: Barcelona Institute for Global Health (ISGlobal)
+
+clare-dillon:
+  name: Clare Dillon
+  orcid: 0009-0008-6205-0296
+  affiliation: CURIOSS
 
 collin-capano:
  name: Collin Capano
@@ -135,6 +144,9 @@ mia-diewald:
   orcid: 0009-0005-8123-1832
   affiliation: George Washington University
 
+michael-rossetti:
+  name: Michael Rossetti
+
 michael-shensky:
   name: Michael Shensky
   affiliation: University of Texas at Austin
@@ -162,6 +174,10 @@ rosemary-pauley:
   orcid: 0009-0008-9354-4301
   affiliation: George Washington University
 
+russell-poldrack:
+  name: Russell Poldrack
+  orcid: 0000-0001-6755-0259
+
 sayeed-choudhury:
   name: Sayeed Choudhury
   orcid: 0000-0003-2891-0543
@@ -171,6 +187,10 @@ stephanie-lieggi:
   name: Stephanie Lieggi
   orcid: 0009-0000-5647-6540
   affiliation: University of California Santa Cruz
+
+stephen-walli:
+  name: Stephen Walli
+  affiliation: Microsoft
 
 sunil-shah:
   name: Sunil Shah

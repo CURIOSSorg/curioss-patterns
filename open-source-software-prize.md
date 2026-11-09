@@ -5,6 +5,13 @@ tags:
   - Open Source Discovery
   - Promoting Best Practices
   - Rewards & Recognition
+authors:
+  - zach-chandler
+  - clare-dillon
+  - ciara-flanagan
+  - russell-poldrack
+  - francesca-vera
+  - david-lippert
 ---
 # Open Source Software Prize
 
@@ -103,11 +110,4 @@ The open source best practices criterion of the scoring rubric can be used as a 
 - [https://opensource.stanford.edu/projects-registry](https://opensource.stanford.edu/projects-registry)
 - [Pattern: Open Source Project Catalog](https://docs.google.com/document/d/1FSkp38gLwZoKAc2oLBMD56EJsijCsNKdCNaoaadRtTc/edit?usp=sharing)
 
-## Contributor(s) & Acknowledgment
-
-- Zach Chandler [https://orcid.org/0000-0003-2402-9839](https://orcid.org/0000-0003-2402-9839)
-- Clare Dillon [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
-- Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)
-- Russell Poldrack [https://orcid.org/0000-0001-6755-0259](https://orcid.org/0000-0001-6755-0259)
-- Francesca Vera [https://orcid.org/0000-0001-8791-3854](https://orcid.org/0000-0001-8791-3854)
-- David Lippert [https://orcid.org/0009-0003-6444-9595](https://orcid.org/0009-0003-6444-9595)
+## Contributors & Acknowledgement

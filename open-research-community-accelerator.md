@@ -4,6 +4,10 @@ tags:
   - Open Source Development
   - Open Source Sustainability
   - Working with Tech Transfer / External Partners
+authors:
+  - clare-dillon
+  - ciara-flanagan
+  - kendall-fortney
 ---
 # Open Research Community Accelerator (ORCA)
 
@@ -128,11 +132,6 @@ The program has also led to several speaking engagements about open source, rese
 - [Streamlining Recruitment for Open Source Internships](./streamlining-recruitment-for-open-source-internships.md)
 - [Structuring Graduate Student Work](./structuring-graduate-student-work.md)
 
-## Contributor(s) & Acknowledgment
-
-- Clare Dillon (CURIOSS)  
-- Ciara Flanagan (CURIOSS) [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
-- Kendall Fortney (University of Vermont) [https://orcid.org/0009-0006-3898-0771](https://orcid.org/0009-0006-3898-0771)
+## Contributors & Acknowledgement
 
 **A note on AI use:** In addition to working from Deep Dive transcripts, capturing learning from our community discussions and other patterns from our members, this pattern was drafted with the help of AI. As a small organization, tools like this help us turn rich conversations into written resources without losing the ideas along the way. As always, there were plenty of human eyes reviewing, editing and improving the content before this pattern made it to publication. Thanks go to our community for the insights. If you do spot any errors, please let us know so we can correct them!
-  

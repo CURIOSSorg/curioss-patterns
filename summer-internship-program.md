@@ -2,6 +2,14 @@
 tags:
   - Education & Skills
   - Working with Tech Transfer / External Partners
+authors:
+  - sayeed-choudhury
+  - clare-dillon
+  - ciara-flanagan
+  - tom-hughes
+  - fang-liu
+  - jeffrey-young
+  - stephen-walli
 ---
 # Summer Internship Program  
 
@@ -146,15 +154,7 @@ We also recommend documenting outcomes and getting feedback from participants. W
 - [Open Source Capstone Course](./open-source-capstone-course.md)
 - [Student Showcase Sessions at OSPO Events](./student-showcase-sessions-at-ospo-events.md)
 
-## Contributor(s) & Acknowledgment
-
-- Sayeed Choudhury (Carnegie Mellon University)
-- Clare Dillon (CURIOSS) [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
-- Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
-- Tom Hughes (Carnegie Mellon University) <https://orcid.org/0009-0008-7516-3687>  
-- Fang Liu (Georgia Institute of Technology) <https://orcid.org/0000-0002-3383-2191>  
-- Jeffrey Young (Georgia Institute of Technology) <https://orcid.org/0000-0001-9841-4057>
-- Stephen Walli (Microsoft)  
+## Contributors & Acknowledgement
 
 ### Thanks to
 

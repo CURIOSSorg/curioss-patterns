@@ -3,6 +3,12 @@ tags:
   - Awareness
   - Community Building
   - Open Source Discovery
+authors:
+  - amber-budden
+  - clare-dillon
+  - ciara-flanagan
+  - allison-kittinger
+  - virginia-scarlett
 ---
 # Open Source Survey
 
@@ -89,14 +95,6 @@ We conducted a survey across the UC system and ultimately received about 300 res
 - [OSPO Mailing List](./ospo-mailing-list.md)
 - [Publish an OSPO Newsletter](./publish-an-ospo-newsletter.md)
 
-## Contributor(s) & Acknowledgment
-
-In alphabetical order:
-
-- Amber Budden [https://orcid.org/0000-0003-2885-3980](https://orcid.org/0000-0003-2885-3980)
-- Clare Dillon [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
-- Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)
-- Allison Kittinger [https://orcid.org/0000-0002-3104-5995](https://orcid.org/0000-0002-3104-5995)
-- Virginia Scarlett [https://orcid.org/0000-0002-4156-2849](https://orcid.org/0000-0002-4156-2849)
+## Contributors & Acknowledgement
 
 The UW-Madison Open Source Survey was inspired by a [needs assessment survey](https://github.com/ds3-nyu/Needs-Assessment-Survey) conducted by the NYU Science and Software Services (DS3), an open source survey conducted by UW-Madison DSI Director Kyle Cranmer, which was produced at the University of Washington.
