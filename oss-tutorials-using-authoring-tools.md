@@ -85,7 +85,7 @@ An exciting benefit of these interactive and publicly available educational tuto
 
 ## Contributors & Acknowledgement
 
-Lorena Barba contributed the OSS Licensing Tutorial and Jupyter Book template support. Clare Dillon added the markdown to the pattern repo. David Lippert contributed the design pattern and FIRE tutorial. Michael Rossetti contributed the Jupyter Book template.
+Lorena Barba added the OSS Licensing Tutorial and helped with Jupyter Book template support. David Lippert contributed the design pattern and FIRE tutorial. Michael Rossetti contributed to the Jupyter Book template.
 
 ## Additional Notes / Related Inspiration
 
