@@ -2,6 +2,14 @@
 tags:
   - Community Building
   - Open Source Discovery
+authors:
+  - bill-branan
+  - zach-chandler
+  - clare-dillon
+  - ciara-flanagan
+  - megan-forbes
+  - fang-liu
+  - jeffrey-young
 ---
 # Open Source Catalog
 
@@ -88,12 +96,4 @@ One of the objectives of the university-wide ‘[Open Source Software Prize](htt
 - [Open Source Software Prize](./open-source-software-prize.md)
 - [OSPO Website](./ospo-website.md)
 
-## Author(s) & Acknowledgement
-
-- Bill Branan [https://orcid.org/0000-0002-4735-6624](https://orcid.org/0000-0002-4735-6624)  
-- Zach Chandler [https://orcid.org/0000-0003-2402-9839](https://orcid.org/0000-0003-2402-9839)
-- Clare Dillon (CURIOSS) [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
-- Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)
-- Megan Forbes [https://orcid.org/0000-0002-2611-1441](https://orcid.org/0000-0002-2611-1441)  
-- Fang Liu [https://orcid.org/0000-0002-3383-2191](https://orcid.org/0000-0002-3383-2191)  
-- Jeffrey Young [https://orcid.org/0000-0001-9841-4057](https://orcid.org/0000-0001-9841-4057)
+## Contributors & Acknowledgement

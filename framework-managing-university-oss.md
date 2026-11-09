@@ -3,6 +3,8 @@ tags:
   - Advocacy, Governance & Policy
   - Awareness
   - Promoting Best Practices
+authors:
+  - clare-dillon
 ---
 # Framework for Managing University OSS
 
@@ -55,6 +57,4 @@ Lero \- Science Foundation Ireland’s Research Centre for Software. Spans 12 Ir
 
 [https://doi.org/10.5281/zenodo.14392732](https://doi.org/10.5281/zenodo.14392732)
 
-## Contributor(s) & Acknowledgment
-
-Clare Dillon, Lero
+## Contributors & Acknowledgement

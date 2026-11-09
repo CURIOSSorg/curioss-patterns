@@ -4,6 +4,10 @@ tags:
   - Awareness
   - Demonstrating value as an Academic OSPO
   - Promoting Best Practices
+authors:
+  - collin-capano
+  - clare-dillon
+  - ciara-flanagan
 ---
 # Lunch and Learn
 
@@ -76,10 +80,4 @@ Our investigation and the faculty luncheon resulted in a formal report from the 
 
 [Open Data Faculty Luncheon](https://opensource.syracuse.edu/events/open-data-faculty-luncheon/) \- information and slides from the lunch-and-learn session held at Syracuse University
 
-## Contributor(s) & Acknowledgement
-
-Collin Capano, Syracuse University, [https://orcid.org/0000-0002-0355-5998](https://orcid.org/0000-0002-0355-5998)
-
-Clare Dillon, CURIOSS, [https://orcid.org/0009-0008-6205-0296](https://orcid.org/0009-0008-6205-0296)
-
-Ciara Flanagan, [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)
+## Contributors & Acknowledgement

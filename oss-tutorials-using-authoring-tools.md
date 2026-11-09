@@ -2,6 +2,12 @@
 tags:
   - Education & Skills
   - Tools & Infrastructure
+authors:
+  - lorena-barba
+  - clare-dillon
+  - ciara-flanagan
+  - david-lippert
+  - michael-rossetti
 ---
 # OSS Tutorials using Authoring Tools
 
@@ -77,13 +83,9 @@ An exciting benefit of these interactive and publicly available educational tuto
 - [Set Your Money on FIRE tutorials](https://david-lippert.github.io/fire/intro.html)
 - [2024 URSSI Summer School resources](https://github.com/si2-urssi/summerschool-June2024)  
 
-## Contributor(s) & Acknowledgment
+## Contributors & Acknowledgement
 
-Lorena Barba \- OSS Licensing Tutorial and Jupyter Book template support  
-Clare Dillon \- added markdown to pattern repo  
-Ciara Flanagan [https://orcid.org/0009-0005-3153-7673](https://orcid.org/0009-0005-3153-7673)  
-David Lippert \- Design pattern and FIRE tutorial  
-Michael Rossetti \- Jupyter Book Template
+Lorena Barba added the OSS Licensing Tutorial and helped with Jupyter Book template support. David Lippert contributed the design pattern and FIRE tutorial. Michael Rossetti contributed to the Jupyter Book template.
 
 ## Additional Notes / Related Inspiration
 

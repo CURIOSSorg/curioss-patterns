@@ -3,6 +3,9 @@ tags:
   - Advocacy, Governance & Policy
   - Promoting Best Practices
   - Working with Tech Transfer / External Partners
+authors:
+  - ying-wang
+  - ciara-flanagan
 ---
 # Integrating OSS into Institutional Software Pathways
 
@@ -100,6 +103,3 @@ Our TTO colleagues found this process particularly useful and we have been able 
 
 
 ## Contributors & Acknowledgement
-
-- Ying Wang, ETH Zürich
-- Ciara Flanagan, CURIOSS, <https://orcid.org/0009-0005-3153-7673>
