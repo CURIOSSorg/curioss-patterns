@@ -93,7 +93,13 @@ Our TTO colleagues found this process particularly useful and we have been able 
 
 ## References
 
+### Related Patterns
+
+- [Light Touch Open Source Disclosure](https://curioss.org/patterns/light-touch-open-source-disclosure/)
+- [Open Source Software Disclosure Form](https://curioss.org/patterns/open-source-software-disclosure-form/)
+
+
 ## Contributors & Acknowledgement
 
-Ying Wang, ETH Zürich
-Ciara Flanagan, <https://orcid.org/0009-0005-3153-7673>
+- Ying Wang, ETH Zürich
+- Ciara Flanagan, CURIOSS, <https://orcid.org/0009-0005-3153-7673>
