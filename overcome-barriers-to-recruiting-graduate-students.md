@@ -70,7 +70,7 @@ Many graduate students are keen to gain real-world experience alongside their st
 
 - [Georgia Tech Open Source Program Office](https://ospo.cc.gatech.edu/)
 - [GW Open Source Program Office, The George Washington University](https://ospo.gwu.edu/)
-- [Innovation and Tech Transfer, ISGlobal - Barcelona Institute for Global Health](https://sustainoss.org/academic-map/research-institutions/isglobal-barcelona-institute-for-global-health.html)
+- [Innovation and Tech Transfer, ISGlobal - Barcelona Institute for Global Health](https://curioss.org/academic-map/research-institutions/isglobal-barcelona-institute-for-global-health.html)
 - [Johns Hopkins University Open Source Programs Office](https://ospo.library.jhu.edu/)
 - [Open Source with SLU, Saint Louis University](https://oss-slu.github.io/)
 - [Syracuse University Open Source Program Office](https://opensource.syracuse.edu/)
